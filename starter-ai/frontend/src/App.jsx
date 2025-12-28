@@ -1,5 +1,6 @@
 import { useState, useRef, useEffect } from 'react'
 import { Send, Bot, User, Sparkles, Loader2 } from 'lucide-react'
+import Markdown from './components/markdown/Markdown'
 
 function App() {
     const [input, setInput] = useState('')
@@ -124,7 +125,7 @@ function App() {
                                 {msg.role === 'assistant' ? <Bot size={20} /> : <User size={20} />}
                             </div>
                             <div className="message-bubble">
-                                {msg.content}
+                                {msg.role === 'assistant' ? <Markdown text={msg.content} /> : msg.content}
                             </div>
                         </div>
                     ))}
