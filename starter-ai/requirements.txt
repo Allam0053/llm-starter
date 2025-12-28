@@ -1,0 +1,21 @@
+# Web & API
+fastapi
+uvicorn[standard]
+pydantic-settings
+python-multipart
+
+# AI Framework
+langchain
+langchain-community
+langchain-ollama
+langchain-openai
+langchain-google-genai
+
+# Vector DBs
+langchain-chroma
+langchain-postgres
+psycopg[binary]
+
+# Utils & Logging
+python-json-logger
+python-dotenv

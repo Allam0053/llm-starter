@@ -1,0 +1,18 @@
+services:
+  # PostgreSQL with Vector Support
+  postgres:
+    image: pgvector/pgvector:pg16
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER=langchain
+      - POSTGRES_PASSWORD=langchain
+      - POSTGRES_DB=vectors
+
+  # Local LLM Runner
+  ollama:
+    image: ollama/ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ./ollama_data:/root/.ollama
