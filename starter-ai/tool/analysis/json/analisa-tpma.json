@@ -1,0 +1,1326 @@
+{
+  "id": 76,
+  "page_id": 129,
+  "image_url": "https://api.midascuan.id/storage/resources/tpma_logo.webp",
+  "code": "TPMA",
+  "buy_price": 0,
+  "current_price": 0,
+  "valuation": 0,
+  "margin_of_safety": 0,
+  "created_at": "2024-08-14T05:51:34.000000Z",
+  "updated_at": "2025-12-29T07:00:05.000000Z",
+  "status": "published",
+  "created_by": {
+    "id": 2,
+    "fullname": "Midas Super Admin",
+    "email": "admin@midascuan.id",
+    "role": "superadmin",
+    "has_link_product": 0,
+    "ip_address": null,
+    "last_login_ip": null,
+    "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+    "member_active_roles": [
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ],
+    "member_roles": [
+      {
+        "id": 109970,
+        "user_id": 2,
+        "role_id": 1,
+        "expired_date": "2025-02-27 00:45:00",
+        "created_at": "2023-05-25T18:59:06.000000Z",
+        "updated_at": "2025-02-20T15:45:14.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 1,
+          "title": "Portofolio",
+          "role": "portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:07:38.000000Z",
+          "updated_at": "2024-08-16T09:56:18.000000Z"
+        }
+      },
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ]
+  },
+  "updated_by": null,
+  "deleted_at": null,
+  "deleted_by": null,
+  "page": {
+    "id": 129,
+    "title": "Analisa TPMA",
+    "slug": "analisa-tpma",
+    "type": "analysis",
+    "status": "published",
+    "content_html": "\"\"",
+    "content_json": [
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Analisa TPMA\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "post-detail",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 flex flex-col md:flex-row justify-center gap-2 mt-1 mb-1 border-t border-b-2 border-black p-1\">\n        <p class=\"my-auto\">\n            <i class=\"fa fa-user-circle my-auto\"></i> \n\tNixon Albert\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-calendar my-auto\"></i> \n\tAgustus 14, 2024\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-tags my-auto\"></i> \n\tTPMA\n        </p>\n\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 20,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        COMPANY BRIEF \n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "bullet",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \nTPMA adalah perusahaan logistik perkapalan yang mengangkut komoditas curah kering mayoritas batubara dan woodchips. \n\nDalam menjalankan operasinya TPMA mempunyai 3 jenis kapal yaitu kapal tongkang, kapal tunda, dan floating crane. TPMA mempunyai :\n          <ol style=\"list-style-type: disc;padding-left:50px\">\n            <li> \n          41 Kapal Tunda\n            </li>\n            <li> \n          35 Kapal Tongkang\n            </li>\n            <li> \n          3 Floating Crane \n            </li>\n          </ol>\n\t  </p><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        BUSINESS MODEL AND SUPPLY CHAIN\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "bullet",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \nFloating Crane adalah alat untuk mengangkut komoditas yang diangkut dari tongkang ke kapal induk (mother vessel). Sederhananya alat untuk memindahkan kargo dari satu kapal ke kapal lain yang biasanya lebih besar (bulk carrier). \n<br /><br />\nKapal tongkang dan tunda untuk melayani transshipment dan longtowing.\n          <ol style=\"list-style-type: disc;padding-left:50px\">\n            <li> \n          transshipment = proses pengiriman komoditas dari pelabuhan asal ke pelabuhan pusat (hub port), kemudian di hub port ini akan dilakukan pemindahan kargo ke kapal lain yang akan menuju ke pelabuhan tujuan. Sederhananya seperti transit penerbangan (dalam case ini kapal). kapal asal > hub port > tujuan akhir. \n            </li>\n            <li> \n          longtowing = jasa perkapalan untuk menarik tongkang klien, jadi TPMA menggunakan kapal tunda untuk menarik tongkang klien.\n            </li>\n          </ol>\n\t  </p><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/tpma_data_01.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 60,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "bullet",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <ol style=\"list-style-type: none;padding-left:50px\">\n            <li> \n          A = Pegangkutan Transshipment; dalam case TPMA hanya mengantar komoditas ke mother vessel untuk diekspor.\n            </li>\n            <li> \n          B = Pengangkutan Antar Pulau/ Long Towing. \n            </li>\n          </ol>\n\t  </p><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        CHECK THE PRODUCT AND TARGET MARKET \n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Dilhat dari kepemilikan kapalnya, TPMA mengangkut komoditas curah kering khususnya batubara dan sedikit woodchips. Oleh karena itu kinerja perusahaan juga pastinya akan dipengarui oleh demand dari komoditas itu sendiri khususnya batubara. \n<br /><br />\nIndustri pengangkutan batubara adalah industri yang volume driven, jadi selama produksi batubara tetap dilakukan dan dengan volume besar maka industri pasti akan berjalan baik-baik saja. Tergantung dari bagaimana perusahaan akan memperoleh kontrak nantinya. \n<br /><br />\nSeperti apabila kita lihat pada tahun 2022 dimana terjadi kenaikan harga dan demand batubara, TPMA dan perusahaan perkapalan yang mengangkut batubara lainnya juga mengalami peningkatan laba yang signifikan dibanding tahun sebelumnya. \n<br /><br />\nTetapi ini hanyalah salah satu indikator dari peningkatan demand batubara dan apabila harga batubara menurun bukan berarti industri pengangkutan batubara ini langsung menjadi jelek. Kembali lagi akan tergantung pada volume produksi batubara itu sendiri maupun komoditas yang diangkut perusahaan.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        GROWTH DRIVER / CATALYST\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Metrics yang penting untuk perusahaan perkapalan adalah jumlah komoditas yang berhasil diangkutnya. Hal ini tentu bergantung kepada kontrak pengiriman yang dilakukan dengan perusahaan batubara. \n<br /><br />\nSemakin banyak dan besar nilai kontrak maka jumlah angkutan juga akan naik dan pendapatan juga akan meningkat. Maka dari itu nanti kita akan melihat kontrak dari TPMA. \n<br /><br />\nDengan kontrak yang semakin banyak juga berarti membutuhkan kapal-kapal baru. Kita akan melihat bagaimana kepemilikan dan penambahan kapal TPMA. \n<br /><br />\nSelain itu untuk cost apabila bisa lebih efisien maka laba bersih juga akan meningkat dan nanti kita juga akan breakdown cost-cost dari perusahaan untuk melihat apakah ada probabilitas tersebut.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        MANAGEMENT \n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "bullet",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \nTPMA didirikan pada tahun 2005 pada awalnya hanya melayani jasa pengangkutan barang antar pulau. Kemudian pada tahun 2015 perusahaan mendatangkan 1 unit crane barge untuk memenuhi kebutuhan Transshipment. Mulai sejak itulah TPMA mempunyai 2 source pendapatan yaitu dari longtowing dan transshipment. \n<br /><br />\nTransshipment maksudnya :\n          <ol style=\"list-style-type: lower-alpha;padding-left:50px\">\n            <li> \n          Untuk bongkar muat aja jadi hanya menggunakan crane barge \n            </li>\n            <li> \n          Bisa menggunakan kapal tunda dan tongkang berarti bagian lain dari transshipment\n            </li>\n          </ol>\n\t  </p><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/tpma_data_02.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Sebelum membahas lebih dalam kita akan melihat sekilas struktur grup perusahaan. TPMA dimiliki 59% oleh PT Dwitunggal Perkasa Mandiri yang bergerak sebagai pemegang saham pengendali. Kemudian dimiliki oleh Standard Chartered Bank SG PvB sebesar 6%, PT Patin Resources 12%, dan sisanya masyarakat 24,27%. \n<br /><br />\nTPMA mempunyai memiliki saham di bisnis perkapalan yang cukup besar juga yaitu PT TLP (Trans Logistik Perkasa) tetapi TPMA hanya mempunyai 30% kepemilikan terhadap TLP sehingga TPMA disini bukan sebagai pemegang saham pengendali. Jadi laporan keuangan TLP tidak dikonsolidasikan ke TPMA. Melainkan hanya 30% dari ekuitas dan labanya TLP masuk sebagai akun asosiasi yang nanti akan kita bahas.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Perolehan kapal\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t kita akan cek perolehan kapal yang dilakukan TPMA untuk melihat apakah perusahaan membelinya dengan harga yang fair atau ada yang dibeli dengan harga mahal yang menguntungkan pihak-pihak di luar pemegang saham perusahaan.  \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/tpma_data_03.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 60,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t 2022 = 38 tunda 33 tongkang \n<br />\n2023 = 41 tunda 35 tongkang \n<br /><br />\nKarena ada penjualan kapal tunda dan kapal tongkang (pink) oleh TPMA yang tidak disebutkan jumlah kapalnya, kita asumsikan saja perusahaan menjual masing-masing 1 dari kapal tunda dan tongkang. \n<br /><br />\nBerarti untuk memperoleh 41 tunda dan 35 tongkang pada 2023, perusahaan perlu membeli 4 kapal tunda dan 3 kapal tongkang. \n<br /><br />\nPenambahan tunda dari 2022 - 2023 (biru) = 6,3 juta USD = 95 miliar rupiah untuk 4 kapal tunda. 24 miliar / kapal tunda\n<br /><br />\nPenambahan tongkang dari 2022 - 2023 (biru) = 7,3 juta USD = 120 miliar untuk 3 tongkang. 40 miliar / kapal tongkang. \n<br /><br />\nKemudian kita coba liat perolehan kapal secara keseluruhan.\n<br /><br />\nKapal tunda harga perolehannya 70,6 juta USD dengan 41 kapal tunda berarti Rp 28 miliar harga per kapalnya. Sedangkan kapal tongkang harga perolehannya 102 juta USD dengan 35 kapal tongkang berarti Rp 33 miliar per kapalnya. \n<br /><br />\nDari perhitungan ini sebenarnya kita tidak bisa membandingkan harganya apakah wajar atau tidak karena TPMA tidak menunjukkan kapasitas kapal yang dibelinya. \n<br /><br />\nTetapi kita bisa tahu bahwa dengan harga seperti itu, TPMA seharusnya mempunyai kapal dengan ukuran sedang (tidak jumbo seperti HAIS). Jadi untuk kapal ukuran seperti itu, harganya fair seperti yang ada di pasaran.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Pendapatan TPMA \n    </h2>\n</div><br />",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/tpma_data_04.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 60,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Pendapatan TPMA banyak dari beberapa pihak yang berkontribusi terhadap >10% pendapatan. Dari perusahaan-perusahaan ini, ada beberapa yang sudah melakukan kontrak kerjasama dengan TPMA, berikut kita lihat kontrak yang dilakukan. \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/tpma_data_04_01.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 60,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 20,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/tpma_data_04_02.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 60,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Dari sumber pendapatan TPMA, dari 2016 - 2023 yang selalu ada yaitu PT Jorong Barutama Greston (anak usaha ITMG) dan PT Korintiga Hutani. PT Borneo Indobara (anak usaha GEMS) juga merupakan salah satu yg konsisten menggunakan jasa TPMA.\n<br /><br />\nKemudian ada PT Pelayaran Bahtera Adiguna yang sempat bekerjasama dengan TPMA pada tahun 2016, kembali melakukan kontrak pada tahun 2022 yang akan selesai pada tahun 2024. \n<br /><br />\nTerakhir ada PT Dian Ciptamas Agung yang melakukan kerjasama dengan perusahaan pada tahun 2020 yang berakhir pada tahun 2025. \n<br /><br />\n<p style=\"background:#FFFFCC\">Dari jangka waktu kontraknya, kita bisa melihat beberapa langganan TPMA masa kontraknya tidak lama lagi, jadi kita perlu mencari tahu apakah perusahaan-perusahaan tersebut masih akan melakukan kerjasama dengan TPMA atau tidak. Untuk mengetahuinya sebenarnya simple, yaitu dengan melihat demand dari batubara itu sendiri. Selama demand batubara masih terus berjalan maka klien pasti akan memperpanjang kontraknya dan TPMA juga pasti akan mendapatkan klien lain di luar yang sudah dikontrak. \n</p><br />\n<p style=\"background:#FFFFCC\">\nJika kita melihat dalam 10 tahun ke belakang pun, mayoritas pelanggan TPMA ini juga merupakan pelanggan lama. Jadi selama mereka masih tetap produksi dan TPMA tetap deliver, harusnya perpanjangan kontrak bukanlah masalah.\n</p><br /><br />\nSejauh ini yang dalam proses perpanjangan kontrak adalah PT Jorong Barutama Greston (anak usaha ITMG) dan PT Pelayaran Bahtera Adhiguna.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/tpma_data_05.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 60,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t *data pendapatan segmen hanya menyediakan informasi selama 6 tahun. \n<br /><br />\nPendapatan TPMA segmennya ada dua yaitu Barging (jasa pengiriman angkutan) dan Crane Barges (jasa bongkar muat). Pendapatan utamanya yaitu barging dan secondary nya yaitu crane barges. \n<br /><br />\nPendapatan dari crane barges akan mengikuti dengan pendapatan dari barging karena ketika TPMA melakukan jasa transshipment, maka pasti akan dilakukan aktivitas bongkar muat menggunakan floating crane sehingga pendapatan dari crane barges akan menyesuaikan dengan volume angkutan dari barging. \n<br /><br />\nKita lihat ASP dari pekerjaan barging dan crane barges menunjukkan pendapatan crane barges ya segitu-segitu saja sedangkan untuk barging (jasa pengiriman) ini ada potensi untuk meningkat harga angkutan / ton nya tergantung dari siklus demand perkapalan. \n<br /><br />\nKarena batubara menjadi komoditas utama, maka akan dipengaruhi oleh permintaan batubara, apabila demand batubara naik maka akan meningkat juga demand akan jasa pengiriman perkapalan yang pada akhirnya jasa perkapalan ini bisa langka dalam fase tertentu.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        COST BREAKDOWN\n    </h2>\n</div><br/>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/tpma_data_06.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Kita breakdown COGS, cost yang paling besar ada di bahan bakar dan penyusutan. Penyusutan berarti TPMA kapalnya itu punya perusahaan sendiri, bukan dari sewa. Kalau sewa, nama akunnya itu Spot Kapal (seperti beban HAIS). Kemudian ada cost operasional pelabuhan dan gaji, terus sisanya others termasuk biaya-biaya yang porsinya kecil sehingga tidak mempengaruhi kinerja perusahaan atau bisa dianggap sebagai variable cost karena akan berpengaruh sesuai dengan kinerja perusahaan.\n<br /><br />\nJadi kemungkinan besar mengalami peningkatan ya bahan bakar dan penyusutan aja sih. Penyusutan juga bakal naik kalo kapalnya nambah jadi hal yang wajar dan bukan menjadi concern juga, palingan kita akan cek rate dari penyusutan per kapalnya aja untuk make sure persentase penyusutannya.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/tpma_data_07.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 60,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Kita coba cek rate penyusutannya pada tahun 2023. Kapal tunda mengalami penyusutan 5,4 juta USD dengan 41 kapal tunda. Sekitar 90 miliar dan per kapalnya mengalami penyusutan +/- 2,1 miliar. Kalo kita cek tadi harga perolehan kapal tunda itu 24 miliar, berarti dengan rate penyusutan seperti itu = masa manfaat 11 tahun. \n<br /><br />\nTerus untuk kapal tongkang itu penyusutannya 6,8 juta USD dengan 35 kapal tongkang. Sekitar 112 miliar dan per kapalnya mengalami penyusutan +/- 3,2 milar. Kalo kita cek tadi harga kapal tongkang itu 40 miliar, berarti dengan rate penyusutan seperti itu = masa manfaat 13 tahun.\n\t      </p>\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/tpma_data_08.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Kita lihat masa manfaat dari kapal, ternyata penilaian terhadap penyusutan ini wajar apalagi nilai terhadap penyusutan itu berbeda-beda setiap tahunnya tergantung dari kondisi kapal. Lagipula nilai penyusutan juga hanya sebagai pencatatan jadi sudah seharusnya aman dan tidak ada kerugian materil yang mempengaruhi aspek ini. \n<br /><br />\nNext kita akan bahas mengenai bahan bakar.\n\t      </p>\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/tpma_data_09.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Bahan bakar yang dipakai dipasok mayoritas dari PT Saung Berdikari Sentosa yang menyediakan BBM (Biosolar Industri dan MFO 180). MFO = Marine Fuel Oil. \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/tpma_data_10.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 60,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "bullet",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p> <br />\nKita cek persentase bahan bakar / pendapatan untuk melihat perbandingan bahan bakar yang digunakan dengan pendapatan yang dihasilkan. \n<br /><br />\nKenaikan cost bahan bakar disebabkan 2 kemungkinan :\n          <ol style=\"list-style-type: disc;padding-left:50px\">\n            <li> \n          Demand perkapalan meningkat berarti harga minyak juga meningkat\n            </li>\n            <li> \n          Demand perkapalan meningkat berarti bahan bakar yg digunakan juga akan lebih banyak\n            </li>\n          </ol>\n<br />\nTahun 2022 mengalami kenaikan yang sangat tinggi, cek berdasarkan crude oil price : \n\t  </p>\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/tpma_data_11.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 60,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Kita akan melihat perbandingan dari kenaikan pendapatan dan kenaikan cost bahan bakar. 2019 - 2020 = pendapatan menurun 16% dan begitu juga dengan cost bahan bakar 16%. \n<br /><br />\n2020 - 2021 = pendapatan hanya naik 5% sedangkan cost bahan bakar naik 30%, coba liat pada harga crude oil memang naik tinggi ya bahkan hampir 2x lipat kenaikannya. \n<br /><br />\n2021 - 2022 = pendapatan naik 49% diikuti dengan kenaikan cost bahan bakar 80%, pada tahun ini juga harga crude oil masih mengalami kenaikan yang signifikan dan mencapai harga tertinggi selama 8 tahun terakhir. \n<br /><br />\n2022 - 2023 = pendapatan naik 6% sedangkan cost bahan bakar turun 13% yang menunjukkan harga bahan bakar mengalami penurunan hingga di harga sekarang +/- 80 USD / barel. \n<br /><br />\nJadi bisa kita liat dari persentase bahan bakar / pendapatan sebelumnya bahwa terjadi kenaikan itu karena ada kenaikan harga dari bahan bakar itu sendiri dan bukan karena operasionalnya memburuk. Pada tahun 2023 mengalami perbaikan harga bahan bakar, tetapi belum kembali ke kondisi semula seperti pada tahun 2019 dan 2020 dengan rate 17%. \n<br /><br />\nTetapi sebenarnya kalau kita pahami, cost bahan bakar ini memang tidak bisa dilakukan efisiensi atau dengan kata lain memang natur dari harga bahan bakar seperti ini. Di satu sisi apabila demand perkapalan naik maka kebutuhan bahan bakar akan tinggi yang mendorong kenaikan harga bahan bakar dan di sisi lain apabila demand perkapalan turun maka pendapatan akan menurun begitu juga dengan harga bahan bakar yang menurun. Jadi bahan bakar seharusnya tidak menjadi concern kita karena memang natur dari cost bahan bakar seperti itu.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/tpma_data_12.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 60,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Selanjutnya kita akan melihat beban operasional (operating expense), disini kita bisa melihat bahwa biaya gaji dan tunjangan porsinya sangat besar dan pada tahun 2022 mengalami kenaikan yang cukup tinggi.\n<br /><br />\nTapi apabila kita compare dengan perusahaan perkapalan sejenis seperti PSSI dan HAIS, ternyata cost gaji mereka juga tinggi dan mungkin memang pada industri perkapalan sumber daya manusia yang dibayarkan lebih mahal daripada umumnya. \n<br /><br />\nSelain itu ada beban pajak yang menurut laporan diambil rate 1,2% dari pendapatan. Sisanya beban-beban kecil yang tidak terlalu mempengaruhi kinerja perusahaan seperti imbalan kerja, jamuan, jasa profesional, dan lainnya.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Cashflow\n    </h2>\n</div><br/>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/tpma_data_13.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 60,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Dari sisi cashflow kita bisa melihat perusahaan setiap tahunnya mencatat arus kas dari aktivitas operasi yang positif berarti uang yang diterimanya benar-benar ada (bukan kebanyakan piutang dan belum terima uang riil). Perusahaan juga beberapa kali menerima pinjaman tapi juga melakukan pembayaran utang, berarti perusahaan kompeten dalam mengontrol utangnya. \n<br /><br />\nSetiap tahun juga pasti membagi dividen dan tahun 2023 paling besar dari tahun-tahun sebelumnya. Penambahan aset tetap terus dilakukan dan pada tahun 2023 melakukan pembelian aset tetap yang paling besar dibandingkan tahun-tahun sebelumnya. Oleh karena itu kita akan mengecek apakah pembelian aset tetapnya ini berhubungan dengan operasional atau ada pembelian yang tidak jelas kegunaannya.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/tpma_data_14.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 60,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Untuk confirm bahwa pembelian aset tetapnya untuk mendukung operasional, kita lihat akun aset tetapnya. Mostly penambahan pada kapal tunda dan kapal tongkang sebesar 13,6 juta USD = +/-  Rp 220 miliar sesuai dengan angka pengeluaran untuk aset tetap. Berarti perusahaan benar-benar menggunakan uangnya untuk beli aset yang meningkatkan operasional (pembelian kapal). \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/tpma_data_15.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 60,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Kita lihat detail kontrak kapal yang dilakukan total sebesar +/- 30 Juta USD = +/- Rp 500 miliar. Sebesar 220 miliar sebelumnya dari cash perusahaan, terus sisanya darimana? \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/tpma_data_16.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 60,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Selain dari cash, perusahaan juga ada menerima pinjaman sebesar Rp 155 miliar (data cashflow 2024) dan juga ada penambahan utang bank yang dilakukan perusahaan dari 1,9 juta USD menjadi total 7,5 juta USD yang berarti ada penambahan utang sebesar 4,6 juta USD = +/- Rp 75 miliar. \n<br /><br />\nNah kita akan cek rate dari total utang bank jangka panjang sebesar 7,5 juta tersebut.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/tpma_data_17.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "bullet",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p> <br/>\nBunga dari pinjaman kepada bank BCA ini dipatok 7,75% - 8% per tahun. \n<br /><br />\nPinjaman 7,5 juta USD dengan bunga 8% berarti 600ribu USD per tahun atau sekitar Rp 9,9 miliar per tahunnya. Apakah perusahaan dengan potensi penambahan asetnya mampu untuk membayar bunga tersebut?\n<br /><br />\nKita akan hitung perhitungan revenue kapal-kapal tersebut, pada tahun 2023  :\n          <ol style=\"list-style-type: disc;padding-left:50px\">\n            <li> \n          35 tongkang dan 41 tunda dengan revenue 48,2 juta USD = 620 ribu USD / kapal = +/- Rp 10 miliar. \n            </li>\n            <li> \n          3 floating crane dengan revenue 18,3 juta USD = 6 juta USD / kapal = +/- Rp 99 miliar. \n            </li>\n          </ol>\n<br />\nLaba bersih perkapalan memang fluktuatif tergantung dari siklus industri -> volume pengangkutan, oleh karena itu kita akan menggunakan patokan konservatif laba bersih di angka 15%. \n<br /><br />\nBerarti laba bersih tongkang dan tunda = Rp 1,5 miliar per kapal; laba bersih floating crane = Rp 15 miliar per kapal. \n<br /><br />\nDari kontrak yang senilai 30juta USD tersebut, TPMA memesan 2 tunda, 6 tongkang, dan 1 floating crane, jadi ekpekstasi laba bersih tambahan :\n          <ol style=\"list-style-type: disc;padding-left:50px\">\n            <li> \n          2 tunda dan 6 tongkang * Rp 1,5 miliar = Rp 12 miliar / tahun\n            </li>\n            <li> \n          1 floating crane = Rp 15 miliar. \n            </li>\n          </ol>\n<br />\nDengan rate seperti ini berarti TPMA menambah laba bersih Rp 27 miliar per tahunnya. \n<br /><br />\nBerarti dengan asumsi yang bahkan konservatif, TPMA sangat mampu untuk membayarkan bahkan hampir 3x dari beban bunga sebesar Rp 9,9 miliar tersebut.\n\t  </p><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Potensi Trans Logistik Perkasa (30%)\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t TPMA memiliki kepemilikan 30% terhadap PT Trans Logistik Perkasa (TLP) dan baru-baru saja perusahaan melakukan serah terima 79 unit tugboat dan tongkang second di bulan november 2023. Berarti kita mengasumsikan kapal-kapal ini telah beroperasi selama 1 bulan dan dinyatakan dalam financial report 2023 bahwa ada laba entitas asosiasi sebesar 1,1 juta USD yang berasal dari TLP.  Selama operasional berjalan hingga Q2 2024, TLP konsisten membukukan 1 juta USD per quarternya bagi TPMA.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Right Issue TPMA \n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t PT Dwitunggal Perkasa Mandiri (”DPM”) dengan kepemilikan 57,18% terhadap TPMA akan memperoleh sejumlah 499 juta HMETD yang akan menjadi haknya berdasarkan porsi kepemilikan sahamnya. DPM menyatakan akan melaksanakan (menebus) sebagian HMETD sejumlah 325 juta HMETD dan sisanya DPM dapat melakukan penjualan HMETD tersebut kepada masyarakat.\n<br /><br />\nPT Patin Resources (“PR”) selaku pemegang 12,05% saham perseroan menyatakan tidak akan melaksanakan seluruh HMETD yang akan diperolehnya dalam PMHMETD I Perseroan. Sehubungan dengan hal tersebut, PR dapat melakukan penjualan atas HMETD yang dimilikinya kepada masyarakat. Tetapi apabila masih ada sisa HMETD yang tidak dibeli oleh pihak manapun, maka PR akan berkewajiban membeli seluruh sisa saham (pembeli siaga). \n<br /><br />\nRasio Kepemilikan : HMETD = 3 : 1. Harga Pelaksanaan = 465. Dilusi = max 25%. \n<br /><br />\nTPMA membeli BEST dengan kepemilikan 65% seharga 32,5 juta USD = +/- Rp 536 miliar. Ternyata pemilik BEST adalah PR yang juga merupakan pemegang saham TPMA. \n<br /><br />\nBEST mempunyai kapal sebanyak 27 unit dan rata - rata set keuntungan per set kapal sekitar Rp 8 miliar. Berarti BEST berpotensi menghasilkan laba bersih sebesar Rp 216 miliar = Rp 140 miliar bagian TPMA. Nilai akuisisi sebesar Rp 536 miliar dan laba Rp 140 miliar untuk kepemilikan 65%, berarti valuasi pembelian di angka 3,8 P/E Ratio. \n<br /><br />\nSebenarnya dari valuasi pembelian ini sangat murah di angka 3,8 P/E namun di sisi lain kita belum tau isi dari laporan keuangan perusahaan, neraca, dan arus kas karena memang dari manajemen sejauh ini belum menerbitkan laporannya jadi kita tidak bisa menyimpulkan bahwa pembelian sangat bagus. \n<br /><br />\nPertanyaannya bukan hanya akuisisi ini murah/tidak? Tapi juga, mengapa PSP mau menjual BEST dengan harga murah ke TPMA?\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Valuasi\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Laba TPMA = Rp 200 miliar (estimasi cukup pesimis berdasarkan kinerja tahun ini) + Rp 72 miliar (TLP asumsi akan tetap seperti itu) + Rp 100 miliar (BEST asumsi pesimis dibandingkan ekspektasi laba sebelumnya) = Rp 372 miliar.\n<br /><br />\nMarket Cap (per 8 Agustus 2024) Rp 2,4T\n<br /><br />\nPE setelah RI dan akuisisi = 4x.\n<br /><br />\nWajar nya PE 8x - 10x (karena perusahaan cyclical) maka ekspektasi market cap Rp 3 T - Rp 3,7 T.\n<br /><br />\nTerlepas apakah perusahaan menyatakan TPMA bukan cyclical tetapi kita memandangnya seperti itu karena terbukti sangat bergantung pada siklus demand batubara. \n<br /><br />\nDengan 3,5 miliar lembar saham beredar maka harga wajar ada di range harga Rp 857 - Rp 1000\n<br /><br />\nPer analisa ini dibuat, harga TPMA berada di Rp 675 artinya terdiskon 21% - 34%.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "disclaimer",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <i><b>Disclaimer: Artikel analisa ini bukanlah merupakan sebuah rekomendasi ataupun ajakan untuk jual atau beli saham tertentu. \nArtikel ini hanya untuk kepentingan edukasi dan informasi saja. \nSegala data yang disajikan bersumber dari publikasi yang disampaikan kepada publik melalui Annual Report, \nPublic Expose ataupun Laporan Keuangan emiten.</i></b><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      }
+    ],
+    "is_show_header": 1,
+    "header_type": "with_menu",
+    "is_show_footer": 1,
+    "footer_type": "with_menu",
+    "visibility": "membership;membership_and_portofolio;fbjarvis;spesial;",
+    "created_at": "2024-08-14T05:51:34.000000Z",
+    "updated_at": "2024-08-14T05:51:34.000000Z",
+    "deleted_at": null,
+    "created_by": {
+      "id": 2,
+      "fullname": "Midas Super Admin",
+      "email": "admin@midascuan.id",
+      "role": "superadmin",
+      "has_link_product": 0,
+      "ip_address": null,
+      "last_login_ip": null,
+      "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+      "member_active_roles": [
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ],
+      "member_roles": [
+        {
+          "id": 109970,
+          "user_id": 2,
+          "role_id": 1,
+          "expired_date": "2025-02-27 00:45:00",
+          "created_at": "2023-05-25T18:59:06.000000Z",
+          "updated_at": "2025-02-20T15:45:14.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 1,
+            "title": "Portofolio",
+            "role": "portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:07:38.000000Z",
+            "updated_at": "2024-08-16T09:56:18.000000Z"
+          }
+        },
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ]
+    },
+    "updated_by": null,
+    "deleted_by": null
+  },
+  "changes": 0
+}

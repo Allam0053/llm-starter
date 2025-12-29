@@ -1,0 +1,1632 @@
+{
+  "id": 10,
+  "page_id": 22,
+  "image_url": "https://api.midascuan.id/storage/resources/ACES_logo_pic.png",
+  "code": "ACES",
+  "buy_price": 0,
+  "current_price": 0,
+  "valuation": 0,
+  "margin_of_safety": 0,
+  "created_at": "2023-02-27T20:31:11.000000Z",
+  "updated_at": "2025-12-29T07:00:05.000000Z",
+  "status": "published",
+  "created_by": {
+    "id": 2,
+    "fullname": "Midas Super Admin",
+    "email": "admin@midascuan.id",
+    "role": "superadmin",
+    "has_link_product": 0,
+    "ip_address": null,
+    "last_login_ip": null,
+    "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+    "member_active_roles": [
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ],
+    "member_roles": [
+      {
+        "id": 109970,
+        "user_id": 2,
+        "role_id": 1,
+        "expired_date": "2025-02-27 00:45:00",
+        "created_at": "2023-05-25T18:59:06.000000Z",
+        "updated_at": "2025-02-20T15:45:14.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 1,
+          "title": "Portofolio",
+          "role": "portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:07:38.000000Z",
+          "updated_at": "2024-08-16T09:56:18.000000Z"
+        }
+      },
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ]
+  },
+  "updated_by": {
+    "id": 2,
+    "fullname": "Midas Super Admin",
+    "email": "admin@midascuan.id",
+    "role": "superadmin",
+    "has_link_product": 0,
+    "ip_address": null,
+    "last_login_ip": null,
+    "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+    "member_active_roles": [
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ],
+    "member_roles": [
+      {
+        "id": 109970,
+        "user_id": 2,
+        "role_id": 1,
+        "expired_date": "2025-02-27 00:45:00",
+        "created_at": "2023-05-25T18:59:06.000000Z",
+        "updated_at": "2025-02-20T15:45:14.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 1,
+          "title": "Portofolio",
+          "role": "portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:07:38.000000Z",
+          "updated_at": "2024-08-16T09:56:18.000000Z"
+        }
+      },
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ]
+  },
+  "deleted_at": null,
+  "deleted_by": null,
+  "page": {
+    "id": 22,
+    "title": "Analisa Saham ACES",
+    "slug": "analisa-saham-aces",
+    "type": "analysis",
+    "status": "published",
+    "content_html": "\"\"",
+    "content_json": [
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Analisa Saham ACES: sudah murah atau moat yang pudar?\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 flex flex-col md:flex-row justify-center gap-2 mt-1 mb-1 border-t border-b-2 border-black p-1\">\n        <p class=\"my-auto\">\n            <i class=\"fa fa-user-circle my-auto\"></i> Yennie Tjie (member) & Felix Haridinata\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-calendar my-auto\"></i> February 28, 2023\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-tags my-auto\"></i> ACES\n        </p>\n\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 25,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p>ACES adalah salah satu perusahaan ritel dengan kinerja yang baik, kinerjanya terpukul saat pandemi, begitu pula harga sahamnya turun dari Rp 1800 menjadi Rp 515. Sudah turun 71%</p><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/ACES_01.webp",
+        "altText": "ACES_harga_saham_grafik",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<br/><div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p>Lalu apakah lantas penurunan 71% ini artinya harga saham ACES sudah murah?\n</p>\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Bisnis Ritel\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p>Sebagai perusahaan ritel, kinerjanya akan sangat bergantung dengan <b>jumlah gerai, total sqm (square meter atau luas gerai), serta revenue per gerai (same store sales). </b>Semakin banyak jumlah gerai, semakin besar sqm  yang dimiliki maka seharusnya pendapatan perusahaan ritel juga akan semakin besar.<br /><br />\n\nTapi hampir semua perusahaan ritel menghadapi masalah yang mirip, yaitu kanibalisme. Ternyata membuka lebih banyak gerai belum tentu menaikkan penjualan jika gerai yang dibuka berdekatan.<br /><br />\n\nIstilah kanibalisme artinya gerai yang satu “memangsa” pendapatan dari gerai lain di bawah satu manajemen. Misalnya di daerah tempat tinggal saya di BSD, dulu ada 2 gerai ACES yang cukup berdekatan.<br /><br />\n\nYaitu ACES yang di QBig dan ACES yang di AEON Mall. Jaraknya terlalu dekat.<br /><br />\n\nUntuk itu, kita juga perlu melihat yang namanya same store sales atau istilah gampangnya pendapatan per gerai.<br /><br />\n\nMisalnya kita pakai ilustrasi gerai di Qbig dan AEON tadi. Awalnya gerai di AEON dibuka dahulu dan pendapatannya Rp 30 miliar/tahun (ini ilustrasi saja). Melihat besarnya potensi di BSD, ACES membuka satu gerai baru di QBig. <br /><br />\n\nSeharusnya, jika gerai Qbig berkinerja sama dengan AEON maka total pendapatan akan menjadi Rp 60 miliar/tahun. Tapi terkadang tidak seperti itu dalam bisnis ritel. Bisa jadi, justru total pendapatan hanya naik jadi Rp 40 miliar/tahun. Gerai di AEON penjualannya malah turun.<br /><br />\n\nSehingga pendapatan per gerai tidak lagi Rp 30 miliar, melainkan turun jadi Rp 20 miliar.<br /><br />\n\n“Ya gpp toh, kan net revenue tetap naik”<br /><br />\n\nMasalahnya bukan disitu. Untuk membuka satu gerai, ada biaya sewa, biaya gaji karyawan, listrik, dsb. Kalau satu gerai di AEON cost nya Rp 25 miliar/tahun, dengan satu gerai maka ACES untung Rp 5 miliar/tahun.<br /><br />\n\nLalu jika ACES membuka gerai baru di QBig dan costnya juga Rp 25 miliar/tahun, maka total cost nya sudah Rp 50 miliar dan revenue baru naik jadi Rp 40 miliar. Jadi penambahan store, pertumbuhan jumlah gerai, pertumbuhan sqm tidak memberikan nilai tambah kepada bottom line. Untuk itu lebih baik salah satu gerai ditutup.<br /><br />\n\nMakanya tidak heran jika ada saham ritel yang menutup gerai, harga sahamnya malah naik. Karena menutup gerai yang kanibal akan memberikan kontribusi yang positif terhadap bottom line (net profit).\n</p>\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Sekilas tentang ACES\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/ACES_02.webp",
+        "altText": "ACES_sekilas_01",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/ACES_03.webp",
+        "altText": "ACES_sekilas_02",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Business Process ACES\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/ACES_04.webp",
+        "altText": "ACES_business_process",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p>Pada thn 2021, ACES memiliki 216 gerai ACE hardware yg tersebar di 51 kota dan 27 provinsi dan gerai 60 gerai Toys Kingdom yg tersebar di 24 kota dan 15 provinsi.  <br /><br />\n\nRincian gerai ACE Hardware : <br />\n<ol style=\"list-style-type: decimal;padding-left:50px\">\n<li>13 gerai ACE Xpress</li>\n<li>43 gerai ACE Home Center</li>\n<li>160 gerai ACE Hardware. </li>\n</ol>\n<br />\nPerbedaan ke-3 jenis gerai ACE adalah ukuran toko, jumlah dan variasi barang yang tersedia.<br /><br />\n\nACE Xpress yang paling  kecil (biasanya untuk diperumahan) dan ACE Hardware skala sedang  dan ACE Home Center skala yang paling besar. ACES Merambah dunia mainan anak-anak sejak pertengahan 2010 (Toys Kingdom).<br /><br />\n\nProyeksi thn 2022 membuka 8-10 gerai baru dgn target pertumbuhan laba positif di thn 2021. \nTarget ini on track dan sudah dipenuhi per Sep 2022. <br /><br />\n\nInfo dari public expose per tgl 15 Des 2022, per Sep 2022, jumlah gerai ACE Hardware naik menjadi 228 dan gerai Toys Kingdom menjadi 62 gerai. <br /><br />\n\nProduk ACES saat ini hampir berjumlah 50 - 60 ribu SKU(sekitar 8,5% adalah produk ECO) dgn pengelompokan sbb:<br />\n<ol style=\"list-style-type: decimal;padding-left:50px\">\n<li>Perlengkapan rumah tangga (Home Improvement): Seperti hardware, HORECABA,  Cleaning aids, Lawn & Gardening, Lighting, Outdoor Living, Paint & Sundries, Plumbing Supplies & Fixtures, Electrical, Tools, dll. </li>\n<li>Gaya hidup ( Life style): Automotive Accessories, Outdoor Furniture, Houseware & Gift, Sporting Goods & Pet Supplies, Home Appliances. </li>\n<li>Produk Eco (Eco products): Energy Saving, Water Saving, Greenhouse Gas Reduction, Elderly Products. </li>\n</ol>\n<br />\n\nUntuk penjualan, saat ini melalui berbagai sarana yaitu:\n<ol style=\"list-style-type: decimal;padding-left:50px\">\n<li>toko offline yang sudah banyak tersebar</li>\n<li>website : <a class=\"break-all\" href=\"https://www.ruparupa.com\" target=\"_blank\" rel=\"openner\" style=\"color:blue\">www.ruparupa.com</a> </li>\n<li>Miss Ace diplaystore</li>\n<li>Promosi tematik bulanan</li>\n<li>Member card </li>\n</ol>\n<br />\n\nPada akhir thn 2021, jumlah karyawan sebanyak 14.127 or menurun dari thn 2020 sebanyak 16.416.\n</p>\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Kinerja Keuangan\n    </h2>\n</div><br/>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/ACES_05.webp",
+        "altText": "ACES_kinerja_keuangan",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p>ACES merupakan perusahaan retail yang cukup menarik, dapat dilihat dari kinerja 5 thn kebelakang,<b> GPM dapat konsisten diatas 45% dengan NPM sktr 10%. </b><br /><br />\nGPM ACES besar namun NPM tidak terlalu besar ( ± 10%) karena terjadi operating expenses yang besar yaitu ± 35-40%. <br /><br />\nTerjadi penurunan NPM di 2020 dan 2019 karena adanya covid 19. Namun, nilai GPM relatif tetap berarti perusahaan cukup mempunyai bargaining power dalam mempertahankan harga jual produknya. <br /><br />\nACES menjual barang perkakas rumah tangga yang sebenarnya cukup banyak alternatifnya. Brand utamanya, Krisbow, menurut kami tidak memiliki “kekuatan” yang membuat konsumen rela mati - matian untuk memilikinya.<br /><br />\nSelain itu, ada beberapa produknya yang juga beririsan dengan merk lain seperti IKEA, Informa (yang juga dimiliki oleh Kawan Lama Group), Mitra 10, bahkan toko online yang menjamur.<br /><br />\nIKEA memiliki keunggulan di perabot untuk kebutuhan rumah, pernak pernik hiasan rumah yg unik dan bagus, juga interior desain yang bagus.<br /><br />\nACE Hardware memiliki keunggulan di perkakas dan perabot rumah tangga, dan barang yg lengkap untuk keperluan sehari2, misal peralatan olahraga, ada akuarium, karpet, dll.<br /><br />\nInforma memiliki keunggulan di furniture untuk rumah tangga seperti meja, sofa, dll\n</p>\n    </div>\n</div>\n",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Breakdown Biaya\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p>Jika kita lihat grafik di bawah, kita dapat melihat bahwa biaya ACES didominasi oleh beban pokok dan beban operasional (opex).</p>\n    </div>\n</div>\n",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/ACES_06.webp",
+        "altText": "ACES_biaya_01",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p>Beban pokok ACES kelihatannya tidak terlalu masalah karena GPM ACES merupakan yang tertinggi di antara ritel - ritel yang lain. Tapi mari kita bedah Beban Usahanya.</p>\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/ACES_07.webp",
+        "altText": "ACES_biaya_02",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p>Dari hasil breakdown terlihat bahwa pos biaya yang paling besar adalah biaya pekerja (gaji, bonus, tunjangan, pensiun).<br /><br />\n\n<b>Solusi: efisiensi jumlah karyawan di toko dan di kantor pusat sehingga selain biaya gaji akan turun juga biaya utilitas akan turun. </b><br /><br />\n\nAkankah hal ini mampu dilakukan? Kebanyakan emiten ritel memiliki beban gaji yang cukup tinggi karena mereka membutuhkan staff di toko. <br /><br />\n\nPembukaan gerai yang banyak tidak menguntungkan karena sewa dan penyusutan HGB yang besar ( ± 35%) tidak disertai dengan peningkatan same store sales yg signifikan malah cenderung menurun.<br /><br />\n\nWalaupun di pubex  tgl 15 des 2022, menurut manajemen, 90% customer masih berbelanja di toko offline, namun dari data yg ada , pembukaan gerai tidak signifikan terhadap penambahan revenue.<br /><br />\n\nYang paling krusial adalah biaya iklan dan promosi sangat kecil sktr ± 2,5% padahal di zaman medsos seperti sekarang ini,  jauh lebih penting untuk membuat iklan di medsos agar dikenal banyak org drpd memperbanyak toko offline. <br /><br />\n\nSelain itu, ACES tidak mempunyai moat brand tertentu seperti MAPA dengan NIKE dll sehingga iklan & promosi justru harus ditingkatkan agar produk dikenal oleh masyarakat. <br /><br />\n\nLebih baik membuat video promosi di medsos dan Kerjasama dgn para Content Creator IG / Tiktok / Youtube atau membuat kompetisi ( misal memasak atau menata rumah ) dgn memakai seluruh peralatan dari ACES. <br /><br />\n\n<b>Solusi : Tidak terlalu agresif dalam pembukaan gerai baru, lebih baik perkuat promosi dan iklan di medsos. </b>\n</p><br />\n    </div>\n</div>\n",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Peningkatan Inventory\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p>Pada Q3-2022, terjadi peningkatan inventory yg signifikan sementara sales tidak mengalami kenaikan yg signifikan di Q3. Terlihat dari DIO di Q3 naik menjadi 296.85 hari.\n</p>\n    </div>\n</div>\n",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/ACES_08.webp",
+        "altText": "ACES_inventory",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p>Mengenai hal ini pada Pubex tgl 15 Des 2022, manajemen menyampaikan bahwa inventory days memang relatif tinggi, karena produk Ace banyak yang merupakan produk impor dan manajemen  mempertimbangkan proses pemilihan produk dan transportasi, terutama di saat pandemi, di mana banyak negara yang melakukan lock down.<br /><br />\n\nNamun mengingat jumlah gerai sudah bertambah, dan revenue yg tetap, sepertinya <b>penumpukan inventory memang terjadi krn melambatnya penjualan.<br /><br />\n\nPeningkatan inventory ini bahkan membuat FCF di Q3 2022 negatif 160 M.  </b>\n</p>\n    </div>\n</div>\n",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        SSSG Turun\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p>Dari rekap data Growth SSA , terlihat pada SSA negative. Artinya  revenue / gerai turun sehingga strategi ACES untuk menambah jumlah gerai setiap tahun tidak mempunyai efek yang signifikan untuk meningkatkan revenue. \n</p>\n    </div>\n</div>\n",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 100,
+          "height": null,
+          "objectFit": "scale-down"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/ACES_09.webp",
+        "altText": "ACES_SSG",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/ACES_10.webp",
+        "altText": "ACES_penjualan",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p>Asumsi : <br/>\nData sales yang tersedia pada thn 2022 adalah 9M 2022 ( Periode Jan-Sept 2022). Untuk perhitungan di annualized menjadi 1 thn dgn asumsi jumlah gerai tetap 228 bh krn target pertumbuhan gerai 2022 sudah tercapai per 30 sept 2022. \n</p><br />\n    </div>\n</div>\n",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 10,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Kesimpulan\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p>Sektor ritel adalah salah sektor yang paling tertekan akibat pandemi. Ritel yang berlokasi di mal - mal, akibat pembatasan mobilitas membuat kinerja mereka turun drastis.<br /><br />\n\nTak terkecuali saham ACES.<br /><br />\n\nAkan tetapi, bukan hanya ACES yang suffer akibat traffic di mall turun. Saham ritel lain juga demikian. Tapi berbeda dengan saham ritel lainnya seperti MAPA, MAPI ataupun yang produknya sedikit mirip seperti CSAP, kinerja ACES tidak kunjung pulih seperti pra-pandemi.<br /><br />\n\nPer 9M 2022, laba bersih ACES Rp 352 miliar vs Rp 727 miliar per 9M 2019. Padahal emiten ritel lain sudah mencetak kinerja yang all time high. <br /><br />\n\n<b>#1 Valuasi mahal sejak awal</b><br /><br />\n\nSebelum pandemi di tahun 2019, ACES dihargai dengan PE 30x. Ini adalah valuasi yang mahal alias overvalue.<br /><br />\n\nTips: Jangan membeli saham yang diperdagangkan dengan PE >15x dalam kondisi normal. Kita bisa menghindari banyak petaka dengan satu rules ini.<br /><br />\n\n<b>#2 Produk mahal, ada substitusi</b><br /><br />\n\nTak dipungkiri barang - barang di Ace Hardware cenderung dihargai lebih premium. Padahal saya sering menjumpai produk dengan fungsi yang sama dengan harga lebih murah di CSAP atau di e-commerce.<br /><br />\n\nMemang dalam beberapa tahun terakhir GPM ACES sangat tinggi yang menandakan harga jual yang tinggi terhadap harga pokok.<br /><br />\n\nTapi sebagai konsumen, Does brand really matter here?<br /><br />\n\nMelihat beberapa fakta yang ada, maka kami memutuskan untuk pass kesempatan di ACES. Tapi bukan berarti harga sahamnya tidak akan naik ya. Hanya kami merasa tidak cukup bisa menilai apakah ACES mampu tetap mempertahankan competitive advantagenya.\n</p>\n    </div>\n</div>\n",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <i><b>Disclaimer: Artikel analisa ini bukanlah merupakan sebuah rekomendasi ataupun ajakan untuk jual atau beli saham tertentu. \nArtikel ini hanya untuk kepentingan edukasi dan informasi saja. \nSegala data yang disajikan bersumber dari publikasi yang disampaikan kepada publik melalui Annual Report, \nPublic Expose ataupun Laporan Keuangan emiten.</i></b>\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      }
+    ],
+    "is_show_header": 1,
+    "header_type": "with_menu",
+    "is_show_footer": 1,
+    "footer_type": "with_menu",
+    "visibility": "membership_and_portofolio;membership;fbjarvis;spesial;",
+    "created_at": "2023-02-27T20:31:11.000000Z",
+    "updated_at": "2023-04-04T06:44:53.000000Z",
+    "deleted_at": null,
+    "created_by": {
+      "id": 2,
+      "fullname": "Midas Super Admin",
+      "email": "admin@midascuan.id",
+      "role": "superadmin",
+      "has_link_product": 0,
+      "ip_address": null,
+      "last_login_ip": null,
+      "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+      "member_active_roles": [
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ],
+      "member_roles": [
+        {
+          "id": 109970,
+          "user_id": 2,
+          "role_id": 1,
+          "expired_date": "2025-02-27 00:45:00",
+          "created_at": "2023-05-25T18:59:06.000000Z",
+          "updated_at": "2025-02-20T15:45:14.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 1,
+            "title": "Portofolio",
+            "role": "portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:07:38.000000Z",
+            "updated_at": "2024-08-16T09:56:18.000000Z"
+          }
+        },
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ]
+    },
+    "updated_by": {
+      "id": 2,
+      "fullname": "Midas Super Admin",
+      "email": "admin@midascuan.id",
+      "role": "superadmin",
+      "has_link_product": 0,
+      "ip_address": null,
+      "last_login_ip": null,
+      "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+      "member_active_roles": [
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ],
+      "member_roles": [
+        {
+          "id": 109970,
+          "user_id": 2,
+          "role_id": 1,
+          "expired_date": "2025-02-27 00:45:00",
+          "created_at": "2023-05-25T18:59:06.000000Z",
+          "updated_at": "2025-02-20T15:45:14.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 1,
+            "title": "Portofolio",
+            "role": "portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:07:38.000000Z",
+            "updated_at": "2024-08-16T09:56:18.000000Z"
+          }
+        },
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ]
+    },
+    "deleted_by": null
+  },
+  "changes": 0
+}

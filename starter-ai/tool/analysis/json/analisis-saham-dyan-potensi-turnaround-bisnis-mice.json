@@ -1,0 +1,2544 @@
+{
+  "id": 78,
+  "page_id": 151,
+  "image_url": "https://api.midascuan.id/storage/resources/dyan_logo",
+  "code": "DYAN",
+  "buy_price": 0,
+  "current_price": 0,
+  "valuation": 0,
+  "margin_of_safety": 0,
+  "created_at": "2024-12-10T08:29:48.000000Z",
+  "updated_at": "2025-12-29T07:00:05.000000Z",
+  "status": "published",
+  "created_by": {
+    "id": 2,
+    "fullname": "Midas Super Admin",
+    "email": "admin@midascuan.id",
+    "role": "superadmin",
+    "has_link_product": 0,
+    "ip_address": null,
+    "last_login_ip": null,
+    "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+    "member_active_roles": [
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ],
+    "member_roles": [
+      {
+        "id": 109970,
+        "user_id": 2,
+        "role_id": 1,
+        "expired_date": "2025-02-27 00:45:00",
+        "created_at": "2023-05-25T18:59:06.000000Z",
+        "updated_at": "2025-02-20T15:45:14.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 1,
+          "title": "Portofolio",
+          "role": "portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:07:38.000000Z",
+          "updated_at": "2024-08-16T09:56:18.000000Z"
+        }
+      },
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ]
+  },
+  "updated_by": {
+    "id": 2,
+    "fullname": "Midas Super Admin",
+    "email": "admin@midascuan.id",
+    "role": "superadmin",
+    "has_link_product": 0,
+    "ip_address": null,
+    "last_login_ip": null,
+    "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+    "member_active_roles": [
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ],
+    "member_roles": [
+      {
+        "id": 109970,
+        "user_id": 2,
+        "role_id": 1,
+        "expired_date": "2025-02-27 00:45:00",
+        "created_at": "2023-05-25T18:59:06.000000Z",
+        "updated_at": "2025-02-20T15:45:14.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 1,
+          "title": "Portofolio",
+          "role": "portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:07:38.000000Z",
+          "updated_at": "2024-08-16T09:56:18.000000Z"
+        }
+      },
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ]
+  },
+  "deleted_at": null,
+  "deleted_by": null,
+  "page": {
+    "id": 151,
+    "title": "Analisis Saham DYAN: Potensi Turnaround Bisnis MICE",
+    "slug": "analisis-saham-dyan-potensi-turnaround-bisnis-mice",
+    "type": "analysis",
+    "status": "published",
+    "content_html": "\"\"",
+    "content_json": [
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Analisis Saham DYAN: Potensi Turnaround Bisnis MICE\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "post-detail",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 flex flex-col md:flex-row justify-center gap-2 mt-1 mb-1 border-t border-b-2 border-black p-1\">\n        <p class=\"my-auto\">\n            <i class=\"fa fa-user-circle my-auto\"></i> \n\tMichael Andreas & Felix  Haridinata\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-calendar my-auto\"></i> \n\tDec 10, 2024\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-tags my-auto\"></i> \n\tDYAN\n        </p>\n\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 30,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p>Banyak yang penasaran dengan saham DYAN, terutama karena valuasinya yang murah dengan PE TTM Q3 2024 3-4x. Apakah benar bisnis event organizer (EO) dan MICE dari DYAN mulai membaik? Mari kita lihat lebih dalam.</p><h3><br></h3><h4><strong class=\"ql-size-huge\">Sekilas Tentang DYAN</strong></h4><p>DYAN atau Dyandra Media International Tbk. adalah perusahaan induk dari PT Dyandra Promosindo, EO terkemuka di Indonesia yang telah berdiri sejak 1994. DYAN juga memiliki anak perusahaan yang bergerak di bidang MICE (Meetings, Incentives, Conventions, Exhibitions) dan sektor pendukung lainnya.</p><p><br></p><p><span class=\"ql-cursor\">﻿</span><strong>Shareholder DYAN</strong></p><p><br></p><p>&nbsp;&nbsp;&nbsp;</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_01",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>DYAN dikendalikan oleh PT Teletransmedia, yang dimiliki oleh Kompas Gramedia Group. Jakob Oetama, salah satu pemegang saham Teletransmedia dan pendiri Koran Kompas serta The Jakarta Post, adalah ayah dari Liliek Oetomo, Komisaris Utama DYAN saat ini.</p><p><br></p><p>Lo Stefanus, juga Komisaris DYAN, adalah pendiri dan CEO PT Mondial Investama Indonesia, yang memiliki 5,27% saham DYAN. Ia juga mendirikan Frank&amp;Co, perusahaan perhiasan.</p><h3><br></h3><h4><strong class=\"ql-size-huge\">Bagaimana EO Bekerja? Apa saja Bisnis DYAN?</strong></h4><p><br></p><p>Bisnis utama DYAN adalah Event organizer (EO), EO bertugas mengurus acara dari awal hingga akhir, mulai dari membuat konsep acara, teknis pelaksanaan, hingga pengaturan anggaran. MICE adalah salah satu segmen dari industri EO, yang mencakup penyelenggaraan rapat, insentif, konvensi, dan pameran.</p><p><br></p><p>Apa itu MICE?</p><ul class=\"ql-li\"><li><strong>Meetings</strong>: Pertemuan kelompok untuk membahas suatu tujuan.</li><li><strong>Incentives</strong>: Kegiatan penghargaan yang diadakan perusahaan bagi karyawan atau mitra.</li><li><strong>Conventions</strong>: Pertemuan besar untuk membahas isu tertentu.</li><li><strong>Exhibitions</strong>: Pameran produk atau layanan untuk promosi.</li></ul><p><br></p><p>DYAN telah menguasai lebih dari 30% pangsa pasar industri MICE di Indonesia, seperti tercantum dalam laporan tahunan 2023. Industri MICE sendiri berkembang pesat di Indonesia, berkontribusi sekitar 30% terhadap sektor pariwisata.</p><p><br></p><h4><strong class=\"ql-size-huge\">Prospek Industri MICE</strong></h4><p>Industri MICE tumbuh signifikan karena banyak perusahaan dan organisasi yang menggunakan acara ini untuk mempromosikan produk atau jasa.</p><p><br></p><p>Kita bisa lihat apa saja event - event yang diselenggarakan oleh DYAN. Kebanyakan adalah annual event yang mungkin sering kita kunjungi, namun tidak sadar kalau itu adalah event yang di organized oleh DYAN.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_02",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Melihat dari website <a class=\"ql-link break-all\" href=\"https://dyandra.com/exhibition/past-year\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: blue;\">https://dyandra.com/exhibition/past-year</a> , event - event di atas adalah annual event. Dalam artian hampir setiap tahun dilaksanakan. Jadi probability untuk melihat event yang sama tahun depan cukup besar.&nbsp;</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_03",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>DYAN sudah berpengalaman dalam menggelar lebih dari 100 acara setiap tahunnya. Untuk mencapai angka ini, DYAN membutuhkan tim yang solid dan terorganisir dengan baik.</p><p><br></p><p>Selama pandemi, DYAN menghadapi tantangan besar karena acara tatap muka dihentikan. Otomatis berbagai event - event pun tidak jadi dilaksanakan.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_04",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Jika kita lihat, laba bersih DYAN ini cukup fluktuatif. Dari 2011 - 2023, terdapat 5 tahun dimana DYAN ini rugi. Kenapa DYAN bisa merugi beberapa kali? Apakah bisnisnya bagus?</p><p><br></p><h4><strong class=\"ql-size-huge\">Struktur Pendapatan DYAN</strong></h4>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_05",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><br></p><p>DYAN memiliki empat lini bisnis utama:</p><p><strong>1. Penyelenggaraan Acara &amp; Pameran (82% pendapatan).</strong> Dyandra Promosindo menyelenggarakan berbagai acara seperti pameran dagang, konser musik, konvensi bisnis, dan acara kebudayaan.</p><p><br></p><p><strong>2. Bisnis Hotel (melalui PT Graha Multi Utama, 3% dari pendapatan).</strong> GMU atau PT Graha Multi Utama memiliki 6 hotel dengan rincian sebagai berikut :</p><ul class=\"ql-li\"><li>Hotel Santika Siligita Nusa Dua (Bali , 2012) = 153 kamar</li><li>Hotel Amaris Pekanbaru (Pekanbaru , 2010) = 99 kamar</li><li>Hotel Amaris Bandara (Tangerang , 2010) = 118 kamar</li><li>Hotel Amaris Thamrin City (Jakarta, 2011) = 197 kamar</li><li>Hotel Amaris Panglima Polim 2 (Jakarta , 2012) = 38 kamar</li><li>Hotel Amaris Pratama (Bali , 2013) = 130 kamar</li></ul><p>Selain beberapa bisnis hotel ini , GMU juga memiliki landbank di daerah Cilacap, Karawang dan Bali.</p><p><br></p><p><strong>3. Penyewaan Alat Pendukung Acara (2% pendapatan)</strong> Melalui PT Dyamall Graha Utama yang menyediakan alat pencahayaan untuk acara.</p><p><br></p><p><strong>4. Pusat Konvensi &amp; Hotel (13% pendapatan)</strong> Melalui PT Nusa Dua INdonesia mengelola Bali Nusa Dua Convention Center (BNDCC) dan Bali Nusa Dua Hotel, yang menjadi salah satu pusat konvensi terbesar di Bali.</p><p><br></p><p>BNDCC atau Bali Nusa Dua Convention Center memiliki ruang konvensi dan ruang pameran seluas 50.000 m2 , ruang konvensi ini digunakan untuk berbagai jenis kegiatan MICE seperti konferensi, rapat, ruang kerja, pesta pernikahan, konser dan pameran.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_06",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p>Gambar : BNDCC , Hall yang digunakan saat G20</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_07",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p>Gambar : Bali Nusa Dua Hotel</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_08",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><span class=\"ql-size-large\">Gambar : Dyandra Convention Center Surabaya</span></p><p><br></p><p>Dari sini kita tahu bahwa yang paling berpengaruh terhadap kinerja DYAN adalah bisnis EO dan Eksibisi &amp; Konvensi.</p><h3><br></h3><h4><strong class=\"ql-size-huge\">Balance Sheet</strong></h4><p>DYAN didominasi oleh liabilitas dari tahun 2013 hingga 2023, kecuali pada 2018-2020, ketika ekuitas meningkat. Idealnya, ekuitas lebih besar dari liabilitas untuk mengurangi beban utang perusahaan.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_09",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Aset tidak lancar DYAN lebih besar dari aset lancar. Hal ini kurang ideal karena mayoritas pendapatan berasal dari bisnis pengelolaan acara yang seharusnya lebih <em>capital light.</em></p><p><br></p><p>Akan tetapi, DYAN juga memiliki bisnis lain seperti hotel dan gedung convention yang porsi aset tetapnya lebih besar. Sehingga aset tidak lancar terlihat lebih besar secara keseluruhan.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_10",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Di tahun 2018 terjadi penurunan aset tetap yang cukup drastis dari Rp 1.14 T menjadi Rp 823 M. Setelah ditelusuri, <strong>ini adalah akibat dari pelepasan saham mereka di PT. Sima Graha Utama</strong><span class=\"ql-cursor\">﻿</span> yang memiliki bangunan hotel Santika Kelapa Gading dan Pekalongan. Selain itu, di tahun tersebut juga menjual bangunan hotel Santika Cikarang.</p><p><br></p><p>Efek dari pelepasan aset - aset hotel tadi adalah <strong>net debt dari DYAN turun drastis</strong> (grafik di bawah).</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_11",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Menurut kami, ini adalah salah satu <strong>capital allocation yang baik.</strong> Dengan menjual aset yang tidak produktif (berkontribusi kecil terhadap revenue) dan melunasi hutang. Praktis posisi DYAN sedikit lebih enteng karena beban utang jauh lebih rendah.</p><p><br></p><p>Lalu pada 2023, 44,8% aset lancar berupa kas, sementara 16% adalah piutang.</p><p><br></p><p>Proyek yang sedang berjalan meningkat lima kali lipat (gambar di bawah), menunjukkan bahwa DYAN mulai menggarap proyek yang lebih besar.</p><p>&nbsp;&nbsp;&nbsp;</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_12",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Piutang usaha menurun tajam pada 2023, menunjukkan banyak pelanggan yang sudah membayar. Ini berkontribusi pada peningkatan kas. Kas dan setara kas di neraca naik Rp 143 M di tahun 2022 menjadi Rp 237 M di tahun 2023. Kalau kita lihat DSO nya, biasanya berada di range 50 hari (hampir 2 bulan).&nbsp;</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_13",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>DYAN juga memiliki piutang besar kepada PT MGPA Nusantara Jaya dan PT Pengembangan Pariwisata Indonesia, yang merupakan pengelola Sirkuit Mandalika.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_14",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 30,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_14",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 10,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_15",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 30,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_16",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 30,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Siapakah PT MGPA Nusantara Jaya ini? MGPA adalah kepanjangan dari Mandalika Grand Prix Association yang merupakan pengelola Sirkuit International Pertamina Mandalika, atau penyelenggara MotoGP. Yang menjadi penyelenggara adalah ITDC.</p><p><br></p><p>MGPA ini adalah unit perusahaan ITDC (Indonesia Tourism Development Corporation), ITDC dan PT Pengembangan Pariwisata Indonesia itu sama.</p><p><br></p><p>Kita melihat hal ini sebagai <strong>hal yang negatif.</strong> Karena tidak ada kejelasan kapan piutang itu akan dibayar. Dan ini sifatnya bukan dari core business (karena kalau iya, seharusnya di piutang usaha).</p><p><br></p><p>Total piutang ke MGPA dan ITDC sendiri Rp 28 M lebih. Ini angkanya cukup signifikan mengingat laba di tahun 2023 Rp 77 M.</p><p><br></p><h4><strong class=\"ql-size-huge\"><span class=\"ql-cursor\">﻿</span>Aset Tetap DYAN</strong></h4><p>Pertama - tama, mari kita lihat secara keseluruhan capex yang dikeluarkan oleh DYAN selama ini:</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_17",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>DYAN mengucurkan belanja modal yang sangat banyak di tahun 2013 dan terus menurun hingga 2015. Sebelum akhirnya tetap di kisaran Rp 20 - 40 M setahun. Apa yang dibeli DYAN di tahun 2013?</p><p><br></p><p>Kita akan lihat pada laporan keuangan DYAN bagian informasi segmen di tahun 2013:&nbsp;&nbsp;&nbsp;</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_18",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Terlihat bahwa DYAN di tahun 2013 mengucurkan <strong>Rp 231.8 M belanja modal untuk bisnis konvensi dan eksibisi</strong> serta Rp 107.8 M untuk bisnis hotelnya. Kita sudah lihat bahwa DYAN menjual hotel Santika Kelapa Gading, Pekalongan dan Cikarang di tahun 2018.</p><p><br></p><p>Peningkatan capex di saat itu adalah untuk pembangunan berbagai hotel dan perluasan Bali Nusa Dua Convention Centre.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_19",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 30,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Lalu bagaimana efek dari capex besar di tahun 2013? Apakah kinerja bisnis DYAN mengalami peningkatan? Mari kita bandingkan perolehan aset tetap, pendapatan konvensi dan eksibisi dan pendapatan hotelnya:</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_20",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Bisnis konvensi dan eksibisi mengalami peningkatan yang cukup lumayan dari yang sebelumnya sekitar Rp 100M menjadi Rp 190 M di tahun 2018 sebelum akhirnya karna covid membuat pendapatan dari segmen ini turun drastis.</p><p><br></p><p>Sedangkan bisnis hotel hampir tidak ada perubahan yang terlalu berarti.</p><p><br></p><p>Fast forward ke tahun 2023, DYAN kembali meningkatkan belanja modal (CAPEX) sebesar Rp 113 miliar pada 2023, dengan fokus pada bisnis penyelenggara acara.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_21",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Padahal capex di tahun sebelumnya untuk segmen penyelenggara acara hanya Rp 13.5 miliar. Capex Rp 89 miliar ini buat apa saja?</p><p><br></p><p>Mari kita lihat catatan kaki aset tetapnya.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_22",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Penambahan terbesar terjadi pada bangunan, prasarana, kendaraan, dan peralatan kantor.</p><p><br></p><p>Bangunan dan Prasarana apa ini? <strong>Mengapa bisnis EO terdapat penambahan aset bangunan sebesar Rp 64 miliar?</strong></p><p><br></p><p>Di public expose, DYAN menyampaikan bahwa mereka melakukan investasi untuk pengembangan 3 wahana di TMII.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_23",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_24",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Seperti yang bisa kita lihat dari presentasi di atas, bahwa bisnis tourism ini dikelola oleh PT Dyandra Mitra Indah. Dan kalau kita lihat susunan entitas anak DYAN (gambar di bawah), PT Dyandra Mitra Indah masuk di ruang lingkup usaha “penyelenggara acara”.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_25",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 30,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Jadi, ekspansi DYAN kali ini kalau kita lihat tidak pure di bisnis EO nya, <strong>melainkan di bisnis wahana.</strong> Berarti untuk cek prospeknya, kita perlu cek jumlah pengunjung di TMII.</p><p><br></p><p>Bagaimana dengan jumlah pengunjung TMII dari tahun ke tahun?</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_26",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><em>source: BPS</em></p><p><br></p><p>Dari data di atas, jumlah pengunjung TMII turun drastis dari sejak covid. Di tahun 2023, terlihat sudah mulai terjadi pemulihan hingga mencapai 2.77 juta pengunjung. Tiket masuk TMII berkisar Rp 25 ribu per orang. Lalu, jika pengunjung ingin mengunjungi wahana - wahana yang ada di dalam, pengunjung perlu membayar tiket lagi.</p><p><br></p><p>Namun, perlu diketahui bahwa yang dikelola DYAN bukan seluruh TMII, melainkan beberapa wahana saja yaitu Taman Burung, Museum Komodo dan Dunia Air Tawar. Tiket masuk ke wahana - wahana ini Rp 45 ribu - Rp 55 ribu.</p><p><br></p><p>Kita belum menemukan data kunjungan untuk masing - masing wahana tersebut.</p><p><br></p><h4><strong class=\"ql-size-huge\"><span class=\"ql-cursor\">﻿</span>Liabilitas Jangka Pendek dan Panjang DYAN</strong></h4><p>Liabilitas jangka pendek DYAN lebih besar dibandingkan liabilitas jangka panjang. Liabilitas ini terutama terdiri dari utang bank jangka pendek yang cukup besar, serta utang bank jangka panjang yang jatuh tempo di tahun berjalan.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_27",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Jika melihat informasi segmen, liabilitas paling besar datang dari segmen <strong>Penyelenggaraan Acara.</strong> Lalu kalau melihat susunan liabilitasnya, ada beberapa akun yang paling besar, antara lain:</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_28",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 30,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><strong>Liabilitas kontrak</strong> DYAN mengalami peningkatan, menunjukkan potensi pendapatan masa depan.</p><p><br></p><p>Liabilitas kontrak adalah uang yang sudah diterima oleh DYAN tapi <strong>eventnya belum dilaksanakan.</strong></p><p><br></p><p>Ketika nanti event sudah terlaksana, angka liabilitas kontrak akan bisa diakui sebagai penjualan. Jadi konsepnya <strong>mirip seperti emiten properti.</strong></p><p><br></p><p>Pada 2023, liabilitas kontrak mencapai Rp 125 miliar, naik 123% dari 2022. Sebagian besar, yakni Rp 123 miliar, terkait dengan proyek pameran dan acara musik, yang mencerminkan <strong>meningkatnya permintaan untuk layanan DYAN di sektor ini.</strong></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_29",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Kita tidak memiliki concern soal ini dan melihat ini adalah future revenue yang belum terecord saja.</p><p><br></p><p>Berikutnya adalah <strong>utang bank.</strong> Yang jatuh tempo jangka pendek Rp 89 M dan jangka panjang Rp 87 M.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_30",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 10,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_31",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Suku bunga utang bank jangka pendek berkisar antara 8,25% hingga 11,25%, dengan beban bunga mencapai sekitar Rp 10 miliar, berdasarkan total pinjaman sebesar Rp 89 miliar. Mostly utang jangka pendek DYAN adalah utang modal kerja.</p><p><br></p><p>DYAN juga menyampaikan berbagai peruntukan pinjaman jangka panjangnya. Pinjaman dengan oustanding balance terbesar adalah untuk pembangunan Bali Nusa Dua Concention Center (BNDCC) tahap 1 dan 2.</p><p><br></p><p>Berikut rangkuman utang bank jangka panjang DYAN:</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_32",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Liabilitas besar berikutnya adalah <strong>utang usaha.</strong> Dan ini mostly adalah penyewaan tempat dan vendor untuk acara. Ada utang usaha untuk pihak berelasi yaitu kepada PT. Gramedia Asri Media (tidak terlalu material).</p><p><br></p><p>Cash DYAN per 6M 2024 adalah Rp 228 M, sebenarnya <strong>more than enough</strong> untuk cover seluruh utang yang akan segera jatuh tempo. Jadi dari sisi debt, kita tidak terlalu concern soal DYAN karena posisi balance sheet yang cukup likuid.</p><p><br></p><h4><strong class=\"ql-size-huge\">Ekuitas DYAN</strong></h4><p>Jika melihat ekuitas DYAN, maka kita bisa langsung notice yang paling mencolok adalah adanya <strong>saldo laba negatif.</strong> Saldo laba adalah akumulasi laba yang di reinvestasikan ke dalam perusahaan sejak perusahaan berdiri sampai periode terakhir laporan keuangan diterbitkan.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_33",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 30,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Mengapa saldo laba DYAN bisa negatif?</p><p><br></p><p>Ini karena kerugian selama 2020-2022 akibat pandemi Covid-19, terutama di sektor pariwisata. Pada 2021, laba ditahan DYAN turun hingga minus Rp 248 miliar. Namun, sejak 2023, ada tanda-tanda pemulihan, dan kemungkinan saldo laba akan meningkat kembali seiring pulihnya sektor pariwisata.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_34",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Tapi perlu diketahui bahwa selama saldo laba negatif maka <strong>perusahaan tidak bisa membagikan dividen.</strong></p><p><br></p><p>So, bagi Anda yang mengharapkan dividen dari DYAN, Anda harus menunggu DYAN memperoleh saldo laba positif.</p><h3><br></h3><h4><span class=\"ql-size-huge\">Kinerja Keuangan</span></h4><p>Kita langsung melihat margin dari DYAN:</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_35",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Melihat sekilas sebenarnya NPM yang dimiliki oleh DYAN tidak sebesar perusahaan perusahaan lainnya, tidak terkesan terlalu menarik. Dengan revenue yang segitu besar, Rp 1.3 T tetapi perusahaan hanya bisa “mengextract” 5.5% saja dari total revenue nya.</p><p><br></p><p>Kita akan melihat lebih jauh mengapa DYAN hanya bisa mendapatkan NPM yang setipis itu.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_36",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Kita sudah lihat bahwa pendapatan DYAN mostly disumbangkan oleh segmen penyelenggaraan acara. Kita lihat dalam kondisi normal setidaknya Rp 500 - 600 miliar bisa diperoleh dari segmen ini saja.</p><p><br></p><p>Untuk segmen lain sebenarnya tidak terlalu besar, namun boosternya lumayan.</p><p><br></p><p><strong>DYAN memberikan diskon untuk pihak berelasi</strong> dalam jasa penyelenggaraan acara, namun jumlah diskon ini tidak signifikan, kurang dari Rp 1 miliar. Hal ini menunjukkan bahwa meski ada potongan harga, kontribusi pendapatan dari pihak berelasi tetap berada dalam batas yang wajar.</p><p><br></p><p>Untuk cek biayanya bocor dimana, kita akan membedah berbagai cost DYAN. Kita mulai dari Gross Profit dan COGS.</p><p><br></p><h4><strong>COGS</strong></h4>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_37",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>DYAN menghadapi tantangan dalam beberapa lini bisnisnya terutama bisnis hotel. Hanya pada tahun 2022 terjadi peningkatan pendapatan yang lebih baik, namun masih di bawah sektor lain. Sebaliknya, bisnis konvensi dan eksibisi menunjukkan profitabilitas tinggi dengan margin laba kotor (GPM) mencapai 72%.</p><p><br></p><p>Ini cukup masuk akal, karena bisnis konvensi dan eksibisi ini lebih ke menyewakan gedung untuk acara - acara. Jadi komponen COGS terbesar untuk segmen ini seharusnya adalah depresiasi gedung.</p><p><br></p><p>Melalui Public Expose 2024 , terlihat bahwa banyak acara-acara besar yang sering menggunakan BNDCC sebagai tempat nya. Acara-acara wisuda dan juga resepsi pernikahan juga banyak yang menggunakan BNDCC dan BNDHC sebagai tempat tujuan customer untuk melangsungkan acara-acara mereka.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_38",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 10,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_39",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Bisnis penyelenggaraan acara adalah sumber pendapatan terbesar bagi DYAN, dengan rata-rata GPM stabil sekitar 25%. Ini juga menurut kita masuk akal, karena meskipun EO ini jatohnya adalah jasa, namun biasanya EO ini bertugas sebagai agregator.</p><p><br></p><p>Jadi pihak yang mau menyelenggarakan acara akan menunjuk EO dan EO lah yang akan mengurus konsep acara hingga venue. J<strong>adi komponen COGS di bisnis EO yang paling besar seharusnya adalah sewa gedung dan vendor - vendor.</strong></p><p><br></p><p>Kita sudah lihat pada bagian - bagian sebelumnya bahwa DYAN ini memiliki berbagai annual event yang rutin diadakan. <strong>Seperti IIMS, Jakarta Wedding Festival, dst.</strong></p><p><br></p><p>Di sisi lain, bisnis pendukung acara menunjukkan tren menurun sejak 2019, dengan kontribusi kecil terhadap pendapatan dan cenderung hanya mencapai titik BEP. <strong>So, bisnis hotel DYAN sebenarnya tidak menguntungkan.</strong></p><p><br></p><p>Bisnis hotel DYAN, terutama melalui PT Graha Multi Utama (GMU), <strong>kurang optimal dalam penggunaan asetnya. Tingkat okupansi hanya sekitar 61%,</strong> lebih rendah dibandingkan bisnis konvensi dan eksibisi DYAN seperti Bali Nusa Dua Hotel and Convention Centre (BNDHC) yang memiliki lokasi strategis di Bali dengan <strong>tingkat okupansi sekitar 83%.</strong></p><p><br></p><p>Jadi ke depan, adalah sebuah langkah tepat untuk tidak ekspansi di hotel, melainkan MICE.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <h4><strong style=\"color: inherit;\">Opex</strong></h4>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_39_01",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 70,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Jika melihat tabel diatas, kita langsung bisa simpulkan bahwa <strong>cost terbesar dari opex adalah beban umum dan administrasi.</strong></p><p><br></p><p>Beban usaha DYAN cukup besar, mencapai <strong>Rp 200-300 miliar rupiah per tahun, tanpa tanda-tanda penurunan (bahkan saat krisis)</strong>. Sebagian besar dari beban ini digunakan untuk membayar gaji, upah, dan kesejahteraan karyawan, yang menyerap lebih dari 50% dari total beban administrasi.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_39_02",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 70,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Beban ini mengalami penurunan selama pandemi COVID-19 pada 2020-2021, seiring dengan pengurangan jumlah karyawan, namun kembali meningkat pada 2022.</p><p><br></p><p>Bisnis EO DYAN seharusnya memang capital light, namun <strong>membutuhkan jumlah karyawan yang bakal cukup banyak.</strong> Misalnya satu event mungkin bisa puluhan - ratusan karyawan. Apalagi event DYAN itu mencapai 100 event per tahun (keterangan dari website DYAN).</p><p><br></p><p>Dan kalau dilihat, proporsi karyawan terbanyak ada di Dyandra Promosindo (EO). Peningkatan jumlah karyawan juga sejalan dengan peningkatan revenue dari penyelenggaraan acara. Secara garis besar, <strong>beban gaji karyawan terhadap sales sekitar 10% - 15% per tahun.</strong></p><p><br></p><p>Sudut pandang lain, kita bisa bandingkan gaji yang dibayarkan per karyawan per bulan berikut:</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_39_03",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Pada 2023, DYAN memiliki 1.139 karyawan dengan rata-rata gaji sekitar 10 juta rupiah per bulan, yang sesuai dengan standar industri.&nbsp;</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_39_04",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Source : <a class=\"ql-link break-all\" href=\"https://id.jobstreet.com/id/career-advice/article/event-organizer#\" rel=\"noopener noreferrer\" target=\"_blank\">https://id.jobstreet.com/id/career-advice/article/event-organizer#</a></p><p><br></p><p>Selain itu, kompensasi bagi direksi dan komisaris juga meningkat. Di 2013, kompensasi mencapai 37 miliar rupiah untuk 7 direksi dan 5 komisaris, mendekati laba bersih kuartal akhir tahun itu. Sejak jumlah direksi dan komisaris berkurang, kompensasi individu naik, terutama setelah 2021.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_39_05",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 70,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Pada 2023, seorang direksi bisa menerima hingga 7,3 miliar rupiah per tahun (sekitar Rp 600 juta per bulan), seiring dengan pencapaian rekor kinerja perusahaan. Kompensasi komisaris rata-rata Rp 1.3 miliar - 1.6 miliar per tahun, dengan potensi kenaikan di masa depan seiring peningkatan kinerja.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_39_06",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 70,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Kalau kita lihat grafik di atas, baik kompensasi direksi dan komisaris DYAN mengalami <strong>peningkatan yang signifikan dari tahun ke tahun.</strong></p><p><br></p><p>Dan kalau kita bandingkan total kompensasi direksi dan komisaris berkisar <strong>2% - 3%dari sales.</strong> Kelihatannya kompensasi direksi dan komisaris ini bergantung dengan total sales yang mampu dihasilkan. Karena terlihat bahwa persentasenya berada di kisaran yang sama.</p><p><br></p><p>Untuk itu, mari kita lihat management DYAN.</p><h3><br></h3><h4><strong class=\"ql-size-huge\">Management DYAN</strong></h4><p>Salah satu hal yang mencolok dari para Direksi DYAN adalah mereka cukup sering melakukan pergantian posisi Presiden Direktur (Direktur Utama):</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_40",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Keterangan:</p><p>Biru = Shareholder / Affiliate / Laki-laki</p><p>Orange = Naik jabatan ke Presiden Direktur</p><p>Red = Shareholder / Perempuan</p><p>Warna lain = Others</p><p><br></p><p>Beberapa nama yang menjadi Dirut sebenarnya sudah memiliki pengalaman cukup panjang di internal perusahaan. Beberapa tokoh penting di dalam manajemen DYAN antara lain:</p><p><br></p><h4><strong><em>Liliek Oetama (Komisaris Utama 2016-present)</em></strong></h4>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_41",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 15,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Liliek Oetama, yang mengendalikan DYAN melalui Transmedia milik Jakob Oetama, pernah menjabat sebagai Presiden Direktur DYAN pada 2013-2015.</p><p><br></p><p>Kariernya dimulai di Hotel Santika (PT GMU di bawah DYAN), dan pada 2013, kompensasi yang diterima beliau dan jajaran lainnya cukup tinggi.</p><p><br></p><p>Saat ini, Liliek menjabat sebagai Komisaris Utama DYAN dan juga sebagai Komisaris Utama di Kompas Gramedia. Ia adalah kakak dari Ery Erlangga, yang kini menjadi Direktur di DYAN.</p><p><br></p><p>Selama masa kepemimpinannya, DYAN hanya mencatatkan keuntungan pada 2013, sementara pada 2014-2015 mengalami kerugian. Pada 2016, posisi Komisaris Utama diambil alih oleh Bu Rina Radinal Maksum yang sebelumnya menjabat sebagai wakil direktur.</p><p><br></p><p>Pak Liliek Oetama pun menjadi Komisaris Utama sejak 2016 - sekarang.</p><p><br></p><p><br></p><h4><strong><em>Rina Radinal Maksum</em></strong><em> (Presiden Direktur 2017-2018)</em></h4>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_42",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 15,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Bu Rina yang juga menjadi seorang shareholder DYAN sampai sekarang memiliki kepemilikan DYAN sebesar 5.17%.</p><p><br></p><p>Beliau mempunyai pengalaman yang sangat besar di dunia MICE dan juga event organizer, pengalaman beliau lebih dari 30 tahun di bisnis ini.</p><p><br></p><p>Bu Rina juga merupakan CEO dari PT Dyandra Promosindo pada tahun 1994 , berarti beliau di PT DP ini sudah sangat lama</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_43",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Bu Rina Radinal Maksum terlihat menjual sebagian kepemilikan sahamnya di DYAN pada tanggal 3 Januari 2024 hingga 9 Januari 2024, tetapi masih memiliki kepemilikan DYAN diatas 5%. Untuk alasan penjualan bisa banyak ya, jadi kita sebenarnya tidak perlalu terlalu concern akan hal ini. Tetapi perlu di note saja bahwa bu Rina selaku shareholder yang sudah lama di DYAN sudah melakukan penjualan perlahan atas sahamnya di DYAN.</p><p><br></p><p>Dibawah kepemimpinan bu Rina juga <strong>DYAN mendapatkan Net Profit tertinggi.</strong> Ini menunjukkan bahwa bu Rina adalah sebenarnya orang yang sangat mengerti dan sangat competent dibidang MICE ini.</p><p><br></p><p>Ketika Bu Rina menjadi Presiden Direktur dari 2017 - 2018, langkah yang dilakukan adalah melakukan penjualan bisnis hotel Santika dan membuat DYAN dalam posisi net cash (tidak ada utang).</p><p><br></p><p><br></p><h4><strong class=\"ql-size-huge\"><em>Adrian Sebastian Herlambang</em></strong><em class=\"ql-size-huge\"> (Presiden Direktur 2019)</em></h4>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_44",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 15,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Pak Adrian menjadi Presiden Direktur di DYAN pada tahun 2019 , beliau naik jabatan yang dulunya direktur dan diberikan kepercayaan untuk menjadi presiden direktur pada tahun 2019.</p><p><br></p><p>Dibawah tangan beliau revenue DYAN sempat menurun sedikit dan juga net profitnya turun cukup banyak dibandingkan tahun 2018.</p><p><br></p><p>Beliau merupakan orang yang sudah lama di Kompas Gramedia dan menjadi tombak dalam pengembangan ERP implementation project seperti Oracle, Microsoft dan SAP di Kompas. Beliau hanya menjabat selama 1 tahun saja.</p><p><br></p><p>Terlihat dari track record beliau sebenarnya beliau orang yang berfokus dibidang IT. Pak Adrian mengundurkan diri karena sakit ( source <a class=\"ql-link break-all\" href=\"https://insight.kontan.co.id/news/gabriel-maryamto-sunu-tidak-akan-meninggalkan-perusahaan-dalam-masa-sulit\" rel=\"noopener noreferrer\" target=\"_blank\">https://insight.kontan.co.id/news/gabriel-maryamto-sunu-tidak-akan-meninggalkan-perusahaan-dalam-masa-sulit</a>)</p><p><br></p><p><br></p><p><strong><em>Gabriel Maryanto Sunu</em></strong><em> (President Direktur 2020)</em></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_45",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 15,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Pak Gabriel adalah mantan corporate secretary di Kompas dan DYAN yang naik jabatan pada tahun 2020.</p><p><br></p><p>Di tahun itu, pandemi Covid-19 berdampak besar pada kinerja DYAN yang mencatatkan rekor terendah, situasi yang tidak sepenuhnya berada di bawah kendali beliau. Sebelumnya, beliau sempat pensiun pada 2017, namun kembali ditunjuk oleh Liliek Oetama untuk memimpin DYAN.</p><p><br></p><p>Pak Gabriel memiliki latar belakang di bidang HR dan pernah dipercaya oleh Jakob Oetama untuk melanjutkan studi di Amerika. Pengalaman panjangnya sebagai corporate secretary di Kompas Gramedia dan DYAN menjadikannya sosok yang berpengalaman dalam bidang manajemen perusahaan.</p><p><br></p><p>Source : <a class=\"ql-link break-all\" href=\"https://insight.kontan.co.id/news/gabriel-maryamto-sunu-tidak-akan-meninggalkan-perusahaan-dalam-masa-sulit\" rel=\"noopener noreferrer\" target=\"_blank\">https://insight.kontan.co.id/news/gabriel-maryamto-sunu-tidak-akan-meninggalkan-perusahaan-dalam-masa-sulit</a></p><p><br></p><p>Menurut berita diatas, <strong>Pak Gabriel lah yang memulai untuk memasuki tourism leisure</strong> yang diupayakan untuk bisa menjadi sumber pendapatan lainnya bagi DYAN. Pak Gabriel juga yang mulai menjalin kerja sama dengan lembaga pemerintah untuk mengelola taman dan kebun raya pemerintah.</p><p><br></p><p><br></p><p><strong><em>Daswar Marpaung</em></strong><em> (President Direktur 2021 - present)</em></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_46",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 15,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Pak Daswar Marpaung, yang telah lama bergabung dengan Dyandra, saat ini menjabat sebagai presiden direktur.</p><p><br></p><p>Sebelumnya, beliau pernah memegang posisi direktur dan telah berpengalaman langsung di hampir semua lini bisnis DYAN, yang memperkuat kemampuannya memimpin perusahaan.</p><p><br></p><p>Di bawah kepemimpinannya, DYAN mencapai kinerja tertinggi pasca-Covid-19, dengan pendapatan mencapai Rp 1.2 - 1.3 triliun rupiah pada 2022-2023, menunjukkan pemulihan industri yang cepat.</p><p><br></p><p>Sebagai tambahan, Pak Daswar juga seorang Pastor di GBI Kenisah. Melalui wawancara di sebuah podcast, beliau menyatakan bahwa industri MICE pulih cepat setelah pencabutan PPKM.</p><p><br></p><p>Podcast yang dimaksud: <a class=\"ql-link break-all\" href=\"https://www.youtube.com/watch?v=GQ89fdWYB1A\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.youtube.com/watch?v=GQ89fdWYB1A</a></p><p><br></p><p>Beliau juga menekankan pentingnya kreativitas dan pengembangan karyawan melalui program seperti Dyandra Academy untuk menjaga keberlangsungan bisnis. Pak Daswar percaya bahwa memperhatikan talenta dan menempatkan karyawan di posisi yang tepat adalah kunci dalam menjaga daya saing perusahaan di sektor industri kreatif.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_47",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 70,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Jika kita mengombinasikan cash flow dan peran para Direktur Utama berikut, kita bisa lihat bahwa:</p><ul class=\"ql-li\"><li>Liliek Oetomo → Melakukan IPO dan banyak capex - capex yang sangat tinggi (mostly untuk Hotel Santika), namun operating cash flow yang sangat kecil.</li><li>Rina R. Maksum → Efisiensi, cash flow operational positif, melepas berbagai aset hotel yang tidak efisien dan melunasi utang</li><li>Adrian SH &amp; Gabriel Haryanto → Terlalu singkat</li><li>Daswar Marpaung → Cash flow tebal, capex mulai meningkat lagi untuk akuisisi wahana di TMII.</li></ul><h3><br></h3><h4><strong class=\"ql-size-huge\">Update Q3 2024<span class=\"ql-cursor\">﻿</span></strong></h4><p>Dari analisa laporan keuangan DYAN Q3-2024, berikut adalah beberapa poin penting yang perlu diperhatikan:</p><ul class=\"ql-li\"><li><strong>Penurunan revenue 15% QoQ</strong> (dari Q2 ke Q3-2024) sangat signifikan dan menjadi penyebab utama turunnya laba bersih.</li></ul><p><br></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_48",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 40,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><ul class=\"ql-li\"><li>Segmen penyelenggaraan acara menjadi penyebab utama penurunan, dengan penurunan pendapatan sekitar 64 miliar rupiah dibandingkan Q2-2024.</li></ul>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_49",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 40,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><ul class=\"ql-li\"><li>Apa event yang diselenggarakan di Q3 2024 dan mengapa revenue drop?</li></ul>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_50",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 40,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><ul class=\"ql-li\"><li>Event besar DYAN di Q3-2024 menghasilkan revenue 240M (penyelenggara acara) dan 59M (konvensi &amp; hotel), namun masih di bawah Q2-2024 yang mencapai 304M di segmen penyelenggara acara.</li><li><strong>Beban usaha tetap stabil</strong> di angka 80 miliar rupiah, sehingga penurunan revenue langsung berdampak pada profitabilitas.</li><li><strong>Gross Profit Margin (GPM)</strong> untuk segmen penyelenggara acara juga menurun, yang meskipun masih cukup tinggi, memberikan kontribusi lebih rendah terhadap laba bersih.</li></ul>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/dyan_data_51",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 40,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>DYAN telah mempersiapkan beberapa langkah untuk meningkatkan kinerja di Q4-2024:</p><ul class=\"ql-li\"><li><strong>Event besar yang direncanakan</strong> di Q4 diharapkan mampu meningkatkan pendapatan, dengan fokus pada penyelenggaraan acara internasional.</li><li><strong>Pengembangan pasar MICE</strong> dan penciptaan IP event baru seperti IIMS dan Project-D menjadi fokus utama.</li></ul><p>Namun, rencana ekspansi ke <strong>industri pendidikan</strong> (Dyandra Academy) dan <strong>tourism leisure</strong> (TMII) patut dicermati. Hal ini karena:</p><ul class=\"ql-li\"><li><strong>CAPEX besar</strong> yang diperlukan bisa membebani arus kas.</li><li>Risiko <strong>alokasi modal yang kurang optimal</strong> jika pasar utama (MICE) belum maksimal.</li></ul><h3><br></h3><h4><strong class=\"ql-size-huge\">Kesimpulan</strong></h4><p>DYAN memiliki potensi turnaround yang kuat di sektor MICE. Dengan manajemen yang solid dan pengelolaan aset yang lebih baik, DYAN berpeluang memperbaiki kinerja keuangan dan meningkatkan profitabilitas di masa depan.</p><h3><br></h3><h3>Pros:</h3><ul class=\"ql-li\"><li>Dominasi pasar: DYAN menguasai 30% market MICE, menunjukkan posisi kuat dalam industri</li><li>Pengalaman: Berpengalaman dalam menyelenggarakan event tahunan dan acara penting seperti IIMS</li><li>Margin tinggi: Sektor konvensi dan eksibisi memberikan margin laba yang tinggi (GPM hingga 72%)</li><li>Pemulihan pasca-Covid: Kinerja meningkat signifikan setelah pandemi, menunjukkan daya tahan bisnis</li><li>Manajemen berpengalaman: Direktur utama saat ini memiliki pengalaman luas di berbagai lini bisnis DYAN</li></ul><h3><br></h3><h3>Cons:</h3><ul class=\"ql-li\"><li>Beban operasional tinggi: Terutama beban gaji dan kompensasi yang mencapai 12-15% dari pendapatan</li><li>Diversifikasi pendapatan: Ekspansi ke segmen tourism and leisure yang belum terbukti seprofitable MICE</li><li>Historis kinerja fluktuatif: Performa keuangan yang tidak konsisten di masa lalu</li><li>Piutang besar ke MGPA dan PPI (pengelola sirkuit Mandalika) sebesar Rp 28 M, setara 30% - 40% dari laba bersih 2023. Meskipun sebagian sudah dilunasi di Q3 2024 kemarin.</li><li>History capital allocation yang kurang efisien (capex hotel yang dimiliki oleh pengendali).</li></ul><p><br></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "disclaimer",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <i><b>Disclaimer: Artikel analisa ini bukanlah merupakan sebuah rekomendasi ataupun ajakan untuk jual atau beli saham tertentu. \nArtikel ini hanya untuk kepentingan edukasi dan informasi saja. \nSegala data yang disajikan bersumber dari publikasi yang disampaikan kepada publik melalui Annual Report, \nPublic Expose ataupun Laporan Keuangan emiten.</i></b><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      }
+    ],
+    "is_show_header": 1,
+    "header_type": "with_menu",
+    "is_show_footer": 1,
+    "footer_type": "with_menu",
+    "visibility": "membership;membership_and_portofolio;fbjarvis;spesial;",
+    "created_at": "2024-12-10T08:29:48.000000Z",
+    "updated_at": "2024-12-10T08:52:57.000000Z",
+    "deleted_at": null,
+    "created_by": {
+      "id": 2,
+      "fullname": "Midas Super Admin",
+      "email": "admin@midascuan.id",
+      "role": "superadmin",
+      "has_link_product": 0,
+      "ip_address": null,
+      "last_login_ip": null,
+      "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+      "member_active_roles": [
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ],
+      "member_roles": [
+        {
+          "id": 109970,
+          "user_id": 2,
+          "role_id": 1,
+          "expired_date": "2025-02-27 00:45:00",
+          "created_at": "2023-05-25T18:59:06.000000Z",
+          "updated_at": "2025-02-20T15:45:14.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 1,
+            "title": "Portofolio",
+            "role": "portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:07:38.000000Z",
+            "updated_at": "2024-08-16T09:56:18.000000Z"
+          }
+        },
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ]
+    },
+    "updated_by": {
+      "id": 2,
+      "fullname": "Midas Super Admin",
+      "email": "admin@midascuan.id",
+      "role": "superadmin",
+      "has_link_product": 0,
+      "ip_address": null,
+      "last_login_ip": null,
+      "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+      "member_active_roles": [
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ],
+      "member_roles": [
+        {
+          "id": 109970,
+          "user_id": 2,
+          "role_id": 1,
+          "expired_date": "2025-02-27 00:45:00",
+          "created_at": "2023-05-25T18:59:06.000000Z",
+          "updated_at": "2025-02-20T15:45:14.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 1,
+            "title": "Portofolio",
+            "role": "portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:07:38.000000Z",
+            "updated_at": "2024-08-16T09:56:18.000000Z"
+          }
+        },
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ]
+    },
+    "deleted_by": null
+  },
+  "changes": 0
+}

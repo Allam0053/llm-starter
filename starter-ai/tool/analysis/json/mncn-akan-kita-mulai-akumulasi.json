@@ -1,0 +1,1419 @@
+{
+  "id": 7,
+  "page_id": 15,
+  "image_url": "https://api.midascuan.id/storage/resources/MNCN_logo_pic.png",
+  "code": "MNCN",
+  "buy_price": 968,
+  "current_price": 0,
+  "valuation": 1460,
+  "margin_of_safety": 57.19,
+  "created_at": "2021-05-20T08:23:20.000000Z",
+  "updated_at": "2025-12-29T07:00:05.000000Z",
+  "status": "published",
+  "created_by": null,
+  "updated_by": {
+    "id": 2,
+    "fullname": "Midas Super Admin",
+    "email": "admin@midascuan.id",
+    "role": "superadmin",
+    "has_link_product": 0,
+    "ip_address": null,
+    "last_login_ip": null,
+    "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+    "member_active_roles": [
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ],
+    "member_roles": [
+      {
+        "id": 109970,
+        "user_id": 2,
+        "role_id": 1,
+        "expired_date": "2025-02-27 00:45:00",
+        "created_at": "2023-05-25T18:59:06.000000Z",
+        "updated_at": "2025-02-20T15:45:14.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 1,
+          "title": "Portofolio",
+          "role": "portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:07:38.000000Z",
+          "updated_at": "2024-08-16T09:56:18.000000Z"
+        }
+      },
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ]
+  },
+  "deleted_at": null,
+  "deleted_by": null,
+  "page": {
+    "id": 15,
+    "title": "MNCN akan kita mulai akumulasi",
+    "slug": "mncn-akan-kita-mulai-akumulasi",
+    "type": "analysis",
+    "status": "published",
+    "content_html": "\"\"",
+    "content_json": [
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center mt-4\"><h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">MNCN akan kita mulai akumulasi</h2></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\"><div class=\"w-full md:w-1/2 flex flex-col md:flex-row justify-center gap-2 mt-1 mb-1 border-t border-b-2 border-black p-1\">\n\n<p class=\"my-auto\"><i class=\"fa fa-user-circle my-auto\"></i> by Felix  Haridinata</p>\n\n<p class=\"my-auto\"><i class=\"ml-2 fa fa-calendar my-auto\"></i> Mei 20, 2021</p>\n\n<p class=\"my-auto\"><i class=\"ml-2 fa fa-tags my-auto\"></i> MNCN, Consumer Cyclicals</p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n<p class=\"font-bold italic\">Disclaimer: Artikel ini hanya bersifat analisa dan edukasi. Artikel ini bukanlah rekomendasi beli atau jual saham tertentu. Segala keputusan investasi merupakan tanggung jawab Anda sendiri</p>\n</div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>Industri media, sebenarnya tidak terlalu sulit untuk dipahami. Stasiun TV membuat konten acara, konten ini bisa diproduksi <span class=\"italic\">in house</span> (contoh: sinetron, indonesian idol) atau beli konten dari tempat lain (nickelodeon, sepakbola, kartun, dsb).</p><br />\n\n<p>Semakin banyak orang yang nonton, semakin bagus, artinya TV bisa menjual iklan.</p><br />\n\n<p>Konten – konten tersebut dapat dinikmati oleh setiap orang yang <span class=\"italic\">tune in</span> ke saluran TV secara gratis. Lalu perusahaan media menjual iklan kepada perusahaan yang mau menayangkan iklan di TV nya.</p><br />\n\n<p>Hal ini adalah great business selama berpuluh – puluh tahun, sampai datanglah instagram, youtube ke Indonesia yang mulai marak sekali di tahun 2014 – 2015.</p><br />\n\n<p>Jika kita bicara industri televisi, industri ini sempat “terpuruk” dengan datangnya social media. Attention orang sudah bukan lagi nonton tv tapi scrolling instagram, youtube, atau bahkan nonton film di netflix.</p><br />\n\n<p>Saya saja, meskipun di rumah ada TV, tidak tune in ke saluran TV manapun. Kebanyakan dipakai untuk nonton netflix, youtube, atau bahkan main game. Sudah lama sekali saya tidak nonton TV seperti RCTI, SCTV, dsb.</p><br />\n\n<p>SCMA, yang punya SCTV labanya turun sejak 2015 dari Rp 1,5 T menjadi “hanya” Rp 1 Triliun di 2020 kemarin.</p><br />\n\n<p>MNCN, yang punya MNC TV, RCTI, dan Global TV juga sempat mengalami penurunan laba dari Rp 1,8 T menjadi Rp 1,2 T dari 2014 – 2015.</p><br />\n\n<p>Akibat tidak menariknya TV, menurunnya laba, harga saham – saham media di pasar pun turun. </p><br />\n\n<p>SCMA turun dari puncak Rp 4800 di 2015 menjadi Rp 1400an di 2021 ini.</p><br />\n\n<p>MNCN juga sama, dari Rp 3600 di 2014 menjadi Rp 925 di 2021 ini. Tapi penurunan MNCN agak aneh, anehnya dimana? Lanjutkan membaca dulu ya..</p>\n\n</div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 24,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">Apakah TV masih menarik?</h3></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>Meskipun banyak orang sudah tidak nonton TV, “youtube lebih dari TV” istilahnya, tapi bukan berarti semua stasiun TV kehilangan pamor.</p><br />\n\n<p>Di tengah “terpuruknya” TV, MNCN mampu meningkatkan pangsa pemirsanya dari awalnya 34% di 2020 menjadi 52% di 2021 pada waktu <span class=\"italic\">Prime Time</span>.</p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://midas-api.arqanza.com/storage/resources/pangsa-pemirsa-ytd-2021.png",
+        "altText": "MIDAS Cuan - MNCN",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<p class=\"italic\">Sumber: Investor Release MNCN 2021</p>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 12,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>Waktu Prime Time adalah waktu banyak orang sedang santai, lalu nonton TV.</p><br />\n\n<p>Lalu berapa banyak orang yang masih nonton TV di Indonesia?</p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://midas-api.arqanza.com/storage/resources/konsumsi-televisi-indonesia.png",
+        "altText": "MIDAS Cuan - MNCN",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Sumber : <a class=\"break-all\" style=\"color: #FFDD28;\" href=\"https://databoks.katadata.co.id/datapublish/2020/01/16/televisi-media-paling-banyak-dikonsumsi-milenial-indonesia\" target=\"_blank\" rel=\"noreferrer\">katadata.co.id</a>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 12,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>Ternyata, berdasarkan data, yang nonton TV masih banyak porsinya. TV masih menjadi salah satu media yang mampu menjangkau mass audience. Meskipun penetrasi social media cukup cepat, tapi dominasi TV itu masih jauh lebih besar.</p><br />\n\n<p>Hal ini dikarenakan tidak semua daerah di Indonesia mampu dijangkau jaringan internet yang sebaik di perkotaan besar.</p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://midas-api.arqanza.com/storage/resources/indonesia-advertising-market-share.png",
+        "altText": "MIDAS Cuan - MNCN",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<p class=\"italic\">Sumber: Investor Release MNCN 2020</p>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 12,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>TV secara umum “dikuasai” oleh 2 grup, MNC dan SCM (SCTV). Terlihat dari pangsa pasar pemirsa yang dominan di kedua grup ini.</p><br />\n\n<p>Terlihat dari performa keuangan dengan Stocks Treasure Maps, hanya ada 2 saham yang menonjol, yaitu MNCN dan SCMA.</p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 24,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">MNCN vs SCMA</h3></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>Lalu, pilih mana diantara 2 ini? Sekilas, SCMA lebih superior karena memberikan ROE lebih tinggi, 32%. MNCN baru 14%an ROE nya. Lalu apakah ini artinya SCMA lebih bagus? Tunggu dulu.</p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 24,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">Mari kita lihat tren ROW dari MNCN maupun SCMA</h3></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<center><div class=\"grid grid-cols-1 md:grid-cols-2 gap-4 mx-4 md:mx-20 lg:mx-60 w-full md:w-1/2 lg:w-1/3\">\n<img src=\"https://midas-api.arqanza.com/storage/resources/mncn-roe.png\" alt=\"MIDAS Cuan - MNCN\" />\n<img src=\"https://midas-api.arqanza.com/storage/resources/scma-roe.png\" alt=\"MIDAS Cuan - MNCN\" />\n</div></center>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 12,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>Setelah kita lihat dalam 5 tahun terakhir, ternyata tren ROE SCMA cenderung turun, tapi MNCN cenderung naik.</p><br />\n\n<p>Ini memberikan gambaran yang penting bagi kita untuk menentukan saham mana yang akan kita pilih.</p><br />\n\n<p>Kedua perusahaan sama – sama mampu meningkatkan ekuitas (modal) nya. Akan tetapi, wonderful companies mampu mempertahankan maupun meningkatkan ROE dari setiap ekuitas (modal) yang bertambah.</p><br />\n\n<p>Dengan demikian, ini adalah resep agar kekayaan pemegang saham semakin bertumbuh dari tahun ke tahun.</p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 24,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">Bagaimana dengan laba bersih MNCN vs SCMA?</h3></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<center><div class=\"grid grid-cols-1 md:grid-cols-2 mx-4 md:mx-20 lg:mx-60 gap-4 w-full md:w-1/2 lg:w-1/3\">\n<img src=\"https://midas-api.arqanza.com/storage/resources/laba-bersih-mncn.png\" alt=\"MIDAS Cuan - MNCN\" />\n<img src=\"https://midas-api.arqanza.com/storage/resources/laba-bersih-scma.png\" alt=\"MIDAS Cuan - MNCN\" />\n</div></center>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 12,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>Laba SCMA cenderung turun dengan rata – rata -5% dalam 5 tahun terakhir, sedangkan MNCN mampu bertumbuh dengan rata – rata 16% per tahun!</p><br />\n\n<p>PER SCMA 18,6x </p><br />\n\n<p>PER MNCN 7,32x</p><br />\n\n<p>Lalu, ini pergerakan laba dan harga masing-masing.</p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<center><div class=\"grid grid-cols-1 md:grid-cols-2 gap-4 mx-4 md:mx-20 lg:mx-60 w-full md:w-1/2 lg:w-1/3\">\n<img src=\"https://midas-api.arqanza.com/storage/resources/pergerakan-harga-mncn.png\" alt=\"MIDAS Cuan - Pergerakan harga MNCN\" />\n<img src=\"https://midas-api.arqanza.com/storage/resources/pergerakan-harga-scma.png\" alt=\"MIDAS Cuan - Pergerakan harga SCMA\" />\n</div></center>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 12,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>Tidak perlu jurus susah - susah kan menentukan mana yang akan kita pilih?</p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 24,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">Sumber Pertumbuhan MNCN</h3></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>Apa yang membuat MNCN mampu bertumbuh lebih tinggi dari SCMA? Pasti ada sebabnya.</p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://midas-api.arqanza.com/storage/resources/mncn-group.png",
+        "altText": "MIDAS Cuan - Sumber Pertumbuhan MNCN",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>MNCN memiliki 3 divisi utama, FTA (Free to Air), Konten, dan Digital.</p><br />\n\n<p>Konten diproduksi oleh divisi konten, bisa dijual ke pihak ketiga atau ditayangkan ke channel sendiri di FTA dan Digital.</p><br />\n\n<p>Pendapatan FTA dan Digital adalah dari pendapatan iklan. Mari kita lihat breakdown pendapatan MNCN.</p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://midas-api.arqanza.com/storage/resources/pendapatan-usaha-mncn.png",
+        "altText": "MIDAS Cuan - Pendapatan Usaha MNCN",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>Pendapatan <strong>iklan digital</strong> MNCN tumbuh luar biasa dengan rata – rata pertumbuhan 93.08% setiap tahun. 2020 kemarin, iklan digital dari MNCN sudah hampir tembus Rp 1T. Kita melihat, tren ini masih akan terus berlanjut di masa depan. </p><br />\n\n<p>Pendapatan iklan non digital MNCN memang sempat turun di 2020 kemarin, ini dikarenakan banyak brand sedang melakukan pemotongan budget untuk iklannya. Kondisi ini wajar.</p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 24,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">Divisi Digital MNCN</h3></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>MNCN saat ini memiliki satu aplikasi streaming digital bernama RCTI+, bayangkan seperti netflix tapi di dalamnya adalah tayangan – tayangan acara RCTI. </p><br />\n\n<p>Mulai dari Indonesian Idol, Sinetron, dsb. Yang bisa ditonton kapanpun.</p><br />\n\n<p>Hal ini adalah hal yang menarik bagi penikmat konten RCTI, otomatis pertumbuhan RCTI+ ini tumbuh seperti startups.</p><br />\n\n<p>RCTI+ diluncurkan September 2019, di akhir tahun 2019 RCTI+ sudah mencatat Monthly Active Users (Pengguna aktif bulanan) sebesar 1,9 juta.</p><br />\n\n<p>Pada April 2021 ini, MAU RCTI+ sudah naik hingga 30,5 juta. Angka ini jauh lebih tinggi dari pengguna Netflix di Indonesia yang berjumlah 2,6 juta.</p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://midas-api.arqanza.com/storage/resources/monthly-mau-growth-of-rcti-plus.png",
+        "altText": "MIDAS Cuan - Monthly MAU Growth of RCTI+ (in million)",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<p class=\"italic\">Sumber: MNCN Press Release 2021</p>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 12,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>Semakin banyak pengguna, semakin besar pendapatan iklan yang akan diterima MNCN dari RCTI+ ditambah lagi sinetron “Ikatan Cinta” selalu menduduki peringkat pertama sebagai sinetron paling ditonton di Indonesia.</p><br />\n\n<p>Ketika “Ikatan Cinta” tayang, sinetron tersebut mampu menyerap 40% pangsa pemirsa. <strong>Angka ini adalah angka tertinggi sepanjang masa di Indonesia</strong>. Sebuah angka yang luar biasa.</p><br />\n\n<p>Meskipun saya ga nonton sinetron tersebut, tapi banyak orang nonton dan suka. Berinvestasi pada hal yang disukai banyak orang lebih baik daripada berinvestasi hanya pada hal yang kita sukai tapi belum tentu banyak orang suka. </p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 24,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">Valuasi MNCN, Rp 950/lembar terlalu murah?</h3></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>Saat ini, MNCN diperdagangkan dengan PER 7.28X dan PBV 1.04X. </p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://midas-api.arqanza.com/storage/resources/mncn-data.png",
+        "altText": "MIDAS Cuan - Data Statistik MNCN",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>Setiap tahun, MNCN mampu menghasilkan CFO Rp 1.5 – 2 Triliun dan mengeluarkan Capex Rp 500-600 miliar/tahun. Angka yang oke, meskipun tidak terlalu exciting.</p><br />\n\n<p>Lalu, aset tetap yang tercatat dimiliki MNCN Rp 5,6 T dan dari aset tetap ini MNCN mampu menghasilkan penjualan Rp 7-8 Triliun. Angka yang cukup baik, kendati banyak perusahaan di BEI yang belum tentu mampu menghasilkan penjualan lebih tinggi dari aset tetapnya.</p><br />\n\n<p>Dari angka ini, MNCN bisa dibilang hampir CEC (Capital Efficient Company). Cuma tidak seefisien HMSP, KEJU, UNVR, ARNA yang sebelumnya sudah pernah kita bahas.</p><br />\n\n<p>Untuk menghitung nilai wajar MNCN, saya akan menggunakan metode EPS growth dan Discounted Model yang sudah dibahas di Online Course Part 3. Silahkan di cek bagi yang belum tahu.</p><br />\n\n<p>EPS Growth menghasilkan intrinsic value MNCN Rp 1460</p><br />\n\n<p>Discounted model menghasilkan intrinsic value MNCN Rp 1681</p><br />\n\n<p>Kita ambil Rp 1460 saja agar perhitungannya menjadi lebih konservatif. Rp 1460 ini masih menawarkan Margin of Safety (Diskon) sebesar 35% jika kita membelinya di harga sekarang Rp 950.</p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 24,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">Action</h3></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p class=\"font-bold\">Kita alokasikan portfolio kita untuk mengakumulasi MNCN selama masih di bawah Rp 1000 (25% diskon dari intrinsic value).</p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 24,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"mx-4 md:mx-20 lg:mx-60 py-6\">\n\n<div class=\"w-full h-px border-t-4 rounded-full border-yellow-500\" style=\"border-color: #FFDD28;\"></div>\n\n<div class=\" flex justify-between mt-6\">\n\n<a href=\"/analisa-powr\">\n  <i class=\"fa fa-arrow-left\"></i>\n  Previous Post\n</a>\n\n<a href=\"/mncn-akan-kita-mulai-akumulasi\">\n  Next Post\n  <i class=\"fa fa-arrow-right\"></i>\n</a>\n\n</div>\n\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "#020202",
+          "textColorHex": "#ffdd28",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      }
+    ],
+    "is_show_header": 1,
+    "header_type": "with_menu",
+    "is_show_footer": 1,
+    "footer_type": "with_menu",
+    "visibility": "membership_and_portofolio;membership;fbjarvis;spesial;",
+    "created_at": "2021-05-19T17:00:00.000000Z",
+    "updated_at": "2023-04-04T06:46:09.000000Z",
+    "deleted_at": null,
+    "created_by": {
+      "id": 1,
+      "fullname": "Midas Automation",
+      "email": "bot@midascuan.id",
+      "role": "superadmin",
+      "has_link_product": 0,
+      "ip_address": null,
+      "last_login_ip": null,
+      "picture_url": null,
+      "member_active_roles": [],
+      "member_roles": []
+    },
+    "updated_by": {
+      "id": 2,
+      "fullname": "Midas Super Admin",
+      "email": "admin@midascuan.id",
+      "role": "superadmin",
+      "has_link_product": 0,
+      "ip_address": null,
+      "last_login_ip": null,
+      "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+      "member_active_roles": [
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ],
+      "member_roles": [
+        {
+          "id": 109970,
+          "user_id": 2,
+          "role_id": 1,
+          "expired_date": "2025-02-27 00:45:00",
+          "created_at": "2023-05-25T18:59:06.000000Z",
+          "updated_at": "2025-02-20T15:45:14.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 1,
+            "title": "Portofolio",
+            "role": "portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:07:38.000000Z",
+            "updated_at": "2024-08-16T09:56:18.000000Z"
+          }
+        },
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ]
+    },
+    "deleted_by": null
+  },
+  "changes": -100.25
+}

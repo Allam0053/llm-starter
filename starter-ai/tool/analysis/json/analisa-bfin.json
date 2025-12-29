@@ -1,0 +1,2338 @@
+{
+  "id": 77,
+  "page_id": 143,
+  "image_url": "https://api.midascuan.id/storage/resources/bfin_logo.webp",
+  "code": "BFIN",
+  "buy_price": 0,
+  "current_price": 0,
+  "valuation": 0,
+  "margin_of_safety": 0,
+  "created_at": "2024-09-23T10:09:49.000000Z",
+  "updated_at": "2025-12-29T07:00:05.000000Z",
+  "status": "published",
+  "created_by": {
+    "id": 2,
+    "fullname": "Midas Super Admin",
+    "email": "admin@midascuan.id",
+    "role": "superadmin",
+    "has_link_product": 0,
+    "ip_address": null,
+    "last_login_ip": null,
+    "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+    "member_active_roles": [
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ],
+    "member_roles": [
+      {
+        "id": 109970,
+        "user_id": 2,
+        "role_id": 1,
+        "expired_date": "2025-02-27 00:45:00",
+        "created_at": "2023-05-25T18:59:06.000000Z",
+        "updated_at": "2025-02-20T15:45:14.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 1,
+          "title": "Portofolio",
+          "role": "portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:07:38.000000Z",
+          "updated_at": "2024-08-16T09:56:18.000000Z"
+        }
+      },
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ]
+  },
+  "updated_by": {
+    "id": 2,
+    "fullname": "Midas Super Admin",
+    "email": "admin@midascuan.id",
+    "role": "superadmin",
+    "has_link_product": 0,
+    "ip_address": null,
+    "last_login_ip": null,
+    "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+    "member_active_roles": [
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ],
+    "member_roles": [
+      {
+        "id": 109970,
+        "user_id": 2,
+        "role_id": 1,
+        "expired_date": "2025-02-27 00:45:00",
+        "created_at": "2023-05-25T18:59:06.000000Z",
+        "updated_at": "2025-02-20T15:45:14.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 1,
+          "title": "Portofolio",
+          "role": "portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:07:38.000000Z",
+          "updated_at": "2024-08-16T09:56:18.000000Z"
+        }
+      },
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ]
+  },
+  "deleted_at": null,
+  "deleted_by": null,
+  "page": {
+    "id": 143,
+    "title": "Analisa BFIN",
+    "slug": "analisa-bfin",
+    "type": "analysis",
+    "status": "published",
+    "content_html": "\"\"",
+    "content_json": [
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Analisa BFIN\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "post-detail",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 flex flex-col md:flex-row justify-center gap-2 mt-1 mb-1 border-t border-b-2 border-black p-1\">\n        <p class=\"my-auto\">\n            <i class=\"fa fa-user-circle my-auto\"></i> \n\tNixon Albert & Felix Haridinata\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-calendar my-auto\"></i> \n\tSept 23, 2024\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-tags my-auto\"></i> \n\tBFIN\n        </p>\n\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 18,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 20,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t BFI Finance adalah perusahaan leasing yang berfokus pada pembiayaan otomotif, utamanya mobil dan motor, sisanya adalah pembiayaan lain-lain. \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_01.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Pemegang saham terbesar BFIN adalah Trinugraha Capital & Co SCA yang merupakan perusahaan konsorsium milik Jerry Ng dan Garibaldi Thohir (Boy Thohir). Kemudian terdapat NTAsian Discovery Master Fund adalah fund yang dikelola oleh NTAsset, perusahaan pengelola investasi yang memiliki spesialisasi investasi pada saham small and mid-cap di Asia. Sisanya dimiliki oleh masyarakat dan lain-lain dengan kepemilikan di bawah 5%. \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        <i><u>BUSINESS MODEL</u></i>\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "bullet",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \nBisnis leasing pada umumnya mempunyai yield yang lebih besar dibandingkan dengan yield bank, hal  ini karena : \n<br /><br />\n          <ol style=\"list-style-type: disc;padding-left:50px\">\n            <li> \n          Bank dalam menyalurkan pinjamannya mengajukan syarat yang lebih rumit sehingga keuangan mereka cenderung lebih aman dan oleh karena itu bunganya lebih kecil. \n            </li><br />\n            <li> \n          Leasing dalam menyalurkan pinjaman tidak dibutuhkan syarat yang sulit sehingga mereka mengambil risiko yang cenderung lebih besar dan untuk mengatasi itu maka perusahaan leasing menerapkan bunga yang tinggi. \n            </li>\n          </ol>\n<br />\nPerbedaan mekanisme pemberian pinjaman perusahaan Leasing dan Banking : \n<br /><br />\n<b>Bank</b> = meminjamkan uang sesuai dengan perjanjian dan debitur membeli sendiri aset yang akan dibeli sehingga akan terdapat beberapa tahapan untuk menyita aset apabila terjadi masalah\n<br /><br />\n<img src=\"https://api.midascuan.id/storage/resources/bfin_data_02.webp\">\n<br />\n<b>Leasing</b> = kreditur membelikan aset yang diajukan, dan kemudian debitur mengangsur kepada pihak leasing, oleh karena itu apabila terjadi masalah maka perusahaan leasing akan dengan mudah menyita asetnya\n<br /><br />\n<img src=\"https://api.midascuan.id/storage/resources/bfin_data_03.webp\">\n<br /><br />\nSegmen dari bisnis BFIN utamanya yaitu melalui Consumer Financing (pembiayaan konsumen) yang terdiri dari 2 jenis yaitu melalui dealer dan non-dealer financing (NDF).\n<br /><br />\n          <ol style=\"list-style-type: disc;padding-left:50px\">\n            <li> \n          Dealer; BFIN bekerjasama dengan dealer untuk menawarkan pembiayaan kepada pelanggannya menggunakan jasa leasing BFIN.             </li><br />\n            <li> \n          Non-Dealer; pelanggan langsung mengajukan pinjaman kepada BFIN tanpa melalui dealer. \n            </li>\n          </ol>\n\t  </p><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        <i><u>Seberapa Profitable Bisnis Leasing?</u></i>\n    </h2>\n</div><br/>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_04.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Dari sisi ROE sempat menyentuh hampir di angka 25%, namun mulai menurun drastis pada tahun 2019 yang tersisa 11,71% dan ditambah dengan kondisi pandemi yang menghasilkan ketidakpastian ekonomi sehingga ROE sisa 10,62%. Perlahan-lahan seiring berjalannya waktu ROE mulai recover namun mulai turun sedikit di tahun 2023. Untuk menganalisa kondisi ROE, kita akan menggunakan metode DuPont (NPM; FL; AT).\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_05.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Pertama kita akan bahas dari asset turnover (laba dibandingkan total aset) yang menggambarkan seberapa besar laba yang dihasilkan dengan aset yang dimilikinya. \n<br /><br />\nAsset turnover BFIN tahun 2017 itu mengalami peningkatan dibandingkan tahun-tahun sebelumnya yang disitu-situ aja. AT mencapai all time highnya di angka 2,8 (terpotong pada chart). \n<br /><br />\nPada tahun 2021 - 2022, AT mengalami sedikit penurunan tetapi apabila kita bandingkan dengan tahun-tahun sebelumnya, penurunan ini tidak drastis dan pada tahun 2023 juga mampu recover di poin 0,25. Jadi dari sisi asset turnover tidak ada masalah.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_06.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Next kita akan melihat financial leverage untuk melihat tingkat utang yang dimiliki perusahaan. Pada umumnya, financial leverage yang meningkat berarti buruk karena porsi utangnya meningkat. Lain ceritanya pada perusahaan leasing, peningkatan FL justru bagus karena menunjukkan bahwa pertumbuhan pembiayaan yang disalurkan meningkat. \n<br /><br />\nMengapa seperti itu? karena pinjaman yang dilakukan mostly menggunakan utang, dan apabila utangnya meningkat berarti penyaluran pembiayaannya juga meningkat (utang produktif). Nanti kita akan melihat porsi sumber dana BFIN untuk melihat seberapa besar pinjaman yang diterima untuk disalurkan dalam penyaluran pembiayaan baru. \n<br /><br />\nJustu yang tidak kita inginkan adalah saat perusahaan leasing mengalami penurunan FL seperti pada 2020, itu artinya perusahaan mengurangi porsi “utangnya” untuk menyalurkan pembiayaan karena pada kondisi ekonomi yang tidak pasti, tentu saja perusahaan juga akan meminimalisir risikonya.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_07.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "bullet",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p> <br /><br />\nDari sisi NPM kita bisa melihat dari tahun 2012 - 2018 itu stabil di angka 30% dan pada 2019 terjadi penurunan mendalam hingga 14,25%, nanti kita akan lihat alasan dibalik hal ini. Kemudian pada saat pandemi juga masih menurun, tapi pada tahun 2021 BFIN mampu untuk langsung recover ke NPM normalnya. \n<br /><br />\nTahun 2022 BFIN mencatatkan kinerja NPM 35% yang sangat baik apabila dibandingkan dengan tahun-tahun sebelumnya. Setelah itu pada tahun 2023 NPM mengalami penurunan menuju 27%, nanti kita juga akan breakdown alasan dari penurunan NPM ini. \n<br /><br />\n2023 full-year (27,70%) vs 2023 first-half (21,85%)\n<br /><br />\nfullyear = Q1 - Q4; first-half = Q1 - Q2; second-half = Q3 - Q4\n<br /><br />\nfirst half NPMnya lebih kecil dibandingkan full year, berarti kita bisa berasumsi bahwa ada beban-beban yang dibayarkan pada saat first-half dan sudah tidak perlu dibayarkan pada second-half. Kita akan cek lebih dalam lagi dari porsi beban terhadap pendapatannya. \n<br /><br />\nJadi yang perlu dibreakdown dari NPM :\n          <ol style=\"list-style-type: disc;padding-left:50px\">\n            <li> \n          penurunan NPM 2019\n            </li>\n            <li> \n          penurunan NPM dari 2022 > 2023 karena beban apa\n            </li>\n            <li> \n          compare beban full-year dengan first-half\n            </li>\n          </ol>\n<br /><br />\nTahun 2019, NPM dari perusahaan mengalami penurunan drastis padahal saat itu belum pandemi, jadi apa yang menjadi penyebabnya? \n\t  </p><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        <i><u>Kasus dengan PT Aryaputra Teguharta</u></i>\n    </h2>\n</div><br/>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_08.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 20,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 20,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_09.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Apabila kita cek pada tahun 2019 itu terdapat beban lain-lain yang meningkat sangat drastis dan hal ini dikarenakan pada masa lalu terdapat permasalahan hukum dengan mantan pemegang saham yakni PT Aryaputra Teguharta mengenai kepemilikan saham BFIN. \n<br /><br />\nUntuk menyelesaikan masalah ini sehingga tidak semakin panjang dan untuk memastikan tidak ada gangguan hukum, perusahaan memutuskan untuk melakukan perjanjian penyelesaian sengketa hukum sebesar Rp 700 miliar yang membebankan perusahaan dari sisi laba. \n<br /><br />\nNamun dari sisi kinerja saat itu perusahaan masih mencetak laba dan bahkan juga mengalami sedikit pertumbuhan, dari masalah ini tidak ada yang harus kita khawatirkan dari sisi BFIN.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_10.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Sekarang kita akan kembali pada pembahasan NPM, apakah benar ada beban yang dibayarkan pada saat first-half dan sudah tidak perlu dibayarkan pada second-half?\n<br /><br />\nDari data ini kita bisa melihat misalnya pada first-half 2021 NPMnya lebih kecil dibandingkan second-half 2021, selain itu pada tahun 2023 juga terjadi hal yang sama. Namun secara garis besar data ini sangat tidak konsisten jadi tidak bisa dengan pasti mengambil kesimpulan seperti itu saja. Oleh karena itu kita coba lihat lebih dalam dari breakdown cost to revenue comparison.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_11.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Kemudian kita akan melihat alasan dibalik menurunnya NPM 2022 menuju 2023. Ternyata yang menjadi faktornya adalah beban bunga yang meningkat +/- 3% dan yang lebih parahnya lagi adalah beban ckpn yang naik sangat drastis bahkan hampir 2x dari ckpn tahun 2022. Jadi di sini kita melihat beban bunga yang meningkat dan kualitas pembiayaan yang memburuk.  \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_12.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Sekarang kita akan melihat alasan dibalik NPM full-year yang kecil dibandingkan dengan NPM first-half yang sangat besar. Ternyata hal ini disebabkan oleh pada saat Q1, BFIN mengajukan pinjaman yang besar, namun ternyata di periode selanjutnya penyaluran pembiayaan malah menurun. Oleh karena itu beban bunga yang dibayarkan pada saat awal juga menjadi besar. \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        <b>Jadi apa kesimpulan dari analisis DuPont ini terhadap penurunan ROE?</b>\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Untuk asset turnover itu sudah aman karena bisa dibilang sudah recover ke kondisi semula, kemudian dari sisi financial leverage juga masih bisa dibilang cukup baik meskipun belum sampai pada all time highnya. Terakhir untuk NPM yang terjadi adalah terjadi penurunan yang diakibatkan oleh faktor beban bunga dan ckpn. \n<br /><br />\nBeban bunga akan dipengaruhi oleh faktor suku bunga sehingga kenaikan dan penurunan beban bunga adalah hal yang wajar terjadi asalkan masih pada kondisi yang terkontrol. Dan biasanya jika suku bunga turun, perusahaan leasing bisa menerbitkan bonds baru dengan bunga lebih murah untuk membayar bonds lama.\n<br /><br />\nNamun untuk sisi ckpn itu berhubungan dengan pembiayaan yang bermasalah dan hal ini cukup menjadi hal yang mengkhawatirkan karena dengan ckpn yang meningkat maka profitabilitas juga akan menurun. Nanti kita akan breakdown lebih dalam mengenai hal ini apakah bisa ditoleransi atau tidak.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        <i><u>PIUTANG PEMBIAYAAN</u></i>\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Piutang pembiayaan adalah variable paling penting untuk dilihat karena akun ini menunjukkan berapa total pinjaman yang telah disalurkan, semakin banyak pinjaman yang disalurkan maka semakin banyak juga potensi akan keuntungan yang akan diperoleh semakin besar. Pertumbuhan piutang pembiayaan >> pertumbuhan pendapatan. \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_13.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t (data diatas dalam Rp miliar)\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 15,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Piutang pembiayaan BFIN terus mengalami peningkatan hingga pada 2020 saat terjadi pandemi dimana perekonomian melemah dan pengajuan pinjaman otomatis akan semakin sedikit karena semua orang waspada sehingga menekan pengeluarannya.\n<br /><br />\nKemudian pada tahun 2021 perusahaan setidaknya mampu untuk mempertahankan kondisi agar tidak jatuh lebih dalam dan pada 2022 sudah mampu mencatatkan piutang pembiayaan all time high. Ini merupakan suatu hal yang baik yang ditunjukkan BFIN melalui kemampuan mereka untuk dengan cepat recover setelah terjadi ketidakpastian ekonomi. \n<br /><br />\nPada tahun 2023 perusahaan tidak mengalami kenaikan signifikan pada piutang pembiayaan, namun di sisi lain yield meningkat. Hal ini terjadi kemungkinan besar karena adanya pelemahan perputaran perekonomian karena seperti yang bisa kita lihat pada tahun 2020 saat ekonomi buruk, maka yield cenderung meningkat karena dengan ini perusahaan mengambil risiko yang lebih besar dan begitu juga menurut pandangan kami pada tahun 2023.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        <i><u>Yield</u></i>\n    </h2>\n</div><br/>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_14.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Seperti yang dijelaskan mengenai mekanisme di atas, bisa dilihat bahwa yield yang diterima BFIN sebagai perusahaan leasing ini tinggi dan konsisten di 26% - 30%. \n<br /><br />\nSaat terjadi ketidakpastian perekonomian pada tahun 2020, yieldnya semakin tinggi dari rata-rata. Hal ini dikarenakan ditengah ketidakpastian ekonomi, pembiayaan yang mereka salurkan pastinya akna menjadi jauh lebih berisiko dari biasanya sehingga menjadi fair apabila mereka juga menaikkan tingkat bunga yang membawa kenaikan  yield.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        <i><b>Segmen Pembiayaan BFIN</b></i>\n    </h2>\n</div><br/>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_15.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Berikut kita bahas mengenai segmen pembiayaan BFIN. Porsi paling besar pembiayaan BFIN yaitu pembiayaan mobil, sisanya motor dan lain-lain. \n<br /><br />\nBerarti perusahaan akan sangat bergantung pada demand dari mobil itu sendiri dan oleh karena itu kinerja perusahaan juga bisa tercermin melalui kondisi dari segmen otomotif. Otomotif seperti apa yang dibiayai oleh BFIN?\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_16.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Berdasarkan persentasenya, BFIN paling banyak memberikan pembiayaan kepada second market (mobil bekas) sebesar 68.8%, pembiayaan sepeda motor sebesar 12.6% dan sisanya sebesar 18.6% terdapat segmen pembiayaan heavy equipment (yang paling besar di antara lain-lain), properti dan sharia. \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_17.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Pembiayaan berdasarkan brand menunjukkan perusahaan melayani brand mobil ternama paling banyak seperti Toyota, Mitsubishi, Honda, Daihatsu, dan seterusnya. Di sisi lain perusahaan sepertinya belum terkena dampak baik dari eksposur mobil listrik (EV) sehingga akan sangat bergantung pada mobil ICE (internal combustion engine). \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_18.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Pembiayaan motor mayoritas berasal dari Honda dan Yamaha. \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_19.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Dari segmen pembiayaan alat berat, BFIN memberikan data mengenai konsumennya yang mengambil\n<br /><br />\nDari segmen pembiayaan alat berat kita juga bisa melihat sektor-sektor yang berkontribusi besar pada keuangan perusahaan seperti sektor mining, construction, industrial dan manufacturing. Maka dari sini dilihat bahwa perusahaan akan sangat bergantung pada segmen-segmen tersebut.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        <u><i>OPEX Breakdown</i></u>\n    </h2>\n</div><br/>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_20.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "bullet",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p> <br />\nSelanjutnya kita akan bedah dari sisi OPEX untuk mengetahui beban apa saja yang mempengaruhi operasional. \n\n          <ol style=\"list-style-type: disc;padding-left:50px\">\n            <li> \n          Beban gaji dan tunjangan terus bertumbuh dengan CAGR 10.7% sejak 2016 - 2023\n            </li>\n<br />\n            <li> \n          Beban umum dan administrasi yang bertumbuh dengan CAGR 10.7% sejak 2016 - 2023\n            </li>\n          </ol>\n<br />\nUntuk beban umum dan administasi & gaji dan tunjangan, kita akan melakukan perbandingan dengan perusahaan sejenis yaitu ADMF karena beban-beban ini tidak terlalu terpengaruh oleh kondisi ekonomi seperti penurunan suku bunga dan lain sebagainya. \n<br /><br />\nJadi kita akan melakukan comparison dengan perusahaan sejenis untuk melihat apakah pertumbuhan bebannya ini wajar atau tidak. Kita coba bandingkan dengan ADMF:\n\t  </p><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_21.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 60,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Dari sisi pertumbuhan beban umum dan administasi & gaji dan tunjangan, kita melihat bahwa pertumbuhan beban BFIN ini jauh lebih besar dibandingkan dengan ADMF. \n<br /><br />\nTapi kita tidak bisa hanya melihat dari sisi kenaikan bebannya saja, melainkan kita juga perlu melihat dari aspek pertumbuhan kinerjanya dalam case perusahaan leasing yaitu pertumbuhan pembiayaannya.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_22.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 60,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "bullet",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p> <br /><br />\nTernyata apabila dilihat dari sisi kinerjanya dari 2016 - 2023, BFIN mencatatkan CAGR pertumbuhan pembiayaan sebesar 8,6% sedangkan ADMF hanya mampu mencapai CAGR 1%.\n<br /><br />\nDari sisi kinerjanya BFIN bertumbuh jauh lebih baik dibandingkan dengan ADMF dan karena ini kita bisa menyatakan bahwa kenaikan beban yang lebih tinggi juga menjadi hal yang wajar karena diikuti dengan kenaikan kinerja. Di sisi lain beban ADMF kecil ternyata dikarenakan pertumbuhan kinerjanya juga kecil. \n<br /><br />\nKita coba bahas dari sisi pertumbuhan pembiayaan. Pada saat covid tentu saja perusahaan leasing seperti BFIN dan ADMF ini kinerjanya menurun dan kita bisa lihat itu pada grafik di atas. Tetapi perbedaannya adalah pada tahun berikutnya BFIN langsung mampu recover meskipun sedikit, dibandingkan dengan ADMF yang malah mengalami penurunan kinerja lebih dalam. \n<br /><br />\nKemudian pada tahun 2022, BFIN mengalami kenaikan yang sangat signifikan yang membuat penyaluran pembiayaannya all time high sedangkan ADMF baru mulai recover dan masih jauh dari pembiayaan all time high yang berhasil disalurkannya. Dari sini kita melihat kemampuan dari BFIN untuk recover dan dalam menyalurkan pembiayaannya lebih baik dibandingkan ADMF.\n<br /><br />\n          <ol style=\"list-style-type: disc;padding-left:50px\">\n            <li> \n          CKPN: Beban berikutnya adalah CKPN. Ini merupakan pencadangan keuangan apabila terjadi gagal bayar (kredit macet) sehingga hal ini dibebankan kepada perusahaan. Pencadangan ini dilakukan berdasarkan pandangan perusahaan terhadap kondisi kredit yang mereka salurkan. Pada tahun 2023 CKPN meningkat banyak, jadi nanti kita akan mencari tahu apakah kualitas pembiayaan yang disalurkan memburuk atau hanya karena total pembiayaan yang meningkat. \n            </li>\n<br />\n            <li> \n          Beban bunga dan keuangan yang dibayar dari pinjaman baik melalui penerbitan surat utang maupun pinjaman kepada bank dan pastinya bunga ini akan bergantung dengan suku bunga dan kondisi ekonomi.\n            </li>\n          </ol>\n<br />\nUntuk beban CKPN dan beban bunga & keuangan, kita akan breakdown detailnya. \n\t  </p><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        <i>CKPN Breakdown</i>\n    </h2>\n</div><br/>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_23.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Dari sisi pencadangan kita lihat pada tahun 2020 meningkat sangat drastis karena kondisi ekonomi yang buruk pada saat itu. Terakhir pada 2023 di tingkat 3,9% sebenarnya rendah apabila dibandingkan dengan 7% kondisi covid. <b>Namun apabila dibandingkan tanpa melihat aspek worse case (covid), maka CKPN ini mencapai all time high nya, maka artinya kualitas pembiayaan memburuk.</b>\n<br /><br />\nJika kita compare antara Q2 2023 dengan Q2 2024, terlihat jelas bahwa persentase CKPN ini meningkat dan asumsinya kualitas pembiayaan mengalami penurunan. Menurut Ketua Umum Asosiasi Perusahaan Pembiayaan Indonesia (APPI) Suwandi Wiratno mengatakan bahwa saat ini industri financing sedang mengalami peningkatan NPF yang disebkan oleh <b>penurunan daya beli masyarakat yang diakibatkan oleh kenaikan harga barang pokok.</b>\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        <i>CKPN Per Segmen</i>\n    </h2>\n</div><br/>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_24.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t BFIN menyalurkan pinjamannya mostly untuk segmen mobil. Segmen yang pencadangannya paling tinggi yaitu pembiayaan motor dan dari CKPN motor sudah terlihat membaik dibandingkan tahun sebelumnya. Tetapi di sisi lain untuk pembiayaan mobil dan lain-lain, CKPNnya justru meningkat. \n<br /><br />\nSejauh Q2 2024, CKPN mobil mencapai 4,96% dan lain-lain mencapai 2,4%. Apabila kita abaikan CKPN saat covid, CKPN mobil saat ini sudah all time high. Apalagi mobil itu adalah segmen pembiayaan BFIN yang terbesar, sehingga kenaikan CKPN dari segmen mobil pastinya akan berpengaruh signifikan. \n<br /><br />\nUntuk melihat bigger picturenya, kita coba bandingkan lagi dengan perusahaan Adira Multifinance (ADMF) yang merupakan salah satu perusahaan leasing terbesar di Indonesia. \n<br /><br />\nBiasanya untuk CKPN kita membandingkannya dengan total pembiayaan yang disalurkan, namun dikarenakan ADMF tidak mencatatkan detail penyaluran pinjaman per segmen, makanya kita menggunakan perbandingan <b>CKPN / Pendapatan per segmen.</b>\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_25.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 60,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Dari grafik ini, kita bisa melihat segmen mobil dan lain-lain mengalami peningkatan dan untuk segmen motor mulai menunjukkan tanda-tanda recover. Tetapi secara keseluruhan CKPN meningkat karena segmen mobil merupakan segmen pembiayaan terbesar oleh BFIN sehingga akan berpengaruh signifikan terhadap perusahaan. Namun apabila dibandingkan dengan ADMF, terlihat bahwa BFIN lebih baik. \n<br /><br />\nADMF kita bisa lihat CKPN dari semua segmennya meningkat dan bahkan porsinya jauh lebih besar melebihi BFIN. \n<br /><br />\nNamun kita juga perlu menyadari bahwa <b>terdapat sedikit perbedaan dari jenis penyaluran dari dua perusahaan ini.</b> BFIN paling banyak menyalurkan pinjaman untuk mobil bekas sedangkan ADMF paling banyak menyalurkan pinjaman untuk motor baru. Hal ini menjadi salah satu faktor alasan dibalik ckpn ADMF yang lebih besar. Namun meskipun begitu, kita menjadi tau bahwa bisnis model BFIN secara beban ckpn jauh lebih kecil dibandingkan ADMF. \n<br /><br />\nADMF dengan pembiayaan otomotif baru nya pastinya akan mengalami risiko yang lebih besar karena harga yang lebih mahal sehingga nilai CKPN juga lebih tinggi dibandingkan dengan BFIN yang melayani pembiayaan otomotif second hand (bekas).\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        <i>Beban Bunga dan Keuangan BREAKDOWN <br/>(cost of fund)</i>\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Beban bunga dan keuangan bisa sangat berfluktuasi tergantung dari kondisi ekonomi dan suku bunga. Cost ini adalah beban yang dibayarkan perusaahaan atas dana yang dipinjam untuk melakukan pembiayaan karena sebagian besar penyaluran pinjaman didapat dari pinjaman kepada bank dan melalui surat berharga yang diterbitkan. Oleh karena itu beban bunga dan keuangan sangat berpengaruh terhadap profitabilitas perusahaan. Beban ini bisa dianggap sebagai “COGS”nya perusahaan financing seperti BFIN, ADMF, WOMF, dan sejenisnya. \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_26.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t BFIN menerima dana melalui surat berharga yang diterbitkan perusahaan dan melalui pinjaman. Berikut merupakan perbandingan cost melalui pinjaman dan cost dari surat berharga. \n<br /><br />\nRate cost sebenarnya mirip-mirip tetapi cost yang cenderung mengalami fluktuasi lebih besar adalah <b>cost pinjaman kepada bank karena pastinya cost ini akan sesuai dengan suku bunga</b> yang berlaku karena bunga ditentukan oleh pemberi pinjaman berdasarkan kondisi ekonomi itu sendiri. \n<br /><br />\nSedangkan cost dari surat berharga akan lebih stabil karena perusahaan sendirilah yang menetapkan bunga tersebut secara wajar sehingga pastinya juga disisi lain akan menoleransi agar tidak membebankan perusahaan terlalu besar.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_27.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Total cost apabila dicombine berada di range 6-10% tergantung dari kondisi ekonomi dan suku bunga. Worst case kita ambil dari rate covid sebesar 9% dan keadaan normal seharusnya tidak akan setinggi itu di range 6-8%. \n<br /><br />\nNamun rate ini bisa dikatakan wajar karena dana yang digunakan perusahaan leasing bersumber dari dana mahal (deposito dan pinjaman). Apabila dibandingkan dengan yield yang diterima sekitar 20-30% dan cost 6-10% maka perusahaan tetap masih bisa mencetak laba yang tinggi. \n<br /><br />\nBerdasarkan persentase beban bunga secara keseluruhan, paling tinggi pernah menyentuh angka 11%. Kita coba saja hitung kasar untuk tahun 2023 dengan total pinjaman Rp 13,3 Triliun, maka bunganya +/- sebesar 1,4 Triliun. \n<br /><br />\nTotal piutang pembiayaan yang disalurkan sebesar Rp 22,8 T dan kita asumsikan menggunakan yield terkecil selama beberapa tahun terakhir di angka 25% yaitu senilai Rp 5,7 T \n<br /><br />\nTerbukti bahkan dengan asumsi cost tertinggi dan yield terendah, perusahaan sangat mampu untuk membayar beban bunga dari dana yang dipinjamnya bahkan hingga 4x lipat dan perlu diingat bahwa asumsi ini menggunakan worst case yang pernah dialami. \n<br /><br />\nAsumsi worst case saja kemampuan untuk membayar bunganya masih sangat bagus, apalagi kalau kondisi sedang biasa-biasa saja dan bahkan kondisi menjadi sangat baik kan.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_28.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Kita lihat dengan siapa saja BFIN meminjam dananya untuk disalurkan dan ternyata cukup terdiversifikasi. \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        <i>Sumber Dana Operasional </i>\n    </h2>\n</div><br/>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_29.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Secara garis besar dana yang diterima melalui pinjaman lebih besar dibandingkan dengan surat berharga, hal ini sebenarnya tidak terlalu berpengaruh karena bunga dari cost ini mirip-mirip. Porsi dana yang dikeluarkan untuk pembiayaan kurang lebih 35% dari dana sendiri (ekuitas) dan 65% dari pinjaman dari bank dan surat berharga yang diterbitkan. \n<br /><br />\nNamun akan terjadi perubahan komposisi apabila terjadi ketidakpastian ekonomi. Contohnya kita bisa lihat pada tahun 2020 - 2021 ketika pandemi dan kondisi ekonomi memburuk, dalam penyaluran pembiayaannya, BFIN memperkecil porsi pinjamannya untuk menekan beban bunganya untuk memperkecil risiko. Kemudian apabila kondisi sudah normal, maka mereka akan memperbesar kembali porsi pinjaman agar pertumbuhan pembiayaan bisa meningkat lebih pesat.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        <i>CASHFLOW ANALYSIS</i>\n    </h2>\n</div><br/>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_30.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 60,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Dalam industri leasing, pendapatan yang masuk pastinya akan kembali disalurkan dalam bentuk pembiayaan yang baru. Dengan proses ini, perusahaan memastikan pertumbuhan pembiayaan yang disalurkan. \n<br /><br />\nOleh karena itu kita bisa melihat 2 metriks utama yang ada pada cashflow ini yaitu penerimaan dari transaksi pembiayaan (biru gelap) dan pembayaran untuk transaksi pembiayaan baru (merah).\n<br /><br />\n<b>Jadi kondisi yang kita inginkan adalah justru pada saat pengeluaran untuk pembiayaannya lebih besar</b> dibandingkan pendapatan dari penerimaannya karena dengan ini maka penyaluran pembiayaan dari perusahaan itu bertumbuh. \n<br /><br />\nContoh kita lihat pada tahun 2020, penerimaan lebih besar dibandingkan penyaluran untuk pembiayaan baru yang artinya <b>pembiayaan tidak bertumbuh.</b> Tentu saat itu covid dan orang tidak banyak yang kembali mengajukan pinjaman beli mobil atau motor. Itulah mengapa kas keluar untuk pembiayaan barunya lebih rendah.\n<br /><br />\nJustru yang kita inginkan adalah seperti pada tahun 2022, warna merah lebih besar dari warna biru yang artinya perusahaan menyalurkan pembiayaan yang lebih besar dibandingkan dengan pendapatannya yang berarti pembiayaan bertumbuh. \n<br /><br />\nSupaya likuiditasnya terus terjaga, tentu perusahaan leasing juga tetap mengandalkan penarikan utang. So, sebenarnya secara operasional kita bisa lihat bahwa pola cash flow pada perusahaan yang menyalurkan pinjaman, entah itu leasing atau banking, akan sangat wajar apabila uang nya lebih banyak keluar untuk penyaluran pinjaman baru.\n<br /><br />\nNext kita cek soal dividen.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        <i><u>DIVIDEND</u></i>\n    </h2>\n</div><br/>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_31.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 20,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_32.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t BFIN selalu konsisten untuk membagi dividen dan bahkan payout ratio sekitar 50%. BFIN tidak pernah membagikan seluruh uangnya dalam bentuk dividen dan terus meningkatkan saldo ekuitasnya.\n<br /><br />\nSehingga BFIN bisa terus menyalurkan pembiayaan yang lebih besar di kemudian hari. Bisa dilihat juga, efek dari BFIN menahan laba adalah net income yang bisa terus bertumbuh, kecuali di tahun 2019 dan 2020 (anomali).\n<br /><br />\nAnomali di 2019 karena BFIN harus membayar Rp 700an miliar untuk biaya litigasi. Tanpa ini, laba bersih BFIN akan di kisaran Rp 1.4 T - Rp 1.5 T. Di tahun 2020 tentu kita sudah sama - sama tahu ya karena covid. \n<br /><br />\nNamun, BFIN cukup cepat bounce back dan berhasil mencetak laba >Rp 1.5 T kembali. Meskipun di tahun 2023 laba BFIN turun dari Rp 1.8 T menjadi Rp 1.6 T, sepertinya terlalu cepat untuk judge bahwa labanya akan terus turun di masa yang akan datang. \n<br /><br />\nPada umumnya bisnis leasing yang menyalurkan pembiayaan otomotif mempunyai sifat cyclical karena biasanya pendapatan dari otomotif akan tergantung dari daya beli masyarakat dan salah satunya ditunjukkan dari indeks keyakinan konsumen. Namun di sini kami melihat BFIN ini tidak cyclical, justru terus bertumbuh. \n<br /><br />\nMenurut pandangan kami, hal ini dikarenakan BFIN menyalurkan pembiayaan mobil bekas yang mayoritas orang membeli mobil bekas untuk kebutuhan (kerja dan sejenisnya) sehingga tidak terlalu terpengaruh oleh kondisi ekonomi apalagi mobil bekas juga harganya lebih murah. \n<br /><br />\nDi sisi lain apabila pembiayaan yang disalurkan adalah otomotif baru, orang yang membeli juga pastinya harus memiliki keuangan yang kuat atau setidaknya mereka membeli saat kondisi ekonomi sedang baik karena harganya yang mahal.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        <i><u>INDEKS KEYAKINAN KONSUMEN </u></i>\n    </h2>\n</div><br/>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_33.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 20,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_34.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Indeks keyakinan konsumen menunjukkan keyakinan konsumen Indonesia mengenai kondisi ekonomi saat ini dan ekspektasi konsumen dalam periode yang akan datang. Dengan meningkatnya indeks, berarti menggambarkan kondisi ekonomi yang juga baik. Data terbaru Q2 2024 menunjukkan meningkatnya indeks keyakinan konsumen dibandingkan dengan bulan sebelumnya. \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        <i><u>GROWTH AND DRIVER CATALYST</u></i>\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 24,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Perusahaan pembiayaan akan bergantung kepada kondisi ekonomi dalam pertumbuhan kinerjanya oleh karena itu indeks keyakinan konsumen merupakan salah satu metriks yang bisa kita lihat sebagai acuan untuk melihat kondisi keuangan masyarakat dan kemampuan mereka untuk memperoleh pembiayaan. Namun di sisi lain seperti yang kita bahas sebelumnya bahwa BFIN sedikit tidak terlalu dipengaruhi naik turunnya perekonomian (dalam skala yang wajar) karena BFIN menyalurkan pembiayaan mobil bekas yang pastinya harganya lebih murah dan kemungkinan konsumen membeli karena kebutuhan.\n<br /><br />\nKita juga tidak bisa melakukan forecast secara pasti mengenai kinerja BFIN di masa depan dengan melihat demand dari mobil bekas karena untuk pasar mobil bekas tidak ada regulator yang tersentralisasi sehingga data-data tidak valid.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        <i><u>FAKTOR YANG MEMPENGARUHI KINERJA</u></i>\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 24,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "bullet",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <ol style=\"list-style-type: disc;padding-left:50px\">\n            <li> \n          Beban Bunga\n            </li>\nApabila suku bunga meningkat maka beban bunga yang akan dibayarkan juga akan meningkat. Kenaikan persentase beban bunga pastinya akan menggerus probitabilitas dari BFIN karena perusahaan menyalurkan pembiayaan sebesar 60% bersumber dari pinjaman dan tentunya hal ini akan berprengaruh signifikan. \n<br /><br />\n            <li> \n          CKPN\n            </li>\nKualitas pembiayaan yang disebabkan oleh perekonomian yang buruk akan menggerus profitabilitas karena dengan ini maka beban pencadangan akan naik dan mengurangi porsi profitabilitas. CKPN akan sangat menentukann kondisi dari perusahaan untuk melihat kondisi pembiayaannya. \n<br /><br />\n            <li> \n          Untuk beban umum dan adm & gaji dan tunjangan tidak akan terlalu berpengaruh karena kenaikannya akan diikuti oleh kenaikan kinerja dan porsi persentasenya tidak terlalu banyak berubah. \n            </li>\n          </ol>\n\t  </p><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        <i>Rekap Unit Economic</i>\n    </h2>\n</div><br/>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bfin_data_35.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 60,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "bullet",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \nAngka unit economic yang akan kita bahas dari BFIN yaitu dari sisi yield, beban bunga, CKPN dan OPEX dibandingkan dengan piutang pembiayaan. Dengan begitu, kita bisa melihat gambaran keseluruhan mengenai profitabilitas perusahaan. \n          <ol style=\"list-style-type: disc;padding-left:50px\">\n            <li> \n          <b>Yield</b> (garis hitam) yang dihasilkan oleh BFIN sangat stabil dan tetap tinggi yang menunjukkan bahwa perusahaan mampu mempertahankan pendapatannya dengan baik. \n            </li>\n<br />\n            <li> \n          Kemudian terdapat <b>operating expense</b> yang terdiri dari beban gaji dan tunjangan; umum dan administrasi. OPEX BFIN juga stabil dibandingkan dengan tahun-tahun sebelumnya (berada di range 10% - 12%), tetapi apabila dibandingkan dengan tahun sebelum pandemi, maka OPEX mengalami peningkatan. \n            </li>\n<br />\n            <li> \n          <b>CKPN</b> menunjukkan adanya pembiayaan yang berkualitas kurang baik, angka ini melonjak pada saat pandemi lalu saat ini sudah kembali stabil dan bahkan lebih baik daripada tahun-tahun sebelumnya. \n            </li>\n<br />\nBukannya CKPN segmen motor yang kita bahas sebelumnya meningkat sangat tinggi? Iya, memang CKPN segmen motor tinggi, tetapi perlu kita ketahui bahwa pembiayaan yang diberikan oleh BFIN itu mayoritas mobil dan hanya sebagian kecil pembiayaan motor. Apabila kita lihat juga datanya, CKPN dari mobil ini bahkan membaik, oleh karena itu CKPN tinggi dari motor seharusnya tidak akan terlalu berpengaruh terhadap kualias kredit yang diberikan BFIN. \n<br /><br /><br />\n            <li> \n          <b>Beban Bunga</b> perusahaan juga stabil dan tidak mengalami banyak fluktuasi sehingga perusahaan tidak mengalami guncangan dalam pembayaran beban bunganya karena perusahaan leasing memang menggunakan banyak pinjaman. \n            </li>\n<br />\n            <li> \n          Ada juga <b>tax</b>, kalau ini simple umumnya adalah 22% dari laba sebelum pajak.\n            </li>\n          </ol>\n<br /><br />\nKesimpulan yang bisa kita ambil bahwa pos biaya yang paling mungkin naik turun adalah CKPN. Ini rangenya 1% (best case) hingga 7% (worst case, covid) dari pembiayaan. Yah kita anggap base case nya adalah 4%\n<br /><br />\nUntuk beban bunga tentu juga akan mengikuti suku bunga. Ketika suku bunga turun, tentu akan turun juga. For now, kita bisa assume di 4%.\n<br /><br />\nOpex stabil di 10%\n<br /><br />\nTax 2%\n<br /><br />\nJadi net profit akan berkisar 27% - 4% - 4% - 10% - 2% = <b>7% dari piutang pembiayaan</b>\n\n\t  </p><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        <i><u>VALUATION</u></i>\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "bullet",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \nKita akan menggunakan skenario kondisi sekarang (buruk) untuk melihat bagaimana profitabilitas dan value dari BFIN yang terbaru. \n<br /><br />\nKita akan mencoba membayangkan base case scenario terlebih dahulu untuk melihat bagaimana profitabilitas dan value dari BFIN saat kinerja perusahaan sedang biasa-biasa saja. \n<br /><br />\nMenggunakan kondisi saat ini (per Q2 2024)\n          <ol style=\"list-style-type: disc;padding-left:50px\">\n            <li> \n          pembiayaan Rp 20,8 T\n            </li>\n            <li> \n          yield 27% = Rp 5,6 T\n            </li>\n            <li> \n          opex 11% = Rp 2,28 T\n            </li>\n            <li> \n          ckpn 4% = Rp 0,83 T\n            </li>\n            <li> \n          beban bunga 4.5% = Rp 1T\n            </li>\n            <li> \n          laba bersih = Rp 1,5 Triliun (7% dari pembiayaan)\n            </li>\n          </ol>\n<br />\nMenurut kondisi keuangan berdasarkan Q2 2024, kami memandang bahwa BFIN hanya mampu untuk  menghasilkan laba bersih sebesar Rp 1,5 Triliun dan ini juga terlihat dari laba bersih antar kuartal yang menurun dibandingkan dengan tahun 2023. Meskipun yield ini belum termasuk dengan pendapatan lain-lain, kami sudah menganggap pendapatan lain-lain itu sudah dikurangi dengan pajak penghasilan sehingga perhitungannya fair. \n<br /><br />\nP/E Wajar (ekspektasi kami) =  10 - 12x \n<br /><br />\nHarga wajar = Rp 1.5 T x 10 sampai 12  = Rp 15 T - Rp 18T \n<br /><br />\nPer 31 Agustus 2024 Market Cap  Rp 16 Triliun\n<br /><br />\nShares outstanding 15.97 miliar lembar\n<br /><br />\nHarga wajar: Rp 940 - 1100 per lembar\n<br /><br />\nHarga sekarang: +/- Rp 1000 per lembar\n<br /><br />\nMenurut kami, BFIN sudah berada pada fair value dengan asumsi P/E 10 dan mempunyai margin of safety 11% pada asumsi P/E 12. Tetapi margin of safety 11% sangatlah kecil dan menurut kami masih ada opportunity saham lain di pasar Indonesia yang masih menawarkan margin of safety yang lebih menarik. \n<br /><br />\nSecara business model sebenarnya cukup menarik namun karena harganya saat ini yang menurut kami masih mahal jadinya kurang menarik.\n\t  </p><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<br /><div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4 px-5\" style=\"background-color:RGB(241, 241, 239)\">\n          <p> <br />\n<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" width=\"35\" height=\"35\" viewBox=\"0 0 256 256\" xml:space=\"preserve\">\n<defs>\n</defs>\n<g style=\"stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;\" transform=\"translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)\" >\n\t<path d=\"M 52.532 82.468 C 52.532 86.628 49.16 90 45 90 s -7.532 -3.372 -7.532 -7.532\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(178,178,178); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 59.69 54.787 v -0.71 c 0 -3.59 1.495 -6.978 4.009 -9.54 c 4.636 -4.725 7.495 -11.199 7.495 -18.342 c 0 -15.082 -12.746 -27.187 -28.054 -26.131 C 30.257 0.953 20.092 10.87 18.918 23.731 c -0.727 7.955 2.107 15.259 7.09 20.503 c 2.715 2.857 4.302 6.6 4.302 10.542 v 0 c 0 2.361 1.913 4.275 4.274 4.277 l 20.827 0.011 C 57.774 59.065 59.69 57.15 59.69 54.787 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,182,55); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 56.769 74.663 H 33.231 c -2.146 0 -3.902 -1.756 -3.902 -3.902 v 0 c 0 -2.146 1.756 -3.902 3.902 -3.902 h 23.539 c 2.146 0 3.902 1.756 3.902 3.902 v 0 C 60.672 72.907 58.916 74.663 56.769 74.663 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(178,178,178); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 53.229 82.468 H 36.771 c -2.146 0 -3.902 -1.756 -3.902 -3.902 v 0 c 0 -2.146 1.756 -3.902 3.902 -3.902 h 16.458 c 2.146 0 3.902 1.756 3.902 3.902 v 0 C 57.131 80.712 55.375 82.468 53.229 82.468 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(204,204,204); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 49.819 61.098 c -1.13 0 -2.045 -0.916 -2.045 -2.045 V 46.691 c 0 -5.949 2.449 -11.737 6.719 -15.88 c 0.81 -0.787 2.104 -0.769 2.892 0.043 c 0.786 0.81 0.767 2.105 -0.044 2.892 c -3.48 3.378 -5.476 8.096 -5.476 12.945 v 12.362 C 51.864 60.182 50.949 61.098 49.819 61.098 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,224,171); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 40.18 61.098 c -1.13 0 -2.045 -0.916 -2.045 -2.045 V 46.691 c 0 -4.85 -1.996 -9.568 -5.476 -12.944 c -0.811 -0.787 -0.83 -2.082 -0.044 -2.892 c 0.786 -0.811 2.081 -0.831 2.892 -0.044 c 4.27 4.143 6.718 9.931 6.718 15.881 v 12.362 C 42.226 60.182 41.31 61.098 40.18 61.098 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,224,171); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 56.769 66.858 H 33.231 c -2.146 0 -3.902 -1.756 -3.902 -3.902 v 0 c 0 -2.146 1.756 -3.902 3.902 -3.902 h 23.539 c 2.146 0 3.902 1.756 3.902 3.902 v 0 C 60.672 65.102 58.916 66.858 56.769 66.858 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(204,204,204); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n</g>\n</svg>\n\t Tips: Mungkin kalau bisa kita masuk di margin of safety 30%, kurang lebih bisa cek kembali di harga Rp 700 per lembar dengan asumsi bahwa kondisi perusahaan masih bagus. \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Terima kasih sudah membaca sampai selesai!\n<br /><br />\nSemoga bermanfaat!\n<br /><br />\nMohon kesediaan waktunya, 15 detik saja untuk mengisi form feedback analisa BFIN berikut. Feedback Anda akan membantu kita menyajikan analisa yang lebih baik.\n\t      </p>\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4 flex\" >\n<a class=\"break-all\" href=\"https://forms.gle/dxiJbX8zSWspKTrB6\" target=\"_blank\">\n<svg xmlns=\"http://www.w3.org/2000/svg\" x=\"0px\" y=\"0px\" width=\"30\" height=\"30\" viewBox=\"0 0 48 48\">\n<linearGradient id=\"00wCqH7f0ElurH3hbcIXXa_E4VmOrv6BZqd_gr1\" x1=\"-208.197\" x2=\"-180.197\" y1=\"-150.795\" y2=\"-122.795\" gradientTransform=\"translate(215.243 161.751)\" gradientUnits=\"userSpaceOnUse\"><stop offset=\"0\" stop-color=\"#a235d4\"></stop><stop offset=\"1\" stop-color=\"#831bb3\"></stop></linearGradient><path fill=\"url(#00wCqH7f0ElurH3hbcIXXa_E4VmOrv6BZqd_gr1)\" d=\"M39.004,13.999v27c0,1.105-0.895,2-2,2h-26\tc-1.105,0-2-0.895-2-2v-34c0-1.104,0.895-2,2-2h19.002l1.997,7L39.004,13.999z\"></path><path fill=\"#ce97e6\" fill-rule=\"evenodd\" d=\"M30.002,11.999l0.003-7\tl8.999,8.999l-7.001,0.001L30.002,11.999z\" clip-rule=\"evenodd\"></path><path fill=\"#fff\" fill-rule=\"evenodd\" d=\"M21.001,21.999v2.001\th10.001v-2.001H21.001z\" clip-rule=\"evenodd\"></path><path fill=\"#fff\" fill-rule=\"evenodd\" d=\"M18.002,21.558\tc0.795,0,1.44,0.647,1.44,1.441c0,0.795-0.645,1.441-1.44,1.441c-0.795,0-1.44-0.647-1.44-1.441\tC16.562,22.205,17.207,21.558,18.002,21.558z\" clip-rule=\"evenodd\"></path><path fill=\"#fff\" fill-rule=\"evenodd\" d=\"M21.001,26.999v2.001\th10.001v-2.001H21.001z\" clip-rule=\"evenodd\"></path><path fill=\"#fff\" fill-rule=\"evenodd\" d=\"M18.002,26.558\tc0.795,0,1.44,0.647,1.44,1.441c0,0.795-0.645,1.441-1.44,1.441c-0.795,0-1.44-0.647-1.44-1.441\tC16.562,27.205,17.207,26.558,18.002,26.558z\" clip-rule=\"evenodd\"></path><path fill=\"#fff\" fill-rule=\"evenodd\" d=\"M21.001,31.999v2.001\th10.001v-2.001H21.001z\" clip-rule=\"evenodd\"></path><path fill=\"#fff\" fill-rule=\"evenodd\" d=\"M18.002,31.558\tc0.795,0,1.44,0.647,1.44,1.441c0,0.795-0.645,1.441-1.44,1.441c-0.795,0-1.44-0.647-1.44-1.441\tC16.562,32.205,17.207,31.558,18.002,31.558z\" clip-rule=\"evenodd\"></path><path fill=\"#ce97e6\" fill-rule=\"evenodd\" d=\"M32.002,9.998\tc1.104,0,2.001,0.897,2.001,2.001s-0.897,2.001-2.001,2.001s-2.001-0.897-2.001-2.001S30.898,9.998,32.002,9.998z\" clip-rule=\"evenodd\"></path>\n</svg>\t \n<a class=\"break-all\" style=\"color:blue;text-decoration:underline;font-weight:bold\" href=\"https://forms.gle/dxiJbX8zSWspKTrB6\" target=\"_blank\">\nFeedback Analisa BFIN</a>\n</a><br/><br/>\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "disclaimer",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <i><b>Disclaimer: Artikel analisa ini bukanlah merupakan sebuah rekomendasi ataupun ajakan untuk jual atau beli saham tertentu. \nArtikel ini hanya untuk kepentingan edukasi dan informasi saja. \nSegala data yang disajikan bersumber dari publikasi yang disampaikan kepada publik melalui Annual Report, \nPublic Expose ataupun Laporan Keuangan emiten.</i></b><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      }
+    ],
+    "is_show_header": 1,
+    "header_type": "with_menu",
+    "is_show_footer": 1,
+    "footer_type": "with_menu",
+    "visibility": "membership;membership_and_portofolio;fbjarvis;spesial;",
+    "created_at": "2024-09-23T10:09:49.000000Z",
+    "updated_at": "2024-09-25T06:22:25.000000Z",
+    "deleted_at": null,
+    "created_by": {
+      "id": 2,
+      "fullname": "Midas Super Admin",
+      "email": "admin@midascuan.id",
+      "role": "superadmin",
+      "has_link_product": 0,
+      "ip_address": null,
+      "last_login_ip": null,
+      "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+      "member_active_roles": [
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ],
+      "member_roles": [
+        {
+          "id": 109970,
+          "user_id": 2,
+          "role_id": 1,
+          "expired_date": "2025-02-27 00:45:00",
+          "created_at": "2023-05-25T18:59:06.000000Z",
+          "updated_at": "2025-02-20T15:45:14.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 1,
+            "title": "Portofolio",
+            "role": "portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:07:38.000000Z",
+            "updated_at": "2024-08-16T09:56:18.000000Z"
+          }
+        },
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ]
+    },
+    "updated_by": {
+      "id": 2,
+      "fullname": "Midas Super Admin",
+      "email": "admin@midascuan.id",
+      "role": "superadmin",
+      "has_link_product": 0,
+      "ip_address": null,
+      "last_login_ip": null,
+      "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+      "member_active_roles": [
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ],
+      "member_roles": [
+        {
+          "id": 109970,
+          "user_id": 2,
+          "role_id": 1,
+          "expired_date": "2025-02-27 00:45:00",
+          "created_at": "2023-05-25T18:59:06.000000Z",
+          "updated_at": "2025-02-20T15:45:14.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 1,
+            "title": "Portofolio",
+            "role": "portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:07:38.000000Z",
+            "updated_at": "2024-08-16T09:56:18.000000Z"
+          }
+        },
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ]
+    },
+    "deleted_by": null
+  },
+  "changes": 0
+}

@@ -1,0 +1,1598 @@
+{
+  "id": 62,
+  "page_id": 100,
+  "image_url": "https://api.midascuan.id/storage/resources/indf_LOGO.webp",
+  "code": "INDF",
+  "buy_price": 0,
+  "current_price": 0,
+  "valuation": 0,
+  "margin_of_safety": 0,
+  "created_at": "2023-09-21T09:16:46.000000Z",
+  "updated_at": "2025-12-29T07:00:05.000000Z",
+  "status": "published",
+  "created_by": {
+    "id": 2,
+    "fullname": "Midas Super Admin",
+    "email": "admin@midascuan.id",
+    "role": "superadmin",
+    "has_link_product": 0,
+    "ip_address": null,
+    "last_login_ip": null,
+    "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+    "member_active_roles": [
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ],
+    "member_roles": [
+      {
+        "id": 109970,
+        "user_id": 2,
+        "role_id": 1,
+        "expired_date": "2025-02-27 00:45:00",
+        "created_at": "2023-05-25T18:59:06.000000Z",
+        "updated_at": "2025-02-20T15:45:14.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 1,
+          "title": "Portofolio",
+          "role": "portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:07:38.000000Z",
+          "updated_at": "2024-08-16T09:56:18.000000Z"
+        }
+      },
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ]
+  },
+  "updated_by": null,
+  "deleted_at": null,
+  "deleted_by": null,
+  "page": {
+    "id": 100,
+    "title": "INDF: Too Cheap?",
+    "slug": "indf-too-cheap",
+    "type": "analysis",
+    "status": "published",
+    "content_html": "\"\"",
+    "content_json": [
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        INDF: Too Cheap?\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "post-detail",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 flex flex-col md:flex-row justify-center gap-2 mt-1 mb-1 border-t border-b-2 border-black p-1\">\n        <p class=\"my-auto\">\n            <i class=\"fa fa-user-circle my-auto\"></i> \n\tFelix  Haridinata\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-calendar my-auto\"></i> \n\tSeptember 21, 2023\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-tags my-auto\"></i> \n\tINDF\n        </p>\n\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 20,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t “In business, competition is never as healthy as total domination.” -Peter Lynch\n<br /><br />\n“Kapan lagi bisa dapat INDF di harga segini..” ucap Michael, salah satu member yang dalam sebulan terakhir cukup intens diskusi soal INDF dengan saya. Saya lihat laba sebelum pajak INDF per 6M 2023 ini Rp 9.7 T di dalamnya ada lebih kurang Rp 2 T laba karena selisih kurs. Berarti real profit sebelum pajak adalah Rp 7.7 T.\n<br /><br />\nKita potong pajak 22% jadi Rp 6T sisanya. Ini baru profit 6 bulan 2023 ini, jika disetahunkan maka akan jadi Rp 12 T. Market caps INDF hanya Rp 60 T artinya PE 5x.\n<br /><br />\nPerusahaan sebesar Indofood hanya dihargai PE 5x, Mr. Market lagi gila? Mari kita bedah!\n<br /><br />\nINDF memiliki 4 divisi: Consumer branded products,  Minyak dan Lemak Nabati, Bogasari dan distribusi. Pada analisa sebelumnya, kita sudah cover divisi minyak dan lemak nabati. \n<br /><br />\nKali ini kita akan cover divisi bogasari. (minyak dan lemak nabati sudah kita cover pada analisa sebelumnya di membership).\n<br /><br />\nEntry Salim Grup pada bisnis pangan dimulai dengan dibentuknya Bogasari di tahun 60an. Indonesia yang defisit beras saat itu mendapat bantuan kiriman gandum dari Amerika. Karena Indonesia saat itu tidak memiliki fasilitas penggilingan gandum menjadi terigu, maka gandum - gandum itu dikirim ke Singapura.\n<br /><br />\nSuatu hari, Robert Kuok, konglomerat dari Malaysia menganjurkan agar Indonesia membuat pabrik penggilingan tepung sendiri daripada harus mengambilnya lagi dari Singapura. Akhirnya, Pak Harto menunjuk Soedono Salim, bekerjasama dengan Robert Kuok untuk mendirikan pabrik terigu pertama di Indonesia, Bogasari.\n<br /><br />\nBogasari memonopoli bisnis pemrosesan gandum menjadi terigu selama bertahun - tahun. Bisnis terigu sangat sederhana dan Salim Grup untung besar. Bulog saat itu menjadi partner untuk mengimpor gandum dan mendistribusikan terigu buatan Bogasari. Kerjasama ini berlangsung selama berdekade - dekade.\n<br /><br />\nSampai akhirnya, pemerintah membuka dan menderegulasi pemrosesan tepung terigu di Indonesia tahun 1998. Dan sejak saat itu, satu per satu pabrik tepung terigu muncul. Tentu saja, Bogasari perlahan - lahan kehilangan market share.\n<br /><br />\nTapi, sampai sekarang sudah 30 tahun lebih Bogasari tetap menjadi produsen terigu #1 dengan kapasitas produksi terbesar di Indonesia. Sekitar 40% - 50% kapasitas produksi terigu nasional masih dipegang oleh Bogasari.\n<br /><br />\nJika kita melihat tabel produsen terigu di Indonesia, pasar masih dikuasai oleh Bogasari.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": " https://api.midascuan.id/storage/resources/indf_data_01.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Bahkan Interflour Grup pun juga masih terafiliasi dengan Salim Grup. Kapasitas produksi terigu Wings Group hanya sekitar 1/10 dari kapasitas Bogasari & Interflour. Artinya, walaupun Wings Grup melalui Mie Sedaap ingin ekspansi volume dalam jumlah besar, mereka menghadapi banyak tantangan dari ketersediaan bahan baku juga.\n<br /><br />\nSo, it won’t be easy for them. Apalagi Mie Gaga.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Bisnis Proses Gandum → Terigu\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Bahan baku gandum Bogasari diambil dari 3 tempat: Australia, Kanada dan Amerika.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 100,
+          "height": null,
+          "objectFit": "scale-down"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_02.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Jadi kalau dulu ada yang bilang Indomie bakal kesulitan gandum karena mayoritas gandum dari Ukraina, gambaran riilnya tidak demikian ya. \n<br /><br />\nUntuk menghasilkan 1 ton tepung terigu dibutuhkan 1.37 ton gandum. Per September, harga gandum australia sekitar $293 per ton. Dengan kurs Rp 15.360 maka untuk menghasilkan 1 ton tepung terigu membutuhkan gandum seharga Rp 6.16 juta.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_03.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Berarti COGS terigu dari bahan baku saja adalah <b>~Rp 6160/kg</b>. Angka COGS ini diluar depresiasi mesin, packaging, dsb. Dan ini juga belum menghitung blending antara gandum - gandum dari Kanada dan Amerika yang seharusnya lebih murah dari Australia.\n<br /><br />\nSo, untuk lebih amannya, saya rasa COGS dari gandum Rp 6000/kg untuk 1 kg tepung terigu.\n<br /><br />\nBogasari juga memiliki beberapa merk tepung terigu, sebagai berikut:\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_04.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Dari spesifikasi yang dijelaskan di web perusahaan, kita tahu bahwa divisi mie instan seharusnya menggunakan tepung dari Cakra Kembar. Tapi tentu saja, ada mix juga dengan berbagai tepung bogasari yang lain. Tapi yang paling besar komposisinya tetaplah tepung merk Cakra Kembar. \n<br /><br />\nSelain itu, Bogasari juga memiliki 8 kapal post - panamax, 5 kapal supramax serta 2 kapal ultramax yang membantu Bogasari untuk mengangkut gandum.\n<br /><br />\nKapasitas kapal:\n<br />\nPanamax → 60.000 - 80.000 ton per kapal\n<br />\nSupramax → 35.000 - 60.000 ton per kapal\n<br />\nUltramax → 35.000 - 50.000 ton per kapal\n<br /><br />\nTotal kapasitas yang dapat diangkut 725 ribu ton - 1 juta ton sekali jalan. Kapasitas pemrosesan terigu Bogasari adalah 4.4 juta ton setahun, dari perhitungan kami utilisasi Bogasari baru 3.2 juta ton. Jika ingin menghasilkan 3.2 juta ton terigu, maka dibutuhkan 4.5 juta ton gandum setahun. \n<br /><br />\nBerarti setidaknya<b> dalam setahun kapal - kapal Bogasari itu 4x jalan.</b> 1 kuartal sekali.\n<br /><br />\nEfeknya, meskipun kita melihat bahwa harga gandum sudah turun 33% sejak Agustus 2022, <b>kemungkinan Bogasari baru akan menurunkan harga tepung lebih jauh di Q4 2023 atau Q1 2024 nanti.</b> Alasannya karena kapalnya 4x jalan dalam setahun, jadi  per 3 bulan baru refresh harga gandum yang baru dan biasanya dalam pembelian komoditas itu beberapa bulan sebelumnya harga sudah dikunci.\n<br /><br />\nJika gandum impor, maka Bogasari cukup terekspos dengan perubahan nilai tukar dong? \n<br /><br />\nKatakanlah 1 ton gandum harganya $300, ketika $1 = Rp 15.000, untuk mengimpor 1.37  ton gandum Bogasari perlu bayar Rp 6.16 juta. Tapi jika $1 naik jadi Rp 16.000 (naik 7%), maka untuk mengimpor 1.37 ton gandum yang sama Bogasari perlu bayar Rp 6.57 juta. (Saya pakai angka 1.37 ton gandum agar gampang hitung konversi ke tepung nya).\n<br /><br />\nCOGS gandum per kg terigu naik dari Rp 6160 menjadi Rp 6570. \n<br /><br />\nEfeknya sebenarnya hanya sebesar fluktuasi kurs itu saja. Jika harga gandum tetap dan dollar menguat 6%, maka cogs gandum juga naik 6%. \n<br /><br />\nTapi bagaimana jika harga gandum turun 30% dan harga dollar menguat 6.7%?\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_05.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 30,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Ternyata efeknya biasa saja kan? Bahkan jika dollar menguat dan gandum turun lebih besar daripada kenaikan dollar, maka ada efisiensi harga COGS lebih ngefek. \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 100,
+          "height": null,
+          "objectFit": "scale-down"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_06.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Saya pikir sevolatil - volatilnya harga dollar, volatilitasnya tidak akan >5% per tahun. Dari chart di atas, hanya 3x dalam 10 tahun terakhir dimana dollar naik >5%.  Jadi hal ini tidak terlalu menjadi soal bagi Bogasari sebenarnya. Selain itu, INDF secara grup juga memiliki saldo kas dalam USD.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_07.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t INDF memiliki cadangan dolar sebesar $1.03 miliar dan $283 juta diantaranya  dipegang oleh Bogasari. Produksi Bogasari  butuh 4.5 juta ton gandum setahun dan kapal mereka jalan 4x setahun setahun (3 bulan sekali). Berarti sekali kapal jalan butuh sekitar 1 juta ton gandum (atau $300 juta). Artinya cadangan dollar Bogasari sudah cukup untuk impor 3 bulan ke depan.\n<br /><br />\nBagaimana setelah terpakai? Ya diisi lagi. Jadi setiap 3 bulan sekali, pasti akan ada adjustment dari kurs untuk Bogasari.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Harga Tepung Mulai Turun\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Harga tepung Cakra Kembar sudah mulai turun 7.8%.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_08.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Ini harga tepung yang tidak dalam partai besar ya. Kalau bayangannya harga penjualan tepung ke ICBP, bisa jadi lebih rendah sedikit dari ini.\n<br /><br />\nEkspektasi kami, tahun depan seharusnya baru akan kita lihat harga Cakra Kembar kembali ke Rp 200.000/25 kg. Mudah - mudahan.\n<br /><br />\nBisnis model Bogasari juga mengadopsi model <b>cost - plus</b>. Berikut paparan yang disampaikan manajemen pada annual report INDF.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_09.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n<b>Artinya, harga jual bogasari bergantung dengan harga beli bahan baku dan biaya operasionalnya.</b> Dalam kasus terigu, harga jual sangat bergantung dengan harga gandum. Jika harga gandum naik, maka harga tepung naik. Jika harga gandum turun, maka harga jual tepung juga turun. \n<br /><br />\nPada annual report INDF tahun 2016, Bogasari tercatat menurunkan harga jual rata - rata karena harga gandum turun.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_10.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Apakah ini artinya jika harga gandum dan harga tepung turun maka Bogasari akan tergerus profitnya?\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Margin yang konsisten\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Jawaban dari pertanyaan di atas adalah tidak. Karena kembali lagi, bisnis model bogasari adalah cost plus. <b>Artinya berapapun costnya, bogasari akan mematok margin yang lebih kurang sama.</b>\n<br /><br />\nBisa kita lihat pada grafik dibawah bahwa margin laba usaha divisi Bogasari cukup konstan dari tahun ke tahun.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_11.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Jika kita melihat breakdown dari penjualan Bogasari, mayoritas penjualan sebenarnya adalah ke pihak selain ICBP.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_12.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Meskipun penjualan Bogasari secara umum meningkat, namun laba usaha Bogasari turun 16% dari Rp 1.2 T menjadi Rp 1 T. Tapi tidak masalah, seharusnya proyeksi laba masih di Rp 2 T per tahun. \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_13.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Spare Capacity Bogasari\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Kapasitas pengolahan tepung Bogasari mencapai 4.4 juta ton per tahun. Kita tahu bahwa kebutuhan tepung ICBP adalah 62 gr per bungkus Indomie.\n<br /><br />\nLalu, Bogasari harusnya hanya menjual tepung secara domestik ke ICBP karena kebutuhan tepung pada operasional ICBP di luar negeri harus di supply oleh negara target. Maka seharusnya untuk ~10 miliar bungkus mie instan yang dijual ICBP di Indonesia, dibutuhkan 620 miliar gr tepung terigu atau 620 ribu ton per tahun.\n<br /><br />\nDengan asumsi penjualan Bogasari - ICBP adalah di harga <</>Rp 10 ribu per kg, maka seharusnya penjualan Bogasari - ICBP <</>Rp 6 T. Hal ini in line dengan CALK 37 tentang informasi segmen INDF yang tercatat angka Rp 5.9 T penjualan antar segmen Bogasari.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_14.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t So, angkanya lebih kurang match lah ya.\n<br /><br />\nDengan demikian, dengan penjualan eksternal Bogasari yang mencapai Rp 25.96 T, dengan asumsi harga jual Rp 10 ribu/kg maka volume penjualan eksternal kita taksir sekitar 2.59 juta ton.\n<br /><br />\nDengan total kapasitas 4.4 juta ton, dikurangi volume ke ICBP 620 ribu ton dan 2.59 juta ton ke pihak eksternal, Bogasari seharusnya masih memiliki spare capacity 1.19 juta ton. Spare capacity ini seharusnya masih akan cukup untuk mensupport ICBP jika ICBP kembali growing dari sisi volume di Indonesia.\n<br /><br />\n<b>Lalu, bagaimana perjanjian antara ICBP dengan Bogasari untuk supply terigunya?</b> Pada laporan keuangan ICBP CALK 31 tentang saldo dan transaksi dengan pihak berelasi, ICBP membeli bahan baku tepung terigu dari Indofood Sukses Makmur (ISM) divisi Bogasari dengan harga yang tidak lebih tinggi dari harga jual ISM ke pihak ketiga.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_15.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 40,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Artinya, ICBP mengambil terigu dari Bogasari <b>dengan harga yang sama atau lebih murah dari yang dijual Bogasari ke Pihak Ketiga.</b>\n<br /><br />\nSeharusnya ini hanya perjanjian supply terigu untuk pabrik ICBP yang di Indonesia saja. Kalau untuk pabrik ICBP di Afrika dan Timur Tengah, terigu dipasok dari pihak lokal disana. Tapi meskipun begitu, seharusnya tidak menjadi soal.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Menakar COGS Tepung di Indomie & Tambahan Laba ICBP\n    </h2>\n</div>\n</br>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_16.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Dalam 1 bungkus indomie goreng terdapat 54 gr karbohidrat dan 8 gr protein. Seharusnya ini sumbernya dari terigu. Dari sini, kita sudah bisa menaksir COGS tepung Indomie.\n<br /><br />\nKita asumsi pakai harga Rp 262.500 / 25 kg untuk terigu yang merupakan harga tertinggi di tahun 2022. Katakanlah ini harga partai kecil, jika dijual ke ICBP kita turunkan 5% jadi mungkin sekitar Rp 250.000 / 25 kg atau Rp 10.000/kg.\n<br /><br />\nJika dibutuhkan 62 gr tepung terigu untuk sebungkus indomie, maka COGS dari tepung sekitar Rp 620 per bungkus. \n<br /><br />\nLet say harga tepung terigu turun 30% di tahun 2024 (karena gandum sudah turun 30% juga), maka akan ada penurunan cost tepung bagi ICBP sebesar Rp 186/bungkus.\n<br /><br />\nPada weekly meeting 5 Sept 2023 silam, kita sudah mencoba menakar bahwa volume penjualan mie instan ICBP adalah setidaknya 14 miliar bungkus. Yang mana 10 miliar bungkus di Indonesia, lalu sekitar 3 miliar - 4 miliar bungkus di luar Indonesia (Timur Tengah & Afrika).\n<br /><br />\nKarena mie instan di luar negeri tidak pakai Bogasari, let say kita hanya hitung potensi penurunan COGS hanya dari yang di Indonesia saja, maka Rp 186 x 10 miliar bungkus = Rp 1.86 T.\n<br /><br />\nJika tepung di luar negeri juga mengalami penurunan yang sama, maka Rp 186 x 4 miliar bungkus = Rp 744 miliar. Namun, karena ICBP hanya memegang 47.2% - 59% saham Pinehill (let say 50% saja), maka laba yang diatribusikan ke ICBP adalah Rp 372 miliar.\n<br /><br />\nJika ditambahkan dengan yang di Indonesia berarti Rp 2.2 T tambahan laba. Let say itungan saya ngaco dan tambahan laba hanya Rp 1.5 T. Asumsi cost - cost lainnya sama, lalu kita kurangkan pajak 22%,  sehingga tambahan laba ICBP sekitar Rp 1.2 T. \n<br /><br />\nPer 6M 2023 ini, ICBP menghasilkan laba sebelum pajak Rp 8.36 T. Akan tetapi Rp 1.95 T diantaranya adalah laba dari selisih kurs, jadi kita kurangkan dulu dan dapatlah angka Rp 6.41 T. Apabila disetahunkan maka menjadi Rp 12.82 T.\n<br /><br />\nKita potong pajak 22% jadi Rp 9.9 T. Kemudian kita tambahkan dengan potensi tambahan laba dari penurunan COGS Rp 1.2T <b>sehingga core profit ICBP akan jadi Rp 11 T.</b>\n<br /><br />\nPerlu diingat, ini belum memperkirakan tambahan laba apabila ICBP kembali menaikkan harga Indomie. \n<br /><br />\nNah karena INDF pegang 80% ICBP, maka <b>labanya INDF nanti akan jadi Rp 8.8 T dari ICBP.</b>\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4 mb-2\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Kenapa Market Tidak Suka Akuisisi Pinehill??\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_17.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Akuisisi Pinehill Company Limited (PCL) oleh ICBP pada tahun 2020 mengundang sentimen negatif. Akuisisi ini dilakukan di harga yang cukup premium. Namun, di balik akuisisi ini, ada perjanjian keuntungan yang dijamin ke ICBP.\n<br /><br />\nJaminannya adalah: setelah akuisisi, PCL akan menghasilkan laba bersih $128.5 juta untuk ICBP  tahun 2020 dan 2021. Jika tidak tercapai $128.5 juta gimana? Maka akan di “refund” selisih keuntungan x PER 23.\n<br /><br />\nBagaimana dengan kinerja PCL setelah diakuisisi ICBP?\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_18.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 40,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Perlu diingat bahwa laba di tahun 2020 tersebut karena konsolidasi baru dilakukan selama 4 bulan. Alasannya karena (PCL) baru selesai diakuisisi pada 28 Agustus 2020. Nah dengan laba Rp 545 miliar dalam 4 bulan, maka sebenarnya laba setahun PCL mendekati Rp 2 T.\n<br /><br />\nDengan demikian, keuntungan yang dijaminkan tercapai. Yaitu rata - rata $128.5 juta per tahun.\n<br /><br />\nSetelah akuisisi PCL juga, kita bisa lihat bahwa kapasitas produksi mie instan ICBP naik 2x lipat:\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_19.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Kapasitas naik, total market yang bisa disasar juga naik.\n<br /><br />\nLalu, apakah market tidak suka karena shuffling asset masuk kantong kanan dan keluar kantong kiri? Saya rasa bukan karena itu, masa PCL dihibahkan saja ke ICBP. Ga masuk akal dong. \n<br /><br />\nSebagai owner juga tidak akan mungkin dijual dengan murah. \n<br /><br />\nMenurut saya, lebih ke harga pembelian PCL yang lumayan tinggi dan beban bunga yang harus ditanggung oleh ICBP.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Utang Obligasi, Beban Keuangan dan Pendapatan Keuangan\n    </h2>\n</div>\n</br>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_20.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Akuisisi PCL menggunakan utang yang cukup besar, total sekitar $2.75 miliar. Utang ini pun terdenominasi dalam USD. Efeknya adalah ICBP akan terkena laba/rugi kurs setiap tahun. \n<br /><br />\nMisalnya, utang $1 miliar. Ketika kurs $1 = Rp 15 ribu, utang itu senilai Rp 15 T. Namun, apabila kurs menjadi $1 = Rp 14 ribu, utang itu menjadi Rp 14 T. Artinya, ICBP akan dapat keuntungan kurs Rp 1T. Tapi apakah itu artinya utang ICBP berkurang?\n<br /><br />\nTidak. Utang ICBP tetaplah $1 miliar itu, hanya saja karena pencatatan laporan keuangan disajikan dalam Rupiah, maka harus diconvert dari $ menjadi Rp. Begitu juga sebaliknya ketika kurs Rupiah melemah. \n<br /><br />\nAkan tetapi, utang tersebut jatuh temponya masih lama ada yang 2031, 2032, 2051 dan 2052. Siapa yang tahu kurs di saat itu?\n<br /><br />\nSelisih kurs akan jadi petaka apabila pada saat hendak melunasi utang, kurs Rupiah melemah. Misalnya, dari kurs Rp 15 ribu jadi Rp 16 ribu.  Anggaplah harus segera melunasi utang $1 miliar itu. Anda bukannya bayar Rp 15 T, tapi jadi harus bayar Rp 16 T. Tapi karena jatuh tempo utang ICBP masih lama, saya pikir fluktuasi kurs kita abaikan dulu saja. \n<br /><br />\nNah, kembali ke ICBP, berikut breakdown utang obligasi ICBP:\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_21.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Dari tabel di atas, beban bunga per tahun untuk setidaknya 10 tahun ke depan yang harus ditanggung ICBP adalah $108 juta, apabila dengan kurs Rp 15.390, ini setara Rp 1.66 T. Setelah itu, karena utang obligasi yang terbesar sudah dilunasi maka beban bunga juga akan menurun.\n<br /><br />\nDiantara 4 utang obligasi di atas, yang paling dekat ada 2 yaitu yang no 1 dan 3 masing masing jatuh tempo pada 2031 dan 2032. 2 lainnya masih 2051 dan 2052. Jika saya adalah manajemen ICBP, saya akan fokus di utang yang jatuh tempo 2031 - 2032 dulu.\n<br /><br />\nApabila nilai pokok kedua utang itu dibagi per tahun, maka setidaknya ICBP perlu menyiapkan $210 juta setiap tahun sampai kedua utang itu dilunasi. Dengan kurs Rp 15.390 maka ini setara Rp 3.23 T.\n<br /><br />\nJadi total, ICBP bayar beban keuangan Rp 1.66 T plus pokok utang Rp 3.23 T tiap tahun. Total ICBP perlu siapin Rp 4.89 T setiap tahun.\n<br /><br />\nBagaimana dengan laba Pinehill? Kita akan lihat angkanya di CALK 19 tentang “kepentingan non pengendali” pada LK 2022.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_22.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Terlihat angkanya pada 2022 Rp 1.8 T dan Rp 2T pada 2021 laba Pinehill yang diatribusikan ke ICBP. Sebagai sedikit pelipur lara, ICBP juga menerima pendapatan bunga ~Rp 200 M per tahun. \n<br /><br />\nTerang saja market tidak suka, ICBP harus bayar bunga Rp 1.66 T dari seluruh utang obligasi dan dia harus siapin dana Rp 3.23 T setiap tahun untuk melunasi utang tersebut. Ibaratnya apabila di nett kan, ICBP perlu siapin dana Rp 4.89 T setiap tahun namun hanya menerima tambahan laba ~Rp 2 T dari akuisisi ini.\n<br /><br />\nNett nya, ICBP masih harus keluar uang Rp 2.89 T. Akuisisi bukannya nambah untung, malah nambah buntung.\n<br /><br />\nLalu apakah ini artinya akuisisi Pinehill ini Bad Deal bagi ICBP?\n<br /><br />\nYa, apabila Pinehill tidak tumbuh. \n<br /><br />\nMenurut Anda, lebih besar probability yang mana? Pinehill tumbuh atau tidak tumbuh?\n<br /><br />\nAkuisisi Pinehill setara PE 23x, supaya akuisisi ini fair maka Pinehill harus mampu tumbuh 23% per tahun dalam jangka panjang (PEG 1x). \n<br /><br />\nNah tinggal kita pikir sendiri, mungkinkah Pinehill menghasilkan laba yang tumbuh rata - rata 23% per tahun dalam 10 tahun ke depan? Mari kita lihat dulu pertumbuhan penjualan dan laba PCL yang diatribusikan ke ICBP berikut:\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_23.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 30,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_24.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 30,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_25.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Menurut saya, kalau sudut pandang kita hanya untuk tahun 2022 kemarin saja, maka tidak dipungkiri akuisisi ini menurunkan laba ICBP. Tapi, jika Anda melihat potensi market di Timur Tengah dan Afrika yang masih bisa tumbuh maka ceritanya bisa beda. \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Market Timur Tengah & Potensinya\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Ada beberapa pertimbangan ketika Indomie masuk ke sebuah negara, yaitu:\n<ol style=\"list-style-type: decimal;padding-left:50px\">\n            <li> \n          Populasi yang banyak\n            </li>\n            <li> \n          Membutuhkan alternatif bahan makanan pokok\n            </li>\n            <li> \n          Negara berkembang\n            </li>\n          </ol>\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Keunggulan Indomie adalah <b>rasanya yang enak</b> dan <b>harganya yang murah.</b> Hal ini tentu sangat masuk sekali ke target market seperti yang bisa Anda lihat di atas. Nah, awalnya penetrasi Indomie ke berbagai negara didorong oleh TKI dan Pelajar yang sekolah di Luar Negeri.\n<br /><br />\nTKI yang bekerja di luar negeri, seperti Malaysia atau Saudi Arabia umumnya sering membawa Indomie dari Indonesia untuk mereka makan disana. Anda tahu sendiri, jika ada satu orang masak Indomie di rumah, harumnya menggugah selera seisi rumah itu. Anggaplah satu rumah isinya 4 orang, sudah ada 4 orang yang tergoda harumnya Indomie.\n<br /><br />\nKetika mereka mencobanya, kemungkinan sangat besar mereka akan menyukainya. Hal ini sudah terjadi bertahun - tahun sehingga Indomie dapat berekspansi hingga ke 100 negara di Dunia.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_26.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Indomie sudah hadir di Nigeria melalui Dufil Prima Foods (cucu usaha PCL), lalu di Mesir, Kenya, Maroko dan Serbia melalui Salim Wazaran Grup Limited (cucu usaha PCL), dan Turki (melalui cucu usaha PCL juga). Dan berdasarkan perkiraan kita pada weekly meeting 5 September 2023, seharusnya market share di sana >75%.\n<br /><br />\nIndomie sangat mudah diterima oleh berbagai orang, sekali lagi karena rasanya enak dan harganya yang murah. Di Afrika, dimana distribusi makanan dan produksi tidak efisien membuat Mie Instan menjadi alternatif makanan.\n<br /><br />\nBahkan meskipun ditengah situasi perang dan politik yang berkecamuk, logistik perang tetap mengirimkan Indomie. Karena bisa tahan lama dan mudah dikirim dibandingkan makanan jenis lain. \n<br /><br />\nICBP sendiri sudah memiliki 60 pabrik di Indonesia dan 20 pabrik yang tersebar di Malaysia, Afrika, Timur Tengah dan Eropa Tenggara. Selain itu, ICBP juga bisa mengekspor ke negara tetangga tempat pabrik mereka didirikan.\n<br /><br />\nSelain potensi penduduk yang besar, menurut saya seharusnya konsumsi per kapita di negara - negara Afrika & Timur Tengah masih sangat bisa meningkat.\n<br /><br />\nKita ambil contoh pada 5 negara ini: Nigeria, Saudi Arabia, Mesir, Turki dan Kenya.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_27.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Total populasi di sana 488.35 juta penduduk dengan konsumsi mie instan per kapita hanya 9.5 bungkus per tahun. Bagaimana dengan growth konsumsi mie instan di negara - negara tersebut?\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_28.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Mesir dan Nigeria sebagai negara dengan jumlah penduduk terbanyak di Afrika saat ini konsumsi per kapitanya belum sampai 20 bungkus/tahun. \n<br /><br />\nNigeria baru 12 bungkus per tahun, Mesir 4 bungkus per tahun. Nigeria memiliki 223 juta penduduk dan Mesir 113 juta penduduk. Total kedua negara ini saja sudah 336 juta penduduk.\n<br /><br />\nTotal penduduk di Afrika adalah 1 miliar orang dan Indomie belum masuk ke semua negara kan? So, runway masih sangat - sangat panjang sebenarnya bagi Indomie. \n<br /><br />\nBagaimana dengan penjualan perusahaan dibawah PCL? Berikut tabelnya:\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 100,
+          "height": null,
+          "objectFit": "scale-down"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_29.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Penjualan didominasi oleh 2 nama, Dufil Prima Food (DPFP) dari Nigeria dan Pinehill Arabia Food Ltd (PAFL) dari Saudi Arabia. \n<br /><br />\nBegitupun laba bersih, <b>mayoritas laba PCL disumbangkan oleh DPFP dan PAFL</b>. Memang, saat ini baru Nigeria dan Arab Saudi saja yang memiliki konsumsi per kapita mie instan cukup tinggi. \n<br /><br />\nAkan tetapi, kami melihat bahwa margin DPFP ini sering fluktuasi. Meskipun menghasilkan penjualan paling tinggi, Rp 10.8 T, DPFP hanya menghasilkan laba setara Rp 463 Miliar. Bandingkan dengan PAFL dengan penjualan Rp 4.5 T labanya Rp 1.4 T. Selain itu, PAFL menjadi perusahaan yang paling konsisten pertumbuhan dan nominal labanya bagi PCL.\n<br /><br />\nBahkan margin PAFL di Arab Saudi, jauh lebih tebal dari margin ICBP di Indonesia. NPM PAFL pada tahun 2019 itu 31%.\n<br /><br />\nSecara penjualan memang DPFP lebih besar, tapi secara laba, PAFL 3x lebih besar. Mengapa bisa demikian? Per artikel ini dibuat, kami belum mempelajari lebih dalam DPFP dan PAFL. Mungkin akan ada artikel tambahan ketika kami menemukan lebih banyak data nanti. (DPFP mungkin bisa, karena dia sudah IPO. Kalau PAFL sepertinya rada tricky).\n<br /><br />\nJadi, kalau kita hanya lihat pada tahun 2022 ini saja, maka jelas akuisisi Pinehill bo cuan! Tapi jika kita lihat lebih jauh dan total market yang bisa digarap oleh ICBP di Afrika dan Timur Tengah, menurut saya ada probability untuk Pinehill akan sukses. Karena harga produk yang sangat murah dan rasanya yang sangat enak serta nagih.\n<br /><br />\nKetika scale di Nigeria, Mesir, Turki, Kenya, Maroko dan Serbia sudah cukup besar, maka tinggal fokus efisiensi dan meningkatkan laba saja. \n<br /><br />\nToh kalaupun tidak sukses, hari ini INDF PE 5x. Sudah ada MOS nya.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Berapa Proyeksi Laba INDF?\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Mari kita hitung dan susun semuanya: ICBP, SIMP, Bogasari dan Indomarco.\n<br /><br />\nLaba dari ICBP kita sudah hitung, bagi INDF labanya Rp 8.8 T.\n<br /><br />\nSIMP per 1H 2023, labanya Rp 128 miliar. Kita setahunkan jadi Rp 256 miliar, yah bikin agak pesimis Rp 200 miliar oke lah. 60% dari SIMP adalah milik INDF, maka laba INDF dari SIMP Rp 120 miliar.\n<br /><br />\nBogasari dan Indomarco dimiliki oleh INDF 100%, per 1H 2023 laba Bogasari dan Indomarco Rp 879 miliar dan jika disetahunkan jadi Rp 1.75 T\n<br /><br />\nTotal laba grup INDF adalah Rp 10.67 T.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Berapa Harga Wajar INDF?\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Pertama - tama, kita harus sejalan dengan pandangan management soal kinerja bisnis INDF. Manajemen dalam annual report selalu menyampaikan kinerja INDF menggunakan istilah “core profit”.\n<br /><br />\nCore Profit adalah laba perusahaan tanpa memperhitungkan laba/rugi dari selisih kurs dan pendapatan yang tidak akan berulang (seperti keuntungan jual aset). Dengan demikian, kita akan dapat angka laba sesungguhnya dari perusahaan.\n<br /><br />\nNah, saya mencoba input core profit dan membandingkannya dengan harga saham INDF dari tahun ke tahun:\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_30.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Hasilnya PE dari core profit saat ini berada di titik terendah! Hanya 6.52x di tahun 2022. Apabila view kita bahwa kinerja core profit akan menjadi Rp 10.67 T atau Rp 1215 per saham di tahun 2024, maka di harga Rp 6675 INDF hanya diharga PE 5.49x.\n<br /><br />\nPE Core Profit INDF seharusnya di sekitar 12x - 15x seperti yang bisa Anda lihat pada grafik di atas. \n<br /><br />\nLalu, jika kita melihat gambaran lebih besar, kita akan lihat bahwa core profit juga terus naik dari tahun ke tahun.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/indf_data_31.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Harga INDF di Rp 6000an - Rp 7000an seperti harga di tahun 2012 - 2014. Cuma bedanya, core profit 2022 kemarin sudah 2x - 3x lipat lebih dari core profit INDF di tahun itu.\n<br /><br />\nDengan demikian, menurut saya rasanya cukup fair menghargai INDF di 12x - 15x core profitnya mengingat akan terjadinya efisiensi harga COGS dan potensi pertumbuhan di Afrika & Timur Tengah yang belum terpenetrasi merata. \n<br /><br />\nDengan asumsi core profit menjadi Rp 1215 per lembar (total Rp 10.67 T), <b>maka harga wajar INDF seharusnya Rp 14.500 - Rp 18.000.</b>\n<br /><br />\nKita bulatkan saja Rp 14.000 ya.\n<br /><br />\nHarga INDF per analisa ini dibuat adalah Rp 6675, >MOS 50%. \n<br /><br />\nKalaupun Pinehill akhirnya hanya biasa - biasa saja, operasional di Timur Tengah dan Afrika flat saja, membeli INDF di harga sekarang pun sudah kemurahan kan? Tapi bagaimana jika berhasil?\n<br /><br />\nHeads i win, tails i don’t lose much.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "disclaimer",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <i><b>Disclaimer: Artikel analisa ini bukanlah merupakan sebuah rekomendasi ataupun ajakan untuk jual atau beli saham tertentu. \nArtikel ini hanya untuk kepentingan edukasi dan informasi saja. \nSegala data yang disajikan bersumber dari publikasi yang disampaikan kepada publik melalui Annual Report, \nPublic Expose ataupun Laporan Keuangan emiten.</i></b><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      }
+    ],
+    "is_show_header": 1,
+    "header_type": "with_menu",
+    "is_show_footer": 1,
+    "footer_type": "with_menu",
+    "visibility": "membership_and_portofolio;membership;portofolio;fbjarvis;spesial;",
+    "created_at": "2023-09-21T09:16:46.000000Z",
+    "updated_at": "2023-09-21T09:16:46.000000Z",
+    "deleted_at": null,
+    "created_by": {
+      "id": 2,
+      "fullname": "Midas Super Admin",
+      "email": "admin@midascuan.id",
+      "role": "superadmin",
+      "has_link_product": 0,
+      "ip_address": null,
+      "last_login_ip": null,
+      "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+      "member_active_roles": [
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ],
+      "member_roles": [
+        {
+          "id": 109970,
+          "user_id": 2,
+          "role_id": 1,
+          "expired_date": "2025-02-27 00:45:00",
+          "created_at": "2023-05-25T18:59:06.000000Z",
+          "updated_at": "2025-02-20T15:45:14.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 1,
+            "title": "Portofolio",
+            "role": "portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:07:38.000000Z",
+            "updated_at": "2024-08-16T09:56:18.000000Z"
+          }
+        },
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ]
+    },
+    "updated_by": null,
+    "deleted_by": null
+  },
+  "changes": 0
+}

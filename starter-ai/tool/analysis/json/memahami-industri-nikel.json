@@ -1,0 +1,2814 @@
+{
+  "id": 71,
+  "page_id": 117,
+  "image_url": "https://api.midascuan.id/storage/resources/nikel-logo.webp",
+  "code": "NIKEL",
+  "buy_price": 0,
+  "current_price": 0,
+  "valuation": 0,
+  "margin_of_safety": 0,
+  "created_at": "2024-04-18T06:48:43.000000Z",
+  "updated_at": "2025-12-29T07:00:05.000000Z",
+  "status": "published",
+  "created_by": {
+    "id": 2,
+    "fullname": "Midas Super Admin",
+    "email": "admin@midascuan.id",
+    "role": "superadmin",
+    "has_link_product": 0,
+    "ip_address": null,
+    "last_login_ip": null,
+    "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+    "member_active_roles": [
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ],
+    "member_roles": [
+      {
+        "id": 109970,
+        "user_id": 2,
+        "role_id": 1,
+        "expired_date": "2025-02-27 00:45:00",
+        "created_at": "2023-05-25T18:59:06.000000Z",
+        "updated_at": "2025-02-20T15:45:14.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 1,
+          "title": "Portofolio",
+          "role": "portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:07:38.000000Z",
+          "updated_at": "2024-08-16T09:56:18.000000Z"
+        }
+      },
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ]
+  },
+  "updated_by": {
+    "id": 2,
+    "fullname": "Midas Super Admin",
+    "email": "admin@midascuan.id",
+    "role": "superadmin",
+    "has_link_product": 0,
+    "ip_address": null,
+    "last_login_ip": null,
+    "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+    "member_active_roles": [
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ],
+    "member_roles": [
+      {
+        "id": 109970,
+        "user_id": 2,
+        "role_id": 1,
+        "expired_date": "2025-02-27 00:45:00",
+        "created_at": "2023-05-25T18:59:06.000000Z",
+        "updated_at": "2025-02-20T15:45:14.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 1,
+          "title": "Portofolio",
+          "role": "portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:07:38.000000Z",
+          "updated_at": "2024-08-16T09:56:18.000000Z"
+        }
+      },
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ]
+  },
+  "deleted_at": null,
+  "deleted_by": null,
+  "page": {
+    "id": 117,
+    "title": "Memahami Industri Nikel",
+    "slug": "memahami-industri-nikel",
+    "type": "analysis",
+    "status": "published",
+    "content_html": "\"\"",
+    "content_json": [
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Memahami Industri Nikel\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "post-detail",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 flex flex-col md:flex-row justify-center gap-2 mt-1 mb-1 border-t border-b-2 border-black p-1\">\n        <p class=\"my-auto\">\n            <i class=\"fa fa-user-circle my-auto\"></i> \n\tFelix  Haridinata\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-calendar my-auto\"></i> \n\tApril 18, 2024\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-tags my-auto\"></i> \n\tNIKEL\n        </p>\n\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 10,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Intro\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Indonesia digadang - gadangkan akan menjadi penguasa nikel dunia. Karena hampir separuh produksi nikel dunia datang dari Indonesia. Tapi, apakah hal ini menjadikan emiten nikel menarik untuk dibeli dan diinvestasikan?\n<br /><br />\nKita akan bedah industri nikel secara mendalam, kita akan pelajari proses pembuatan nikel itu seperti apa, value chainnya gimana dan posisi berbagai emiten itu ada dimana. Namun seperti biasa tetap akan menggunakan bahasa yang simple dan sederhana (this is our style 😎).\n<br /><br />\nMari kita mulai.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Apa itu Nikel dan Bagaimana Pengolahannya?\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Pernahkan Anda membaca public expose dari berbagai emiten nikel, saya contohkan ANTM dan INCO berikut.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-01.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 20,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-02.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 20,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-03.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Apa pula itu feronikel? saprolit? limonit? RKEF? HPAL? MHP? 😵😵‍💫\n<br /><br />\nTenang, kita akan bahas satu - satu. Untuk bisa dengan yakin berinvestasi pada saham nikel, tentu kita harus paham juga apa yang dimaksud dari presentasi tersebut. Untuk bisa memahaminya, kita harus paham dulu operasional bisnis per-nikel-an ini.\n<br /><br />\nSebelum kesana, kita lihat nikel itu apa sih? kenapa perlu pakai nikel?\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-04.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Nikel memiliki karakteristik seperti gambar di atas. Sifatnya yang elastis dan tahan korosi membuat nikel cocok menjadi campuran dari produk logam. Nikel juga bisa didaur ulang seutuhnya tanpa mengalami penurunan kualitas. \n<br /><br />\nKarena berbagai sifat ini, nikel banyak terkandung di berbagai produk yang beraneka ragam. Mulai dari rangka kendaraan, panci, pipa pada industri oil & gas, peralatan medis, hingga kapal laut.\n<br /><br />\nNamun, sebelum mencapai aplikasinya pada berbagai produk, proses pengolahan nikel adalah sebuah proses yang cukup panjang. Seperti yang bisa Anda lihat pada bagan di bawah. (saya sarankan Anda baca dan ikutin bagan di bawah secara seksama agar bisa memahami proses produksi).\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-05.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 60,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\t Umumnya jalur pengolahan dan hilirisasi produk nikel terbagi menjadi 3 jalur, yaitu jalur stainless steel (merah), alloy & powder metallurgy (hijau) dan jalur li-ion battery (biru). Masing - masing jalur memiliki cara pemrosesan nikel yang berbeda. \n<br /><br />\nUntuk memurnikan bijih nikel, umumnya ada 2 cara.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "bullet",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <ol style=\"list-style-type: circle;padding-left:50px\">\n            <li> \n          <b>Cara #1 Pyrometallurgy </b></br>\nMenggunakan api, jadi perlu bahan bakar seperti batubara untuk membakar bijih dalam suhu tinggi (titik leleh nikel hampir 1500 derajat celcius). Namun, dalam proses membakar, logam mineral lain juga ikut leleh bersama nikel. Jadi belum dapat nikel murni.\n            </li>\n          </ol>\n\t  </p>\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-06.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />Produk yang dihasilkan adalah Feronikel, Nickel Pig Iron (NPI), dan Nickel Matte (melalui converter). Nickel Matte menjadi produk dengan tingkat kemurnian yang paling tinggi diantara produk lainnya disini. Ini karena dalam nickel matte sudah terdapat 78% nikel.\n<br /><br />\nFeronikel biasanya bisa <b>diubah menjadi Nickel Matte dengan dimasukkan ke dalam converter.</b> Biasanya, Feronikel dan NPI digunakan untuk jalur <b><u>stainless steel.</b></u> Untuk mendapatkan Feronikel dan NPI biasanya menggunakan pabrik <i>Rotary Kiln Electric Furnace (RKEF).</i> Contoh perusahaan yang memproduksi Feronikel adalah ANTM.\n<br /><br />\nSedangkan Nickel Matte ini lebih <b>fleksibel</b>, bisa ke jalur alloy & powder tapi juga bisa ke jalur baterai. Perusahaan yang memproduksi nickel matte contohnya adalah INCO.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "bullet",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <ol style=\"list-style-type: circle;padding-left:50px\">\n            <li> \n         <b> Cara #2 Hydrometallurgy  </b>\n            </li>\n          </ol>\n\t  </p><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-07.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Berbeda dengan pyrometallurgy, hydrometallurgy mencoba untuk memperoleh nikel dengan zat kimia bertekanan tinggi. Teknologinya disebut <i>High Pressure Acid Leaching (HPAL).</i> Produk yang dihasilkan biasanya adalah <i>Mixed Hydroxide Precipitate (MHP)</i> ataupun <i>Mixed Sulphite Precipitate (MSP).</i>\n<br /><br />\nSaat ini ada banyak perusahaan nikel yang berekspansi untuk membangun pabrik HPAL yang memproduksi MHP, sebut saja misalnya <b>INCO, NCKL, MBMA</b>. Alasannya karena MHP dan MSP ini merupakan produk yang berada di jalur produksi li-ion battery. \n<br /><br />\nMHP atau MSP ini akan diolah menjadi Nickel Sulphate yang menjadi bahan baku untuk mendapatkan nikel murni yang akan digunakan untuk membuat baterai kendaraan listrik. \n<br /><br />\nApakah semua bijih nikel bisa digunakan untuk produksi yang berbeda di atas? \n<br /><br />\nTerdapat dua jenis bijih nikel, yaitu sulfida dan laterit. Bijih sulfida memiliki grade yang lebih tinggi dari laterit. Bijih sulfida memiliki grade hingga 3%, artinya untuk setiap 1 ton bijih terkandung 3% nikel didalamnya. \n<br /><br />\nSedangkan bijih laterit umumnya ditemukan di iklim tropis (seperti Indonesia). Karena bijih laterit adalah bijih sulfida yang teroksidasi dan terekspos hujan dan panas. Umumnya bijih laterit memiliki grade <2% kandungan nikelnya.\n<br /><br />\nDi Indonesia, seluruh bijih yang dihasilkan adalah <u>bijih laterit.</u>\n<br /><br />\nBijih laterit sendiri, apabila kita melihat profil endapannya terdapat beberapa zona yang bisa diambil untuk diolah.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-08.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Zona yang biasanya diambil untuk diolah adalah limonite dan saprolite. Jadi di dalam satu endapan sudah pasti ada bagian limonite dan saprolite nya. Jika sebuah perusahaan ingin mengolah bijih saprolite, maka ia perlu menggali keluar bijih limonitenya. \n<br /><br />\nBagi perusahaan yang hanya mengolah saprolite, bagian limonite dianggap sebagai overburden (bagian yang dibuang). Lalu, apa yang membuat perusahaan mengolah limonite atau saprolite? Bisa kah dua - duanya?\n<br /><br />\nBijih apa yang diolah tergantung produk apa yang ingin dibuat.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-09.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Jika perusahaan ingin membuat <b>Feronikel/NPI,</b> maka bijih yang diolah adalah bijih saprolite. \n<br /><br />\nJadi mereka perlu gali dan buang limonitenya untuk memperoleh saprolite.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-10.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Jika perusahaan ingin mengolah dengan teknologi HPAL untuk menghasilkan <b>MHP/MSP</b>, mereka cukup menggali sampai bagian limonite saja.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-11.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Jika perusahaan ingin memproduksi <b>ferronikel/NPI dan juga MHP/MSP</b>, maka mereka bisa memanfaatkan kedua jenis saprolite dan limonite.\n<br /><br />\nContoh perusahaan yang melakukan ini adalah NCKL dan ke depan INCO.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Nikel dan Aplikasinya\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Nikel memiliki banyak sekali fungsi dan sifatnya yang elastis pada suhu ruangan membuat ia banyak dipakai pada berbagai hal. \n<br /><br />\nSeperti yang sudah Anda lihat pada tabel di bawah, pengolahan nikel umumnya akan diarahkan ke 3 jalur ini:\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-12.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 60,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Bagaimana dengan kegunaannya sekarang? Lebih banyak yang mana?\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-13.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Jadi 65% dari pengolahan nikel adalah menuju jalur stainless steel. Baterai hanya sekitar 15% - 17% dari demand nikel. Memang di masa depan seharusnya demand nikel akan lebih banyak didorong oleh baterai listrik. Namun untuk sekarang, untuk mempelajari kondisi pasar nikel, kita tentu harus sedikit banyak tahu soal market stainless steel. \n<br /><br />\nBagaimana dengan market dari stainless steel?\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-14.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "bullet",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \nMostly kegunaan stainless steel didominasi oleh:\n          <ol style=\"list-style-type: circle;padding-left:50px\">\n            <li> \n          <b>Consumer goods (38%).</b> Ini adalah berbagai produk konsumen elektronik, misalnya kulkas, mesin cuci, komputer, smartphone, dst. \n            </li>\n            <li> \n          <b>Mechanical Engineering (28.6%).</b> Misalnya pada high-temperature applications seperti di mesin turbin. Bisa juga digunakan untuk fluid handling system pada industri kimia, petrokimia dan oil & gas. Selain itu juga pada pegas dan pengencang pada mesin industri karena memiliki kekuatan tinggi dan ketahanan korosi. Serta masih banyak lagi.\n            </li>\n            <li> \n          <b>Construction (12.2%).</b> Misalnya pada rangka bangunan, atap, dekorasi, sistem drainase dan masih banyak lagi. \n            </li>\n          </ol>\n\t  </p><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Di Indonesia sendiri juga sudah memproduksi berbagai produk stainless steel seperti 200 series dan 300 series berikut: \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-15.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Namun, perusahaan - perusahaan yang memproduksi stainless steel ini sayangnya tidak go public. \n<br /><br />\nJadi kita tahu demand stainless steel bergantung dengan demand berbagai <b>produk elektronik, perkembangan industri secara umum, pembangunan konstruksi dan properti.</b>\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Nikel dan Baterai EV\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Berikutnya kita bahas soal aplikasi pada baterai EV.\n<br /><br />\nBaterai pada kendaraan ada banyak jenisnya, berikut berbagai jenis baterai diurutkan sesuai energy density nya:\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-16.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Simplenya, energy density adalah seberapa besar kapasitas baterai relatif terhadap bobotnya. Misalnya kita membandingkan NMC yang memiliki 205 Wh/Kg dengan LFP yang memiliki 120 Wh/Kg. Jika sama - sama memiliki bobot 1 kg, NMC memiliki kapasitas yang lebih besar hampir 2x lipat dari LFP. \n<br /><br />\nKalau LFP mau memiliki kapasitas yang sama seperti NMC, maka perlu sekitar 2 kg. Jika berat dan jarak tempuh menjadi hal yang krusial, maka menggunakan NMC lebih masuk akal. LFP mungkin digunakan untuk jarak tempuh yang lebih pendek dimana sudah terdapat stasiun pengisi daya yang tersebar di mana - mana, seperti di China misalnya.\n<br /><br />\nBagaimana dengan penggunaan baterai EV sekarang? Lebih banyak pakai yang mana?\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-17.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Ternyata saat ini lebih banyak menggunakan NMC (60% market share). LFP sendiri hampir seluruhnya di produksi di China dan pelanggan utamanya adalah BYD. Jika NMC lebih tinggi density nya, mengapa masih menggunakan LFP? Apakah NMC memang sudah pasti lebih bagus dari LFP?\n<br /><br />\nSalah satu alasannya dari sisi cost. Kita bisa lihat harga dari berbagai komponen penyusun baterai EV jika kita indeks kan ke 100. Komponen baterai di sumbu y sebelah kiri dan baterai di sumbu y sebelah kanan.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-18.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 60,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Harga lithium dan nikel mengalami kenaikan paling besar dalam hampir 10 tahun terakhir. Disaat yang sama, produsen baterai harus memproduksi baterai dengan harga yang lebih murah. Kalau komponen penyusun naik dan harga jual produk turun, maka masuk akal untuk mencari bahan penyusun lain yang lebih murah. \n<br /><br />\nPertanyaan selanjutnya, memangnya berapa besar kandungan nikel dalam baterai EV?\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-19.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Kita lihat pada NMC 811, artinya rasio kandungan nikel : mangan : cobalt adalah 8 : 1 : 1. Jika NMC 622 berarti 6 : 2 : 2. Simple.\n<br /><br />\nNMC yang paling banyak digunakan sekarang adalah NMC 622 (40% market share). Bagaimana dengan bobot nikel dalam baterai dalam kendaraan listrik? Butuh berapa kg?\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-20.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Generally, dalam baterai NMC 622, butuh 49 kg nikel. Dari sini, kita bisa hitung proyeksi kebutuhan nikel (more on this, later).\n<br /><br />\nKita coba bandingkan plus minus dari NMC vs LFP berikut:\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-21.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Ternyata, NMC “hanya” menang di energy density. Dalam hal seperti cost, cycle life, thermal & safety kalah dari LFP. Apalagi LFP bisa diproduksi dengan lebih murah dan memiliki environmental impact yang lebih minim. Dalam NMC, dibutuhkan cobalt yang lebih langka daripada nikel. Sedangkan pada LFP, besi cukup umum ditemukan di kerak bumi (jadi ga perlu gali terlalu dalam).\n<br /><br />\nApalagi BYD, perusahaan yang dimiliki oleh Warren Buffett CS merupakan pengguna terbanyak LFP dan menciptakan jenis LFP yang lebih space efficient melalui BYD Blade Battery.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-22.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<br /><div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4 px-5\" style=\"background-color:RGB(241, 241, 239)\">\n          <p> <br />\n<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" width=\"35\" height=\"35\" viewBox=\"0 0 256 256\" xml:space=\"preserve\">\n<defs>\n</defs>\n<g style=\"stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;\" transform=\"translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)\" >\n\t<path d=\"M 52.532 82.468 C 52.532 86.628 49.16 90 45 90 s -7.532 -3.372 -7.532 -7.532\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(178,178,178); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 59.69 54.787 v -0.71 c 0 -3.59 1.495 -6.978 4.009 -9.54 c 4.636 -4.725 7.495 -11.199 7.495 -18.342 c 0 -15.082 -12.746 -27.187 -28.054 -26.131 C 30.257 0.953 20.092 10.87 18.918 23.731 c -0.727 7.955 2.107 15.259 7.09 20.503 c 2.715 2.857 4.302 6.6 4.302 10.542 v 0 c 0 2.361 1.913 4.275 4.274 4.277 l 20.827 0.011 C 57.774 59.065 59.69 57.15 59.69 54.787 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,182,55); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 56.769 74.663 H 33.231 c -2.146 0 -3.902 -1.756 -3.902 -3.902 v 0 c 0 -2.146 1.756 -3.902 3.902 -3.902 h 23.539 c 2.146 0 3.902 1.756 3.902 3.902 v 0 C 60.672 72.907 58.916 74.663 56.769 74.663 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(178,178,178); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 53.229 82.468 H 36.771 c -2.146 0 -3.902 -1.756 -3.902 -3.902 v 0 c 0 -2.146 1.756 -3.902 3.902 -3.902 h 16.458 c 2.146 0 3.902 1.756 3.902 3.902 v 0 C 57.131 80.712 55.375 82.468 53.229 82.468 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(204,204,204); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 49.819 61.098 c -1.13 0 -2.045 -0.916 -2.045 -2.045 V 46.691 c 0 -5.949 2.449 -11.737 6.719 -15.88 c 0.81 -0.787 2.104 -0.769 2.892 0.043 c 0.786 0.81 0.767 2.105 -0.044 2.892 c -3.48 3.378 -5.476 8.096 -5.476 12.945 v 12.362 C 51.864 60.182 50.949 61.098 49.819 61.098 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,224,171); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 40.18 61.098 c -1.13 0 -2.045 -0.916 -2.045 -2.045 V 46.691 c 0 -4.85 -1.996 -9.568 -5.476 -12.944 c -0.811 -0.787 -0.83 -2.082 -0.044 -2.892 c 0.786 -0.811 2.081 -0.831 2.892 -0.044 c 4.27 4.143 6.718 9.931 6.718 15.881 v 12.362 C 42.226 60.182 41.31 61.098 40.18 61.098 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,224,171); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 56.769 66.858 H 33.231 c -2.146 0 -3.902 -1.756 -3.902 -3.902 v 0 c 0 -2.146 1.756 -3.902 3.902 -3.902 h 23.539 c 2.146 0 3.902 1.756 3.902 3.902 v 0 C 60.672 65.102 58.916 66.858 56.769 66.858 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(204,204,204); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n</g>\n</svg>\n\t By the way, kita sudah pernah bahas BYD di youtube jauh sebelum BYD seviral sekarang. Anda bisa cek di youtube midascuan berikut: <a class=\"break-all\" href=\"https://youtu.be/zIZQRDwq4-Q?si=aX_e5Vp7IB3aHc9Y\" style=\"color:blue;text-decoration:underline\" target=\"_blank\">https://youtu.be/zIZQRDwq4-Q?si=aX_e5Vp7IB3aHc9Y</a>\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Tidak heran bahwa BYD menjadi pemimpin dalam industri EV sekarang, terutama dalam baterainya. Karena BYD awalnya memang merupakan perusahaan yang memproduksi baterai Li-ion untuk handphone dengan market share 50%.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-23.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Sekarang BYD sudah menjadi produsen EV terbesar melewati Tesla. Apalagi hal ini dicapai dengan seiring membesarnya kue EV Global. \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-24.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Tentu ini akan membuat berbagai produsen EV berfikir ulang dalam pembuatan baterai mereka karena salah satu cost terbesar dalam EV adalah baterai. \n<br /><br />\nJika BYD mampu produksi dengan bagus dan lebih murah dari EV lain, ya tentu karena mereka pake baterai yang bagus dengan harga lebih murah. Kompetitor tentu juga ingin memperoleh teknologi tersebut.\n<br /><br />\nSo, saya pribadi <b>tidak sepenuhnya yakin apakah NMC akan menjadi baterai yang masih mendominasi EV di masa depan.</b> Karena seperti yang ditunjukkan oleh BYD, teknologi baterai LFP ini feasible dilakukan dan jarak tempuh yang lebih pendek masih good enough, apalagi di perkotaan.\n<br /><br />\nTapi apakah artinya baterai NMC ini tidak akan digunakan sama sekali? Menurut saya, seharusnya segala sesuatu ada marketnya. Lalu bagaimana kita memperkirakan kebutuhan nikel untuk NMC di masa depan?\n<br /><br />\nPertama, kita tahu bahwa kebutuhan nikel baterai di dorong oleh penjualan EV. Berarti kita perlu data berapa penjualan mobil di dunia dan berapa banyak yang merupakan EV?\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-25.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Penjualan mobil secara global adalah 70 - 75 juta unit per tahun. Dan IEA memperkirakan bahwa pada 2030, 60% dari penjualan mobil akan didominasi oleh EV. Kalau prediksi ini benar, artinya 45 juta unit yang terjual di 2030 adalah EV (60% x 75 juta unit, asumsi seluruh unit mobil terjual sama).\n<br /><br />\nLalu kita tahu, setidaknya satu mobil butuh 49 kg nikel (kita bulatin 50kg aja ya biar gampang). Jika kita asumsi 40% dari EV terjual menggunakan nikel, maka kebutuhan nikel adalah 900 ribu ton. (40% x 45 juta unit x 50 kg).\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-26.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Lalu bagaimana dengan produksi nikel saat ini? Saat ini, produksi sekitar 3.3 juta ton.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-27.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Oh ya, kalo soal proyeksi seperti ini, jangan langsung dipercaya mentah - mentah. Karena pada 2022, diprediksi kebutuhan nikel akan melonjak menjadi 3.6 juta ton, naik 20% dari konsumsi di 2021. Akibatnya banyak smelter digenjot untuk memenuhi proyeksi kebutuhan nikel tersebut. \n<br /><br />\nTernyata kebutuhan nikel hanya naik menjadi 3.3 juta ton dan terjadi oversupply. Akibatnya harga nikel terkoreksi. Salah satu data yang bisa Anda lihat adalah data persediaan London Metal Exchange (LME).\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-28.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Dapat kita lihat bahwa ketika terjadi tren penurunan inventory pada LME, harga nikel melonjak. Begitu juga sebaliknya.\n<br /><br />\nJadi, meskipun sekarang terjadi oversupply, kelihatannya hal ini sementara. Karena industri yang menggunakan nikel juga masih growing. \n<br /><br />\nLalu bagaimana posisi INCO dalam industri nikel ini? Apakah menarik\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        INCO\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-29.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Per artikel ini dibuat (11 April 2024), INCO memiliki struktur kepemilikan seperti di atas. Namun, seharusnya <b>angka kepemilikan ini akan berubah sebentar lagi karena kewajiban divestasi.</b>Jadi intinya, MIND ID akan menjadi salah satu pengendali dengan menggenggam 34% saham. \n<br /><br />\nINCO akan melakukan right issue dimana perjanjiannya, VCL dan SMM yang saat ini menggenggam 43.79% dan 15.03% tidak akan menebus INCO-R nya dan menjualnya ke MIND ID. Lalu MIND ID yang akan menebus.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-30.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Selain masuk melalui right issue, MIND ID juga akan membeli saham INCO melalui pasar.\n<br /><br />\nSelanjutnya, INCO akan dibawa kemana?\n<br /><br />\nKalau menurut saya, INCO akan diarahkan menjadi salah satu produsen utama nikel untuk bahan baku baterai. Ini terlihat dari rencana ekspansi mereka yang akan membangun 1 pabrik RKEF dan 2 pabrik HPAL.\n<br /><br />\nRKEF untuk produksi Feronickel yang seharusnya akan dipasang converter untuk diubah menjadi nickel matte (kayak sekarang).\n<br /><br />\nSedangkan 2 pabrik HPAL di Pomalaa dan Sorowako akan memiliki kapasitas produksi 180 ribu ton per tahun. Suplai bijih untuk semua smelter ini akan disuplai oleh INCO, sedangkan smelter akan kongsian dengan berbagai pihak.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-31.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Morowali RKEF → ownership smelter 49% → Bijih dari INCO, ownership tambang 100%\n<br /><br />\nPomalaa HPAL → ownership smelter 30% → Bijih dari INCO, ownership tambang 100%\n<br /><br />\nSorowako HPAL → ownership smelter 30% → Bijih dari INCO, ownership tambang 100%\n<br /><br />\nJadi, selain memperoleh keuntungan dari smelting dan menjual produk seperti MHP, INCO juga akan memperoleh keuntungan dari <b>menjual bijih nikelnya ke smelter tersebut.</b>\n<br /><br />\nAnda bisa lihat sekali lagi, alur pengolahan nikel dan berbagai produk turunannya dari bagan di bawah ya.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-32.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 60,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Untuk saat ini, INCO memproduksi Nickel Matte dan seluruh produksi tersebut dijual ke VCL dan SMM (transaksi afiliasi) karena VCL dan SMM merupakan pemegang saham INCO. Harga jual ditentukan patokannya dari harga LME (London Metal Exchange).\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-33.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t INCO juga sudah melewati berbagai business cycle yang panjang, eksistensi mereka juga sudah puluhan tahun di Indonesia. Akan tetapi, volume penjualan INCO belum bisa melewati puncak nya di tahun 2014/2015.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-34.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Masa panen INCO dapat kita lihat ada di tahun 2005 - 2007 dimana terjadi kenaikan volume penjualan disertai kenaikan harga jual yang drastis. Hal ini terjadi karena China di tahun 2007 menggenjot pembangunan dan percepatan pembangunan untuk Olimpiade Beijing 2008. \n<br /><br />\nSeperti kita sudah pelajari di atas, demand terbesar nikel adalah stainless steel yang digunakan untuk consumer goods, mechanical engineering dan construction.\n<br /><br />\nAkan tetapi ekonomi yang overheat di tahun 2007 disusul oleh Global Financial Crisis di tahun 2008 membuat harga berbagai komoditas jatuh, termasuk salah satunya adalah nikel. Namun lagi - lagi, China menerbitkan paket stimulus yang sangat besar senilai $585 miliar. Akibatnya komoditas bangkit lagi di 2009 - 2011 sebelum akhirnya jatuh kembali hingga 2016 karena oversupply.\n<br /><br />\nDi tahun 2020, selain karena EV boom, mendadak kebutuhan untuk berbagai aktivitas digital mendorong permintaan untuk berbagai produk elektronik. Seperti kita tahu, consumer goods terlebih consumer electronics merupakan demand terbesar untuk stainless steel. Harga nikel pun melambung.\n<br /><br />\nDitengah ketatnya suplai nikel dan tingginya harga serta prospek yang cerah, Indonesia berusaha untuk meningkatkan produksi nikel. Namun ekonomi China yang lebih lemah dan perkiraan demand yang meleset membuat pasar nikel menjadi <b>oversupply dan harga jatuh.</b>\n<br /><br />\nPerlu kita tahu, bahwa harga nikel yang kita lihat di Tradingeconomics adalah harga nikel LME dengan kadar murni, 99.9%. <b>Jadi, kita tidak bisa langsung mengalikan volume penjualan INCO dengan harga nikel di LME</b>. Karena INCO produksinya <b><i>Nickel Matte, bukan nikel murni.</i></b>\n<br /><br />\nNamun, tentu kedua produk ini saling berhubungan harga jualnya. Kedepan, jika ekspansinya sukses, INCO juga akan menghasilkan MHP dan juga akan memperoleh keuntungan dari penjualan bijih ke smelter. Lalu gimana cara hitung harga jual bijih, MHP dan Nickel Matte?\n<br /><br />\nUntuk itu, kita perlu melihat acuan dari pemerintah, yaitu <b>Kepmen ESDM 2946 K/30/MEM/2017.</b>\n<br /><br />\nKita mulai dari bijih dulu.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Perhitungan harga jual Bijih Nikel\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-35.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Untuk bisa menghitung HPM Bijih Nikel, kita perlu tahu kadar nikel pada bijihnya berapa, hal ini akan mempengaruhi CF nya dan juga kita perlu tahu HMA Nikel.\n<br /><br />\nUntuk HMA Nikel sendiri, kita bisa lihat dari website esdm berikut: <a class=\"break-all\" href=\"https://www.minerba.esdm.go.id/harga_acuan\" style=\"color:blue;text-decoration:underline\" target=\"_blank\">https://www.minerba.esdm.go.id/harga_acuan</a>\n<br /><br />\nKita ambil contoh perhitungan harga jual bijih nikel INCO per Maret 2024 ini (apabila INCO menjual bijihnya).\n<br /><br />\n%Ni INCO = 1.7% (ada di public expose, namun ini untuk bijih saprolite, untuk limonite kita asumsi lebih rendah 60%)\n<br /><br />\nCF = 18% (sesuai di tabel di atas)\n<br /><br />\nHMA Maret 2024 = $16021 per ton\n<br /><br />\nHPM = 1.7% x 18% x $16021 = $49 per ton.\n<br /><br />\nJadi, faktor yang mempengaruhi harga jual bijih nikel adalah <b>grade bijih</b> tersebut dan <b>harga nikel global.</b>  \n<br /><br />\nApabila harga naik menjadi $30 ribu, maka HPM Bijih dengan grade yang sama juga akan naik menjadi sekitar $100 per ton.\n<br /><br />\nKita juga bisa memperkirakan, INCO akan menjual berapa ton bijih ke smelter RKEF dan HPAL nya di masa depan. Kita tahu kadar nikel untuk produk FeNi adalah 20% Ni dan untuk produk MHP adalah sekitar 40%.\n<br />v\nArtinya, jika produksi 73 ribu ton FeNi dengan kadar nikel 20%, maka nikelnya ada 14.600 ton (20% x 73 ribu). Untuk bisa memperoleh 14.600 ton nikel dengan kadar bijih 1.7% (saprolite), maka pabrik RKEF ini perlu memproses <b>~860ribu ton bijih nikel</b> (14.600 ton / 1.7%).\n<br /><br />\nUntuk produksi 180 ribu ton MHP dengan kadar nikel 40% perlu 72 ribu ton nikel (40% x 180 ribu). Untuk memperolah 72 ribu ton nikel dengan kadar bijih 1% (limonite), maka perlu <b>7.2 juta ton bijih nikel</b> (72 ribu / 1%).\n<br /><br />\nJadi total kasarnya INCO perlu menyuplai 8 juta ton bijih nikel ke tiga smelter tersebut per tahun. \n<br /><br />\nDengan asumsi harga nikel tetap di $16 ribu per ton, maka harga jual bijih dari tambang kita bulatkan $50 per ton. Dikali 5 juta ton, <b><u>maka tambahan pendapatan adalah $250 juta per tahun.</u></b> Ini dengan <b>asumsi ketiga smelter berjalan 100% dan pakai 100% bijihnya INCO.</b>\n<br /><br />\nBerikutnya, kita akan menghitung harga jual untuk produk Nickel Matte.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Perhitungan Harga Jual Nickel Matte\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-36.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Rumusnya hampir sama, namun dalam Ni-matte terdapat kandungan cobalt. Untuk mendapatkan angka ini sebenarnya sudah dicantumkan oleh INCO juga.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-37.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Jadi kita masukkan ke dalam formula perhitungannya:\n<br /><br />\nHPM Ni-Matte = (78% + 2%) x $16 ribu per ton x 78% = ~$10ribu per ton.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<br /><div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4 px-5\" style=\"background-color:RGB(241, 241, 239)\">\n          <p> <br />\n<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" width=\"35\" height=\"35\" viewBox=\"0 0 256 256\" xml:space=\"preserve\">\n<defs>\n</defs>\n<g style=\"stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;\" transform=\"translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)\" >\n\t<path d=\"M 52.532 82.468 C 52.532 86.628 49.16 90 45 90 s -7.532 -3.372 -7.532 -7.532\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(178,178,178); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 59.69 54.787 v -0.71 c 0 -3.59 1.495 -6.978 4.009 -9.54 c 4.636 -4.725 7.495 -11.199 7.495 -18.342 c 0 -15.082 -12.746 -27.187 -28.054 -26.131 C 30.257 0.953 20.092 10.87 18.918 23.731 c -0.727 7.955 2.107 15.259 7.09 20.503 c 2.715 2.857 4.302 6.6 4.302 10.542 v 0 c 0 2.361 1.913 4.275 4.274 4.277 l 20.827 0.011 C 57.774 59.065 59.69 57.15 59.69 54.787 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,182,55); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 56.769 74.663 H 33.231 c -2.146 0 -3.902 -1.756 -3.902 -3.902 v 0 c 0 -2.146 1.756 -3.902 3.902 -3.902 h 23.539 c 2.146 0 3.902 1.756 3.902 3.902 v 0 C 60.672 72.907 58.916 74.663 56.769 74.663 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(178,178,178); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 53.229 82.468 H 36.771 c -2.146 0 -3.902 -1.756 -3.902 -3.902 v 0 c 0 -2.146 1.756 -3.902 3.902 -3.902 h 16.458 c 2.146 0 3.902 1.756 3.902 3.902 v 0 C 57.131 80.712 55.375 82.468 53.229 82.468 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(204,204,204); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 49.819 61.098 c -1.13 0 -2.045 -0.916 -2.045 -2.045 V 46.691 c 0 -5.949 2.449 -11.737 6.719 -15.88 c 0.81 -0.787 2.104 -0.769 2.892 0.043 c 0.786 0.81 0.767 2.105 -0.044 2.892 c -3.48 3.378 -5.476 8.096 -5.476 12.945 v 12.362 C 51.864 60.182 50.949 61.098 49.819 61.098 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,224,171); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 40.18 61.098 c -1.13 0 -2.045 -0.916 -2.045 -2.045 V 46.691 c 0 -4.85 -1.996 -9.568 -5.476 -12.944 c -0.811 -0.787 -0.83 -2.082 -0.044 -2.892 c 0.786 -0.811 2.081 -0.831 2.892 -0.044 c 4.27 4.143 6.718 9.931 6.718 15.881 v 12.362 C 42.226 60.182 41.31 61.098 40.18 61.098 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,224,171); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 56.769 66.858 H 33.231 c -2.146 0 -3.902 -1.756 -3.902 -3.902 v 0 c 0 -2.146 1.756 -3.902 3.902 -3.902 h 23.539 c 2.146 0 3.902 1.756 3.902 3.902 v 0 C 60.672 65.102 58.916 66.858 56.769 66.858 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(204,204,204); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n</g>\n</svg>\n\t <b>Tips: </b>Kita bisa sederhanakan formulanya dari 80% x HMA Nikel x 78% menjadi <b>62% x HMA Nikel.</b> Jadi setiap kali Anda lihat harga Nikel, kalikan dengan 62% untuk mendapat harga Ni-Matte.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t INCO menjual sekitar 60ribu - 70ribu ton per tahun dan angka ini tidak akan banyak berubah. \n<br /><br />\nApabila harga nikel tetap di $16 ribuan per ton, maka penjualan INCO akan sekitar $700 juta.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Perhitungan Harga Jual MHP\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-38.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Prinsip dalam formulanya hampir sama. Jika dalam Ni-matte, kandungan kobalt dijumlahkan dengan kadar nikel dan dikalikan dengan harga nikel, dalam MHP perhitungan nikel dan kobalt di pisah. \n<br /><br />\nUmumnya, MHP yang dihasilkan memiliki 40% kandungan Ni dan 2-5% kandungan Co. Mari kita coba hitung berapa HPM MHP berdasarkan harga Ni dan Co murni per Maret 2024.\n<br /><br />\nHPM MHP = (40% x $16ribu per ton x 60%) + (5% x $28ribu per ton x 100%) = <b><u>$5240 per ton.</u></b>\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<br /><div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4 px-5\" style=\"background-color:RGB(241, 241, 239)\">\n          <p> <br />\n<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" width=\"35\" height=\"35\" viewBox=\"0 0 256 256\" xml:space=\"preserve\">\n<defs>\n</defs>\n<g style=\"stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;\" transform=\"translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)\" >\n\t<path d=\"M 52.532 82.468 C 52.532 86.628 49.16 90 45 90 s -7.532 -3.372 -7.532 -7.532\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(178,178,178); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 59.69 54.787 v -0.71 c 0 -3.59 1.495 -6.978 4.009 -9.54 c 4.636 -4.725 7.495 -11.199 7.495 -18.342 c 0 -15.082 -12.746 -27.187 -28.054 -26.131 C 30.257 0.953 20.092 10.87 18.918 23.731 c -0.727 7.955 2.107 15.259 7.09 20.503 c 2.715 2.857 4.302 6.6 4.302 10.542 v 0 c 0 2.361 1.913 4.275 4.274 4.277 l 20.827 0.011 C 57.774 59.065 59.69 57.15 59.69 54.787 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,182,55); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 56.769 74.663 H 33.231 c -2.146 0 -3.902 -1.756 -3.902 -3.902 v 0 c 0 -2.146 1.756 -3.902 3.902 -3.902 h 23.539 c 2.146 0 3.902 1.756 3.902 3.902 v 0 C 60.672 72.907 58.916 74.663 56.769 74.663 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(178,178,178); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 53.229 82.468 H 36.771 c -2.146 0 -3.902 -1.756 -3.902 -3.902 v 0 c 0 -2.146 1.756 -3.902 3.902 -3.902 h 16.458 c 2.146 0 3.902 1.756 3.902 3.902 v 0 C 57.131 80.712 55.375 82.468 53.229 82.468 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(204,204,204); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 49.819 61.098 c -1.13 0 -2.045 -0.916 -2.045 -2.045 V 46.691 c 0 -5.949 2.449 -11.737 6.719 -15.88 c 0.81 -0.787 2.104 -0.769 2.892 0.043 c 0.786 0.81 0.767 2.105 -0.044 2.892 c -3.48 3.378 -5.476 8.096 -5.476 12.945 v 12.362 C 51.864 60.182 50.949 61.098 49.819 61.098 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,224,171); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 40.18 61.098 c -1.13 0 -2.045 -0.916 -2.045 -2.045 V 46.691 c 0 -4.85 -1.996 -9.568 -5.476 -12.944 c -0.811 -0.787 -0.83 -2.082 -0.044 -2.892 c 0.786 -0.811 2.081 -0.831 2.892 -0.044 c 4.27 4.143 6.718 9.931 6.718 15.881 v 12.362 C 42.226 60.182 41.31 61.098 40.18 61.098 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,224,171); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 56.769 66.858 H 33.231 c -2.146 0 -3.902 -1.756 -3.902 -3.902 v 0 c 0 -2.146 1.756 -3.902 3.902 -3.902 h 23.539 c 2.146 0 3.902 1.756 3.902 3.902 v 0 C 60.672 65.102 58.916 66.858 56.769 66.858 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(204,204,204); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n</g>\n</svg>\nPerlu diketahui, ini masih perkiraan dan kita belum tahu secara pasti berapa kadarnya. Lebih baik menunggu informasi yang lebih jelas dari manajemen. Asumsi perhitungan di atas bisa jadi keliru dan berubah.\n<br /><br />\n<b>Bisa jadi juga terdapat perbedaan perhitungan ASP MHP. </b>Karena saya melihat ASP MHPnya NCKL $14 ribu ketika harga nikel di $30 ribuan (sekitar 40% dari harga nikel plus sisanya dari cobalt).  \n<br /><br />\nDalam perhitungan di atas, saya hanya mengikuti formula perhitungan sesuai Kepmen terkait.\n\t      </p><br />\n      </div>\n  </div><br />",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Seberapa Untung Melakukan Smelting?\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Proses melakukan smelting dengan mengubah bijih nikel menjadi berbagai produk turunan memakan biaya yang cukup besar. \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-39.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Sebagai gambaran, untuk menghasilkan 1 ton nikel, pabrik HPAL memiliki capex yang jauh lebih besar ketimbang RKEF yang memproduksi FeNi dan NPI. Hal ini make sense karena pabrik HPAL memiliki peralatan yang lebih khusus karena perlu digunakan dalam kondisi korosif dengan tekanan tinggi.\n<br /><br />\nJadi, membangun pabrik HPAL yang menghasilkan MHP memakan biaya investasi yang sangat besar. Semakin besar capex, semakin risky sebuah project. \n<br /><br />\nSebagai perbandingan, kita bisa lihat pada laporan keuangan NCKL yang sudah terlebih dahulu membangun pabrik HPAL. Kita bandingkan mana yang lebih untung, NCKL mengolah nikel menjadi MHP atau menjual bijih nikelnya saja.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-40.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t <b>Ternyata lebih untung jualan bijihnya saja.</b> Bukan hanya lebih untung, tapi secara capex juga tidak memakan biaya yang besar. Hal ini karena dalam proses penambangan, bisnis prosesnya lebih sederhana. \n<br /><br />\nGali → tampung → jual\n<br /><br />\nSedangkan dalam proses pengolahan nikel memerlukan berbagai step yang artinya perlu peralatan - peralatan khusus lagi. \n<br /><br />\nINCO sendiri yang menghasilkan Ni-matte juga terlihat <b><u>sangat capital intensive (padat modal, duit yang dihasilkan harus balik ke peralatan).</u></b>\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-41.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Anda bisa lihat perolehan <b>aset tetap (capex) setiap tahun yang hampir menggerogoti habis arus kas dari aktivitas operasinya (lihat chart sebelah kiri).</b> Capex tersebut adalah maintenance capex, bukan growth capex (nambah kapasitas). \n<br /><br />\nMaintenance capex adalah capex yang digunakan untuk me-maintain peralatan agar berfungsi seperti kondisi normal. Mengganti mesin yang sudah rusak adalah contoh maintenance capex. \n<br /><br />\nDengan kata lain, maintenance capex adalah capex yang harus dikeluarkan perusahaan untuk menjaga kapasitasnya. \n<br /><br />\nTahu dari mana itu maintenance capex? Ya karena dalam periode tersebut tidak ada penambahan kapasitas produksi. Beberapa tahun terakhir (sejak 2020) terjadi peningkatan capex yang cukup besar untuk persiapan berbagai rencana ekspansi.\n<br /><br />\nJika kita kembali melihat rencana ekspansi INCO ini, kita akan dapat mengetahui bahwa ekspansi ini sangat besar, $8 miliar.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-42.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t INCO memang tidak mengeluarkan seluruh capexnya sendiri, melainkan join dengan berbagai pihak. Tapi kita tahu bahwa capex HPAL ini sangat besar dan INCO pegang masing masing 30%nya. Capex untuk project HPAL di Pomalaa dan Sorowako totalnya $6.5 miliar. Katakanlah INCO keluar 30%nya berarti $1.95 miliar.\n<br /><br />\nUntuk RKEF, INCO akan pegang 49% saham di smelter dengan capex $2.6 miliar. Berarti INCO harus keluarin $1.27 miliar.\n<br /><br />\nTotalnya berarti $3.22 miliar.\n<br /><br />\nCash INCO saat ini $699 juta. Artinya untuk memenuhi kebutuhan tersebut, memerlukan tambahan utang atau setoran modal.\n<br /><br />\nApabila kita melihat yang pabrik HPAL nya saja, ini total memakan biaya capex $6.5 miliar dan menghasilkan total 180 ribu ton MHP. Capex per ton $36ribu, ini dengan catatan nanti beroperasi full 100%.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<br /><div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4 px-5\" style=\"background-color:RGB(241, 241, 239)\">\n          <p> <br />\n<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" width=\"35\" height=\"35\" viewBox=\"0 0 256 256\" xml:space=\"preserve\">\n<defs>\n</defs>\n<g style=\"stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;\" transform=\"translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)\" >\n\t<path d=\"M 52.532 82.468 C 52.532 86.628 49.16 90 45 90 s -7.532 -3.372 -7.532 -7.532\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(178,178,178); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 59.69 54.787 v -0.71 c 0 -3.59 1.495 -6.978 4.009 -9.54 c 4.636 -4.725 7.495 -11.199 7.495 -18.342 c 0 -15.082 -12.746 -27.187 -28.054 -26.131 C 30.257 0.953 20.092 10.87 18.918 23.731 c -0.727 7.955 2.107 15.259 7.09 20.503 c 2.715 2.857 4.302 6.6 4.302 10.542 v 0 c 0 2.361 1.913 4.275 4.274 4.277 l 20.827 0.011 C 57.774 59.065 59.69 57.15 59.69 54.787 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,182,55); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 56.769 74.663 H 33.231 c -2.146 0 -3.902 -1.756 -3.902 -3.902 v 0 c 0 -2.146 1.756 -3.902 3.902 -3.902 h 23.539 c 2.146 0 3.902 1.756 3.902 3.902 v 0 C 60.672 72.907 58.916 74.663 56.769 74.663 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(178,178,178); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 53.229 82.468 H 36.771 c -2.146 0 -3.902 -1.756 -3.902 -3.902 v 0 c 0 -2.146 1.756 -3.902 3.902 -3.902 h 16.458 c 2.146 0 3.902 1.756 3.902 3.902 v 0 C 57.131 80.712 55.375 82.468 53.229 82.468 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(204,204,204); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 49.819 61.098 c -1.13 0 -2.045 -0.916 -2.045 -2.045 V 46.691 c 0 -5.949 2.449 -11.737 6.719 -15.88 c 0.81 -0.787 2.104 -0.769 2.892 0.043 c 0.786 0.81 0.767 2.105 -0.044 2.892 c -3.48 3.378 -5.476 8.096 -5.476 12.945 v 12.362 C 51.864 60.182 50.949 61.098 49.819 61.098 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,224,171); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 40.18 61.098 c -1.13 0 -2.045 -0.916 -2.045 -2.045 V 46.691 c 0 -4.85 -1.996 -9.568 -5.476 -12.944 c -0.811 -0.787 -0.83 -2.082 -0.044 -2.892 c 0.786 -0.811 2.081 -0.831 2.892 -0.044 c 4.27 4.143 6.718 9.931 6.718 15.881 v 12.362 C 42.226 60.182 41.31 61.098 40.18 61.098 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,224,171); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 56.769 66.858 H 33.231 c -2.146 0 -3.902 -1.756 -3.902 -3.902 v 0 c 0 -2.146 1.756 -3.902 3.902 -3.902 h 23.539 c 2.146 0 3.902 1.756 3.902 3.902 v 0 C 60.672 65.102 58.916 66.858 56.769 66.858 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(204,204,204); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n</g>\n</svg>\nLet say Anda beli mesin kopi untuk cafe Anda seharga Rp 100 juta yang bisa dipakai 10 tahun, artinya beban depresiasi Rp 10 juta per tahun. Anda mau jual 5000 cangkir per tahun atau jual 2000 cangkir per tahun, beban depresiasi mesin tersebut akan sama kan? Tetap Rp 10 juta per tahun.\n<br /><br />\nTapi kalo di convert menjadi beban depresiasi per cangkir, menjadi beda. Yang jual 5000 cangkir, depresiasinya Rp 2000 per cangkir. Yang jual 2000 cangkir, depresiasinya Rp 5000 per cangkir.\n<br /><br />\nSemakin banyak cangkir yang mampu Anda jual menggunakan mesin tersebut, semakin kecil beban depresiasi per cangkirnya. \n\t      </p><br />\n      </div>\n  </div><br />",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Jika kita lihat dari pubex NCKL, cash margin produk MHP di $8920 per ton (bulatin jadi $9000 saja). \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-43.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Ini dengan catatan ASP sedang tinggi - tingginya di 2022 - 2023 kemarin. Harga nikel sekarang sudah turun 30% dari sejak Januari 2023. Let say kita asumsikan cash margin turun 20%, maka sekitar $7200 per ton.\n<br /><br />\nIni belum dipotong biaya tidak langsung ya, jadi cash cost biasanya hanya biaya langsung untuk produksi seperti bahan baku, tenaga kerja langsung, fuel serta biaya maintenance. Katakanlah bersihnya $3000 per ton MHP.\n<br /><br />\nDengan capex $36 ribu per ton Ni untuk membangun HPAL, <b>butuh waktu 12 tahun untuk balik modal.</b> Kalau harga nikel lebih tinggi, balik modal tentu menjadi lebih cepat. Itu dengan catatan di tahun pertama kapasitas full ya.\n<br /><br />\nBagaimana dengan kinerja INCO yang menjual Ni-Matte untuk saat ini? \n<br /><br />\nPertama kita lihat dulu COGS nya.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-44.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Kita bisa lihat bahwa <b>COGS per ton di kisaran $10 ribu - $14 ribu</b>. Apabila saat down cyclenya seperti di tahun 2016, COGS per ton di kisaran $7000 per ton Ni-Matte. Komponen COGS terbesarnya adalah depresiasi, BBM & Pelumas, jasa kontraktor dan bahan pembantu. \n<br /><br />\nPrinsipnya dalam komoditi, harga komoditi tidak akan lebih rendah dari biaya produksi produsen paling efisiennya. Bisa dibayangkan jika produsen paling efisiennya saja rugi dalam produksi, bagaimana dengan yang lain?\n<br /><br />\nDalam kondisi rugi, produksi akan turun, suplai akan turun, sedangkan demand tetap. Maka harga akan naik lagi. Makanya ada pepatah dalam komoditi, “the cure for low price is low price”.\n<br /><br />\nApabila perlu biaya produksi $10 ribu untuk satu ton Ni-Matte maka ini setara $16 ribu per ton Ni (cek kembali HPM Ni Matte). <b>Maka harga nikel seharusnya saat ini sudah cukup rendah di kisaran $16 ribu per ton.</b>\n<br /><br />\nTentu saja, kami tidak mencoba untuk pinpoint secara persis mana level bottom dari harga nikel. Tapi jika melihat dari harga produksi INCO yang di kisaran $16 ribu per ton Ni, maka harga nikel sekarang cukup rendah. INCO seharusnya merupakan salah satu low cost producer dari produk Nikel.\n<br /><br />\nUntuk Opex (operational expense), mostly adalah beban karyawan dan jasa professional. Kita bisa katakan opex per ton di kisaran $200 per ton sepertinya tidak terlalu berlebihan.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-45.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<br /><div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Berapa Harga Wajar INCO?\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Pertama - tama, kita harus sama - sama sadar bahwa apabila harga pasar sekarang lebih tinggi/lebih rendah dari perhitungan harga wajar, maka ini tidak serta merta membuat harga pasar akan segera naik/turun ke level tersebut.\n<br /><br />\nKedua, perhitungan harga wajar lebih kepada perhitungan <b>apakah kita memperoleh good deal</b> dengan membeli. Tentu ketika membeli sebuah aset, kita berharap mendapatkan harga yang bagus (murah). Kapan harganya naik kita tidak tahu, namun kita tahu this is a good deal kalopun harga tidak naik.\n<br /><br />\nLalu bagaimana kita menghitung harga wajarnya?\n<br /><br />\nKita hitung dulu berapa labanya INCO dan bandingkan dengan harga pasar. Jadi ibaratnya kita lihat aset ini bisa ngasilin duit berapa? Lalu kita bayar berapa? Masuk akal kan?\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "bullet",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \nUntuk itu kita perlu hitung berapa keuntungan INCO dari:\n          <ol style=\"list-style-type: circle;padding-left:50px\">\n            <li> \n          Existing Produksi Ni-Matte\n            </li>\n            <li> \n          Tambahan Penjualan MHP (Pomalaa dan Sorowako) yang operasional di 2026 & 2027: 30% ownership\n            </li>\n            <li> \n          Tambahan Penjualan FeNi di Morowali (saya ekspektasi akan di convert ke Ni-Matte) di 2026: 49% Ownership\n            </li>\n            <li> \n          Tambahan Penjualan Bijih ke project Pomalaa, Sorowako dan Morowali): 100% ownership. \n            </li>\n          </ol>\n\t  </p><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Existing Produksi Ni-Matte\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Sekarang ini volume produksi Nickel Matte INCO adalah sekitar 60 ribu ton per tahun. Lalu kita kalikan dengan net profit per ton. Kita ambil tengahnya saja, $1500 per ton.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-46.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Maka profit dari nickel matte 60 ribu ton x $1500 per ton = $90 juta.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Tambahan Produksi MHP (Pomalaa dan Sorowako)\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Selanjutnya kita perkirakan rencana ekspansi dari INCO untuk produksi MHP. Kita tahu bahwa total kapasitasnya adalah 180 ribu ton MHP per tahun. Kita akan buat beberapa skenario dimana utilisasi 25%, 50%, 75% dan 100%.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "bullet",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \nSelanjutnya, kita perkirakan:\n          <ol style=\"list-style-type: circle;padding-left:50px\">\n            <li> \n          ASP (pakai yang level rendah biar ga terlalu overoptimis). ASP MHP kita patok $8000 per ton. Asumsi MHP memiliki kadar 40% nikel, maka ini setara harga nikel $20 ribu ($8000/40%).\n            </li>\n            <li> \n          Kurangkan dengan cash cost per ton (cek dari NCKL untuk produk MHP). Asumsi INCO lebih efisien, sehingga cash cost 30% lebih rendah dari NCKL. Semakin tinggi utilisasi, maka seharusnya cash cost per ton juga bisa turun.\n            </li>\n            <li> \n          Kurangkan dengan beban depresiasi per ton. Depresiasi per tahun diperkirakan $1800 per ton per tahun(full capacity). Dapatnya dari capex $6.5 miliar untuk produksi 180 ribu ton MHP per tahun dibagi 20 tahun.\n            </li>\n            <li> \n          Net profit yang diperoleh dikalikan 30% (ownership INCO).\n            </li>\n          </ol>\n\t  </p><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-47.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "header",
+        "text": "</br><div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Tambahan Penjualan FeNi di Morowali \n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Berikutnya, ekspansi di Morowali untuk produksi FeNi yang kapasitasnya 73 ribu ton. Menurut saya, kemungkinan INCO akan convert FeNi ini ke Ni-Matte seperti sekarang. \n<br /><br />\nJadi kita pakai net profit per ton untuk ekspansi ini sama seperti existing sekarang yaitu $1500 per ton. \n<br /><br />\nNext kita hitung dari 73 ribu ton FeNi mampu diconvert menjadi berapa ton Ni Matte?\n<br /><br />\nUmumnya FeNi memiliki kandungan 20% Ni, Ni-Matte memiliki kandungan 78% Ni.\n<br /><br />\nDalam 1 ton FeNi berarti kandungan Ni nya 0.2 ton (20% x 1 ton). Let say efisiensi hanya 95%, artinya Ni yang bisa diconvert  0.19 ton.\n<br /><br />\nSelanjutnya untuk mengetahui bisa memperoleh berapa Ni-Matte tinggal dibagi 0.19 ton / 78% = 0.24 ton.\n<br /><br />\nArtinya 1 ton FeNi dapat diconvert ke 0.24 ton Ni-Matte. Dengan produksi 73 ribu ton, maka Ni-Matte yang bisa dihasilkan 17.78 ribu ton.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-48.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "header",
+        "text": "</br><div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Tambahan Penjualan Bijih \n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Selanjutnya adalah penjualan bijih nikel. Kita tahu, selain rencana ekspansi pabrik HPAL dan RKEF, pabrik - pabrik ini juga akan beli bijih nikel yang 100% dimiliki oleh INCO. \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-49.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Seperti yang sudah kita pelajari, pabrik HPAL akan pakai bijih limonite dan RKEF akan pakai bijih saprolite.\n<br /><br />\nSaat ini, INCO memiliki cadangan bijih saprolite sebesar 111 juta ton. Dengan produksi Ni-Matte INCO sekarang di sekitar 60ribu - 70 ribu ton, kebutuhan bijihnya sekitar 3 juta ton per tahun. Artinya dengan tambahan ekspansi untuk produksi 73ribu ton FeNi yang menggunakan bijih saprolite, cadangan INCO masih dapat bertahan hingga 20-30 tahun ke depan. \n<br /><br />\nNamun, untuk bijih limonite, sayangnya INCO tidak menuliskan berapa cadangan limonitenya. Mungkin di annual report 2023 atau seterusnya akan ditulis. Karena memang sebelumnya produk INCO yaitu Ni-Matte tidak menggunakan limonite, limonite dianggap sebagai overburden.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "bullet",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \nPatokan kita harga nikel di $16 ribu, maka dengan skema HPM dari Kepmen, kita memperkirakan setidaknya harga jual:\n          <ol style=\"list-style-type: circle;padding-left:50px\">\n            <li> \n          Saprolite: $49 per ton\n            </li>\n            <li> \n          Limonite: $18 per ton\n            </li>\n          </ol>\n\t  </p><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-50.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Angka perhitungan cash cost dan depresiasi, saya menggunakan angkanya NCKL. Dengan asumsi operasional tambang INCO mirip dengan NCKL.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Total Profit\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Mari kita jumlahkan semua:\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nikel-data-51.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Terlihat dari total semuanya, ada potensi terjadi penurunan profit apabila project MHP tidak berhasil mencapai utilisasi kapasitas hanya 25%.\n<br /><br />Let say kita asumsi INCO mampu mencapai 75% utilisasi dan kita patok PE wajar INCO di 8-10x maka valuasinya $2.1 miliar - $2.6 miliar.\n<br /><br />\nDengan kurs per artikel ini dibuat di $1 = Rp 16 ribu, maka valuasinya Rp 33.6 T - Rp 41.6 T. Kita bagi dengan 9.94 miliar lembar maka harga wajar INCO menurut perhitungan ini adalah Rp 3370 - Rp 4185 per lembar\n<br /><br />\nKita bulatkan saja <b>Rp 3800 per lembar.</b>\n<br /><br />\nHarga pasar per artikel ini ditulis adalah Rp 4000 per lembar.\n<br /><br />\nJadi, harga pasar INCO saat ini berada di rentang <b><u>fairly valued.</u></b>\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "disclaimer",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <i><b>Disclaimer: Artikel analisa ini bukanlah merupakan sebuah rekomendasi ataupun ajakan untuk jual atau beli saham tertentu. \nArtikel ini hanya untuk kepentingan edukasi dan informasi saja. \nSegala data yang disajikan bersumber dari publikasi yang disampaikan kepada publik melalui Annual Report, \nPublic Expose ataupun Laporan Keuangan emiten.</i></b><br />\n        <br/>\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      }
+    ],
+    "is_show_header": 1,
+    "header_type": "with_menu",
+    "is_show_footer": 1,
+    "footer_type": "with_menu",
+    "visibility": "membership;membership_and_portofolio;fbjarvis;spesial;",
+    "created_at": "2024-04-18T06:48:43.000000Z",
+    "updated_at": "2024-04-18T06:52:40.000000Z",
+    "deleted_at": null,
+    "created_by": {
+      "id": 2,
+      "fullname": "Midas Super Admin",
+      "email": "admin@midascuan.id",
+      "role": "superadmin",
+      "has_link_product": 0,
+      "ip_address": null,
+      "last_login_ip": null,
+      "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+      "member_active_roles": [
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ],
+      "member_roles": [
+        {
+          "id": 109970,
+          "user_id": 2,
+          "role_id": 1,
+          "expired_date": "2025-02-27 00:45:00",
+          "created_at": "2023-05-25T18:59:06.000000Z",
+          "updated_at": "2025-02-20T15:45:14.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 1,
+            "title": "Portofolio",
+            "role": "portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:07:38.000000Z",
+            "updated_at": "2024-08-16T09:56:18.000000Z"
+          }
+        },
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ]
+    },
+    "updated_by": {
+      "id": 2,
+      "fullname": "Midas Super Admin",
+      "email": "admin@midascuan.id",
+      "role": "superadmin",
+      "has_link_product": 0,
+      "ip_address": null,
+      "last_login_ip": null,
+      "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+      "member_active_roles": [
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ],
+      "member_roles": [
+        {
+          "id": 109970,
+          "user_id": 2,
+          "role_id": 1,
+          "expired_date": "2025-02-27 00:45:00",
+          "created_at": "2023-05-25T18:59:06.000000Z",
+          "updated_at": "2025-02-20T15:45:14.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 1,
+            "title": "Portofolio",
+            "role": "portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:07:38.000000Z",
+            "updated_at": "2024-08-16T09:56:18.000000Z"
+          }
+        },
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ]
+    },
+    "deleted_by": null
+  },
+  "changes": 0
+}

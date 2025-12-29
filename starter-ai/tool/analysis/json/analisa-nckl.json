@@ -1,0 +1,1026 @@
+{
+  "id": 99,
+  "page_id": 194,
+  "image_url": "https://api.midascuan.id/storage/resources/nckl_logo",
+  "code": "NCKL",
+  "buy_price": 0,
+  "current_price": 0,
+  "valuation": 0,
+  "margin_of_safety": 0,
+  "created_at": "2025-07-01T15:45:06.000000Z",
+  "updated_at": "2025-12-29T07:00:05.000000Z",
+  "status": "published",
+  "created_by": {
+    "id": 2,
+    "fullname": "Midas Super Admin",
+    "email": "admin@midascuan.id",
+    "role": "superadmin",
+    "has_link_product": 0,
+    "ip_address": null,
+    "last_login_ip": null,
+    "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+    "member_active_roles": [
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ],
+    "member_roles": [
+      {
+        "id": 109970,
+        "user_id": 2,
+        "role_id": 1,
+        "expired_date": "2025-02-27 00:45:00",
+        "created_at": "2023-05-25T18:59:06.000000Z",
+        "updated_at": "2025-02-20T15:45:14.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 1,
+          "title": "Portofolio",
+          "role": "portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:07:38.000000Z",
+          "updated_at": "2024-08-16T09:56:18.000000Z"
+        }
+      },
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ]
+  },
+  "updated_by": null,
+  "deleted_at": null,
+  "deleted_by": null,
+  "page": {
+    "id": 194,
+    "title": "Analisa NCKL",
+    "slug": "analisa-nckl",
+    "type": "analysis",
+    "status": "published",
+    "content_html": "\"\"",
+    "content_json": [
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Analisa NCKL\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "post-detail",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 flex flex-col md:flex-row justify-center gap-2 mt-1 mb-1 border-t border-b-2 border-black p-1\">\n        <p class=\"my-auto\">\n            <i class=\"fa fa-user-circle my-auto\"></i> \n\tFelix  Haridinata\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-calendar my-auto\"></i> \n\tJuni 20, 2025\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-tags my-auto\"></i> \n\tNCKL\n        </p>\n\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 20,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nckl_data_01",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 20,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nckl_data_02",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 20,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nckl_data_03",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><br></p><h4><strong class=\"ql-size-huge\">Analisis Saham PT Trimegah Bangun Persada Tbk (NCKL)</strong></h4><p><br></p><h4><strong>Kenapa NCKL Menarik dibahas?</strong></h4><p><br></p><p>Harga komoditas nikel terus mengalami penurunan dan di level $15ribu merupakan level harga produksi dari berbagai produsen nikel di dunia. Artinya di level harga segini, para produsen sudah mulai merugi.</p><p><br></p><p>Tapi tidak dengan NCKL, di level harga segini NCKL masih memiliki profit margin yang sangat sehat. Kinerja per Q1 2025, GPM NCKL masih di 29%. Jika di level harga serendah ini saja GPM bisa 29%, bagaimana ketika harga nikel di $20ribu?</p><p><br></p><p>NCKL per artikel ini dibuat 20 Juni 2025, hanya dihargai PE 6.28x dan PBV 1.28x. Valuasinya tidak terlihat mahal, bukan? Lantas gimana bisnis NCKL? Dan gimana cara NCKL bisa memiliki profit margin yang tebal di tengah harga rendah? Dan gimana prospek nikel ke depan? Kita akan bahas di analisa ini, so baca sampai selesai ya!</p><h3><br></h3><h3><br></h3><h4><strong class=\"ql-size-huge\">﻿Model Bisnis dan Struktur Operasional NCKL</strong></h4><p>PT Trimegah Bangun Persada Tbk (NCKL), dikenal juga sebagai <strong>Harita Nickel</strong>, menjalankan model bisnis pertambangan nikel terpadu dari hulu ke hilir. Perusahaan beroperasi di <strong>Pulau Obi, Halmahera Selatan, Maluku Utara</strong>, dengan mengelola kegiatan <strong>penambangan bijih nikel</strong> sekaligus <strong>pengolahan dan pemurnian nikel</strong> dalam satu kawasan terintegrasi. NCKL memiliki sejumlah anak usaha strategis yang membagi fungsi operasionalnya:</p><ul class=\"ql-li\"><li><strong>PT Gane Permai Sentosa (GPS)</strong> – unit pertambangan bijih nikel saprolit dan limonit.</li><li><strong>PT Megah Surya Pertiwi (MSP)</strong> – pengolah saprolit menjadi feronikel (FeNi) dengan smelter RKEF (4 line).</li><li><strong>PT Halmahera Jaya Feronikel (HJF)</strong> – tambahan smelter RKEF (8 line) beroperasi 2023.</li></ul><p><br></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nckl_data_04",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Sejak 2024–2025, perusahaan juga memiliki entitas asosiasi:</p><ul class=\"ql-li\"><li><strong>PT Halmahera Persada Lygend (HPL)</strong> – HPAL untuk olahan limonit menjadi MHP dan NiSO₄. Kepemilikan 45.1%</li><li><strong>ONC</strong>: HPAL kedua yang mencapai full capacity sejak Agustus 2024. Kepemilikan 20%</li><li><strong>KPS</strong>: RKEF ketiga dengan total 12 line (fase 1: 4 line aktif Maret 2025). Kepemilikan 35%</li></ul><p><br></p><p>Semua fasilitas berada dalam satu kawasan industri, meningkatkan efisiensi logistik dan kontrol lingkungan. NCKL juga sedang membangun proyek Quicklime (PT Citra Kemakmuran Mitra, CKM, 40% ownership) dan tambang baru (Gane Tambang Sentosa, GTS 99%).</p><p><br></p><p>NCKL merupakan bagian dari <strong>Harita Group</strong>, dengan pemegang saham mayoritas PT Harita Jayaraya (sekitar 81% pasca IPO 2023). Sebelum kita mendalami NCKL, ada baiknya kita pelajari dulu soal dinamika supply &amp; demand dari industri nikel dan faktor apa saja yang mempengaruhinya.</p><h3><br></h3><h3><br></h3><h4><strong class=\"ql-size-large\">Pasokan dan Permintaan Nikel Global (2024 &amp; Outlook 2025–2030)</strong></h4><p>Industri nikel dan stainless steel global tengah mengalami perubahan yang signifikan. Nikel merupakan logam penting yang digunakan terutama dalam produksi stainless steel (sekitar 70% konsumsi nikel dunia), serta dalam baterai kendaraan listrik (EV) dan industri paduan logam lainnya.</p><p><br></p><p>Di sisi lain, stainless steel adalah material strategis bagi berbagai sektor (konstruksi, manufaktur, infrastruktur) yang permintaannya sangat dipengaruhi oleh pertumbuhan ekonomi global.</p><p><br></p><p>Pasar nikel global saat ini <strong>berada dalam fase surplus (oversupply)</strong>, terutama didorong oleh ekspansi produksi yang pesat di Indonesia. <strong>Pada 2024</strong>, produksi nikel dunia diperkirakan mencapai sekitar <strong>3,71 juta ton</strong> (naik ~8,5% dari 2023) sementara konsumsi sekitar <strong>3,47 juta ton</strong> (naik ~8% dari 2023). Ini berarti terdapat surplus ~<strong>239 ribu ton</strong> pada 2024, melanjutkan tren oversupply dari 2023 (surplus ~223 ribu ton).</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nckl_data_05",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><em>source: INSG</em></p><p><br></p><p><br></p><p>International Nickel Study Group (INSG) mencatat bahwa kelebihan pasokan ini terutama berasal dari jenis nikel kelas II (nikel berkadar lebih rendah seperti <em>nickel pig iron</em>/NPI dan produk kimia nikel), sedangkan nikel kelas I (high-purity nickel) relatif lebih seimbang pasarnya.</p><p><br></p><p>Faktor pendorong utama peningkatan pasokan adalah <em>boom</em> produksi di Indonesia, yang telah meningkatkan kapasitas <em>smelter</em> NPI dan pabrik <em>High Pressure Acid Leach</em> (HPAL).</p><p><br></p><p>Di sisi demand, pertumbuhan konsumsi nikel tetap positif tetapi belum mampu menyerap lonjakan supply. <strong>Supply nikel global</strong> tumbuh sekitar <strong>+4% pada 2024</strong> (setelah sempat melemah di awal tahun akibat destocking dan perlambatan ekonomi). Konsumsi nikel diproyeksikan naik lebih tinggi pada 2025 (sekitar +8–10% YoY) didorong pemulihan sektor stainless steel dan peningkatan produksi baterai EV.</p><p><br></p><p>Namun, dalam jangka pendek (2024–2025) pasar masih oversupply. <strong>Proyeksi 2025</strong> menunjukkan produksi nikel dapat mencapai ~<strong>3,735 juta ton</strong> dengan konsumsi ~<strong>3,537 juta ton</strong>, artinya surplus diperkirakan melebar ke sekitar <strong>198 ribu ton</strong>.</p><p><br></p><p>INSG melaporkan surplus serupa ~170–179 ribu ton di 2023–2024 dan mengantisipasi kelanjutan tren surplus pada 2025. Bahkan analis Macquarie memperkirakan surplus dapat berlanjut hingga 2027–2028 sebelum pasar kembali ke titik yang lebih seimbang.</p><p><br></p><p>Menurut Kementerian ESDM (via BKPM), hingga pertengahan 2025 terdapat sekitar:</p><ul class=\"ql-li\"><li><strong>54 smelter nikel</strong> yang sudah beroperasi</li><li><strong>120 smelter</strong> dalam tahap konstruksi</li><li><strong>16 smelter</strong> masih dalam tahap perencanaan</li></ul><p><br></p><p>Dari jumlah ini, <strong>8–9 smelter</strong> menggunakan teknologi <strong>HPAL</strong> (hidrometalurgi) untuk pengolahan limonit menjadi produk baterai (MHP/NiSO₄), sedangkan sisanya adalah <strong>RKEF/NPI</strong> (pirometalurgi) untuk feronikel guna stainless steel.</p><p><br></p><p>Pipeline Project HPAL (High Pressure Acid Leaching) di Indonesia</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nckl_data_06",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Untuk pipeline <strong>RKEF/NPI di Indonesia</strong>: &gt;50 proyek operasional &amp; di pipeline, kapasitas agregat sekitar beberapa ratus ribu Ni metal/tahun, termasuk Antam + CBL Hongkong dan pengembangan oleh Tsingshan/Gem/Huayou di beberapa kawasan industri.</p><p><br></p><p>Melihat <strong>outlook 2025–2030</strong>, sebagian besar lembaga memperkirakan permintaan nikel akan tumbuh signifikan jangka menengah-panjang, dipacu oleh trend elektrifikasi transportasi dan transisi energi. Total <strong>permintaan nikel global</strong> diproyeksi meningkat dari ~<strong>2,4 juta ton pada 2023</strong> menjadi <strong>3,5 juta ton pada 2030</strong> (CAGR ~5,7%).</p><p><br></p><p>Pertumbuhan ini terutama disumbang oleh sektor baterai kendaraan listrik dan penyimpanan energi, yang diprediksi menyumbang lebih dari 50% pertumbuhan permintaan nikel hingga 2030. Benchmark Mineral Intelligence memperkirakan <strong>permintaan nikel untuk baterai EV</strong> dapat mencapai <strong>1,5 juta ton per tahun di 2030</strong> (naik ~3 kali lipat dari saat ini).</p><p><br></p><p>Meskipun tren baterai LFP (lithium iron phosphate, non-nikel) meningkat, baterai berbasis nikel (misalnya NMC – Nikel, Mangan, Kobalt) diperkirakan tetap dominan di pasar global (menguasai ~85% kapasitas produksi sel di luar Tiongkok pada 2030) karena keunggulan densitas energinya. Dengan masifnya perkembangan EV dari China, seperti BYD yang tidak menggunakan nikel dalam baterainya, berbagai research mulai memangkas demand nikel menjadi hanya 9 juta ton di 2030 nanti.</p><p><br></p><p>Dengan asumsi adopsi EV kian masif (produksi EV global diprediksi 4x lipat 2020–2030), pertumbuhan kebutuhan nikel jangka panjang tetap kuat. Namun, untuk beberapa tahun ke depan, <strong>pasar nikel diperkirakan tetap surplus</strong> karena ekspansi pasokan melebihi pertumbuhan permintaan jangka pendek. Kecuali jika terjadi pengurangan produksi secara signifikan, terutama di Indonesia.</p><h3><br></h3><h3><br></h3><h4><strong class=\"ql-size-large\">Keseimbangan Pasar, Biaya Produksi, dan Tekanan Margin Produsen Nikel</strong></h4><p><strong>Keseimbangan pasar nikel</strong> saat ini masih kelebihan pasokan (oversupply). Seperti yang diuraikan di atas, 2023–2025 pasar diprediksi oversupply ratusan ribu ton.</p><p><br></p><p>Menurut skenario IEA (Announced Pledges), pada 2030 mungkin pasar nikel masih sedikit longgar, tapi di skenario Net Zero (adopsi EV lebih agresif) bisa terjadi defisit sebelum 2030. Oleh sebab itu, beberapa produsen mulai mempertimbangkan penyesuaian output. Contohnya, <strong>Indonesia dikabarkan mempertimbangkan pemangkasan produksi</strong> agar tidak menjatuhkan harga lebih dalam, demikian pula smelter NPI swasta bisa menahan produksi jika margin negatif.</p><p><br></p><p><strong>Macquarie Research</strong> menyatakan harga kisaran $15.000/ton adalah batas bawah di mana sekitar <strong>50% produsen global akan berada di posisi rugi</strong> bila harga di bawah level itu . Ini mengindikasikan bahwa separuh produksi dunia mempunyai biaya di atas $15k (termasuk banyak produsen high-cost). (source: <a class=\"ql-link\" href=\"https://www.reuters.com/markets/commodities/nickel-oversupply-persist-expansion-slower-demand-growth-industry-experts-say-2025-06-05/#:~:text=A%20surge%20in%20new%20nickel,cheaper%20lithium%20iron%20phosphate%20batteries\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.reuters.com/markets/commodities/nickel-oversupply-persist-expansion-slower-demand-growth-industry-experts-say-2025-06-05/#:~:text=A surge in new nickel,cheaper lithium iron phosphate batteries.</a></p><p><br></p><p><strong>Tekanan margin</strong> bagi produsen utama jelas meningkat ketika harga rendah. Produsen <em>high-cost</em> seperti beberapa tambang laterit di Filipina, atau smelter ferronickel di negara dengan listrik mahal, terpukul paling keras. Sudah terlihat tanda: <em>Production cuts</em> mulai akan dilakukan. Akhir - akhir ini mungkin Anda sudah pernah baca berita bahwa Tsingshan dan VDNI akan mengurangi produksi nikelnya di Indonesia.</p><p><br></p><p>Produsen di Tiongkok yang mengandalkan impor bijih nikel juga mengurangi output NPI (INSG memproyeksi output NPI Tiongkok turun di 2024). Bahkan raksasa seperti <strong>Vale S.A.</strong> melakukan evaluasi portfolio (Vale menjajaki <em>spin-off</em> unit base metals untuk fokus ke bahan baterai, mengundang berbagai, demi meningkatkan efisiensi).</p><p><br></p><p>Di Indonesia, empat besar perusahaan nikel (Tsingshan, ANTAM, Vale Indonesia, Harita group) menguasai mayoritas produksi nikel.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nckl_data_07",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Mereka relatif lebih kuat, namun pemain lebih kecil akan lebih besar merasakan dampaknya. Kenaikan input cost (misal batubara untuk listrik, asam sulfat yang naik 3x lipat untuk HPAL) juga menekan margin smelter nikel.</p><p><br></p><p>Tabel di atas adalah perkiraan cash cost dari emiten nikel di Indonesia. Semua dari produsen nikel di atas tidak menjual pure 100% nikel, melainkan produk setengah jadi seperti NPI, MHP, Nickel matte, hingga bijih nikel (sekitar 1% kadar nikel, DKFT).</p><p><br></p><p>Lalu gimana cara kita mengestimasi cash costnya? Pertama, semua produk setengah jadi nikel tentu berkorelasi dengan harga nikel sendiri dan biasanya harganya adalah <strong>% Ni content x harga nikel pure x discount factor.</strong></p><p><br></p><p>Perkiraan kadar nikelnya seperti di bawah:</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nckl_data_08",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>So, yang kita ingin cari tahu adalah di harga nikel berapa produsen di Indonesia memproduksi nikelnya. Saya pikir kita tidak perlu hitung satu - satu per produk karena kita tidak mengincar presisi, melainkan big picture (kalo di harga nikel rendah saja profit gede tentu cost produksinya sangat rendah kan?).</p><p><br></p><p>Lalu kedua, elemen dari cash cost apa aja? Semua biaya tunai seperti bahan baku, tenaga kerja, listrik, dsb. yang tidak termasuk pajak, bunga dan depresiasi. Dengan kata lain, kita bisa tahu cash margin (ASP - cash cost) dengan melihat EBITDA. Karena EBITDA adalah laba sebelum bunga, pajak, depresiasi dan amortisasi.</p><p><br></p><p>Jika EBITDA margin 40%, artinya cash cost 60%. Jadi tinggal kita kalikan saja 60% dengan perkiraan harga nikel, let say sekarang di $15ribu. Dari situ, kita bisa tahu berapa cash cost per ton Ni content.</p><p><br></p><p>Dari estimasi kita, DKFT memiliki cash cost yang cukup rendah. Namun ini juga karena DKFT hanya menjual bijih yang kita tahu memiliki margin yang lebih gede daripada pengolahan nikel menjadi NPI, MHP ataupun Nickel matte.</p><p><br></p><p>Tapi NCKL memiliki cash cost terendah karena produk - produk NCKL adalah NPI, Nickel sulfat hingga MHP.</p><p><br></p><p><strong>Tekanan margin juga dialami sektor stainless steel.</strong> Produsen stainless Eropa seperti Acerinox, Outokumpu mengalami margin yang ditekan oleh tingginya biaya energi dan kompetisi impor. Sebaliknya, produsen di Indonesia/China menikmati biaya lebih rendah namun menghadapi potensi tarif (contoh: anti-dumping EU).</p><p><br></p><p>Secara global, kapasitas stainless yang surplus di Tiongkok menyebabkan harga jual produk stainless juga relatif rendah, sehingga mengganggu profitabilitas industri stainless steel di luar Asia. Namun, beberapa produsen stainless hulu (terintegrasi sampai bahan baku seperti Tsingshan) bisa cross-subsidy – rugi di smelter NPI mungkin ditutup profit di pabrik stainless di hilir karena memperoleh bahan baku murah dari internal smelter Tsingshan.</p><p><br></p><p><strong>Bagaimana prospek ke depan?</strong> Jika harga nikel tetap rendah 1-2 tahun mendatang, kita kemungkinan akan melihat <strong>“discipline”</strong> dari sisi pasokan: proyek baru ditunda, produksi dikurangi, terutama dari pemain biaya tinggi. Ini mekanisme pasar untuk mengembalikan keseimbangan supply dan demand.</p><h3><br></h3><h3><br></h3><h4><strong class=\"ql-size-huge\">﻿Kinerja Keuangan (Q1 2025)</strong></h4>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nckl_data_09",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Berdasarkan data laporan keuangan Q1 2025, NCKL mencatat kinerja yang sangat baik dengan pertumbuhan laba yang signifikan secara tahunan (YoY).</p><ul class=\"ql-li\"><li>Pendapatan naik 18,13% YoY menjadi Rp7,13 triliun, didukung oleh kenaikan laba kotor sebesar 29,85% menjadi Rp2,1 triliun.</li><li>Kenaikan ini terjadi meskipun beban pokok penjualan juga naik 13,79%, menunjukkan adanya perbaikan efisiensi margin kotor.</li><li>Laba usaha tumbuh sebesar 39,32% YoY menjadi Rp1,93 triliun, ditopang oleh penurunan total beban usaha sebesar -26,72% serta peningkatan pendapatan lainnya.</li><li>Laba sebelum pajak naik 67,03% menjadi Rp2,48 triliun, seiring kontribusi besar dari <strong>entitas asosiasi yang meningkat 130,32% YoY.</strong></li><li>Laba bersih tahun berjalan tercatat Rp2,27 triliun, naik 76,14% YoY.</li><li>Laba bersih yang dapat diatribusikan kepada pemilik entitas induk naik 65,53% YoY menjadi Rp1,66 triliun.</li></ul><p><br></p><p>Secara keseluruhan, NCKL berhasil menjaga pertumbuhan laba bersih jauh di atas pertumbuhan pendapatan dan kontribusi signifikan dari investasi di entitas asosiasi (smelter).</p><p><br></p><p>Hal ini sangat bagus dan layak kita apresiasi karena peningkatan kinerja ini terjadi di tengah harga nikel yang sedang turun signifikan. Kita penasaran berapa laba NCKL jika harga nikel suatu saat pulih.</p><p><br></p><p><br></p><h4><strong class=\"ql-size-large\">Volume Penjualan YoY:</strong></h4>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nckl_data_10",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><ul class=\"ql-li\"><li>HPAL didorong oleh operasi penuh ONC dan HPL.</li><li>RKEF melonjak berkat produksi dari KPS (fase 1).</li><li>Volume bijih naik karena penambangan ONC dan persiapan GTS.</li></ul>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nckl_data_11",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Dari sisi balance sheet, terlihat bahwa 2 aset utama dan yang paling besar adalah aset tetap dan investasi pada entitas asosiasi.</p><p><br></p><p>Aset tetap ini sendiri adalah dari berbagai smelter dan fasilitas yang dimiliki oleh NCKL sekarang. Sedangkan investasi pada entitas asosiasi adalah dari investasi terhadap berbagai perusahaan dimana NCKL tidak merupakan pengendali.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nckl_data_12",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Misalnya saja HPL yang memiliki fasilitas pengolahan Nikel sulfat dan merupakan HPAL terbesar di dunia yang dimiliki oleh NCKL sebesar 45%. Atau ONC, yang memiliki kapasitas 65ribu ton Ni dalam bentuk MHP. Melihat laporan laba rugi NCKL, investasi di entitas asosiasi mampu memberikan tambahan laba Rp 1.5 T - Rp 2 T per tahun.</p><p><br></p><p>Ada entitas asosiasi NCKL yang juga tengah menambah ekspansi seperti KPS dan CKM dan tentu ini akan semakin meningkatkan tambahan laba.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nckl_data_13",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Dari sisi liabilitas, yang paling besar adalah utang bank yang tersebar di berbagai bank (paling besar Bank Mandiri dan Bank UOB).</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nckl_data_14",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Dilihat dari beban keuangan yang dibayarkan oleh NCKL, bunganya di sekitar 7%. Kita melihat bahwa utang bank ini masih sangat manageable. Kas NCKL saja Rp 7.7 T dan cash flow tahunan mencapai Rp 5T. So keliatannya utang bukan merupakan masalah bagi NCKL saat ini.</p><h3><br></h3><h3><br></h3><h4><strong class=\"ql-size-huge\">Moat NCKL</strong></h4><p>Moat yang dimiliki oleh NCKL adalah low cost producer di bisnis nikel. Cara identifikasi low cost producer pada bisnis komoditas relatif mudah. Kita tinggal lihat saja mana perusahaan yang <strong>secara konsisten memiliki margin paling tebal.</strong></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nckl_data_15",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Kita mengecualikan DKFT karena bisnis DKFT ini lebih ke nickel ore mining yang tentu saja memiliki margin lebih tebal karena tidak mengolah nikel.</p><p><br></p><p>NCKL yang memiliki banyak fasilitas pengolahan nikel mampu menghasilkan GPM 29% di tengah harga nikel yang rendah. Tentu tidak berlebihan apabila kita expect margin bisa &gt;35% saat harga nikel tinggi bukan? Lalu apa yang membuat NCKL bisa memiliki cost paling rendah dalam pengolahan nikel?</p><ul class=\"ql-li\"><li><strong>Sumber Bijih Lokal</strong></li><li class=\"ql-indent-1\"><strong>NCKL memiliki tambang sendiri (vertically integrated)</strong> yang langsung diproses di smelter milik sendiri dalam 1 kawasan industri.</li><li class=\"ql-indent-1\">Tidak ada biaya logistik besar seperti pengapalan bijih ke negara lain (misalnya dari Afrika ke China).</li><li class=\"ql-indent-1\">Biaya angkut material internal (jarak antar tambang dan smelter &lt;10 km) sangat efisien. Tambang baru pun masih di dalam satu pulau yang sama dan akan dikirim dengan tongkang.</li></ul><p><br></p><p class=\"ql-indent-1\">Produsen lain seperti di Filipina, Afrika, Australia harus membayar <strong>freight, insurance, handling, dan tarif ekspor/import.</strong></p><p class=\"ql-indent-1\"><br></p><ul class=\"ql-li\"><li><strong>Teknologi Smelter Terbaru (Efisien Secara Energi)</strong></li><li class=\"ql-indent-1\">NCKL menggunakan <strong>RKEF modern</strong> dengan efisiensi termal yang tinggi.</li><li class=\"ql-indent-1\">HPAL mereka (HPL &amp; ONC) dibangun tahun 2020-an dengan teknologi Tiongkok yang lebih hemat biaya dibanding HPAL generasi lama (seperti Goro di New Caledonia atau Ambatovy di Madagaskar yang rugi terus).</li><li class=\"ql-indent-1\">Proyek <strong>Quicklime Plant</strong> akan menurunkan cost HPAL lebih jauh karena quicklime adalah salah satu bahan kimia terbesar dalam proses HPAL.</li></ul><p class=\"ql-indent-1\">Banyak pemain global, terutama HPAL lama, mengalami cost &gt;US$18.000–20.000/ton Ni karena inefisiensi kimia dan maintenance capex tinggi.</p><p class=\"ql-indent-1\"><br></p><ul class=\"ql-li\"><li><strong>Sumber Energi Lokal dan Murah</strong></li><li class=\"ql-indent-1\">Pulau Obi sebagai basis operasi memiliki pembangkit sendiri, dan tidak tergantung PLN.</li><li class=\"ql-indent-1\">Biaya energi adalah komponen besar dalam proses RKEF dan HPAL — efisiensi ini sangat menurunkan cash cost.</li></ul><p class=\"ql-indent-1\">Bandingkan dengan produsen di tempat lain (Australia, New Caledonia) yang pakai energi mahal berbasis gas atau batu bara dari luar negeri.</p><p class=\"ql-indent-1\"><br></p><ul class=\"ql-li\"><li><strong>Skala Ekonomi dan Fasilitas Terpadu</strong></li><li class=\"ql-indent-1\">Semua unit produksi berada dalam satu kawasan industri (<strong>“captive” industrial estate</strong>), termasuk pelabuhan, gudang, pembangkit, dan unit penunjang lainnya.</li><li class=\"ql-indent-1\">NCKL tidak membayar biaya sewa pelabuhan atau biaya handling pihak ketiga.</li><li class=\"ql-indent-1\">Artinya, fixed cost dibagi ke volume produksi yang besar = <strong>skala ekonomi</strong> tercapai</li></ul><p class=\"ql-indent-1\">Kombinasi dari semua hal ini (dari pengamatan kami), membuat cost produksi NCKL bisa sangat murah.</p><p class=\"ql-indent-1\"><br></p><p class=\"ql-indent-1\"><br></p><h4><strong class=\"ql-size-huge\">Proyek dan Ekspansi Baru</strong></h4><p>NCKL menargetkan peningkatan kapasitas produksi untuk berbagai proyek baru mereka.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/nckl_data_16",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><br></p><p>Secara keseluruhan, NCKL menarget produksi MHP di tahun 2025 sebesar 120ribu ton dan NPI sebesar 305ribu ton.</p><h3><br></h3><h3><br></h3><h4><strong class=\"ql-size-large\">Risk</strong></h4><p><strong>1. Kenaikan harga sulfur</strong></p><p>Indonesia saat ini menjadi pusat industri nikel dunia, khususnya lewat teknologi HPAL (High Pressure Acid Leaching) yang memungkinkan ekstraksi nikel dari bijih kadar rendah secara efisien. Namun, keunggulan biaya ini kini terancam oleh <strong>kenaikan tajam harga sulfur</strong> — bahan baku utama untuk proses HPAL — yang telah naik <strong>lebih dari 3x lipat</strong> dalam setahun terakhir.</p><p class=\"ql-indent-1\">🔹 Biaya tambahan: +US$2.500/ton MHP</p><p class=\"ql-indent-1\">🔹 Produksi rata-rata MHP: ~US$11.000/ton</p><p class=\"ql-indent-1\">🔹 Dibutuhkan 12 ton sulfur untuk hasilkan 1 ton MHP</p><p>Kenaikan harga sulfur ini akan semakin membuat produsen kecil terjepit. Tapi produsen yang efisien seperti NCKL masih mampu profit meskipun harga sulfur naik.</p><p><br></p><p><strong>2. Pelemahan harga nikel</strong></p><p>Harga nikel sempat menyentuh titik terendah sejak 2020. Oversupply global dari ekspansi masif smelter—mayoritas berasal dari Indonesia—menjadi penyebab utama.</p><p>Ini menciptakan persaingan yang brutal antar produsen, terutama bagi pemain HPAL yang margin-nya makin tipis. Bahkan, pemerintah Indonesia sendiri mulai menindak pelanggaran lingkungan oleh beberapa smelter besar. Yang mana kita lihat ini adalah</p><h3><br></h3><h3><br></h3><h4><strong class=\"ql-size-large\">Kesimpulan &amp; Valuasi</strong></h4><ul class=\"ql-li\"><li>NCKL membukukan <strong>lonjakan produksi dan kinerja keuangan</strong> di Q1 2025, mencerminkan keberhasilan ekspansi besar (KPS, ONC).</li><li>Margin tetap terjaga meski harga global menurun</li><li>Prospek ramp-up 8 line tambahan di KPS dan monetisasi penuh kapasitas HPAL.</li></ul><p><br></p><p>NCKL kini berada di posisi yang sangat strategis untuk memimpin hilirisasi nikel Indonesia dengan struktur biaya efisien, portofolio produk lengkap, dan fondasi keuangan yang solid.</p><p><br></p><p>Lalu berapa valuasi yang wajar untuk NCKL, apalagi jika laba NCKL masih mampu meningkat. Saya tidak berusaha untuk presisi, tapi setidaknya kita lihat laba di tahun 2024 adalah Rp 6.38 T, ini laba di tengah harga nikel cukup rendah kayak sekarang.</p><p><br></p><p>Laba di Q1 2025 saja sudah Rp 1.6T, keliatannya dengan tambahan ekspansi yang dilakukan oleh NCKL laba mungkin bisa Rp 7T. Ingat ini di tengah harga nikel rendah. Jika harga nikel naik, masa laba ga bisa &gt;Rp 8T?</p><p><br></p><p>Tapi anggaplah kita hanya expect laba Rp 7T, dengan asumsi PE 9x, karena posisi NCKL sebagai lowest cost producers, berarti harga wajar di Rp 63 T atau <strong>Rp 1000 per saham.</strong></p><p><br></p><p>Sejak IPO, NCKL juga rutin membagikan dividen dan terus naik dalam 3 tahun terakhir. Dari dividen terakhir di Rp 30, ini mencerminkan yield hampir 5% dengan DPR masih 30%. Seiring ekspansi selesai, ada kemungkinan DPR akan naik sehingga jumlah dividen juga meningkat.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "disclaimer",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <i><b>Disclaimer: Artikel analisa ini bukanlah merupakan sebuah rekomendasi ataupun ajakan untuk jual atau beli saham tertentu. \nArtikel ini hanya untuk kepentingan edukasi dan informasi saja. \nSegala data yang disajikan bersumber dari publikasi yang disampaikan kepada publik melalui Annual Report, \nPublic Expose ataupun Laporan Keuangan emiten.</i></b><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      }
+    ],
+    "is_show_header": 1,
+    "header_type": "with_menu",
+    "is_show_footer": 1,
+    "footer_type": "with_menu",
+    "visibility": "fbjarvis;membership;membership_and_portofolio;spesial;",
+    "created_at": "2025-06-20T15:45:06.000000Z",
+    "updated_at": "2025-06-20T15:45:06.000000Z",
+    "deleted_at": null,
+    "created_by": {
+      "id": 2,
+      "fullname": "Midas Super Admin",
+      "email": "admin@midascuan.id",
+      "role": "superadmin",
+      "has_link_product": 0,
+      "ip_address": null,
+      "last_login_ip": null,
+      "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+      "member_active_roles": [
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ],
+      "member_roles": [
+        {
+          "id": 109970,
+          "user_id": 2,
+          "role_id": 1,
+          "expired_date": "2025-02-27 00:45:00",
+          "created_at": "2023-05-25T18:59:06.000000Z",
+          "updated_at": "2025-02-20T15:45:14.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 1,
+            "title": "Portofolio",
+            "role": "portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:07:38.000000Z",
+            "updated_at": "2024-08-16T09:56:18.000000Z"
+          }
+        },
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ]
+    },
+    "updated_by": null,
+    "deleted_by": null
+  },
+  "changes": 0
+}

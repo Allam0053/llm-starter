@@ -1,0 +1,1139 @@
+{
+  "id": 6,
+  "page_id": 14,
+  "image_url": "https://api.midascuan.id/storage/resources/POWR_logo_pic.png",
+  "code": "POWR",
+  "buy_price": 700,
+  "current_price": 0,
+  "valuation": 1500,
+  "margin_of_safety": 55.67,
+  "created_at": "2021-05-03T08:23:20.000000Z",
+  "updated_at": "2025-12-29T07:00:05.000000Z",
+  "status": "published",
+  "created_by": null,
+  "updated_by": {
+    "id": 2,
+    "fullname": "Midas Super Admin",
+    "email": "admin@midascuan.id",
+    "role": "superadmin",
+    "has_link_product": 0,
+    "ip_address": null,
+    "last_login_ip": null,
+    "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+    "member_active_roles": [
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ],
+    "member_roles": [
+      {
+        "id": 109970,
+        "user_id": 2,
+        "role_id": 1,
+        "expired_date": "2025-02-27 00:45:00",
+        "created_at": "2023-05-25T18:59:06.000000Z",
+        "updated_at": "2025-02-20T15:45:14.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 1,
+          "title": "Portofolio",
+          "role": "portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:07:38.000000Z",
+          "updated_at": "2024-08-16T09:56:18.000000Z"
+        }
+      },
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ]
+  },
+  "deleted_at": null,
+  "deleted_by": null,
+  "page": {
+    "id": 14,
+    "title": "Analisa POWR",
+    "slug": "analisa-powr",
+    "type": "analysis",
+    "status": "published",
+    "content_html": "\"\"",
+    "content_json": [
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center mt-4\"><h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">Analisa POWR</h2></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\"><div class=\"w-full md:w-1/2 flex flex-col md:flex-row justify-center gap-2 mt-1 mb-1 border-t border-b-2 border-black p-1\">\n\n\n<p class=\"my-auto\"><i class=\"fa fa-user-circle my-auto\"></i> by Felix  Haridinata</p>\n\n<p class=\"my-auto\"><i class=\"ml-2 fa fa-calendar my-auto\"></i> Mei 3, 2021</p>\n\n<p class=\"my-auto\"><i class=\"ml-2 fa fa-tags my-auto\"></i> POWR, Infrastructure</p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://midas-api.arqanza.com/storage/resources/powr.webp",
+        "altText": "MIDAS Cuan - POWR",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 24,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n<p class=\"font-bold italic\">Disclaimer: Artikel ini hanya bersifat analisa dan edukasi. Artikel ini bukanlah rekomendasi beli atau jual saham tertentu. Segala keputusan investasi merupakan tanggung jawab Anda sendiri</p>\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 24,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">Update Terbaru BSDE: per 25 Maret 2022</h3></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>PT Cikarang Listrindo (POWR) adalah Independent Power Producer (IPP) swasta yang beroperasi terlama di Indonesia.</p><br />\n\n<p>Saat ini POWR melayani 5 kawasan Industri terbesar di Indonesia. 5 kawasan ini adalah MM-2100, East Jakarta Industrial Park (EJIP), Hyundai Inti Development, Lippo Cikarang, Kawasan Industri Jababeka.</p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://midas-api.arqanza.com/storage/resources/lokasi-powr.webp",
+        "altText": "MIDAS Cuan - POWR",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<p class=\"italic\">Sumber: Public Expose POWR 2020</p>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 12,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>Data yang kita dapatkan dari public expose 2020 kemarin, terdapat 2483 pelanggan di kawasan industri per September 2020 dan 68% diantaranya merupakan pelanggan yang sudah lebih dari 10 tahun. 91% diantaranya sudah bekerjasama dengan POWR selama lebih dari 5 tahun.</p><br />\n\n<p><strong>Selain itu POWR juga melayani penyediaan listrik ke PLN</strong>, hal ini tertuang dalam Power Purchase Agreements untuk daya listrik sebesar 150 MW yang dikontrak hingga Juni 2031.</p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://midas-api.arqanza.com/storage/resources/business-process-powr.png",
+        "altText": "MIDAS Cuan - POWR",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>Business Process POWR terbilang sederhana, ngambil bahan bakar dari batubara, gas dan juga solar lalu mengolahnya menjadi listrik yang disalurkan ke pelanggan di kawasan industri dan PLN.</p><br />\n\n<p>Bahan baku POWR adalah batubara, solar dan gas. Porsi bahan baku memakan 70% dari beban pokok penjualan.</p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://midas-api.arqanza.com/storage/resources/beban-pokok-powr.png",
+        "altText": "MIDAS Cuan - POWR",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 24,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">Bahan baku gas dan batubara yang terjaga</h3></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>Dalam operasionalnya, POWR membutuhkan dua bahan baku utama yaitu gas bumi dan batubara. Gas bumi disuplai oleh PGAS dan Pertamina EP.</p><br />\n\n<p>Harga gas bumi yang disuplai oleh Pertamina EP sudah dikontrak oleh POWR untuk dibeli di harga $7/mmbtu untuk pasokan listrik kawasan industri dan $4,54/mmbtu untuk pasokan listrik ke PLN. </p><br />\n\n<p>Lalu harga gas bumi yang disuplai oleh PGAS dikontrak di harga $7.56/mmbtu. Perjanjian ini berlaku hingga Maret 2023.</p><br />\n\n<p>Supply batubara sendiri didukung oleh PT. Antang Gunung Meratus yang merupakan anak usaha dari PT Baramulti Suksessarana Tbk (BSSR) yang terdaftar di BEI. Akan tetapi tidak dilaporkan harga perjanjiannya berapa.</p><br />\n\n<p>Dengan adanya perjanjian yang mengikat seperti ini, <strong>praktis POWR tidak akan terekspos dengan fluktuasi harga komoditas hingga setidaknya 2023</strong>.  Sehingga cost bahan baku lebih mudah diprediksi di masa depan.</p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 24,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">Sisi Demand yang \"Terjamin\"</h3></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>Pada annual report 2019, churn rate POWR adalah 0,5%. Churn rate merupakan rasio perhitungan yang menggambarkan tingkat berhentinya pelanggan atas layanan yang digunakan.</p><br />\n\n<p>Semakin rendah churn rate, semakin baik, artinya pelanggan yang uda pake akan pake lagi. Dari 2400an klien POWR hanya 0,5% saja yang berhenti tahun depannya.</p><br />\n\n<p>Ini masuk akal karena pada pabrik yang pakai listrik, ga mau pusing bongkar pasang suplai listriknya. Ditambah, tidak sembarang perusahaan bisa buat pembangkit listrik. Praktis, kalaupun klien mau pindah ke kompetitor, hampir tidak ada yang bisa suplai listrik lagi di lokasi yang sedekat POWR ke pabrik mereka.</p><br />\n\n<p>Bisa jadi yang tidak lanjut menggunakan POWR karena sudah berhenti beroperasi pabriknya.</p><br />\n\n<p>Lalu, dengan adanya jaminan pendapatan dari PLN untuk terus menggunakan jasa POWR untuk suplai listriknya hingga 2031 membuat POWR memiliki kepastian pendapatan dalam 10 tahun ke depan.</p><br />\n\n<p>PLN sudah menjadi mitra POWR sejak tahun 1996 ,sudah 20 tahun lebih.</p><br />\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 24,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">Hutang masih aman</h3></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>Saat ini, ada satu akun di liabilitas yang lumayan menyita perhatian, yaitu hutang wesel sebesar $550 juta (Setara +- Rp 8T).</p><br />\n\n<p>Hutang wesel ini, memiliki beban bunga yang relatif kecil, 4,95% per tahun dan jatuh tempo di tahun 2026. Beban bunga yang harus dibayarkan setiap tahun adalah $27 juta. Angka ini masih cukup terkendali karena Interest Coverage Ratio POWR yang berkisar 4,38x.</p><br />\n\n<p>Interest Coverage Ratio  = EBIT / Beban Bunga</p><br />\n\n<p>*EBIT = Earnings before interest and tax (laba sebelum bunga dan pajak).</p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 24,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">Kenapa POWR tidak lunasi saja utangnya? Padahal cash flownya mampu</h3></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>Setiap tahun, POWR mampu menghasilkan cash flow $100jt – $160jt lebih. Saya awalnya heran, kenapa perusahaan tidak melunasi saja utang wesel $550jt nya? Dalam 3 – 4 tahun harusnya sudah lunas.</p><br />\n\n<p>Setelah saya melihat beban keuangan yang hanya 4,95% maka saya pikir keputusan manajemen lebih tepat.</p><br />\n\n<p>Kenapa tepat? a) Beban bunga yang sangat kecil, ga sampai 5% nya, b) Kemampuan POWR dalam menghasilkan EBIT yang 4x beban bunganya, c) Credit rating POWR yang oke memungkinkan POWR untuk melakukan refinancing di masa depan.</p><br />\n\n<p>Jadi POWR ini dengan track record yang selama ini baik dalam pembayaran bunga  memungkinnya untuk melakukan refinancing ketika nanti utangnya jatuh tempo di tahun 2026.</p><br />\n\n<p>Bayangkan jika ada orang yang akan terus minjemin Anda duit, Anda cukup bayar dia 5% per tahun, apakah mau Anda lunasin? Rasanya tidak perlu. </p><br />\n\n<p>Hal yang sama terjadi pada utang UNVR, UNVR bahkan tidak memerlukan equity lagi dalam neracanya. Tanpa equity di neraca, hanya menggunakan utangnya, saya yakin UNVR masih mampu menghasilkan cash flow yang besar.</p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 24,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">Kinerja Keuangan</h3></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>POWR adalah perusahaan utilitas, kerjaannya produksi listrik untuk PLN dan Kawasan Industri. Hal ini menjadikan kinerjanya cukup solid karena produk dan jasanya dibutuhkan terus, minim pesaing, konsumen susah berpindah.</p><br />\n\n<p>Meskipun penjualan POWR 2020 turun 21% dari 2019 ($465 jt vs $588 jt), tapi kelihatannya ini hanya one-time event karena efek Covid-19 dimana pabrik – pabrik sempat berhenti. Tapi ketika vaksin sudah terdistribusi dengan baik dan ekonomi mulai normal, perbaikan kinerja pasti akan terjadi. </p><br />\n\n<p>Laba POWR 2020 sebesar $74,7 jt, turun dari 2019 $113 jt. Meskipun turun, ROE POWR masih mampu terjaga double digit di angka 11,15%. Angka ini adalah angka ROE terendah sepanjang masa perusahaan.</p><br />\n\n<p>Meskipun demikian, CFO dari POWR naik dari $126 jt (2019) menjadi $169 jt (2020) dan POWR masih mampu membagikan dividen $63 jt. Jika hal ini mampu diulangi POWR di tahun depan, maka di harga sekarang Rp 705/lembar dividend yield POWR adalah 8,3%</p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 24,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">Kinerja Keuangan</h3></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>Dengan sejarah POWR dalam membagikan dividen, stabilnya harga bahan baku dan ada “jaminan” income dari perjanjian dengan PLN dan Kawasan Industri, maka kita akan menggunakan metode <strong>Dividend Discount Model</strong> untuk menghitung valuasi POWR.</p><br />\n\n<p>Metode DDM ini akan memproyeksikan dividen yang akan kita terima dari POWR di masa depan lalu mendiskonkan nya ke nilai sekarang (karena Rp 1000 di masa depan akan berbeda dengan Rp 1000 di masa kini)</p><br />\n\n<blockquote class=\"p-4 my-4 border-l-4 border-gray-300 bg-gray-50\"><p class=\"text-xl italic font-medium leading-relaxed text-gray-900\">Intrinsic value = DS / (r - g)</p></blockquote><br />\n\n<p>\nDs = Dividen tahun berikutnya<br />\nr = persentase imbal hasil yang diharapkan lebih tinggal dari risk free rate (aset bebas resiko, seperti obligasi 10 tahun pemerintah)<br />\ng = persentase pertumbuhan dividen\n</p><br />\n\n<p>Untuk menghitung persentase pertumbuhan dividen, kita akan menggunakan angka pertumbuhan dividen 5 tahun terakhir sebelum 2019. Karena 2020 sempat jeblok drastis, tentu ini tidak bisa dijadikan acuan.</p><br />\n\n<p>Pertumbuhan rata – rata dividen POWR dalam 5 tahun terakhir adalah sebesar 14,9% per tahun. Tapi mari kita proyeksikan dengan konservatif, hanya 5% saja.</p><br />\n\n<p>Untuk r, kita pake yield obligasi pemerintah 10 tahun plus premiun 2% saja. Artinya, kita tertarik jika POWR ini mampu menghasilkan return setara obligasi pemerintah + 2%. </p><br />\n\n<p>Yield 10y adalah sebesar 6%, let say kita tambahkan 2% dari yield 10y baru kita ingin beli POWR. jadi r kita adalah 8%. Yah angka 8% ini cukup reasonable karena dividend yieldnya POWR saja sudah 8% juga.</p><br />\n\n<p>Ds, kita menggunakan angka dividen tahun sebelumnya (Rp 878 Miliar) ditambah dengan pertumbuhan 5% dividen menjadi Rp 922 miliar. </p><br />\n\n<p>Dengan memasukkannya ke rumus, maka kita dapati intrinsic value POWR adalah Rp 31 T. POWR memiliki 16 miliar saham beredar, <strong>maka value per lembar sahamnya adalah Rp 1921/lembar</strong>.</p><br />\n\n<p>Per artikel ini dibuat, POWR diperdagangkan di angka Rp 705/lembar. Maka, POWR ini termasuk <strong>undervalue</strong>.</p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 24,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">Kesimpulan</h3></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 16,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n<div class=\"w-full md:w-1/2 mx-4\">\n\n<p>POWR akan kita masukkan ke dalam alokasi portfolio dengan batas maksimal pembelian Rp 1000.</p>\n\n</div></div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 24,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"mx-4 md:mx-28 py-6\">\n\n<div class=\"w-full h-px border-t-4 rounded-full border-yellow-500\" style=\"border-color: #FFDD28;\"></div>\n\n<div class=\" flex justify-between mt-6\">\n\n<a href=\"/analisa-saham-bsde\">\n  <i class=\"fa fa-arrow-left\"></i>\n  Previous Post\n</a>\n\n<a href=\"/mncn-akan-kita-mulai-akumulasi\">\n  Next Post\n  <i class=\"fa fa-arrow-right\"></i>\n</a>\n\n</div>\n\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "#020202",
+          "textColorHex": "#ffdd28",
+          "textSize": 20,
+          "textAlign": "justify"
+        }
+      }
+    ],
+    "is_show_header": 1,
+    "header_type": "with_menu",
+    "is_show_footer": 1,
+    "footer_type": "with_menu",
+    "visibility": "membership_and_portofolio;membership;fbjarvis;spesial;",
+    "created_at": "2021-05-02T21:27:10.000000Z",
+    "updated_at": "2023-04-04T06:45:56.000000Z",
+    "deleted_at": null,
+    "created_by": {
+      "id": 1,
+      "fullname": "Midas Automation",
+      "email": "bot@midascuan.id",
+      "role": "superadmin",
+      "has_link_product": 0,
+      "ip_address": null,
+      "last_login_ip": null,
+      "picture_url": null,
+      "member_active_roles": [],
+      "member_roles": []
+    },
+    "updated_by": {
+      "id": 2,
+      "fullname": "Midas Super Admin",
+      "email": "admin@midascuan.id",
+      "role": "superadmin",
+      "has_link_product": 0,
+      "ip_address": null,
+      "last_login_ip": null,
+      "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+      "member_active_roles": [
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ],
+      "member_roles": [
+        {
+          "id": 109970,
+          "user_id": 2,
+          "role_id": 1,
+          "expired_date": "2025-02-27 00:45:00",
+          "created_at": "2023-05-25T18:59:06.000000Z",
+          "updated_at": "2025-02-20T15:45:14.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 1,
+            "title": "Portofolio",
+            "role": "portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:07:38.000000Z",
+            "updated_at": "2024-08-16T09:56:18.000000Z"
+          }
+        },
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ]
+    },
+    "deleted_by": null
+  },
+  "changes": -100.25
+}

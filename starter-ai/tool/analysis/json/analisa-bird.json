@@ -1,0 +1,1158 @@
+{
+  "id": 95,
+  "page_id": 190,
+  "image_url": "https://api.midascuan.id/storage/resources/bird_logo",
+  "code": "BIRD",
+  "buy_price": 0,
+  "current_price": 0,
+  "valuation": 0,
+  "margin_of_safety": 0,
+  "created_at": "2025-06-03T09:04:40.000000Z",
+  "updated_at": "2025-12-29T07:00:05.000000Z",
+  "status": "published",
+  "created_by": {
+    "id": 2,
+    "fullname": "Midas Super Admin",
+    "email": "admin@midascuan.id",
+    "role": "superadmin",
+    "has_link_product": 0,
+    "ip_address": null,
+    "last_login_ip": null,
+    "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+    "member_active_roles": [
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ],
+    "member_roles": [
+      {
+        "id": 109970,
+        "user_id": 2,
+        "role_id": 1,
+        "expired_date": "2025-02-27 00:45:00",
+        "created_at": "2023-05-25T18:59:06.000000Z",
+        "updated_at": "2025-02-20T15:45:14.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 1,
+          "title": "Portofolio",
+          "role": "portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:07:38.000000Z",
+          "updated_at": "2024-08-16T09:56:18.000000Z"
+        }
+      },
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ]
+  },
+  "updated_by": null,
+  "deleted_at": null,
+  "deleted_by": null,
+  "page": {
+    "id": 190,
+    "title": "Analisa BIRD",
+    "slug": "analisa-bird",
+    "type": "analysis",
+    "status": "published",
+    "content_html": "\"\"",
+    "content_json": [
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Analisa BIRD\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "post-detail",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 flex flex-col md:flex-row justify-center gap-2 mt-1 mb-1 border-t border-b-2 border-black p-1\">\n        <p class=\"my-auto\">\n            <i class=\"fa fa-user-circle my-auto\"></i> \n\tFelix  Haridinata\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-calendar my-auto\"></i> \n\tMay 15, 2025\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-tags my-auto\"></i> \n\tBIRD\n        </p>\n\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 20,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <h4><strong class=\"ql-size-huge\">Kenapa BIRD Menarik?</strong></h4><ul class=\"ql-li\"><li><strong>Bisnis Inti Sudah Turnaround:</strong> Setelah terpukul pandemi, BIRD mencatat pertumbuhan pendapatan +16% YoY dan laba bersih pemilik +42% YoY pada 3M 2025.</li></ul><p><br></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bird_data_01",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><br></p><ul class=\"ql-li\"><li><strong>Diversifikasi Pendapatan:</strong> Proporsi pendapatan non-taksi naik jadi 27.7% (dari 29.0% di 2023), didukung ekspansi layanan seperti Cititrans, charter bus, logistik, dan used-car auction .</li><li><strong>Kondisi Neraca Sangat Kuat:</strong> DER hanya 0.23x dengan kas operasi Rp 1 T per tahun dalam setidaknya 3 tahun terakhir.</li><li><strong>Valuasi saat ini termasuk murah:</strong></li><li class=\"ql-indent-1\">PE Annual (2025): 7x</li><li class=\"ql-indent-1\">PBV: 0.76x</li></ul><p><br></p><p>📌 Kita akan mencari tahu apakah BIRD sudah layak dianggap sebagai saham recovery yang undervalued dengan model bisnis baru yang lebih adaptif. So baca sampai selesai ya.</p><h3><br></h3><h4><strong class=\"ql-size-huge\">Company Overview</strong></h4><p>PT Blue Bird Tbk (BIRD), yang berdiri sejak 2001, merupakan pionir layanan taksi Indonesia dan telah bertransformasi menjadi perusahaan transportasi terintegrasi dengan strategi Multi-Product, Multi-Channel, Multi-Payment.</p><p><br></p><p>Walaupun PT Blue Bird Tbk (BIRD) ini baru berdiri sejak 2001, namun bisnis taxi BIRD sudah dijalankan sejak 1965. Ibu Mutiara Siti Fatimah Djokosoetono memulai usaha taksi dari rumah di Jl. Cokroaminoto No. 107, Jakarta, dengan dua mobil bekas.</p><p><br></p><p>BIRD saat ini beroperasi di 20 kota besar dengan total 24.200 armada dan lebih dari 600 outlet.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bird_data_02",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><br></p><p>Layanan BIRD mencakup taksi reguler dan eksekutif, shuttle dan charter bus (Cititrans), hingga logistik dan used-car auction. Perusahaan memiliki keunggulan jaringan yang kuat dengan penguasaan lokasi-lokasi strategis seperti bandara, pusat kota, dan kawasan bisnis.</p><p><br></p><p>Struktur kepemilikan mayoritas dipegang oleh keluarga Djokosoetono sebesar 74,8%. Keluarga ini tetap aktif mengelola perusahaan dengan pendekatan konservatif dan berorientasi jangka panjang.</p><h3><br></h3><h4><strong class=\"ql-size-huge\">Product &amp; Target Market</strong></h4><p>Pada tahun 2024, BIRD mencatat pendapatan sebesar Rp 5,1 triliun, dengan kontribusi 72,3% dari layanan taksi (Rp 3,6 triliun) dan 27,7% dari layanan non-taksi seperti shuttle, logistik, dan lelang mobil (Rp 1,5 triliun).</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bird_data_03",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><br></p><ul class=\"ql-li\"><li><strong>Layanan taksi reguler dan eksekutif</strong> menargetkan konsumen individu, pekerja kantoran, hingga ekspatriat yang mengutamakan kenyamanan dan keamanan.</li><li><strong>Layanan shuttle Cititrans</strong> melayani pelanggan korporasi dan BUMN untuk perjalanan antar kota.</li><li><strong>Segmen logistik</strong> menyasar UMKM, reseller, dan rumah tangga sebagai tambahan monetisasi armada bekas.</li><li>Segmen Lelang Kendaraan Bekas berfungsi untuk offloading taxi bekas Blue Bird yang biasanya diremajakan di tahun ke -4.</li></ul><p><br></p><p>Aplikasi MyBluebird yang menjadi tulang punggung digitalisasi perusahaan berhasil mencatatkan <strong>pertumbuhan pesanan sebesar 50,6% di 2024</strong>. Inovasi fitur subscription dan fixed price di aplikasi semakin memperkuat loyalitas pelanggan dan meningkatkan repeat usage.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bird_data_04",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><br></p><h4><strong class=\"ql-size-huge\">Competitive Landscape: Xanh SM Threat &amp; BIRD Economic Moat</strong></h4><p>Pada Desember 2024, Xanh SM, layanan taksi listrik asal Vietnam yang dimiliki 95% oleh Pham Nhat Vuong (pendiri Vingroup), resmi memasuki pasar Jakarta dengan membawa armada kendaraan listrik VinFast VF e34. Target agresif mereka adalah mencapai 10.000 unit di Indonesia pada 2025 dan memperluas cakupan ke kota besar lainnya seperti Bali.</p><p><br></p><p>Xanh SM hadir dengan positioning sebagai \"green premium taxi\" dan didukung oleh komitmen investasi besar, termasuk rencana pabrik EV di Indonesia dengan <strong>nilai hingga USD 1,2 miliar.</strong> Masuknya Xanh SM ke Indonesia dianggap sebagai langkah strategis untuk memanfaatkan momentum global shift ke kendaraan listrik.</p><p><br></p><p>Namun menurut kita ini hanya akan menjadi pemain niche di Jakarta dan Bali dalam tiga hingga lima tahun ke depan. Entry barrier seperti izin operasi, relasi lokal, dan minimnya infrastruktur charging station menjadi tantangan besar.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bird_data_05",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>BIRD juga berhasil menahan tekanan dari pemain ride-hailing seperti Gojek dan Grab. Data menunjukkan pertumbuhan Gross Transaction Value (GTV) GOTO hanya 13%, jauh di bawah pertumbuhan MyBluebird yang mencapai 50,6%.</p><p><br></p><p>Berkurangnya promo besar-besaran dari ride-hailing membuka peluang tambahan bagi BIRD untuk merebut kembali pangsa pasar.</p><p><br></p><p><strong>Economic Moat</strong></p><p>Sebuah bisnis yang menarik akan mengundang kompetitor baru untuk memasuki arena yang sama. Hal ini akan menggerus keuntungan dari pemain lama. Hal ini sudah pernah terjadi sebelumnya pada bisnis transportasi seperti BIRD melalui disrupsi ride-hailing (Gojek &amp; Grab).</p><p><br></p><p>Namun, bisnis yang kuat adalah yang <strong>mampu melindungi keuntungan yang dimilikinya</strong> dari rebutan pesaing. Warren Buffett menyebutnya economic moat (parit ekonomi). Moat ini berfungsi untuk melindungi profitabilitas bisnis dari gempuran pesaing baru.</p><p><br></p><p>Meskipun sempat tergerus, tapi BIRD <strong>berhasil fight back dan kembali profit dengan bisnis model yang jauh lebih baik.</strong> Menurut kita, ada beberapa moat yang dimiliki oleh BIRD:</p><p><br></p><p>⚛️&nbsp;<strong>Network Effect</strong></p><p>BIRD memiliki <strong>600+ outlet dan 58 depo di 20 kota</strong> membentuk jaringan logistik dan operasional yang <strong>sangat sulit ditiru oleh pemain baru</strong>, terutama di segmen layanan premium dan charter.</p><p><br></p><p>Aplikasi MyBluebird sudah mengakomodasi berbagai layanan dalam satu sistem → <em>digital unification across services</em>. Hal ini membuat keunggulan ride-hailing yang bisa langsung pesan dari aplikasi menjadi praktis digerus oleh BIRD.</p><p><br></p><p>Berkaca dari fenomena 10 tahun terakhir, ternyata bisnis ride-hailing tidak se-menguntungkan itu. Secara aset, memang BIRD lebih heavy ketimbang ride-hailing, <strong>namun ini memungkinkan BIRD untuk dapat mengontrol kualitas dan pelayanan dengan jauh lebih baik.</strong></p><p><br></p><p>Dan terbukti bahwa bisnis model ini lebih <strong>proven to make money ketimbang ride-hailing.</strong></p><p><br></p><p>Tidak mudah untuk mengontrol kualitas dari hampir 30 ribu unit kendaraan. Sesuatu yang akan sangat sulit untuk ditiru oleh pesaing baru. Ini belum lagi mempertimbangkan aspek logistik dan infrastruktur (pool, maintenance, services).</p><p><br></p><p>💸&nbsp;<strong>Cost Advantage</strong></p><p>Pengelolaan BIRD lebih efisien dan profitable. Bisnis modelnya lebih simple dan pengembangan aplikasi bisa difokuskan untuk segmen taxi.</p><p><br></p><p><strong>BIRD juga tidak bergantung dengan pengeluaran untuk iklan dan promo</strong> yang sebelumnya jor-joran dikeluarkan oleh Gojek &amp; Grab.</p><p><br></p><p>Selain itu, <strong>BIRD juga tidak bergantung dengan insentif driver.</strong> Gojek/Grab akan kehilangan driver apabila pada driver merasa pembagian insentif tidak fair.</p><p><br></p><p><strong>Perusahaan taxi lain tidak akan bisa dengan masif dan instan melakukan offloading kendaraan bekas</strong> yang menjadi salah satu cost besar untuk peremajaan. BIRD memiliki divisi penjualan bekas sendiri sehingga bisa terus menerus melakukan peremajaan dengan cepat.</p><p><br></p><p>🛡️ <strong>Brand dan Trust:</strong></p><p>Blue Bird sudah jadi sinonim dengan “taksi aman dan nyaman” → <em>strongest brand equity di industri transportasi darat Indonesia</em>. Coba Anda pikirkan, apa lagi brand transportasi darat yang memiliki image seperti ini?</p><p><br></p><p>Di segmen korporat dan ekspat, <strong>brand trust jauh lebih penting daripada harga termurah</strong>.</p><p><br></p><p>📉 <em>COGS terhadap revenue</em> tetap stabil di kisaran <strong>67–68%</strong>, bahkan saat harga BBM naik. Hal ini karena <strong>BIRD dapat menyesuaikan tarif.</strong></p><p><br></p><blockquote>﻿📌&nbsp;BIRD adalah perusahaan yang unggul karena kombinasi</blockquote><blockquote><strong>brand premium, loyalitas pelanggan korporat, dan skala operasional nasional</strong></blockquote><p><br></p><h4><strong class=\"ql-size-huge\">Financial Highlights</strong></h4><p>Total aset BIRD mencapai Rp 8,4 triliun dengan Rp 6,75 triliun di antaranya berupa armada kendaraan. Posisi kas yang solid di Rp 1,05 triliun dan DER hanya sebesar 0,25x menunjukkan kekuatan neraca yang sangat baik.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bird_data_06",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Pendapatan tahun 2024 mencapai Rp 5,04 triliun dengan Gross Profit Margin meningkat dari 31,7% menjadi 32,3%. Pengendalian beban operasional dan kualitas laba yang tinggi menjadi kekuatan utama. Operating margin dan net margin juga menunjukkan tren perbaikan yang konsisten selama tiga tahun terakhir.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><strong>Revenue &amp; Net Profit BIRD 2013 - 2024&nbsp;&nbsp;<span class=\"ql-cursor\">﻿</span></strong></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bird_data_07",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><br></p><p><strong>COGS Breakdown 10 Tahun Terakhir dan Gross Profit Margin (GPM)</strong></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bird_data_08",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><br></p><p><strong>Opex Breakdown 10 Tahun Terakhir dan Operating Profit Margin (OPM)&nbsp;&nbsp;&nbsp;</strong></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bird_data_09",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><br></p><p><strong>Tren Margin GPM, OPM &amp; NPM 10 Tahun&nbsp;&nbsp;&nbsp;</strong></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bird_data_10",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><br></p><p>📌 Terlihat bahwa BIRD sudah benar - benar turnaround dari sebelumnya rugi secara operasional kini sudah membukukan operating profit 3 tahun berturut - turut.&nbsp;&nbsp;&nbsp;</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bird_data_11",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 20,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bird_data_12",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><br></p><p><strong>Cash Allocation BIRD 2013-2024</strong></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bird_data_13",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><br></p><p>Arus kas operasi stabil di Rp 1,06 triliun atau 178% dari laba bersih, dengan capex Rp 1,37 triliun untuk pembelian armada baru. Meskipun capex cukup besar, BIRD tetap mampu menghasilkan Free Cash Flow positif yang memungkinkan perusahaan untuk membayar dividen secara konsisten dengan payout ratio historis di kisaran 30-50%.</p><p><br></p><p><strong>Free Cash Flow (FCF) → Potensi Dividen</strong></p><p>📌 FCF = CFO – Capex + Penjualan Aset Tetap</p><p><br></p><p><strong>FCF 2024 =</strong> Rp 1.06 T – Rp 1.37 T + Rp 456 miliar <strong>= Rp 146 miliar</strong>&nbsp;&nbsp;&nbsp;</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bird_data_14",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 70,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><br></p><p>Namun, seperti yang kita bahas di awal bahwa BIRD ini memiliki bisnis lelang dimana BIRD cenderung menjual mobil bekasnya di tahun ke-4. Dan hasil penjualan ini juga lumayan, yaitu di Rp 4.48 T. <strong>Tanpa ini, BIRD tidak bisa menghasilkan FCF positif Rp 1.7 T</strong> sehingga mampu membayarkan dividen Rp 2.6 T</p><h3><br></h3><h4><strong class=\"ql-size-huge\">Risk</strong></h4><ul class=\"ql-li\"><li><strong>Ancaman utama datang dari pemain ride-hailing</strong> yang menawarkan harga lebih murah dan kemudahan pemesanan.</li><li class=\"ql-indent-1\">🔍 <em>Mitigasi:</em> BIRD gencar transformasi digital (MyBluebird, fixed price, subscription). Fokus ke segmen loyal dan less price-sensitive.</li><li><strong>Perubahan kebijakan</strong> pemerintah terkait transportasi, pajak, dan batas usia armada juga dapat memengaruhi struktur biaya.</li><li class=\"ql-indent-1\">🔍 <em>Mitigasi:</em> BIRD sudah mulai adopsi EV di Medan, Usia armada dikelola aktif via penjualan used-car dan peremajaan rutin.</li><li><strong>Risiko kenaikan harga BBM, upah driver, dan suku cadang</strong> bisa menekan margin, namun BIRD memiliki keunggulan dengan model kepemilikan armada sendiri yang lebih efisien dibandingkan model ride-hailing berbasis insentif driver.</li><li class=\"ql-indent-1\">🔍 <em>Mitigasi:</em> 76% aset BIRD adalah aset tetap, memungkinkan kontrol biaya jangka panjang. Armada sendiri = lebih efisien daripada model berbasis insentif eksternal. Selain itu, dari paparan management BIRD di pubex 2022 ketika harga BBM naik, <strong>mereka mampu pass-on</strong> kenaikan harga BBM ke konsumen.</li></ul><p>&nbsp;&nbsp;&nbsp;</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bird_data_15",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><em>source: Laporan Public Expose BIRD 2022</em></p><p><br></p><p><br></p><h4><strong>Unit Economics</strong></h4><p>Pada 2024, rata-rata pendapatan per unit untuk segmen taksi tercatat Rp 209 juta dan laba bersih per unit sebesar Rp 30 juta. Untuk segmen non-taksi seperti rental, shuttle, dan logistik, pendapatan per unit mencapai Rp 214 juta dengan laba bersih sebesar Rp 31 juta.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bird_data_16",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 20,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 20,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bird_data_17",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 20,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><br></p><p> Peningkatan yield per armada ini menunjukkan keberhasilan BIRD dalam optimasi utilisasi armada, efisiensi operasional, serta seleksi pasar yang lebih ketat pasca pandemi. </p><p><br></p><p><strong>Breakdown armada taxi dan non taxi</strong>&nbsp;&nbsp;</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bird_data_18",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><br></p><p><strong>Breakdown pendapatan per unit taxi dan non taxi </strong></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bird_data_19",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><br></p><p><strong>Breakdown laba bersih per unit taxi dan non taxi</strong>&nbsp;&nbsp;&nbsp;</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bird_data_20",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><br></p><h4><strong class=\"ql-size-huge\">Perkiraan Harga Wajar</strong></h4><p><strong>Metode: Price to Earnings Ratio (PER)</strong></p><p><br></p><p>BIRD adalah perusahaan dengan pendapatan stabil, arus kas positif, dan bukan startup – sehingga metode <strong>PER</strong> paling relevan.</p><p><br></p><p><strong>📌 Asumsi Dasar</strong></p><ul class=\"ql-li\"><li><strong>3 tahun ke depan →</strong> Penambahan 1200 armada tiap tahun, total 3600 armada baru. Rate penambahan seperti tahun 2024. Laba bersih per unit sudah kembali seperti peak, make sense untuk terus menambah.</li><li>Total armada dalam 3 tahun → 27800 armada</li><li>Net profit per armada Rp 30 juta</li><li><strong>Estimasi Laba Bersih 2028:</strong> Rp 30 juta x 27800 armada = <strong>Rp 834 miliar</strong></li><li><strong>Saham Beredar:</strong> 2.5 miliar lembar</li><li><strong>EPS 2028 Estimasi:</strong> Rp 334/saham</li><li><strong>PER Wajar:</strong></li><li class=\"ql-indent-1\"><strong>10x</strong> (worst case) → Rp 3340</li><li class=\"ql-indent-1\"><strong>12x</strong> (konservatif) → Rp 4000</li><li class=\"ql-indent-1\"><strong>16x</strong> (optimis – jika market mulai pricing in growth dan EV narrative) → Rp 5344</li></ul><p><br></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/bird_data_21",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><br></p><h3>&nbsp;🔑&nbsp;<strong>Key Takeaways:</strong></h3><ul class=\"ql-li\"><li><strong>Kinerja sudah turnaround penuh</strong>, dengan pertumbuhan laba bersih +28% YoY dan arus kas operasi &gt; Rp 1 triliun.</li><li><strong>Transformasi bisnis berhasil</strong>, pendapatan non-taksi kini 27.7% dan terus tumbuh lewat shuttle, rental, logistik, dan used-car.</li><li><strong>Valuasi masih murah</strong>, PER 2028 diprediksi hanya 5.3x saat ini.</li><li><strong>Asumsi Harga Wajar</strong> di kisaran <strong>Rp 3440 - Rp 4000</strong> dengan potensi upside &gt;90% jika kembali ke PER 10 - 12x.</li></ul><p><br></p><p>📉 <strong>Review ulang jika:</strong></p><ul class=\"ql-li\"><li>Utilisasi armada turun signifikan</li><li>Profit margin &lt;10%</li><li>Manajemen gagal ekspansi shuttle &amp; EV fleet</li></ul><p><br></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "disclaimer",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <i><b>Disclaimer: Artikel analisa ini bukanlah merupakan sebuah rekomendasi ataupun ajakan untuk jual atau beli saham tertentu. \nArtikel ini hanya untuk kepentingan edukasi dan informasi saja. \nSegala data yang disajikan bersumber dari publikasi yang disampaikan kepada publik melalui Annual Report, \nPublic Expose ataupun Laporan Keuangan emiten.</i></b><br />\n        <br/>\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      }
+    ],
+    "is_show_header": 1,
+    "header_type": "with_menu",
+    "is_show_footer": 1,
+    "footer_type": "with_menu",
+    "visibility": "fbjarvis;membership_and_portofolio;membership;spesial;",
+    "created_at": "2025-05-15T09:04:40.000000Z",
+    "updated_at": "2025-05-15T09:04:40.000000Z",
+    "deleted_at": null,
+    "created_by": {
+      "id": 2,
+      "fullname": "Midas Super Admin",
+      "email": "admin@midascuan.id",
+      "role": "superadmin",
+      "has_link_product": 0,
+      "ip_address": null,
+      "last_login_ip": null,
+      "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+      "member_active_roles": [
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ],
+      "member_roles": [
+        {
+          "id": 109970,
+          "user_id": 2,
+          "role_id": 1,
+          "expired_date": "2025-02-27 00:45:00",
+          "created_at": "2023-05-25T18:59:06.000000Z",
+          "updated_at": "2025-02-20T15:45:14.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 1,
+            "title": "Portofolio",
+            "role": "portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:07:38.000000Z",
+            "updated_at": "2024-08-16T09:56:18.000000Z"
+          }
+        },
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ]
+    },
+    "updated_by": null,
+    "deleted_by": null
+  },
+  "changes": 0
+}

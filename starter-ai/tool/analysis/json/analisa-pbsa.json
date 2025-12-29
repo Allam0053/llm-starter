@@ -1,0 +1,903 @@
+{
+  "id": 86,
+  "page_id": 168,
+  "image_url": "https://api.midascuan.id/storage/resources/pbsa_logo",
+  "code": "PBSA",
+  "buy_price": 0,
+  "current_price": 0,
+  "valuation": 0,
+  "margin_of_safety": 0,
+  "created_at": "2025-03-01T09:09:00.000000Z",
+  "updated_at": "2025-12-29T07:00:05.000000Z",
+  "status": "published",
+  "created_by": {
+    "id": 2,
+    "fullname": "Midas Super Admin",
+    "email": "admin@midascuan.id",
+    "role": "superadmin",
+    "has_link_product": 0,
+    "ip_address": null,
+    "last_login_ip": null,
+    "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+    "member_active_roles": [
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ],
+    "member_roles": [
+      {
+        "id": 109970,
+        "user_id": 2,
+        "role_id": 1,
+        "expired_date": "2025-02-27 00:45:00",
+        "created_at": "2023-05-25T18:59:06.000000Z",
+        "updated_at": "2025-02-20T15:45:14.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 1,
+          "title": "Portofolio",
+          "role": "portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:07:38.000000Z",
+          "updated_at": "2024-08-16T09:56:18.000000Z"
+        }
+      },
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ]
+  },
+  "updated_by": null,
+  "deleted_at": null,
+  "deleted_by": null,
+  "page": {
+    "id": 168,
+    "title": "Analisa PBSA",
+    "slug": "analisa-pbsa",
+    "type": "analysis",
+    "status": "published",
+    "content_html": "\"\"",
+    "content_json": [
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Analisa PBSA\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "post-detail",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 flex flex-col md:flex-row justify-center gap-2 mt-1 mb-1 border-t border-b-2 border-black p-1\">\n        <p class=\"my-auto\">\n            <i class=\"fa fa-user-circle my-auto\"></i> \n\tFelix  Haridinata & Nixon Albert\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-calendar my-auto\"></i> \n\tMaret 01, 2025\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-tags my-auto\"></i> \n\tPBSA\n        </p>\n\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <h4><strong>Why PBSA?</strong></h4><p><br></p><p>PBSA adalah perusahaan konstruksi yang berfokus pada proyek infrastruktur untuk industri minyak kelapa sawit (CPO). Perusahaan ini menarik untuk dianalisis karena:</p><ul class=\"ql-li\"><li>Adanya peningkatan signifikan dalam nilai kontrak yang diterima pada Q3 2024, menunjukkan <strong>potensi pertumbuhan pendapatan</strong> beberapa kuartal ke depan**.**</li></ul>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/pbsa_data_01",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><ul class=\"ql-li\"><li>Terlihat bahwa ketika kontrak meningkat, akan diikuti dengan peningkatan revenue tidak lama lagi.</li><li>Hal ini karena kontrak yang dikerjakan PBSA ini adalah kontrak yang selesainya cepat, beberapa bulan hingga satu tahun.</li></ul><p><br></p><p>Detail rekap kontrak PBSA bisa Anda cek di: <a class=\"ql-link\" href=\"https://docs.google.com/spreadsheets/d/1PX8c7O2sqUwk7U3u9hvhXN3uDSh9j1HMVs5KPmnA8zg/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\">https://docs.google.com/spreadsheets/d/1PX8c7O2sqUwk7U3u9hvhXN3uDSh9j1HMVs5KPmnA8zg/edit?usp=sharing</a></p><p><br></p><p>Total kontrak yang dikerjakan PBSA dan akan selesai di tahun 2025 sekitar Rp 1 T. Kalau asumsi kita PBSA bisa menerima kontrak baru di tahun 2025 sekitar Rp 200 - 300 M lagi maka potensi revenue PBSA akan di kisaran Rp 1.3 T.</p><p><br></p><p>Asumsi NPM di 12%, maka net profit diperkirakan Rp 156 miliar. Per analisa ini diselesaikan (1 Maret 2025), market cap PBSA Rp 966 miliar atau sekitar PE 6x. Menarik? Apakah asumsi ini wajar? Mari kita dalami bisnis PBSA.</p><h3><br></h3><h4><strong>Bisnis Model &amp; Pendapatan</strong></h4><p><br></p><p>PT Paramita Bangun Sarana Tbk (PBSA) memiliki model bisnis yang berfokus pada jasa konstruksi berbasis proyek, terutama untuk industri kelapa sawit dan oleochemical. Berikut adalah detail mendalam mengenai bisnis dan model pendapatan PBSA:</p><p><br></p><p><strong>Sumber Pendapatan</strong> Pendapatan PBSA berasal dari kontrak proyek konstruksi yang melibatkan berbagai jenis infrastruktur, seperti:</p><ul class=\"ql-li\"><li>Pabrik refinery untuk pengolahan minyak kelapa sawit.</li><li>Pabrik oleokimia yang memproduksi bahan kimia berbasis minyak sawit.</li><li>Infrastruktur pendukung lainnya, seperti fasilitas energi dan utilitas.</li></ul><p><br></p><p>Mayoritas kontrak berasal dari perusahaan yang bergerak di industri kelapa sawit, dengan kontribusi terbesar dari Sinar Mas Agro Resources and Technology (SMAR) dan afiliasinya.</p><p><br></p><p>Pada 9 bulan pertama 2024, sekitar &gt;85% nilai kontrak PBSA berasal dari SMAR ini.</p><p><br></p><p><strong>Proses Perolehan Proyek</strong> PBSA mendapatkan proyek melalui mekanisme tender. Prosesnya melibatkan:</p><ol class=\"ql-li\"><li><strong>Pengajuan Proposal:</strong> PBSA mengajukan penawaran kepada calon klien berdasarkan spesifikasi proyek.</li><li><strong>Negosiasi Kontrak:</strong> Setelah proposal diterima, dilakukan diskusi terkait harga, durasi, dan lingkup pekerjaan.</li><li><strong>Pelaksanaan Proyek:</strong> Setelah kontrak disepakati, PBSA memulai pekerjaan konstruksi sesuai jadwal.</li><li><strong>Serah Terima:</strong> Proyek diselesaikan dan diserahkan kepada klien dalam waktu rata-rata kurang dari 1 tahun.</li></ol><p><br></p><p><strong><span class=\"ql-cursor\">﻿</span>Pola Konversi Pendapatan</strong> Pendapatan PBSA sangat bergantung pada nilai kontrak yang diterima setiap tahun. Karena sifat bisnisnya berbasis proyek, pendapatan akan terealisasi seiring dengan progres penyelesaian proyek.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/pbsa_data_02",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Dalam kasus PBSA, sebagian besar proyek memiliki durasi singkat (kurang dari 12 bulan), sehingga konversi kontrak menjadi pendapatan relatif cepat.</p><p><br></p><p><strong>Konsentrasi Pelanggan</strong> </p><p>PBSA memiliki ketergantungan tinggi pada SMAR dan afiliasinya, seperti Soci Mas, Sumber Indah Perkasa, dan Ivo Mas Tunggal. Data menunjukkan bahwa SMAR berkontribusi signifikan terhadap total nilai kontrak PBSA:</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/pbsa_data_03",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><strong>Potensi Pertumbuhan</strong> </p><p>Potensi pertumbuhan pendapatan PBSA sangat dipengaruhi oleh ekspansi kapasitas klien utamanya di industri kelapa sawit:</p><ul class=\"ql-li\"><li><strong>Refinery:</strong> Kapasitas refinery SMAR belum bertambah sejak 2019, tetapi utilisasi hampir penuh sehingga ada kemungkinan ekspansi baru.</li><li><strong>Biodiesel:</strong> Kapasitas biodiesel meningkat pada 2023 dengan utilisasi mencapai 87%, membuka peluang untuk proyek tambahan.</li><li><strong>Oleokimia:</strong> Kapasitas pabrik oleokimia belum bertambah sejak 2019, memberikan potensi proyek baru bagi PBSA.</li></ul><p><br></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/pbsa_data_04",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><h4><strong>Financials</strong></h4><p>PBSA menunjukkan kinerja keuangan yang fluktuatif, terutama dalam hal profitabilitas. Gross Profit Margin (GPM) dan Net Profit Margin (NPM) perusahaan mengalami perubahan signifikan dari tahun ke tahun.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/pbsa_data_05",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Pertama kita bahas tentang COGS nya terlebih dahulu.</p><p><br></p><p><strong>Komponen Utama COGS</strong> </p><p>Beban Pokok Pendapatan (COGS) PBSA terdiri dari tiga komponen utama:</p><ol class=\"ql-li\"><li><strong>Beban material:</strong> Mencakup biaya bahan baku dan material yang digunakan langsung dalam produksi. Termasuk biaya pembelian bahan mentah, komponen, dan suku cadang. Biaya ini berfluktuasi sesuai dengan volume produksi</li><li><strong>Subkontraktor:</strong> Biaya yang dibayarkan kepada pihak ketiga untuk melakukan pekerjaan tertentu dalam proyek. Relevan terutama dalam industri konstruksi dan manufaktur khusus. Jumlahnya dapat bervariasi tergantung pada kompleksitas proyek dan kebutuhan akan keahlian khusus.</li><li><strong>Operasional Proyek:</strong> Mencakup biaya-biaya yang terkait langsung dengan pelaksanaan proyek tertentu. Termasuk biaya transportasi, akomodasi tim proyek, dan peralatan khusus yang dibutuhkan. Biaya ini dapat bervariasi signifikan antar proyek.</li></ol><p><br></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/pbsa_data_06",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Komponen lain seperti beban mandor dan retensi memiliki kontribusi yang relatif kecil dan stabil terhadap total pendapatan.</p><p><br></p><p>Berikutnya kita coba bahas dari sisi NPM, beberapa kita coba point out seperti tahun 2019 saat NPM sangat kecil di angka 2% dan di tahun 2023 saat NPM lebih tinggi daripada GPM.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/pbsa_data_07",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Tahun 2019 PBSA mengalami rugi selisih kurs yang sebelumnya untung Rp 11 miliar. Tetapi kalau dilihat dari rugi selisih kurs, pastinya tidak bisa kita anggap sebagai sesuatu yang buruk karena tidak berkaitan dengan operasional perusahaan. Jadi di tahun 2019 kecilnya NPM bisa kita anggap dikarenakan GPM yang sudah menipis oleh meningkatnya COGS.&nbsp;&nbsp;</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/pbsa_data_08",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Untuk tahun 2023, perusahaan mencatatkan NPM lebih tinggi daripada GPM yang mengindikasikan <strong>ada pendapatan lain-lain yang diterima.</strong></p><p><br></p><p>Nah kalau kita coba baca catatan kakinya, perusahaan ada jual kepemilikan terhadap PT EcoOils Jaya Indonesia. Jadi laba ini bukan dari operasional melainkan penjualan saham. Kalau kita keluarkan laba penjualan investasi, kurang lebih NPM sekitar 13%.</p><p><br></p><p>Faktor-faktor yang memengaruhi Profitabilitas:</p><ul class=\"ql-li\"><li><strong>Fluktuasi Harga Bahan Baku</strong>Industri konstruksi sangat sensitif terhadap perubahan harga material</li><li>PBSA umumnya membeli bahan baku sesuai kebutuhan proyek, bukan menyimpan stok</li><li>Kenaikan harga bahan baku langsung berdampak pada margin keuntungan</li><li><strong>Efisiensi Operasional</strong>Manajemen biaya operasional proyek menjadi kunci dalam mempertahankan margin</li><li>Fluktuasi beban operasional menunjukkan tantangan dalam konsistensi efisiensi</li><li><strong>Ketergantungan pada Subkontraktor</strong>Peningkatan biaya subkontraktor dapat menggerus margin keuntungan</li><li>Manajemen hubungan dengan subkontraktor menjadi aspek kritis dalam pengendalian biaya</li><li><strong>Dinamika Industri</strong>Tekanan harga dalam industri konstruksi dapat mempengaruhi kemampuan perusahaan dalam mempertahankan margin</li><li>Kompetisi yang ketat mungkin memaksa PBSA untuk menerima proyek dengan margin yang lebih rendah</li></ul><h3><br></h3><h4><strong>Alokasi Modal</strong></h4><p>Grafik di bawah adalah visualisasi cash flow dan kemana PBSA mengalokasikan uangnya.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/pbsa_data_09",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Grafik yang positif menandakan uang masuk, misalnya dari operasional, penjualan saham dan juga penerbitan saham baru.</p><p><br></p><p>Yang negatif menandakan uang keluar misalnya untuk perolehan aset tetap (capex), pembelian saham dan juga pembayaran dividen.</p><p><br></p><p>Beberapa insight yang bisa kita ambil:</p><ul class=\"ql-li\"><li><strong>Konsistensi Arus Kas Operasional Positif</strong></li><li class=\"ql-indent-1\">PBSA mencatat total arus kas dari operasi sebesar Rp 934 miliar selama periode tersebut.</li><li class=\"ql-indent-1\">Terlihat bahwa arus kas operasional ini meskipun cenderung positif, namun ada masa - masa dimana arus kas operasi kecil (2018 - 2020)</li><li><strong>Fokus pada Pembayaran Dividen</strong></li><li class=\"ql-indent-1\">Total pembayaran dividen mencapai Rp 782 miliar dari 2015 - 9M 2024, hampir setara dengan arus kas operasional yang dihasilkan.</li><li class=\"ql-indent-1\">Ini menunjukkan komitmen PBSA untuk memberikan imbal hasil kepada pemegang saham.</li><li><strong>Investasi pada Aset Tetap dan Penyertaan Saham</strong></li><li class=\"ql-indent-1\">Perolehan aset tetap sebesar Rp 305 miliar dan penempatan penyertaan saham sebesar Rp 342 miliar menunjukkan fokus perusahaan pada pengembangan kapasitas dan diversifikasi investasi.</li><li class=\"ql-indent-1\">Fun fact PBSA melakukan pembelian saham BUMI dan INKP serta pembelian Reksadana dan so far untung.</li><li><strong>Penjualan Investasi Strategis</strong></li><li class=\"ql-indent-1\">Hasil penjualan investasi saham sebesar Rp 211 miliar (termasuk divestasi PT EcoOils Jaya Indonesia) memberikan suntikan likuiditas yang signifikan.</li><li class=\"ql-indent-1\">Strategi ini mencerminkan fleksibilitas manajemen dalam mengelola portofolio aset untuk pembagian dividen.</li><li><strong>Penerbitan Saham sebagai Sumber Pendanaan</strong></li><li class=\"ql-indent-1\">Penerimaan dari penerbitan saham biasa sebesar Rp 360 miliar menunjukkan bahwa PBSA pernah menggunakan ekuitas sebagai sumber pendanaan.</li><li class=\"ql-indent-1\">Hal ini kemungkinan dilakukan untuk mendukung ekspansi atau kebutuhan modal lain tanpa meningkatkan utang.</li><li><strong>Tren Penggunaan Kas</strong></li><li class=\"ql-indent-1\"><strong><span class=\"ql-cursor\">﻿</span></strong>Pembayaran dividen secara konsisten menjadi salah satu alokasi terbesar dari arus kas perusahaan, yang dapat menjadi daya tarik bagi investor dividen.</li><li class=\"ql-indent-1\">Namun, alokasi besar untuk dividen dapat membatasi ruang bagi PBSA untuk melakukan ekspansi agresif atau investasi strategis dalam jangka panjang.</li></ul><p><br></p><p>PBSA memiliki strategi alokasi kas yang seimbang antara memberikan imbal hasil kepada pemegang saham melalui dividen dan mendukung pertumbuhan bisnis melalui investasi aset tetap serta penyertaan saham.</p><p><br></p><p>Namun, dominasi pembayaran dividen terhadap penggunaan kas menandakan fokus perusahaan pada pengembalian nilai kepada pemegang saham daripada ekspansi agresif.</p><p><br></p><p>Untuk jangka panjang, PBSA perlu mempertimbangkan diversifikasi pendapatan atau peningkatan efisiensi operasional agar tetap kompetitif sambil mempertahankan komitmen pembagian dividen.</p><h3><br></h3><h4><strong>Valuasi</strong></h4><p>Untuk menghitung valuasi PBSA, tentu ini sangat bergantung dengan kontrak yang dimiliki oleh PBSA dan margin yang mampu dihasilkan.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/pbsa_data_10",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Jika kita lihat, proyeksi revenue Rp 1.3 T di 2025 sepertinya masih cukup masuk akal mengingat di Q3 2024 PBSA menerima kontrak baru senilai hampir Rp 1 T.</p><p><br></p><p>Ini belum lagi menghitung kontrak baru yang mungkin di terima di Q4 2024 dan sepanjang tahun 2025. Kita pikir masih cukup masuk akal PBSA bisa menerima setidaknya tambahan Rp 300 M kontrak baru (cek saja historis kontrak PBSA dikisaran Rp 200 - 400 M setahun).</p><p><br></p><p>Meskipun kontrak PBSA diperkirakan akan meningkat drastis dan revenue akan meningkat drastis di tahun 2025, namun <strong>kita berpandangan hal ini hanya akan bersifat sementara.</strong></p><p><br></p><p>Di market cap Rp 966 miliar, market seolah - olah <strong>beranggapan bahwa PBSA akan mampu mengerjakan proyek setidaknya Rp 1 T per tahun.</strong> Hal ini agak di luar kebiasaan PBSA yang sebelum - sebelumnya di kisaran Rp 200 - 300 M.</p><p><br></p><p>Asumsinya begini, let say lah wajarnya PE 10x, artinya dengan market caps Rp 966 miliar ekspektasi laba di Rp 96 M per tahun. Dengan historis margin PBSA di kisaran 10% - 12% (exclude laba lain - lain) maka ekspektasi revenue di kisaran Rp 800 M - 960 M. </p><p><br></p><p>Kita bulatkan saja Rp 1 T. Nah menurut Anda, wajar tidak? Mendadak kontrak yang dikerjakan akan gede terus?</p><p><br></p><p>Menurut kita, agak terlalu optimis langsung menghargai PBSA di harga sekarang. Saya pikir dengan harga PBSA di Rp 700 M akan lebih reasonable atau sekitar <strong>Rp 230</strong> (vs harga sekarang Rp 322).</p><h3><br></h3><h4><strong>Risiko &amp; Prospek</strong></h4><p><strong>Risk</strong></p><ul class=\"ql-li\"><li><strong>Ketergantungan pada Industri Kelapa Sawit</strong></li><li class=\"ql-indent-1\">85% pendapatan PBSA berasal dari proyek infrastruktur untuk industri kelapa sawit, terutama dari SMAR dan afiliasinya.</li><li class=\"ql-indent-1\">Jika terjadi penurunan permintaan CPO global atau kebijakan ekspor/impor yang membatasi, proyek PBSA berisiko tertunda/dibatalkan.</li><li class=\"ql-indent-1\">Contoh Risiko: Harga CPO dunia turun 15% YoY pada 2023, yang berpotensi mengurangi ekspansi klien utama PBSA.</li><li><strong>Fluktuasi Harga Bahan Baku Konstruksi</strong></li><li class=\"ql-indent-1\">43% COGS PBSA berasal dari biaya material (baja, semen, dll.). Contoh Volatilitas: Harga baja naik 25% pada 2022, menyebabkan margin kotor (GPM) turun dari 27,83% (9M 2023) menjadi 20,04% (9M 2024).</li><li><strong>Konsentrasi Pelanggan</strong></li><li class=\"ql-indent-1\">85% dari total kontrak 9M 2024 berasal dari SMAR dan afiliasinya.</li><li class=\"ql-indent-1\">Kehilangan satu klien besar dapat mengurangi pendapatan secara signifikan.</li></ul><p><strong>Prospek</strong></p><ul class=\"ql-li\"><li><strong>Ekspansi Kapasitas SMAR</strong></li><li class=\"ql-indent-1\">Pabrik refinery: 95% (kapasitas stagnan sejak 2019) → potensi ekspansi baru.</li><li class=\"ql-indent-1\">Pabrik biodiesel: 87% utilisasi (2023) → ada potensi SMAR akan meningkatkan kapasitas</li><li><strong>Pertumbuhan Industri Oleokimia</strong></li><li class=\"ql-indent-1\">Permintaan oleokimia global diproyeksikan tumbuh 6,2% CAGR hingga 2030.</li><li class=\"ql-indent-1\">PBSA telah mengerjakan berbagai proyek oleokimia senilai &gt;Rp 300 miliar (2022-2024), membuka peluang proyek lanjutan.</li><li><strong>Kebijakan Biodiesel Indonesia</strong></li><li class=\"ql-indent-1\">Mandatori biodiesel B35/B40 akan meningkatkan kebutuhan pabrik biodiesel baru.</li><li class=\"ql-indent-1\">Potensi kontrak PBSA: Rp 150-200 miliar/tahun untuk konstruksi fasilitas biodiesel.</li></ul><h3><br></h3><h4><strong>Kesimpulan</strong></h4><p>Dengan melihat kondisi PBSA sekarang, sebenarnya PBSA merupakan perusahaan yang masih cukup sehat, cash yang masih cukup, utang yang kecil dan juga potensi peningkatan revenue dari kontrak baru yang diterima.</p><p><br></p><p>Meskipun prospeknya cukup menarik, kita lebih memilih untuk mengambil posisi lebih hati - hati daripada terburu - buru memperkirakan PBSA akan mampu men-convert kontrak menjadi revenue senilai Rp 1T per tahun.</p><p><br></p><p>Meskipun ada potensi ekspansi dari SMAR dan afiliasinya, namun kita sebenarnya kurang suka jika kontrak dan revenue sangat bergantung dengan satu pihak.</p><p><br></p><p>So dengan berbagai pertimbangan tersebut, akan lebih make sense apabila PBSA dihargai Rp 700 M atau sekitar <strong>Rp 230</strong></p><p><br></p><p>Untuk sekarang, kita lebih memilih untuk pass.</p><p><br></p><p>Semoga ulasan ini bermanfaat</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <i><b>Disclaimer: Artikel analisa ini bukanlah merupakan sebuah rekomendasi ataupun ajakan untuk jual atau beli saham tertentu. \nArtikel ini hanya untuk kepentingan edukasi dan informasi saja. \nSegala data yang disajikan bersumber dari publikasi yang disampaikan kepada publik melalui Annual Report, \nPublic Expose ataupun Laporan Keuangan emiten.</i></b><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      }
+    ],
+    "is_show_header": 1,
+    "header_type": "with_menu",
+    "is_show_footer": 1,
+    "footer_type": "with_menu",
+    "visibility": "membership;membership_and_portofolio;fbjarvis;spesial;",
+    "created_at": "2025-03-01T09:09:00.000000Z",
+    "updated_at": "2025-03-01T09:09:00.000000Z",
+    "deleted_at": null,
+    "created_by": {
+      "id": 2,
+      "fullname": "Midas Super Admin",
+      "email": "admin@midascuan.id",
+      "role": "superadmin",
+      "has_link_product": 0,
+      "ip_address": null,
+      "last_login_ip": null,
+      "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+      "member_active_roles": [
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ],
+      "member_roles": [
+        {
+          "id": 109970,
+          "user_id": 2,
+          "role_id": 1,
+          "expired_date": "2025-02-27 00:45:00",
+          "created_at": "2023-05-25T18:59:06.000000Z",
+          "updated_at": "2025-02-20T15:45:14.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 1,
+            "title": "Portofolio",
+            "role": "portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:07:38.000000Z",
+            "updated_at": "2024-08-16T09:56:18.000000Z"
+          }
+        },
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ]
+    },
+    "updated_by": null,
+    "deleted_by": null
+  },
+  "changes": 0
+}

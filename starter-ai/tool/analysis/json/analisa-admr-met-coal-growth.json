@@ -1,0 +1,955 @@
+{
+  "id": 87,
+  "page_id": 171,
+  "image_url": "https://api.midascuan.id/storage/resources/admr_logo",
+  "code": "ADMR",
+  "buy_price": 0,
+  "current_price": 0,
+  "valuation": 0,
+  "margin_of_safety": 0,
+  "created_at": "2025-03-08T14:46:49.000000Z",
+  "updated_at": "2025-12-29T07:00:05.000000Z",
+  "status": "published",
+  "created_by": {
+    "id": 2,
+    "fullname": "Midas Super Admin",
+    "email": "admin@midascuan.id",
+    "role": "superadmin",
+    "has_link_product": 0,
+    "ip_address": null,
+    "last_login_ip": null,
+    "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+    "member_active_roles": [
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ],
+    "member_roles": [
+      {
+        "id": 109970,
+        "user_id": 2,
+        "role_id": 1,
+        "expired_date": "2025-02-27 00:45:00",
+        "created_at": "2023-05-25T18:59:06.000000Z",
+        "updated_at": "2025-02-20T15:45:14.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 1,
+          "title": "Portofolio",
+          "role": "portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:07:38.000000Z",
+          "updated_at": "2024-08-16T09:56:18.000000Z"
+        }
+      },
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ]
+  },
+  "updated_by": null,
+  "deleted_at": null,
+  "deleted_by": null,
+  "page": {
+    "id": 171,
+    "title": "Analisa ADMR: Met Coal Growth",
+    "slug": "analisa-admr-met-coal-growth",
+    "type": "analysis",
+    "status": "published",
+    "content_html": "\"\"",
+    "content_json": [
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Analisa ADMR: Met Coal Growth\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "post-detail",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 flex flex-col md:flex-row justify-center gap-2 mt-1 mb-1 border-t border-b-2 border-black p-1\">\n        <p class=\"my-auto\">\n            <i class=\"fa fa-user-circle my-auto\"></i> \n\tFelix  Haridinata\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-calendar my-auto\"></i> \n\tMaret 08, 2025\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-tags my-auto\"></i> \n\tADMR\n        </p>\n\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 30,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Kenapa ADMR? \n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/admr_data_00",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Ada 3 alasan kenapa menurut kami ADMR cukup menarik untuk kita bahas:</p><ul class=\"ql-li\"><li><strong>Produksi Meningkat:</strong> Jumlah produksi batu bara metalurgi yang terus meningkat setiap tahun dan masih akan terus ditingkatkan oleh manajemen. Posisi ADMR pun sangat dominan dan berkontribusi <strong>~90% dari total produksi batu bara metalurgi Indonesia.</strong></li><li><strong>Harga Turun:</strong> Meskipun operasionalnya bertumbuh setiap tahun, harga saham ADMR ternyata sudah turun 73% dari titik tertinggi dan saat ini diperdagangkan dengan PE Annualised 4x dan PBV 1.7x</li><li><strong>Ekspansi Kaltara:</strong> ADMR juga tengah membangun smelter aluminium di Kaltara. Smelter ini akan memiliki kapasitas 500 ribu ton (tahap 1) hingga 1.5 juta ton (tahap 3). Demand aluminium Indonesia sekitar 1 juta ton dan produksi hanya dari Inalum 250 ribu ton. Dengan adanya smelter baru ini, maka diharapkan bisa memenuhi kebutuhan domestik. ADMR memegang 65% saham KAI (smelter aluminium).</li></ul><p><br></p><p>Kita akan mencari tahu apakah harga sahamnya sudah murah? Bagaimana prospek dan kinerja bisnis ADMR di tulisan ini. So baca sampai selesai ya.</p><h3><br></h3><h4><strong>Company Overview</strong></h4><h3><br></h3><h4><strong>Tentang ADMR</strong></h4><p>PT Adaro Minerals Indonesia Tbk (ADMR) adalah anak perusahaan dari PT Adaro Energy Indonesia Tbk (ADRO) yang berfokus pada pertambangan batubara metalurgi. Perusahaan ini didirikan dengan tujuan mendukung rantai pasokan industri baja global, mengingat batubara metalurgi merupakan bahan baku utama dalam produksi baja.</p><p><br></p><p>ADMR memiliki keunggulan dalam sumber daya batubara metalurgi berkualitas tinggi serta infrastruktur yang mendukung operasi tambangnya. Dengan strategi ekspansi yang agresif, ADMR juga mulai terlibat dalam proyek hilirisasi aluminium melalui pembangunan smelter di Kalimantan Utara. Hal ini sejalan dengan kebijakan pemerintah dalam mendukung hilirisasi industri tambang untuk meningkatkan nilai tambah sumber daya mineral di dalam negeri.</p><h3><br></h3><h4><strong>Struktur Kepemilikan dan Manajemen</strong>\t</h4><p>Sebagai bagian dari Adaro Group, ADMR memiliki akses ke infrastruktur dan sumber daya yang luas, termasuk dukungan dari berbagai anak usaha Adaro di bidang logistik, energi, dan keuangan. Struktur kepemilikan ADMR mayoritas masih dikuasai oleh Adaro Energy, dengan sebagian sahamnya diperdagangkan di Bursa Efek Indonesia (BEI).</p><p><br></p><p>Tim manajemen ADMR terdiri dari individu yang berpengalaman di industri pertambangan dan energi, dengan fokus pada efisiensi operasional serta ekspansi bisnis ke sektor hilir. Adaro Group saya pikir tidak perlu diragukan lagi expertise mereka di operasional tambang.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/admr_data_01",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>ADMR sendiri apabila dilihat dari total produksi, tidak sampai 10% nya Adaro Group. Namun kalau dari segi laba, ADMR berkontribusi ~20% terhadap laba ADRO (sebelum spinoff AADI).</p><h3><br></h3><h4><strong>Aset dan Cadangan Batubara</strong></h4><p>ADMR memiliki cadangan batubara metalurgi yang signifikan, dengan rincian sebagai berikut:</p><ul class=\"ql-li\"><li><strong>Cadangan Batubara:</strong>&nbsp;~173 juta ton.</li><li><strong>Sumber Daya Batubara:</strong>&nbsp;~975 juta ton.</li></ul><p><br></p><p>Sumber daya ini menjadikan ADMR sebagai salah satu pemain utama dalam industri batubara metalurgi Indonesia dan memberikan potensi pertumbuhan jangka panjang yang kuat bagi perusahaan.</p><h3><br></h3><h4><strong>Lokasi Operasi</strong></h4><p>ADMR beroperasi di Kalimantan Tengah. Keunggulan geografis ini memungkinkan ADMR untuk lebih efisien dalam distribusi produk ke berbagai negara tujuan ekspor, terutama di Asia, seperti China, Jepang dan India. Kedekatan dengan pelabuhan utama juga membantu dalam menekan biaya logistik.</p><h3><br></h3><h4><strong>Product</strong></h4><p>ADMR memproduksi berbagai jenis batubara metalurgi yang digunakan dalam proses produksi baja. Produk utama ADMR meliputi:</p><ol class=\"ql-li\"><li><strong>Hard Coking Coal (HCC):</strong>&nbsp;Batubara berkualitas tinggi yang digunakan untuk produksi baja dengan efisiensi tinggi.</li><li><strong>Green Coal:</strong>&nbsp;Jenis batubara dengan kandungan polutan lebih rendah, sesuai dengan tren transisi energi lebih bersih.</li><li><strong>Metallurgical Coal (MetCoal):</strong>&nbsp;Digunakan dalam industri baja sebagai bahan utama dalam blast furnace.</li></ol><p><br></p><p>ADMR juga berencana untuk memperluas portofolio produknya ke aluminium melalui smelter yang sedang dikembangkan di Kalimantan Utara.</p><h3><br></h3><h4><strong>Pelanggan ADMR</strong></h4><p>Sebagai salah satu produsen batubara metalurgi terbesar di Indonesia, ADMR memiliki pelanggan dari berbagai sektor, terutama industri baja global. Negara-negara utama yang menjadi tujuan ekspor ADMR antara lain:</p><ul class=\"ql-li\"><li><strong>China:</strong>&nbsp;Konsumen terbesar batubara metalurgi dunia dengan industri baja yang dominan.</li><li><strong>India:</strong>&nbsp;Permintaan terus meningkat seiring dengan pembangunan infrastruktur.</li><li><strong>Jepang dan Korea Selatan:</strong>&nbsp;Industri baja yang mapan dengan kebutuhan stabil terhadap batubara berkualitas tinggi.</li><li><strong>Indonesia:</strong>&nbsp;Pasar domestik juga mulai berkembang dengan proyek-proyek baja dan manufaktur.</li></ul><h3><br></h3><h4><strong>Industri Batubara Metalurgi</strong></h4><p>Batubara metalurgi memiliki peran vital dalam produksi baja, yang menjadi fondasi berbagai sektor seperti konstruksi, otomotif, dan manufaktur alat berat. Beberapa faktor yang mempengaruhi industri ini adalah:</p><ul class=\"ql-li\"><li><strong>Kenaikan Permintaan Baja:</strong>&nbsp;Dengan pertumbuhan infrastruktur global, konsumsi baja diperkirakan meningkat dalam beberapa tahun ke depan.</li><li><strong>Fluktuasi Harga Batubara:</strong>&nbsp;Harga batubara metalurgi sering kali dipengaruhi oleh regulasi pemerintah, permintaan global, serta kapasitas produksi di negara-negara penghasil.</li><li><strong>Kebijakan Lingkungan:</strong>&nbsp;Industri baja mulai beralih ke teknologi yang lebih ramah lingkungan, yang dapat mempengaruhi permintaan batubara metalurgi.</li></ul><h3><br></h3><h4><strong>Industri Aluminium dan Hilirisasi</strong></h4><p>ADMR juga memperluas bisnisnya ke sektor aluminium melalui pengembangan smelter di Kalimantan Utara. Beberapa faktor yang mendukung prospek industri aluminium adalah:</p><ul class=\"ql-li\"><li><strong>Transisi ke Kendaraan Listrik (EV):</strong>&nbsp;Aluminium memainkan peran penting dalam kendaraan listrik karena sifatnya yang ringan dan kuat.</li><li><strong>Kenaikan Kebutuhan Global:</strong>&nbsp;Permintaan aluminium terus meningkat, terutama dalam industri konstruksi, penerbangan, dan energi terbarukan.</li><li><strong>Dukungan Pemerintah:</strong>&nbsp;Indonesia mendorong hilirisasi mineral melalui berbagai insentif bagi industri yang mengembangkan produk bernilai tambah.</li></ul><h3><br></h3><h4><strong>Industri Batubara Metalurgi &amp; Aluminium</strong></h4><h3><br></h3><h4><strong>Batubara Metalurgi (Met Coal) &amp; Pasarnya</strong></h4><p>Batubara metalurgi merupakan komponen utama dalam produksi baja, khususnya dalam proses pembuatan kokas. Kokas ini digunakan sebagai reduktor dalam blast furnace untuk mengubah bijih besi menjadi baja.</p><ul class=\"ql-li\"><li><strong>Negara Konsumen Utama:China (67%)</strong>: </li><li class=\"ql-indent-1\">Merupakan konsumen terbesar batubara metalurgi di dunia.</li><li class=\"ql-indent-1\"><strong>India (7.4%)</strong>: Permintaan meningkat seiring dengan ekspansi industri baja.</li><li class=\"ql-indent-1\"><strong>Jepang &amp; Korea Selatan (sekitar 18%)</strong>: Pasar stabil dengan permintaan tinggi.</li></ul><p><br></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/admr_data_02",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><ul class=\"ql-li\"><li><strong>Negara Produsen Utama:</strong></li><li class=\"ql-indent-1\"><strong>China (58%)</strong></li><li class=\"ql-indent-1\"><strong>Australia (14%)</strong></li><li class=\"ql-indent-1\"><strong>Rusia (10.9%)</strong></li><li class=\"ql-indent-1\"><strong>AS (5%)</strong></li></ul><p>Harga batubara metalurgi cenderung volatil karena dipengaruhi oleh permintaan baja global, regulasi pemerintah, serta dinamika pasar ekspor dan impor. ADMR berfokus pada pasar Asia, terutama China, Jepang, India, dan Korea Selatan, yang memiliki kebutuhan baja tinggi.</p><p><br></p><p>Batu bara metalurgi banyak digunakan untuk pembuatan baja. Baja sebagian besar digunakan untuk pembangunan. Seperti kita tahu bahwa sektor properti di China sedang lesu jadi proyeksi dari IEA adalah demand China masih belum akan pulih.</p><p><br></p><p>Namun secara long term, diprediksi bahwa demand akan datang dari <strong>India dan ASEAN.</strong> Hal ini karena semakin bertumbuhnya populasi sehingga akan mendorong pembangunan. Secara populasi, India sekarang sudah melampaui China.</p><p><br></p><p>Namun kalau bicara pembangunan, India belum catch up sepenuhnya dengan China</p><h3><br></h3><h4><strong style=\"font-size: 1.17em;\">Industri Aluminium &amp; Prospek Hilirisasi</strong></h4><p>Aluminium merupakan logam strategis yang digunakan dalam berbagai industri, termasuk otomotif, konstruksi, dan energi terbarukan. ADMR sedang mengembangkan smelter aluminium di Kalimantan Utara dengan kapasitas produksi tahap awal&nbsp;<strong>500.000 ton per tahun</strong>, dan rencana ekspansi hingga&nbsp;<strong>1,5 juta ton</strong>&nbsp;per tahun.</p><ul class=\"ql-li\"><li><strong>Harga rata-rata aluminium global:</strong>&nbsp;USD 3.000 per ton.</li><li><strong>Potensi pendapatan smelter ADMR:</strong></li><li class=\"ql-indent-1\"><strong>Tahap 1 (500 ribu ton)</strong>: USD 1,5 miliar atau Rp 24 triliun (kurs Rp 16.000).</li><li class=\"ql-indent-1\"><strong>Dengan Net Profit Margin (NPM) sekitar 10%</strong>, laba bersih bisa mencapai Rp 2,4 triliun.</li><li class=\"ql-indent-1\"><strong>ADMR memiliki 65% kepemilikan dalam proyek ini, sehingga bagian laba ADMR mencapai Rp 1,56 triliun.</strong></li></ul><p><br></p><p>Smelter ini akan mendukung kebijakan hilirisasi pemerintah dan memberikan ADMR sumber pendapatan tambahan selain batubara metalurgi.</p><h3><br></h3><h4><strong>Economic Moat</strong></h4><p>ADMR ini adalah perusahaan tambang batu bara metalurgi (komoditas). Menurut pengamatan kami, untuk tipe perusahaan komoditas moat yang kuat adalah <em>Low Cost Producer.</em></p><p><br></p><p>Karena perusahaan komoditas tidak bisa mengatur harga jual, yang mereka bisa lakukan adalah mengatur cost. Yang mampu produksi dengan cost terendahlah <strong>yang bakal survive ketika harga turun.</strong></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/admr_data_03",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><em>source: IEA</em></p><p><br></p><p>Grafik di atas adalah cost produksi dari berbagai tambang batu bara metalurgi di berbagai belahan dunia. Sumbu X adalah volume produksi dan sumbu y adalah harga.</p><p><br></p><p>Di tahun 2024, rata - rata harga batu bara metalurgi masih di kisaran $250 (garis horizontal tebal). Dengan kondisi ini, semua produsen masih mampu menghasilkan keuntungan. Karena semua cost produksinya masih di bawah $250 per ton.</p><p><br></p><p>Bagaimana jika harganya turun menjadi &lt;$150? Mungkin sekitar 50% dari produsen akan mengalami kerugian. Tapi yang cost produksinya masih di bawah $150 ini masih akan untung. Termasuk tambang di Indonesia dimana ADMR <strong>berkontribusi sekitar 90% dari produksi nasional.</strong></p><p><br></p><p>Bagaimana dengan ADMR? Berapa cost produksinya? Kita coba breakdown COGS per ton untuk masing - masing pos nya:</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/admr_data_04",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><ul class=\"ql-li\"><li><strong>Biaya royalti &amp; pajak:</strong>&nbsp;USD 30 - 45 per ton</li><li><strong>Biaya penambangan:</strong>&nbsp;USD&nbsp;20 - 30 per ton.</li><li><strong>Biaya pengangkutan:</strong>&nbsp;USD&nbsp;20-30&nbsp;per ton.</li></ul><p><br></p><p>Kalau ditotal sekitar $112 per ton di tahun 2023 dan ini lebih kurang sama dengan grafik dari IEA sebelumnya.</p><p><br></p><p>Pertanyaannya, kenapa ADMR ini bisa memiliki COGS yang begitu rendah? Sedangkan biasanya perusahaan dengan kalori tinggi akan memiliki biaya penambangan yang tinggi pula. Kalau dilihat, stripping ratio ADMR hanya di kisaran 3-4x. Sebagai perbandingan ITMG yang kalorinya &lt;7000 saja memiliki strip ratio &gt;10x.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/admr_data_05",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><em>source: ADMR Company Presentation</em></p><p><br></p><p>Menurut kita karena kondisi Geologis yang favorable → Cadangan batu bara tidak terlalu jauh dengan permukaan tanah sehingga galian tidak perlu terlalu besar.</p><p><br></p><p>Selain itu, beban operasional ADMR juga cukup rendah hanya di kisaran <strong>$8 - 10 per ton.</strong> So, total cost ADMR paling hanya di kisaran <strong>$120 - $130 per ton.</strong></p><p><br></p><p>Dengan cost segitu, laba per ton bisa di kisaran <strong>$100an per ton</strong> (ketika harga batu bara metalurgi ~$250 per ton).</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/admr_data_06",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Enaknya, ADMR bukan hanya mengandalkan harga batu bara yang naik untuk memperoleh keuntungan. Tapi juga mengandalkan volume penjualan yang terus meningkat dari tahun ke tahun.</p><p><br></p><p>Bahkan management masih menargetkan peningkatan volume penjualan menjadi 6 juta ton di tahun 2025 ini.</p><h3><br></h3><h4><strong>Transaksi Affiliasi<span class=\"ql-cursor\">﻿</span></strong></h4><p><br></p><p>Sebagai perusahaan yang tergabung di Group Adaro, sangat lumrah kita akan melihat ada berbagai transaksi affiliasi di dalam ADMR.</p><p><br></p><p>Misalnya dari COGS:</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/admr_data_07",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>ADMR melakukan transaksi affiliasi di pos pengeluaran:</p><ul class=\"ql-li\"><li><strong>Kontraktor Pertambangan:</strong> $90 jt dari $138 juta biaya penambangan adalah ke SIS yang juga merupakan kontraktor milik ADRO.</li><li><strong>Transportasi:</strong> ADMR juga mengandalkan MBP (perusahaan tongkang milik ADRO). Dimana $70jt dari $93 jt biaya transportasi dibayarkan ke MBP.</li></ul><p><br></p><p>Menurut kami, transaksi ini harusnya masih sangat lumrah dan harusnya tidak terlalu menggerus keuntungan. Karena secara margin pun ADMR sangat tinggi. <strong>Kalau ada indikasi menggerus keuntungan seharusnya margin tidak setinggi ini (GPM &gt;50%).</strong></p><p><br></p><h4><strong>Alokasi Modal</strong></h4>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/admr_data_08",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><strong>Operasional</strong></p><ul class=\"ql-li\"><li><strong>Total arus kas operasi</strong> mencapai <strong>USD 1,485 juta (1,48 miliar USD)</strong> hingga 9M 2024.</li><li>Ini menunjukkan bahwa bisnis ADMR <strong>menghasilkan kas yang cukup besar dari aktivitas operasionalnya</strong>, didukung oleh profitabilitas tinggi dan efisiensi biaya produksi.</li><li>Kenaikan arus kas operasi juga menandakan <strong>efisiensi dalam operasional dan meningkatnya volume produksi</strong>.</li></ul><p><br></p><p><strong>Investasi &amp; Ekspansi</strong></p><ul class=\"ql-li\"><li><strong>Perolehan Aset Tetap</strong>: ADMR menginvestasikan <strong>USD 711 juta</strong> untuk pengadaan aset tetap, yang kemungkinan besar terkait dengan ekspansi tambang dan proyek hilirisasi seperti pembangunan <strong>smelter aluminium</strong>.</li><li><strong>Pembayaran atas Akuisisi Entitas Sepengendali</strong>: ADMR mengeluarkan <strong>USD 382 juta</strong> untuk transaksi akuisisi. Ini menunjukkan adanya strategi ekspansi melalui pengambilalihan aset atau perusahaan lain dalam grup. Ini adalah ADMR mengakuisisi tambang batu bara metalurgi yang dimilikinya sekarang.</li><li><strong>Pembayaran/Penerimaan Pinjaman Berelasi</strong>: ADMR melakukan pembayaran atau pengaturan ulang pinjaman terkait grup sebesar <strong>USD 326 juta</strong>.</li></ul><p><br></p><p>ADMR sedang dalam fase ekspansi besar-besaran, terlihat dari belanja modal (CAPEX) yang signifikan pada aset tetap dan akuisisi. Ini bisa berdampak positif dalam jangka panjang karena meningkatkan kapasitas produksi dan diversifikasi bisnis.</p><p><br></p><p><strong>Pendanaan (Financing Cash Flow)</strong></p><ul class=\"ql-li\"><li><strong>Penerimaan Utang Bank</strong> sebesar <strong>USD 200 juta</strong>, menunjukkan bahwa ADMR masih menggunakan utang untuk membiayai sebagian ekspansi.</li><li><strong>Penambahan Modal</strong> sebesar <strong>USD 195 juta</strong>, yang kemungkinan berasal dari pemegang saham lama.</li><li><strong>IPO</strong> memberikan tambahan dana sebesar <strong>USD 46 juta</strong></li></ul>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<br /><div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4 px-5\" style=\"background-color:RGB(241, 241, 239)\">\n          <p> <br />\n<svg xmlns=\"http://www.w3.org/2000/svg\" x=\"0px\" y=\"0px\" width=\"100\" height=\"100\" viewBox=\"0 0 64 64\"\nstyle=\"fill:#FAB005;\">\n<path d=\"M 32 6 C 23.658 6 17 12.716 17 21 C 17 26.755 20.244 31.745719 25 34.261719 L 25 51.679688 C 25 52.773687 25.501375 53.809281 26.359375 54.488281 L 29.980469 57.351562 C 30.528469 57.785562 31.18675 58 31.84375 58 C 32.57975 58 33.313672 57.731219 33.888672 57.199219 L 40.417969 51.144531 C 40.900969 50.696531 41.041531 49.990625 40.769531 49.390625 L 39 45.490234 L 39 45.394531 L 41.404297 42.412109 C 42.127297 41.515109 42.164141 40.246594 41.494141 39.308594 L 39 35.816406 L 39 34.261719 C 43.756 31.745719 47 26.755 47 21 C 47 12.716 40.342 6 32 6 z M 32 10 C 38.065 10 43 14.935 43 21 C 43 25.084 40.751859 28.810609 37.130859 30.724609 L 35 31.851562 L 35 37.097656 L 37.607422 40.748047 L 35 43.982422 L 35 46.355469 L 36.392578 49.423828 L 31.794922 53.685547 L 29.275391 51.693359 C 29.101391 51.555359 29 51.347953 29 51.126953 L 29 31.851562 L 26.869141 30.726562 C 23.248141 28.811563 21 25.084 21 21 C 21 14.935 25.935 10 32 10 z M 32 14 C 29.791 14 28 15.791 28 18 C 28 20.209 29.791 22 32 22 C 34.209 22 36 20.209 36 18 C 36 15.791 34.209 14 32 14 z\"></path>\n</svg>\n\t <b>Key Takeaways:</b>\n\n          <ol style=\"list-style-type: square;padding-left:50px\">\n            <li> \n          <b>Kas dari operasional sangat kuat</b> (USD 1,48 miliar dalam 7 tahun), mencerminkan profitabilitas tinggi dan efisiensi operasional.\n            </li>\n            <li> \n          <b>Investasi besar-besaran dalam aset tetap (USD 711 juta) dan akuisisi (USD 382 juta)</b> menunjukkan bahwa ADMR terus dalam ekspansi, khususnya ke hilirisasi aluminium.\n            </li>\n            <li> \n          <b>Masih menggunakan utang dan penambahan modal</b> untuk mendanai ekspansi, tetapi dengan keseimbangan yang cukup baik.\n            </li>\n          </ol>\n\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>👉&nbsp;Yang harus diperhatikan Investor:</p><p><br></p><p><strong>Waspada</strong>: Perlu melihat bagaimana proyek hilirisasi dan ekspansi tambang berjalan, serta bagaimana manajemen menjaga rasio utang agar tidak terlalu tinggi.</p><p><br></p><h4><strong>Perkiraan Harga Wajar</strong></h4>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/admr_data_09",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><strong>Proyeksi Bisnis Aluminium (3 Tahap Ekspansi)</strong></p><p><br></p><p>ADMR sedang dalam proses membangun <strong>smelter aluminium</strong>, yang akan beroperasi dalam tiga tahap:</p><p><strong>Tahap 1:</strong> Kapasitas produksi <strong>500.000 ton</strong> per tahun.</p><p><strong>Tahap 2:</strong> Kapasitas produksi <strong>1.000.000 ton</strong> per tahun.</p><p><strong>Tahap 3:</strong> Kapasitas produksi <strong>1.500.000 ton</strong> per tahun.</p><p><br></p><p><strong>Asumsi:</strong></p><ul class=\"ql-li\"><li><strong>ASP (Average Selling Price)</strong>: Harga jual rata-rata aluminium adalah <strong>$2.500 per ton</strong>.</li><li><strong>NPM (Net Profit Margin)</strong>: <strong>10%</strong>, mencerminkan profitabilitas setelah biaya produksi dan operasional. (Sebagai gambaran, Inalum NPM sekitar 6% - 8%, produsen besar aluminium di dunia sekitar 8%)</li><li><strong>PE (Price to Earnings Ratio)</strong>: Ditetapkan <strong>8x</strong>, lebih tinggi dari coal karena aluminium ini akan dibutuhkan untuk green energy</li></ul><p><br></p><p><strong>Estimasi Net Profit dan Valuasi Aluminium:</strong></p><p class=\"ql-indent-1\"><strong>Tahap 1:</strong> Laba bersih <strong>$125 juta</strong> (Rp 2,044 triliun) → Valuasi Rp <strong>16,355 triliun</strong>.</p><p class=\"ql-indent-1\"><strong>Tahap 2:</strong> Laba bersih <strong>$250 juta</strong> (Rp 4,089 triliun) → Valuasi Rp <strong>32,711 triliun</strong>.</p><p class=\"ql-indent-1\"><strong>Tahap 3:</strong> Laba bersih <strong>$375 juta</strong> (Rp 6,133 triliun) → Valuasi Rp <strong>49,066 triliun</strong>.</p><p><br></p><h4><strong>Proyeksi Bisnis Batubara Metalurgi (Met Coal)</strong></h4><p>Selain aluminium, ADMR juga memiliki bisnis inti di <strong>batubara metalurgi (coking coal)</strong>.</p><p><br></p><p><strong>Asumsi:</strong></p><p>•\t<strong>Volume produksi</strong>: 5.<strong>6 juta ton</strong> per tahun.</p><p>•\t<strong>Net Profit per ton</strong>: <strong>$50 per ton</strong>. (lebih rendah dibanding 2021 $68, asumsi worst case saja)</p><p>•\t<strong>Total Net Profit</strong>: <strong>$$280 juta (Rp 4,579 triliun)</strong>.</p><p>•\t<strong>PE (Price to Earnings Ratio)</strong>: <strong>6x</strong> (lebih rendah dibanding aluminium karena risiko lebih tinggi dalam industri batubara).</p><p><br></p><p>👉 <strong>Valuasi bisnis batubara</strong>:</p><p><br></p><p>Dengan laba bersih <strong>$280 juta</strong>, valuasi bisnis met coal ADMR dihitung sebesar <strong>Rp 27,477 triliun</strong>.</p><p><br></p><p><strong>Total Valuasi ADMR</strong></p><p>Kita akan membagi perhitungan kita dengan 40.88 miliar lembar saham beredar ADMR untuk dapat harga wajar per lembarnya. Valuasi total dihitung dengan menjumlahkan valuasi dari <strong>bisnis aluminium dan met coal</strong>, dengan hasil:</p><p>•\t<strong>Tahap 1:</strong> Rp 1100</p><p>•\t<strong>Tahap 2:</strong> Rp 1500</p><p>•\t<strong>Tahap 3:</strong> Rp 1900</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/admr_data_10",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><h4><strong>Risk</strong></h4><p>Beberapa risiko yang mungkin terjadi:</p><ul class=\"ql-li\"><li><strong>Volatilitas Harga Batu Bara:</strong> Sebagai komoditas yang cyclical, sangat mungkin bagi harga batu bara untuk naik dan turun tergantung supply demand</li><li><strong>Government Regulation:</strong> Perubahan kebijakan, seperti larangan ekspor, tarif royalti bisa mempengaruhi bisnis ADMR. Apalagi beban royalti merupakan beban terbesar bagi ADMR (Sekitar 13% - 14% dari ASP).</li><li><strong>Proyek Smelter:</strong> Cukup banyak proyek smelter yang tertunda karena kenaikan cost material.</li><li><strong>Dividen:</strong> ADMR sama sekali belum membagikan dividen sejak IPO dan menurut kita dividen masih akan tetap ditahan karena akan dialokasikan untuk pembangunan smelter.</li></ul>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "disclaimer",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <i><b>Disclaimer: Artikel analisa ini bukanlah merupakan sebuah rekomendasi ataupun ajakan untuk jual atau beli saham tertentu. \nArtikel ini hanya untuk kepentingan edukasi dan informasi saja. \nSegala data yang disajikan bersumber dari publikasi yang disampaikan kepada publik melalui Annual Report, \nPublic Expose ataupun Laporan Keuangan emiten.</i></b><br />\n        <br/>\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      }
+    ],
+    "is_show_header": 1,
+    "header_type": "with_menu",
+    "is_show_footer": 1,
+    "footer_type": "with_menu",
+    "visibility": "membership_and_portofolio;membership;fbjarvis;spesial;",
+    "created_at": "2025-03-08T14:46:49.000000Z",
+    "updated_at": "2025-03-08T14:46:49.000000Z",
+    "deleted_at": null,
+    "created_by": {
+      "id": 2,
+      "fullname": "Midas Super Admin",
+      "email": "admin@midascuan.id",
+      "role": "superadmin",
+      "has_link_product": 0,
+      "ip_address": null,
+      "last_login_ip": null,
+      "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+      "member_active_roles": [
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ],
+      "member_roles": [
+        {
+          "id": 109970,
+          "user_id": 2,
+          "role_id": 1,
+          "expired_date": "2025-02-27 00:45:00",
+          "created_at": "2023-05-25T18:59:06.000000Z",
+          "updated_at": "2025-02-20T15:45:14.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 1,
+            "title": "Portofolio",
+            "role": "portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:07:38.000000Z",
+            "updated_at": "2024-08-16T09:56:18.000000Z"
+          }
+        },
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ]
+    },
+    "updated_by": null,
+    "deleted_by": null
+  },
+  "changes": 0
+}

@@ -1,0 +1,1043 @@
+{
+  "id": 100,
+  "page_id": 196,
+  "image_url": "https://api.midascuan.id/storage/resources/aisa_logo",
+  "code": "AISA",
+  "buy_price": 0,
+  "current_price": 0,
+  "valuation": 0,
+  "margin_of_safety": 0,
+  "created_at": "2025-07-18T07:46:09.000000Z",
+  "updated_at": "2025-12-29T07:00:05.000000Z",
+  "status": "published",
+  "created_by": {
+    "id": 2,
+    "fullname": "Midas Super Admin",
+    "email": "admin@midascuan.id",
+    "role": "superadmin",
+    "has_link_product": 0,
+    "ip_address": null,
+    "last_login_ip": null,
+    "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+    "member_active_roles": [
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ],
+    "member_roles": [
+      {
+        "id": 109970,
+        "user_id": 2,
+        "role_id": 1,
+        "expired_date": "2025-02-27 00:45:00",
+        "created_at": "2023-05-25T18:59:06.000000Z",
+        "updated_at": "2025-02-20T15:45:14.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 1,
+          "title": "Portofolio",
+          "role": "portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:07:38.000000Z",
+          "updated_at": "2024-08-16T09:56:18.000000Z"
+        }
+      },
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ]
+  },
+  "updated_by": null,
+  "deleted_at": null,
+  "deleted_by": null,
+  "page": {
+    "id": 196,
+    "title": "Analisa AISA",
+    "slug": "analisa-aisa",
+    "type": "analysis",
+    "status": "published",
+    "content_html": "\"\"",
+    "content_json": [
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Analisa AISA\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "post-detail",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 flex flex-col md:flex-row justify-center gap-2 mt-1 mb-1 border-t border-b-2 border-black p-1\">\n        <p class=\"my-auto\">\n            <i class=\"fa fa-user-circle my-auto\"></i> \n\tFelix  Haridinata\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-calendar my-auto\"></i> \n\tJuli 15, 2025\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-tags my-auto\"></i> \n\tAISA\n        </p>\n\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 20,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <h4><strong class=\"ql-size-huge\">Analisis Fundamental Saham AISA – PT FKS Food Sejahtera Tbk</strong></h4><p><br></p><h4><strong>Apa Menariknya AISA?</strong></h4><p><br></p><p>PT FKS Food Sejahtera Tbk (AISA) menunjukkan perbaikan kinerja keuangan yang signifikan pasca restrukturisasi bisnis. Pada tahun 2024, AISA membukukan pendapatan sekitar Rp1,92 triliun, tumbuh 12.9% dibanding 2023 sekitar Rp1,7 triliun. Pendapatan di Q1 2025 Rp 481 Miliar, tumbuh 4.3%.</p><p><br></p><p>Pertumbuhan top-line ini diikuti lonjakan laba bersih tahun 2024 menjadi Rp69 miliar, jauh lebih tinggi daripada laba Rp19 miliar di 2023 (naik ~270%). Begitu juga laba per Q1 2025, Rp 35 miliar naik 218% dari Q1 2024.</p><p><br></p><p>Dengan demikian, margin laba bersih ikut meningkat dari kisaran ~1% di 2023 menjadi sekitar 3,6% di 2024. Lalu per Q1 2025, marjin laba bersih sudah di 7.3%. Membaiknya marjin laba bersih dari 1% → 3.6% → 7% diakibatkan oleh <strong>efisiensi baik dari sisi COGS dan juga Beban operasional</strong>.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/aisa_data_01",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Tren positif ini mulai tampak <strong>sejak awal 2023</strong> – kuartal I 2023 AISA berhasil membalik rugi menjadi laba Rp2,09 miliar, padahal Q1 2022 rugi Rp13,3 miliar. Peningkatan tersebut didorong oleh kenaikan penjualan (Q1 2023: Rp456 miliar vs Rp449 miliar tahun sebelumnya) serta penurunan beban pokok (Rp315 miliar vs Rp339 miliar). Alhasil laba usaha AISA berbalik positif Rp13,5 miliar di Q1 2023 dari yang sebelumnya rugi.</p><p><br></p><p>Memasuki 6M 2024, <strong>turnaround</strong> semakin terlihat – AISA cetak laba bersih Rp28 miliar, berbalik dari rugi Rp5 miliar pada 6M 2023. Peningkatan laba pada 6M 2024 ini didorong oleh pertumbuhan penjualan +14,3% (menjadi Rp931 miliar) dan efisiensi operasional yang mengangkat gross profit margin menjadi 37,0% (dari 30,3% tahun sebelumnya). Operating profit margin pun naik menjadi 6,9% (dari 2,1% sebelumnya).</p><p><br></p><p>Dari sisi arus kas, perbaikan kinerja telah membuat arus kas operasi kembali positif. Anda bisa lihat perkembangan arus kas operasional AISA yang mulai positif dalam 2 tahun terakhir.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/aisa_data_02",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><br></p><p><br></p><p>Secara neraca, total aset per 3M 2025 sekitar Rp 2 triliun dengan ekuitas Rp1,08 triliun. <strong>Debt-to-Equity</strong> sekitar 0.3× di 3M 2025. Interest coverage, perbandingan antara laba usaha dengan beban bunga yang dibayarkan sudah mulai lebih sehat di 6.28x (TTM Q1 2025). Artinya laba usaha AISA dalam 12 bulan terakhir mampu men-cover 6.28x beban keuangan yang dibayarkan. Jumlah ini sudah lebih sehat dari tahun lalu yang 3.72x.</p><p><br></p><p>Dengan laba per saham TTM Q1 2025 sekitar Rp 10, <em>price to earnings ratio</em> (PER) AISA tercatat 10.65× pada harga saham Rp140. Sementara <em>price to book value</em> (PBV) sekitar 1.2×.</p><p><br></p><p>Secara keseluruhan, <strong>tren bisnis AISA menunjukkan pemulihan:</strong> pendapatan tumbuh, margin membaik, laba dan arus kas positif, meski leverage dan akumulasi rugi masa lalu masih menjadi hal yang membayangi hingga sekarang.</p><p><br></p><p>Inikah saatnya AISA full turnaround? Kita akan bahas lebih detail di artikel ini, so stay tune sampai selesai.</p><h3><br></h3><h3><br></h3><h4><strong class=\"ql-size-huge\">Key Takeaways</strong></h4><p><strong>1. Pemulihan Bisnis</strong></p><p>AISA mencatat pertumbuhan revenue, perbaikan margin, dan lonjakan laba bersih yang konsisten sejak 2023. Margin laba bersih naik dari 1% (2023) menjadi 7,3% (Q1 2025), didorong efisiensi distribusi dan operasional. AISA juga tengah melakukan peremajaan mesin dan peralatan lebih baru. Hal ini diharapkan bisa semakin mendongkrak GPM.</p><p><br></p><p><strong>2. Transformasi Distribusi dan Tata Kelola</strong></p><p>Di bawah FKS Group, AISA membenahi struktur distribusi berbasis KPI dan memperluas jangkauan outlet aktif hingga 100.000+ (dari sebelumnya sisa 50 ribuan sejak kasus). Evaluasi kinerja distributor dilakukan rutin, dengan insentif berbasis volume &amp; margin. Distribusi kini lebih merata secara nasional dan menjangkau pasar modern maupun tradisional.</p><p><br></p><p><strong>3. Modal Kerja Kini Super Efisien</strong></p><p>Cash conversion cycle (CCC) AISA turun drastis dari 476 hari (2017) menjadi sekitar 30 hari (2025). DSO hanya 50 hari, DIO 30–40 hari, dan DPO 45–60 hari. Ini menjadikan AISA sebagai salah satu FMCG dengan perputaran kas paling efisien. Lebih lanjut soal perbandingan bisa dipelajari di artikel di bawah.</p><p><br></p><p><strong>4. Inovasi Produk dan Ekspansi Pasar Jalan Terus</strong></p><p>Peluncuran produk baru seperti <em>Mocabe</em> menunjukkan keberhasilan strategi inovasi, dengan penjualan Rp1 miliar/bulan dalam 3 bulan sejak peluncuran. Ekspor juga diperluas ke &gt;20 negara, meski fokus tetap pada penguatan pasar domestik.</p><p><br></p><p><strong>5. Valuasi Mulai Atraktif, Tapi Risiko Belum Hilang</strong></p><p>Dengan PER sekitar 10× dan PBV 1,2×, valuasi AISA relatif menarik. Namun, risk masih ada: defisit saldo laba ditahan Rp2,8 triliun (imbas kasus lama) hingga persaingan di industri makanan.</p><p>Sebelum kita bedah bisnisnya, kita pelajari dulu kronologis kenapa AISA bisa mengalami kasus yang sedemikian parah di tahun 2018.</p><h3><br></h3><h4><strong class=\"ql-size-large\">﻿Kronologi Krisis dan Transisi Kepemilikan PT Tiga Pilar Sejahtera Food (AISA) 2016–2018</strong></h4>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/aisa_data_03",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <h4><strong>2016: Latar Belakang Sebelum Krisis</strong></h4><ul class=\"ql-li\"><li><strong>2014–2016 – Ekspansi Agresif &amp; Meningkatnya Utang:</strong> Sebelum krisis, AISA tumbuh pesat sebagai produsen makanan (snack <em>Taro</em>, mi kering, beras merek “Maknyuss” dan “Ayam Jago”, dll). Namun, ekspansi agresif dibiayai utang besar. Pada 2014–2015 laba mulai stagnan akibat beban utang dan biaya promosi tinggi . Utang bank jangka pendek AISA melonjak 117% pada 2015 menjadi Rp1,6 triliun .</li><li style=\"list-style-type:none;\"><br></li><li><strong>2016 – Puncak Kinerja Semu:</strong> Laba bersih 2016 tercatat Rp593 miliar, melonjak ~83% YoY meski penjualan hanya tumbuh 8,9% . Kinerja ini ternyata ditopang pos non-operasional: sekitar Rp229 miliar berasal dari penghapusan utang pajak (tax amnesty).</li><li style=\"list-style-type:none;\"><br></li><li style=\"list-style-type:none;\">AISA juga menjual anak usahanya di sawit (PT Golden Plantation) seharga ~Rp500 miliar untuk mengurangi utang. <strong>Indikator Tata Kelola:</strong> Akhirnya terungkap manajemen lama mulai melakukan rekayasa laporan keuangan 2016–2017.</li><li style=\"list-style-type:none;\"><br></li><li style=\"list-style-type:none;\">Mereka menaikkan secara fiktif piutang enam distributor (ternyata milik pribadi Dirut) agar penjualan tampak naik dan kinerja terlihat baik. Akibat manipulasi ini, harga saham AISA merangkak naik sepanjang akhir 2016 dan mencapai puncak Rp2.360 di pertengahan 2017 , sebelum akhirnya anjlok ketika masalah terkuak.</li></ul><p><br></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/aisa_data_04",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n<br/>\n          <h4><strong class=\"ql-size-large\">2017: Awal Krisis – Kasus Beras &amp; Masalah Keuangan</strong></h4><ul class=\"ql-li\"><li><strong>20–21 Juli 2017 – Skandal Beras “Maknyuss”:</strong> Krisis AISA dipicu kasus operasional serius di bisnis beras. Pada 21 Juli 2017 dini hari, Satuan Tugas Pangan (Polri bersama Kementan, Kemendag, KPPU) menggerebek pabrik PT Indo Beras Unggul (IBU) – anak usaha AISA di Bekasi. Ditemukan 1.161 ton beras subsidi (jenis IR64) dikemas ulang berlabel premium (Maknyuss/Ayam Jago) dan dijual ~Rp20.400/kg (harusnya HET beras medium Rp9.000/kg).</li></ul><p><br></p><ul class=\"ql-li\"><li style=\"list-style-type:none;\">Pemerintah menilai ini penipuan konsumen dan “gunakan uang negara untuk ambil keuntungan”. Aktivitas dagang IBU dibekukan sementara selama penyelidikan . Manajemen AISA (Jo Tjong Seng, Direktur) membantah kecurangan, mengklaim IBU membeli gabah umum dari petani (bukan beras Bulog) dan produknya memenuhi standar SNI beras premium.</li></ul><p><br></p><ul class=\"ql-li\"><li style=\"list-style-type:none;\">Meski demikian, kasus ini menghantam reputasi dan operasi AISA. Pada 25 Juli 2017, AISA menggelar konferensi pers di BEI terkait kasus beras oplosan untuk menjelaskan posisi perusahaan. Akhir Juli 2017, Direktur Utama PT IBU ditetapkan tersangka oleh Bareskrim.</li></ul><p><br></p><ul class=\"ql-li\"><li><strong>Dampak Finansial 2017:</strong> Pasca skandal beras, penjualan AISA anjlok dan biaya membengkak. Pendapatan 2017 turun 24%, sementara beban usaha naik 37% (karena biaya promosi dan gaji). Beban bunga utang juga tetap tinggi. AISA berakhir membukukan rugi bersih Rp552 miliar pada 2017.</li><br/><lstyle=\"list-style-type:none;\"i>Harga saham AISA rontok di pasar: hingga 26 Juli 2017 saham turun 27% dalam seminggu, dan sepanjang tahun kejatuhannya terus berlanjut. Dari puncak Rp1.605 pada 20 Juli 2017, saham AISA merosot 90% ke Rp168 per saham pada 4 Juli 2018.</li></ul><p><br></p><ul class=\"ql-li\"><li><strong>2 November 2017 – RUPSLB Divestasi Bisnis Beras:</strong> Untuk menyelamatkan keuangan, AISA memutuskan hengkang dari bisnis beras. Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) 2 November 2017 menyetujui rencana manajemen menjual seluruh divisi beras (PT IBU, PT Jatisari, PT SAKTI).</li></ul><p><br></p><ul class=\"ql-li\"><li style=\"list-style-type:none;\">Diharapkan divestasi ini rampung Kuartal III 2018 dan hasilnya digunakan membayar utang. Sayangnya, eksekusi penjualan terlambat. Hingga pertengahan 2018, divestasi belum terealisasi karena calon pembeli menunda transaksi di tengah ketidakpastian hukum (PKPU) .</li></ul><p><br></p><ul class=\"ql-li\"><li><strong>Akhir 2017 – Sinyal Masalah Keuangan &amp; Tata Kelola:</strong> Laporan Keuangan 2017 disusun manajemen lama dan diaudit KAP RSM Indonesia. Namun, sejumlah pemegang saham dan komisaris mencurigai kejanggalan (terkait kasus beras dan kesehatan keuangan). Meski auditor memberi opini wajar, kepercayaan mulai luntur.</li></ul><p><br></p><ul class=\"ql-li\"><li style=\"list-style-type:none;\">Peringkat utang AISA turun; Pefindo awal 2018 memangkas rating obligasi menjadi <strong>idCCC</strong> (outlook negatif) karena likuiditas seret – kas hanya Rp30–40 miliar sementara utang jatuh tempo Juli 2018 mencapai Rp109 miliar. Ini menandakan risiko gagal bayar tinggi.</li></ul><p><br></p><h4><strong class=\"ql-size-large\">2018: Gagal Bayar, Konflik Internal, dan Pergantian Kendali</strong></h4><p><br></p><ul class=\"ql-li\"><li><strong>5 Juli 2018 – Gagal Bayar dan Suspensi Saham:</strong> AISA resmi <strong>gagal bayar</strong> kupon obligasi dan sukuk ijarah yang jatuh tempo 5 Juli 2018 (total bunga ~Rp46 miliar). Manajemen mengakui kas per 26 Juni 2018 hanya Rp48 miliar, sehingga pembayaran ditunda karena dana tidak mencukupi.</li></ul><p><br></p><ul class=\"ql-li\"><li style=\"list-style-type:none;\">Bursa Efek Indonesia segera <strong>mensuspensi saham AISA per 5 Juli 2018</strong> hingga pengumuman lebih lanjut. Sejumlah kreditur pun bergerak: akibat gagal bayar, <strong>permohonan PKPU (Penundaan Kewajiban Pembayaran Utang)</strong> diajukan terhadap AISA dan beberapa anak usahanya. Proses PKPU sempat dimulai di Pengadilan Niaga Jakarta Pusat. Namun, pada 13 Agustus 2018 hakim menolak permohonan PKPU tersebut.</li></ul><p><br></p><ul class=\"ql-li\"><li style=\"list-style-type:none;\">Sebelumnya, obligor sepakat memperpanjang tenor obligasi jatuh tempo satu tahun, tetapi AISA tetap lalai membayar kupon setelah perpanjangan. AISA berencana menggelar RUPO (Rapat Umum Pemegang Obligasi) 28 Agustus 2018 untuk mencari solusi atas default bunga. Manajemen lama juga berupaya menjual cepat aset divisi beras. Calon pembeli sudah ada, namun pembeli tersebut tidak segera melanjutkan karena menunggu kepastian PKPU .</li></ul><p><br></p><ul class=\"ql-li\"><li><strong>27 Juli 2018 – RUPST Ricuh &amp; Direksi Lama Dipecat:</strong> Puncak konflik internal terjadi dalam Rapat Umum Pemegang Saham Tahunan (RUPST) 27 Juli 2018. Agenda rutin pengesahan Laporan Keuangan 2017 berubah menjadi ajang mosi tidak percaya pemegang saham terhadap manajemen lama (dipimpin Dirut Stefanos Joko Mogoginta).</li></ul><p><br></p><ul class=\"ql-li\"><li style=\"list-style-type:none;\"><strong>Lebih dari 50% pemegang saham menolak mengesahkan laporan keuangan 2017</strong>, mengkritik kinerja direksi atas kasus beras dan kondisi keuangan. Komisaris Utama Anton Apriyantono dan Komisaris Jaka Prasetya (wakil investor KKR) menolak menandatangani laporan tersebut.</li></ul><p><br></p><ul class=\"ql-li\"><li style=\"list-style-type:none;\">KKR (lewat unit Trophy, mewakili 9,09% saham AISA) sejak awal memang mendesak pergantian direksi demi perbaikan GCG. Dalam RUPST itu, KKR secara resmi <strong>mengusulkan perubahan direksi</strong> AISA. Pihak direksi lama menolak usulan tersebut dengan dalih tidak ada jaminan solusi keuangan dari KKR, dan sempat mengajak “rekonsiliasi”.</li></ul><p><br></p><ul class=\"ql-li\"><li style=\"list-style-type:none;\">Situasi memanas – <strong>Direktur Keuangan AISA Sjambiri Lioe</strong> menuding Komisaris Jaka Prasetya (KKR) mencoba <em>hostile takeover</em> tanpa memberikan rencana penyelamatan finansial. <strong>Dirut Joko Mogoginta dan jajaran direksi lama WALK OUT dari RUPS</strong> sambil melontarkan protes keras. Joko berteriak bahwa ia telah membangun AISA 26 tahun, tetapi Komisaris Utama Anton “ditekan Bapak Jaka Prasetya” untuk mencabut tanda tangan laporan 2017.</li></ul><p><br></p><ul class=\"ql-li\"><li style=\"list-style-type:none;\">Joko menuduh ada skenario “sangat jahat dan busuk” dari komisaris KKR untuk mengambil alih perusahaan. Meski direksi lama kabur, RUPS <em>tetap dilanjutkan oleh pemegang saham bersama komisaris</em>. <strong>Keputusan RUPST 27 Juli 2018:</strong> menolak LK 2017, <strong>memberhentikan seluruh anggota Direksi lama</strong>, dan menunjuk Dewan Komisaris untuk sementara mengurus perseroan. Setelah RUPS, kubu Joko bersikeras pergantian direksi ini ilegal dan menuduh “hostile takeover” secara terbuka ke media.</li></ul><p><br></p><ul class=\"ql-li\"><li ><strong>Agustus–September 2018 – Dualisme &amp; Gugatan Hukum:</strong> Pasca RUPST, terjadi <em>dualisme manajemen</em>. Komisaris (diketuai Anton A.) mengambil alih kendali interim, berniat menggelar RUPSLB untuk mengangkat direksi baru. Sementara Joko Mogoginta mengklaim dirinya masih Dirut sah secara hukum (karena perubahan direksi perlu disahkan Kemenkumham).</li></ul><p><br></p><ul class=\"ql-li\"><li style=\"list-style-type:none;\">Pada 20 Agustus 2018, <strong>Joko Mogoginta dan Budhi Istanto (mantan Direktur)</strong> mengajukan <strong>gugatan perdata No. 622/Pdt.G/2018/PN Jkt Sel</strong> terhadap Dewan Komisaris. Mereka menuduh para komisaris melakukan perbuatan melawan hukum dengan mengganti direksi tanpa prosedur semestinya. Joko cs meminta agar keputusan RUPST itu dibatalkan. Tak hanya gugatan perdata, kubu Joko juga melayangkan somasi dan ancaman pidana kepada komisaris yang memaksakan RUPSLB .</li></ul><p><br></p><ul class=\"ql-li\"><li style=\"list-style-type:none;\">Di sisi lain, Komisaris Jaka (KKR) membantah tudingan hostile takeover, menegaskan KKR tidak menambah saham dan hanya menjalankan hak sebagai investor untuk memperbaiki tata kelola. <strong>Komposisi Saham Berubah:</strong> Pada titik ini, kepemilikan pendiri merosot drastis. Per <strong>26 Juli 2018</strong>, pemegang saham &gt;5% AISA adalah: KKR (via Trophy) 9,09%, JP Morgan-Thornycroft 9,33%, Spruce/Morgan Stanley 6,52%, Primanex 5,38%, dan Fidelity Fund 7,98%.</li></ul><p><br></p><ul class=\"ql-li\"><li style=\"list-style-type:none;\"><strong>PT Tiga Pilar Corpora (entitas milik keluarga pendiri)</strong> sudah keluar dari daftar pemegang &gt;5% – terakhir menjual 213 juta saham pada 1 Juni 2018, menurunkan kepemilikannya dari 11,91% menjadi ~5,28% . Artinya, secara de facto kontrol beralih ke investor institusi (KKR, dsb), sementara founder kehilangan posisi mayoritas.</li></ul><p><br></p><ul class=\"ql-li\"><li><strong>22 Oktober 2018 – RUPSLB: Manajemen Baru dan Audit Forensik:</strong> Setelah melalui berbagai hambatan (termasuk gugatan Joko di PN Jaksel), kubu komisaris berhasil menyelenggarakan RUPS Luar Biasa pada 22 Oktober 2018. RUPSLB ini dihadiri 56% pemegang saham dan menghasilkan keputusan penting: <strong>mengangkat Hengky Koestanto sebagai Direktur Utama baru menggantikan Joko Mogoginta</strong>, serta mereformasi jajaran komisaris/direksi sesuai usulan investor.</li></ul><p><br></p><ul class=\"ql-li\"><li style=\"list-style-type:none;\">Hengky (cucu pendiri AISA dan sebelumnya Komisaris) dipilih karena dinilai memahami operasional dan memiliki integritas, serta mewakili keluarga pendiri yang mendukung perbaikan. Komposisi baru: Yulie Sudargo (Komisaris Utama Independen), Jaka Prasetya (Komisaris), Hengky Koestanto (Dirut), Charlie Tjendaga/Dungga (Direktur Independen), Michael Hadylaya (Sekretaris Perusahaan).</li></ul><p><br></p><ul class=\"ql-li\"><li style=\"list-style-type:none;\">RUPSLB juga menegaskan kembali keputusan RUPST Juli (pencopotan direksi lama) dan <strong>memberi mandat direksi baru melakukan audit investigasi (forensik)</strong> atas keuangan 2017. Kubu Joko tidak hadir dan tetap menyatakan RUPSLB ini “tidak sah” serta akan ditempuh proses hukum lanjutan.</li></ul><p><br></p><ul class=\"ql-li\"><li><strong>Desember 2018 – Penunjukan EY dan Investigasi Forensik:</strong> Sesuai mandat RUPSLB, pada Desember 2018 AISA menunjuk <strong>Ernst &amp; Young Indonesia (EY) – Forensic &amp; Integrity Services</strong> untuk melakukan <strong>Investigasi Berbasis Fakta</strong> atas laporan keuangan tahun fiskal 2017.</li></ul><p><br></p><ul class=\"ql-li\"><li style=\"list-style-type:none;\">Penunjukan auditor forensik ini dilaporkan ke OJK dan BEI, serta diumumkan dalam keterbukaan informasi di situs BEI. Meski menghadapi kendala (data terbatas di tangan manajemen baru, dan pihak tertentu menolak hadir memberi keterangan), EY berhasil mengumpulkan fakta-fakta penting.</li></ul><p><br></p><h4><strong class=\"ql-size-large\">2019: Temuan Audit Forensik &amp; Konsekuensi Hukum</strong></h4>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/aisa_data_05",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><ul class=\"ql-li\"><li><strong>25 Maret 2019 – Laporan Investigasi EY Rampung:</strong> EY menyerahkan laporan investigasi kepada manajemen baru AISA. Esoknya, 26 Maret 2019, <strong>AISA mempublikasikan laporan investigasi ini ke BEI</strong> tanpa revisi. Hasil audit forensik EY mengungkap <strong>banyak penyimpangan keuangan oleh manajemen lama pada 2017</strong>:</li></ul><p><br></p><ul class=\"ql-li\"><li class=\"ql-indent-1\"><strong>(1) <em>Pembukuan Ganda &amp; Overstated Financials:</em></strong> EY menemukan ada dua versi pembukuan – data internal berbeda jauh dari laporan yang diaudit. <strong>Aset dan pendapatan dibesar-besarkan secara fiktif.</strong> Terdapat indikasi overstatement sekitar <strong>Rp4 triliun</strong> pada akun <em>piutang usaha, persediaan, dan aset tetap</em> grup AISA. Juga <strong>penjualan 2017 dilebihkan Rp662 miliar dan EBITDA anak usaha food dilebihkan Rp329 miliar</strong> dari semestinya. Praktik “pembukuan eksternal” ini diduga dilakukan direksi lama. Tujuannya agar kinerja tampak bagus meski sebenarnya perusahaan mengalami kesulitan.</li></ul><p><br></p><ul class=\"ql-li\"><li class=\"ql-indent-1\"><strong>(2) <em>Penggelapan Dana ke Afiliasi:</em></strong> EY menemukan <strong>aliran dana mencurigakan Rp1,78 triliun</strong> dari Grup Tiga Pilar ke pihak terafiliasi manajemen lama selama 2017. Modusnya beragam – pencairan pinjaman bank atas nama AISA lalu dilarikan, pencairan deposito, transfer via rekening, hingga pembayaran beban/kewajiban entitas afiliasi oleh AISA. Dana ini diduga mengalir ke perusahaan-perusahaan yang terkait atau dimiliki oleh oknum manajemen lama.</li></ul><p><br></p><ul class=\"ql-li\"><li class=\"ql-indent-1\"><strong>(3) <em>Transaksi Afiliasi Tersembunyi:</em></strong> Manajemen lama <strong>tidak mengungkapkan secara wajar hubungan dan transaksi dengan pihak afiliasi</strong> dalam laporan keuangan, melanggar prinsip keterbukaan dan berpotensi melanggar aturan pasar modal . Dengan kata lain, ada <em>self-dealing</em> tersembunyi yang merugikan pemegang saham publik.</li></ul><p><br></p><ul class=\"ql-li\"><li><strong>Pasca-2019 – Kasus Hukum dan Restrukturisasi:</strong> Hasil audit forensik berujung ke ranah hukum. <strong>OJK menyampaikan temuan ini ke aparat penegak hukum.</strong> Pada 2020, Kejaksaan menetapkan <strong>Stefanus Joko Mogoginta (eks Dirut) dan Budhi Istanto (eks Direktur Keuangan)</strong> sebagai tersangka pidana pemalsuan laporan keuangan. Persidangan mereka berlangsung 2021.</li></ul><p><br></p><ul class=\"ql-li\"><li style=\"list-style-type:none;\">Dalam sidang terungkap detail rekayasa: Joko dan Budhi menggunakan 6 perusahaan distributor milik pribadi, mencatat piutangnya seolah piutang pihak ketiga, guna memalsukan penjualan 2016–2017. Seorang ahli menyebut kasus AISA ini murni <em>“human fraud”</em>. Rekayasa fundamental tersebut telah <strong>melambungkan harga saham AISA 2016–2017</strong> (naik dari Rp 840 - Rp2400 sebelum jatuh ke Rp 168) dan menipu banyak investor.</li></ul><p><br></p><ul class=\"ql-li\"><li style=\"list-style-type:none;\"><strong>Restrukturisasi &amp; Pergantian Pemilik:</strong> Di bawah manajemen baru Hengky Koestanto, AISA bernegosiasi ulang dengan kreditur untuk restrukturisasi utang. AISA juga mencari investor strategis baru. Upaya damai sempat ditawarkan Hengky kepada Joko: ia meminta Joko mengembalikan dana ~Rp541 miliar (hasil penjualan Golden Plantation 2016 plus bunganya, serta deposito Taro) yang diduga dilarikan, agar dipakai bayar utang.</li></ul><p><br></p><ul class=\"ql-li\"><li style=\"list-style-type:none;\">Namun tak ada hasil jelas, sehingga pilihan terbaik adalah masuknya pemodal baru. <strong>Tahun 2019–2020, Grup FKS (PT Pangan Sejahtera Investama)</strong> muncul sebagai penyelamat. Melalui skema <em>private placement</em> senilai Rp329 miliar pada 2020, <strong>Grup FKS resmi mengakuisisi mayoritas saham AISA</strong> . Setelah aksi korporasi ini, sekitar <strong>70% saham AISA dikuasai FKS Group</strong> (lewat PT Pangan Sejahtera Investama dan anak usahanya PT Asta Askara).</li></ul>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/aisa_data_06",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p class=\"ql-indent-1\">FKS kemudian mengubah nama emiten menjadi <em>PT FKS Food Sejahtera Tbk</em>. Dengan dukungan investor baru, utang berbunga AISA berhasil diturunkan drastis (tersisa ~Rp341 miliar pada 2020) . BEI akhirnya mencabut suspensi dan perdagangan saham AISA dibuka kembali pada September 2020 setelah hampir <strong>dua tahun disuspensi</strong> sejak Juli 2018 . Krisis yang melanda AISA sepanjang 2017–2018 pun berujung pada babak baru di bawah pemilik dan manajemen baru, dengan fokus bisnis kembali pada makanan konsumen (snack dan mi) tanpa divisi beras.</p><h3><br></h3><h4><strong>Profil FKS Food Sejahtera (pengendali baru AISA) &amp; Management</strong></h4><p>FKS Food Sejahtera Tbk (kode saham AISA) adalah entitas hasil akuisisi <strong>PT Tiga Pilar Sejahtera Food Tbk</strong> oleh <strong>FKS Group</strong>, konglomerat agribisnis Asia Tenggara. Grup FKS berfokus pada bidang pangan, logistik, infrastruktur, properti, dan agribisnis (termasuk gula, kedelai dan pupuk).</p><p><br></p><p>Anak usaha utamanya meliputi <strong>FKS Multi Agro, Tbk. (FISH)</strong> – distributor bahan pangan dan pakan ternak terbesar di Indonesia – serta unit-unit pangan konsumen di bawah FKS Food &amp; Agri. AISA bisa memanfaatkan kekuatan distribusi dan pasokan bahan baku grup FKS.</p><p><br></p><p>Misalnya, FKS Multi Agro memiliki jaringan distribusi nasional &gt;200 kota yang dapat mendukung penyaluran produk makanan AISA. Dengan demikian, ada sinergi vertikal: FKS Group memasok (bahan pangan, logistik) sementara AISA memproduksi makanan konsumen, sehingga bisnis keduanya saling melengkapi.</p><p><br></p><h4><strong>Peran FKS dalam restrukturisasi dan pemulihan AISA</strong></h4><p>Masuknya FKS Group (melalui entitas PSI – Pangan Sejahtera Investama) sebagai pemegang saham pengendali membawa sejumlah langkah restrukturisasi di AISA. Secara korporasi, AISA melakukan <strong>penambahan modal tanpa HMETD</strong> (rights issue) pada Maret 2020 untuk mendanai pembayaran PKPU, diikuti private placement pada Nov 2020.</p><p><br></p><p>Langkah ini menaikkan modal saham sehingga FKS Group menguasai mayoritas (awal 2021 mencapai ~57% ) dan menjadikan AISA secara resmi bagian dari keluarga besar FKS dan mengubah nama AISA dari Tiga Pilar Sejahtera Tbk. menjadi FKS Food Sejahtera, Tbk.</p><p><br></p><p>Strategi manajemen baru menekankan fokus pada produk inti yang menguntungkan. Bisnis AISA diperbaiki dengan mengoptimalkan jaringan distribusi yang sempat terpuruk (dari 205.000 outlet menjadi 54.000 pada 2019). FKS berencana merombak supply chain agar utilisasi pabrik meningkat. Arah produk disempurnakan pada segmen snack dan mi siap saji – seperti merek Taro, Mi Kremezz, Superior, Bihunku – serta mengembangkan inovasi produk baru.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/aisa_data_07",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Dengan lebih dari 30 tahun pengalaman lintas industri, <strong>Pak Gerry Mustika</strong> (Direktur Utama AISA) menghadirkan wawasan luas dan kepemimpinan strategis bagi AISA. Sebelum bergabung dengan FKS Food Sejahtera, beliau pernah menjabat sebagai Vice President di PT Green Asia Food Indonesia (bagian dari YILI International Group) serta Direktur Independen di <strong>PT Industri Jamu dan Farmasi Sido Muncul Tbk., di mana beliau memimpin unit Komersial, Penjualan, dan Distribusi.</strong></p><p><br></p><p>Pak Gerry juga memiliki latar belakang kuat di industri farmasi, pernah menjabat sebagai General Manager dan Country Head OTC di PT Aventis Pharma (Sanofi) Indonesia dan PT Boehringer Ingelheim Indonesia. Pengalamannya mencakup penugasan internasional di Jerman dan Thailand. Sebelum itu, beliau menghabiskan 14 tahun di sektor barang konsumsi (FMCG), bekerja untuk Unilever Indonesia dan PT Arnott’s Indonesia. Karier profesionalnya dimulai di bidang keuangan dan perbankan, termasuk posisi di PT Federal International Finance dan PT Bank Universal.</p><p><br></p><p>Di sisi lain, dengan pengalaman lebih dari 20 tahun di bidang keuangan, <strong>Ibu Sukawati Wijaya</strong> (Direktur AISA) telah berkontribusi di berbagai sektor industri. Ia pernah menjabat sebagai Finance Director di PT Asuransi Reliance Indonesia, PT Parazelsus Indonesia, dan CEVA Logistic, serta sebagai CFO untuk divisi bisnis tisu di Grup Asia Pulp &amp; Paper. Sebelum bergabung dengan FKS Food Sejahtera, <strong>Ibu Sukawati</strong> menjabat sebagai Vice President Finance di Eka Hospital.</p><p><br></p><p>Karier profesionalnya dimulai pada tahun 1995 sebagai External Auditor di kantor akuntan publik Hans Tuanakotta &amp; Mustofa (Deloitte). Ia kemudian berperan penting dalam transformasi keuangan perusahaan teknologi saat menjabat sebagai General Manager Finance di PT Integrasi Teknologi Tbk dan PT Anabatic Technologies Tbk.</p><p><br></p><p>Dalam paparan hasil 2024–2025, Direksi menyatakan strategi seperti perluasan distribusi, kampanye pemasaran yang agresif, dan R&amp;D produk intensif telah meningkatkan penjualan (kenaikan outlet aktif hingga 100.000 pada Q1-2025).</p><p><br></p><p>Dari sisi keuangan, FKS mendorong penyelesaian utang lama: obligasi 2013 dan sukuk ditunda pembayarannya (PKPU 2019 lalu damai) . Secara keseluruhan, setelah diambil alih, AISA (FKS FS) bergerak menuju model bisnis yang lebih sehat dengan tata kelola baru, efisiensi operasional, dan orientasi ekspansi (termasuk rencana ekspor ke China/Spanyol) .</p><h3><br></h3><p><br></p><h4><strong class=\"ql-size-huge\">Perubahan Strategis untuk Turnaround Bisnis</strong></h4><p>Manajemen AISA telah menerapkan berbagai langkah strategis untuk memulihkan dan mentransformasi bisnis yang sempat terpuruk. Pertama, <strong>efisiensi operasional dan manajemen biaya</strong> dijalankan secara ketat.</p><p><br></p><p>Melalui pengendalian beban produksi serta penataan ulang biaya, AISA mampu menurunkan meningkatkan marjin laba kotor (GPM naik dari ~30% ke ~37% dalam satu tahun).</p><p><br></p><p>Kedua, <strong>inovasi produk dan diversifikasi</strong> menjadi fokus untuk mengerek pertumbuhan. Perusahaan menegaskan akan terus berinovasi mengembangkan produk-produk utamanya serta menyiapkan portofolio produk baru untuk menyasar pasar di masa depan. AISA mempertahankan posisi di segmen makanan konsumen, khususnya <em>snack</em> (seperti merek <strong>Taro</strong> yang dikenal luas) dan makanan pokok (misal bihun instan <strong>Bihunku</strong>).</p><p><br></p><p>Strategi utama mereka kini berpusat pada peluncuran <strong>produk berukuran kecil dengan harga terjangkau</strong>, yang menyasar lapisan konsumen paling sensitif terhadap harga.</p><p><br></p><p>Salah satu contoh nyata keberhasilan strategi ini adalah <strong>Mocabe</strong>, snack makaroni pedas yang langsung mencatat penjualan <strong>Rp1 miliar per bulan</strong> hanya dalam tiga bulan sejak diluncurkan.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/aisa_data_08",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Tingkat distribusinya pun mencapai <strong>0,9% secara nasional</strong>, angka yang sangat tinggi untuk produk baru di tahap awal. Keberhasilan Mocabe ini tidak lepas dari pendekatan distribusi berbasis UMKM, warung, dan minimarket, serta positioning harga di kisaran Rp1.000–Rp2.000 per bungkus.</p><p><br></p><p>Selain Mocabe, AISA juga tengah mengembangkan <strong>pipeline produk snack dan biskuit tinggi energi</strong>, serta kategori baru seperti <strong>permen</strong>. Meski nama-nama mereknya belum diumumkan, produk-produk ini diperkirakan akan mulai dirilis secara bertahap mulai akhir 2025 hingga 2026.</p><p><br></p><p>Manajemen juga menyebut bahwa peluncuran produk selalu didahului dengan riset pasar mendalam, seperti FGD (Focus Group Discussion), untuk memastikan kecocokan dengan preferensi konsumen. Secara keseluruhan, arah inovasi AISA saat ini sangat jelas: <strong>masuk ke segmen value-for-money</strong>, menjangkau sebanyak mungkin konsumen lewat produk kecil, rasa lokal, dan distribusi yang padat di lapisan akar rumput.</p><h3><br></h3><h3><br></h3><h4><strong class=\"ql-size-huge\">Bagaimana AISA Memperbaiki Sistem Distribusinya?</strong></h4><p>Salah satu akar masalah AISA di masa lalu adalah distribusi yang tidak efisien, terlalu terpusat, dan banyak bergantung pada afiliasi. Setelah diambil alih oleh FKS Group, hal ini menjadi salah satu fokus utama yang dibenahi secara sistematis dan konkret.</p><p><br></p><p>Langkah pertama yang diambil manajemen adalah membangun sistem distribusi berbasis kinerja. Alih-alih hanya mengandalkan hubungan atau afiliasi, setiap distributor — baik pihak luar maupun afiliasi seperti FKS Pangan Nusantara — kini dievaluasi berdasarkan Key Performance Indicators (KPI) yang terukur.</p><p><br></p><p>Evaluasi dilakukan rutin setiap bulan dan kuartal, dengan indikator seperti pencapaian volume penjualan, margin kontribusi, dan kedisiplinan pembayaran. Jika target tidak tercapai, insentif langsung dicabut. Tidak ada toleransi, bahkan untuk distributor yang masih satu grup.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/aisa_data_09",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Selain reformasi sistem, AISA juga memperluas jalur distribusinya ke dua kanal utama: <strong>General Trade</strong> dan <strong>Modern Trade</strong>. Untuk General Trade, AISA mengoptimalkan jangkauan ke warung, toko kelontong, dan pasar tradisional. Sementara untuk Modern Trade seperti Alfamart, Indomaret, dan retail besar lainnya, koordinasi kini dilakukan langsung oleh manajemen AISA, bukan melalui perantara pihak ketiga. Ini membuat komunikasi dan eksekusi lebih cepat, serta <strong>menghindari lapisan biaya distribusi yang tidak perlu.</strong></p><p><br></p><p>Langkah berikutnya adalah memperluas cakupan distribusi — baik dari sisi jumlah outlet (numeric distribution), maupun kontribusi per outlet (weighted distribution). Di bawah strategi ini, distribusi AISA tidak lagi hanya terkonsentrasi di Jawa. Kini, produknya juga mulai terlihat di Sumatera, Kalimantan, Sulawesi, bahkan hingga Nusa Tenggara dan Papua.</p><p><br></p><p>Namun langkah yang paling konkret dan membumi adalah bagaimana AISA menyesuaikan produknya dengan struktur pasar. Mereka sadar bahwa mayoritas konsumen Indonesia sangat sensitif terhadap harga. Maka dari itu, AISA meluncurkan berbagai produk dengan kemasan kecil dan harga ritel di kisaran Rp1.000–2.000. Produk-produk ini dirancang khusus untuk bisa masuk ke warung, pedagang kaki lima, dan toko UMKM — <strong>segmen yang sebelumnya sulit dijangkau</strong> oleh produk AISA yang lebih premium.</p><p><br></p><p>AISA juga mulai memperkuat kanal digital: dari kehadiran di marketplace besar, hingga membangun kanal direct-to-consumer melalui FKS Mart. Tim distribusi internal diturunkan langsung ke lapangan untuk aktivasi brand dan menjangkau pedagang secara langsung, terutama untuk peluncuran produk baru seperti Mocabe.</p><h3><br></h3><h4><strong class=\"ql-size-huge\">✅&nbsp;Financials</strong></h4>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/aisa_data_10",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>AISA mengalami fase lonjakan total aset dari Rp 5 triliun menjadi Rp 9,2 triliun sejak tahun 2013 - 2016 (sebelum kasus). Lonjakan ini terutama berasal dari peningkatan tajam pada akun persediaan dan aset tetap.</p><p><br></p><p>Namun, pada 2018 terjadi penurunan drastis, total aset anjlok ke Rp 1,8 triliun. Ini mengindikasikan adanya write-off besar dampak langsung dari kasus yang menimpa perusahaan saat itu. Adanya penggelembungan piutang, persediaan dan aset tetap.</p><p><br></p><p>Pasca masuknya FKS pada 2019, struktur neraca AISA berubah drastis: lebih ramping, lebih efisien, dan terkontrol. Total aset bertumbuh stabil dari Rp 1,8 triliun menjadi Rp 2 triliun di Q1 2025, tanpa ada lonjakan ekstrem pada akun manapun. Kas tetap kecil dan proporsional, aset tetap stabil di kisaran Rp 1 triliun, dan persediaan tidak lagi mendominasi.</p><p><br></p><p>Dalam bisnis seperti AISA, <strong>kita harus perhatikan 3 hal:</strong></p><ul class=\"ql-li\"><li>Berapa lama piutang diterima jadi cash (day sales outstanding),</li><li>Berapa lama persediaan di gudang (days inventory), dan</li><li>Berapa lama bayar supplier (day payables).</li></ul>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/aisa_data_11",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><strong>Sebelum 2018, AISA sangat boros modal kerja.</strong> Pada puncaknya di 2017, cash conversion cycle (CCC) mencapai <strong>476 hari</strong>—artinya butuh waktu lebih dari <strong>15 bulan</strong> untuk mengubah barang jadi kas. Ini sangat tidak efisien dan menjadi salah satu <strong>indikasi utama ada yang aneh.</strong> Bisnisnya jualan snack dan bihun, kok lama banget muter modal kerjanya? Ini mah bukan fast moving consumer goods, melainkan slow moving consumer goods.</p><p><br></p><p>Masalah utamanya ada di dua titik:</p><p>Pertama, <strong>Days Inventory Outstanding</strong> (DIO) melonjak drastis ke <strong>283 hari (2017)</strong>, menunjukkan barang menumpuk terlalu lama di gudang.</p><p><br></p><p>Kedua, <strong>Days Sales Outstanding</strong> (DSO) juga tinggi, <strong>269 hari</strong> di 2017, artinya penagihan ke customer sangat lambat.</p><p><br></p><p>Namun setelah restrukturisasi dan masuknya FKS, semua metrik ini membaik secara signifikan. DSO kini berada di kisaran <strong>56 hari</strong>, DIO konsisten di bawah <strong>40 hari</strong>, dan DPO (payables) ditingkatkan ke level sehat di atas <strong>50 hari</strong>.</p><p><br></p><p>Alhasil, CCC AISA sekarang sangat efisien, bahkan sempat negatif, dan kini stabil di <strong>sekitar 30 hari</strong> per Q1 2025. Ini artinya AISA bisa memutar modal kerja hampir setiap bulan—jauh lebih sehat dibanding kondisi sebelum 2018.</p><p><br></p><p>Kita coba bandingkan berbagai metriks inventory ini dengan emiten consumer lainnya:</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/aisa_data_12",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Ternyata inventory dan account receivables (piutang) AISA cukup cepat perputarannya dibandingkan yang lain. Rata - rata siklus perputaran cash (cash conversion cycle, jarak antara pembayaran ke supplier dengan cash diterima dari pelanggan) di kisaran hanya 31 hari.</p><p><br></p><p>Angka ini jauh lebih rendah dari emiten consumer goods lainnya. Intinya, kalau AISA mampu menjaga CCC tetap di sekitar 31 hari, kami melihat bahwa AISA seharusnya tidak akan menghadapi cash flow problems meskipun NPM hanya di 7.26%. Perputarannya cukup cepat.</p><p><br></p><p>Jika kita melihat lebih detail akun piutang usaha, terdapat saldo penyisihan penurunan nilai sebesar Rp 123 miliar dari Rp 200 miliar piutang pihak ketiga. Apakah ini artinya lebih kurang setengah dari piutang itu usaha macet?</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/aisa_data_13",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Tidak juga, keliatannya yang saya berikan highlight merah nilainya hampir Rp 123 miliar. Dan apabila kita cek akun piutang di tahun sebelum 2020, terdapat piutang ke semua perusahaan yang saya highlight merah tersebut. Intinya, yang saya highlight warna merah merupakan warisan piutang macet di masa lampau. <strong>Jadi tidak fair</strong> kalo kita menganggap bahwa management sekarang piutangnya tetap macet.</p><p><br></p><p>Sedangkan yang saya highlight warna kuning adalah piutang pihak ketiga yang tidak terdapat di LK AISA sebelum 2020. Artinya ini adalah piutang usaha baru di bawah management baru. Dan apabila di total nilainya juga sekitar Rp 77 miliar. Jadi, kita pikir dari sini sebenarnya no issue, hanya ada warisan piutang lama dari kasus sebelumnya.</p><p><br></p><p>Bagaimana dengan piutang ke pihak berelasi yang sebesar Rp 235.7 miliar?</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/aisa_data_14",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Piutang tersebut sebagian besar ke PT FKS Pangan Nusantara yang merupakan distributor berbagai produk FKS Group. FKS Pangan Nusantara dimiliki 99.9% oleh FISH (FKS Multi Agro, Tbk.)</p><p><br></p><p>Dari sini terlihat bahwa AISA mendistribusikan produknya kepada FKS Pangan Nusantara. Apakah kita perlu concern soal ini?</p><p><br></p><p>Tidak terlalu, tapi tetap perlu kita pantau. Total penjualan AISA adalah Rp 481 miliar per 3M 2025 dan penjualan ke pihak berelasinya Rp 361 miliar (75%). Dengan DSO di 56 hari, kita melihat bahwa ini adalah wajar - wajar saja.</p><p><br></p><p>Bagaimana dengan potensi penjualan dengan harga lebih murah? Tidak juga. GPM masih cukup tebal di 39% per 3M 2025. So, dari sini kita melihat bahwa meskipun penjualannya dilakukan ke pihak berelasi, tidak ada indikasi penyelewengan yang merugikan pemegang saham minoritas.</p><p><br></p><p><br></p><h4><strong class=\"ql-size-huge\"><em>Cash Flow</em></strong></h4>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/aisa_data_15",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Grafik di atas menggambarkan <strong>arah alokasi modal dan sumber pendanaan AISA selama 2008–2024</strong>, dan sangat membantu menjelaskan dinamika besar yang sebelumnya terlihat di neraca.</p><p><br></p><p>Secara garis besar, terlihat ada <strong>dua era berbeda</strong>: era agresif (2008–2019) dan era restrukturisasi + pemulihan (2020–2024).</p><p><br></p><p><strong><span class=\"ql-cursor\">﻿</span>Pada periode 2008–2019</strong>, AISA sangat agresif dalam membelanjakan cash nya. Ini tercermin dari:</p><ul class=\"ql-li\"><li><strong>Capex sangat besar</strong> tiap tahun, terutama 2015–2016 yang masing-masing mencapai <strong>Rp 907 miliar dan Rp 604 miliar</strong>. Padahal arus kas operasi baru Rp 374 miliar dan Rp 719 miliar. Hampir semuanya digunakan untuk capex.</li><li>Disertai dengan <strong>akuisisi besar t</strong>ahun:</li><li class=\"ql-indent-1\">2008 → akuisisi PT Poly Meditra Indonesia (merk Gulas), PT Patra Power Nusantara (pembangkit listrik utk pabrik TPS Food), dan PT Bumiraya Investindo (perkebunan kelapa sawit)</li><li class=\"ql-indent-1\">2010 → Akuisisi PT Dunia Pangan (bisnis beras yang tahun 2018 bermasalah). Setelah akuisisi ini, 58% pendapatan AISA dari bisnis beras.</li><li class=\"ql-indent-1\">2011 → Akuisisi merk Taro dari UNVR</li><li class=\"ql-indent-1\">2012 → Akuisisi PT Subafood Pangan Jaya (produsen bihun jagung)</li><li>Serta <strong>penerbitan saham baru</strong> dalam jumlah besar pada 2011 dan 2014.</li><li>Di sisi pendanaan, mereka lebih <strong>mengandalkan utang dan rights issue</strong>.</li><li>Arus kas operasional memang naik terus di periode ini, namun hampir semua kas yang dihasilkan tersebut untuk capex. Sesuatu yang unusual untuk bisnis consumer goods.</li></ul><p><br></p><p><strong>Pasca 2020 (era FKS Group masuk)</strong>, terlihat pendekatan yang jauh lebih konservatif:</p><ul class=\"ql-li\"><li><strong>Tidak ada rights issue/private placement lagi</strong>, kecuali 2020 untuk restrukturisasi besar-besaran dimana FKS menyetorkan tambahan modal Rp 1.2 T untuk membereskan utang AISA.</li><li><strong>Capex diturunkan drastis</strong>, hanya berkisar Rp 50–85 miliar per tahun.</li><li>Utang juga lebih terkendali, tidak ada tambahan utang signifikan pasca-2019.</li><li>Yang paling penting: <strong>arus kas operasional menjadi sumber utama pembiayaan</strong>, dan mulai konsisten positif sejak 2020 (terakhir Rp 272 miliar di 2024).</li></ul><p><br></p><p>Ini menandakan model bisnisnya kini jauh lebih sehat dan mandiri. Perusahaan membiayai operasional dan capex dari cash flow sendiri, bukan dari utang atau penerbitan saham baru.</p><h3><br></h3><h4><strong class=\"ql-size-huge\">Tantangan dan Risiko Utama</strong></h4>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/aisa_data_16",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Meski kemajuan AISA cukup pesat, perusahaan masih menghadapi sejumlah tantangan dan risiko yang perlu dicermati investor. <strong>Pertama</strong>, beban sejarah kerugian masih menghantui neraca. AISA masih memiliki akumulasi defisit saldo laba di ekuitas sekitar Rp2,8 triliun akibat kerugian besar masa lalu.</p><p><br></p><p>Konsekuensinya, meskipun kini sudah kembali laba, <strong>perusahaan belum dapat membagikan dividen</strong> hingga defisit tersebut tertutupi. Butuh beberapa tahun laba konsisten agar saldo laba positif kembali.</p><p><br></p><p><strong>Kedua</strong>, Risiko likuiditas jangka pendek juga perlu diperhatikan – per 3M 2025, kas setara kas AISA hanya Rp 96 miliar, relatif kecil dibanding short term debt yang mencapai Rp123 miliar. Namun management memaparkan bahwa akhir Q1 2025 yang bertepatan dengan libur lebaran membuat penagihan sedikit tertunda. Menurut kita, ini masih fine dan seharusnya akan kembali normal di Q2.</p><p><br></p><p><strong>Ketiga</strong>, AISA menghadapi <strong>persaingan ketat</strong> di industri makanan konsumen. Sebagai produsen makanan ringan dan bahan pokok, AISA bersaing dengan pemain besar mapan seperti Indofood (ICBP), Mayora, Wings, dan lainnya yang memiliki sumber daya dan branding kuat. Produk-produk AISA (seperti snack <strong>Taro</strong>, bihun instan, beras kemasan, dll) harus terus berinovasi untuk mempertahankan pangsa pasar. Risiko persaingan ini dapat menekan margin jika terjadi perang harga atau membutuhkan belanja iklan besar untuk menjaga awareness dari brand.</p><h3><br></h3><h3><br></h3><h4><strong class=\"ql-size-huge\">Valuasi Saham dan Prospek ke Depan</strong></h4><p>Dari sudut pandang valuasi, saham AISA saat ini tergolong murah relatif terhadap kinerja terkininya. Dengan EPS 2025 Rp15 dan harga saham sekitar Rp 145-an, <strong>PER</strong> AISA ~10×.</p><p><br></p><p>Jika melirik emiten yang menjual snack yang lain seperti misalnya STTP yang mampu menghasilkan GPM/OPM/NPM sebesar 31.13% / 22.64% / 23.9%, kita tentu berharap management AISA juga mampu mengefisienkan operasionalnya.</p><p><br></p><p>AISA sendiri per 3M 2025 sudah mampu menghasilkan GPM/OPM/NPM sebesar 38.98% / 10.03% / 7.26%. Artinya hanya tinggal mengefisienkan operasional karena jarak dari GPM ke NPM selisih 18%. Kalaupun AISA hanya mampu menaikkan NPM ke 15% saja, ini pun kinerja AISA sudah bisa naik 2x lipat kan.</p><p><br></p><p>Jika melihat yang sedang dilakukan oleh management dan track record dari pekerjaan management sebelumnya, kelihatannya AISA berpeluang besar untuk bertumbuh.</p><p><br></p><p>Room to grow dari margin expansion (perbaikan margin), penambahan produk baru hingga perbaikan sistem distribusi bisa membuat penjualan dan laba AISA bertumbuh.</p><p><br></p><p>Menurut kita, perkembangan AISA sangat menarik untuk diikuti apalagi jika AISA mampu tumbuh dengan signifikan.</p><p><br></p><p>Katakanlah AISA mampu menaikkan revenue 2x lipat dari ~Rp 2 T menjadi Rp 4 T dan margin mampu di kisaran 15%, maka laba bersih di Rp 600 miliar. Jika itu terjadi, AISA mungkin sudah jadi perusahaan yang jauh lebih baik dan stabil. Pasar mungkin bisa menghargai AISA di PE 12 - 15x.</p><p><br></p><p>Jadi harga wajarnya Rp 7.2 T - 9 T.</p><p><br></p><p>Wah kalo gitu, cuan banyak dong beli AISA di sekarang yang market caps cuma sekitar Rp 1 T?</p><p><br></p><p>Ya, kalo perkiraan kita benar. Dan berapa lama AISA bisa jadi sebagus itu. 5 tahun? 10 tahun? Let say 5 tahun, sabar nunggu ga?</p><p><br></p><p>Tentu ini pertanyaan yang hanya bisa dijawab oleh Anda sendiri. Dan kita tidak bisa langsung long shot, tentu harus dipantau dari kuartal demi kuartal apakah perkembangannya sesuai dengan yang kita harapkan.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "disclaimer",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <i><b>Disclaimer: Artikel analisa ini bukanlah merupakan sebuah rekomendasi ataupun ajakan untuk jual atau beli saham tertentu. \nArtikel ini hanya untuk kepentingan edukasi dan informasi saja. \nSegala data yang disajikan bersumber dari publikasi yang disampaikan kepada publik melalui Annual Report, \nPublic Expose ataupun Laporan Keuangan emiten.</i></b>\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      }
+    ],
+    "is_show_header": 1,
+    "header_type": "with_menu",
+    "is_show_footer": 1,
+    "footer_type": "with_menu",
+    "visibility": "membership_and_portofolio;membership;fbjarvis;spesial;",
+    "created_at": "2025-07-15T07:46:09.000000Z",
+    "updated_at": "2025-07-15T07:46:09.000000Z",
+    "deleted_at": null,
+    "created_by": {
+      "id": 2,
+      "fullname": "Midas Super Admin",
+      "email": "admin@midascuan.id",
+      "role": "superadmin",
+      "has_link_product": 0,
+      "ip_address": null,
+      "last_login_ip": null,
+      "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+      "member_active_roles": [
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ],
+      "member_roles": [
+        {
+          "id": 109970,
+          "user_id": 2,
+          "role_id": 1,
+          "expired_date": "2025-02-27 00:45:00",
+          "created_at": "2023-05-25T18:59:06.000000Z",
+          "updated_at": "2025-02-20T15:45:14.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 1,
+            "title": "Portofolio",
+            "role": "portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:07:38.000000Z",
+            "updated_at": "2024-08-16T09:56:18.000000Z"
+          }
+        },
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ]
+    },
+    "updated_by": null,
+    "deleted_by": null
+  },
+  "changes": 0
+}

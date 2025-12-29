@@ -1,0 +1,1689 @@
+{
+  "id": 66,
+  "page_id": 107,
+  "image_url": "https://api.midascuan.id/storage/resources/untr_logo.webp",
+  "code": "UNTR",
+  "buy_price": 0,
+  "current_price": 0,
+  "valuation": 0,
+  "margin_of_safety": 0,
+  "created_at": "2023-12-18T09:28:50.000000Z",
+  "updated_at": "2025-12-29T07:00:05.000000Z",
+  "status": "published",
+  "created_by": {
+    "id": 2,
+    "fullname": "Midas Super Admin",
+    "email": "admin@midascuan.id",
+    "role": "superadmin",
+    "has_link_product": 0,
+    "ip_address": null,
+    "last_login_ip": null,
+    "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+    "member_active_roles": [
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ],
+    "member_roles": [
+      {
+        "id": 109970,
+        "user_id": 2,
+        "role_id": 1,
+        "expired_date": "2025-02-27 00:45:00",
+        "created_at": "2023-05-25T18:59:06.000000Z",
+        "updated_at": "2025-02-20T15:45:14.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 1,
+          "title": "Portofolio",
+          "role": "portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:07:38.000000Z",
+          "updated_at": "2024-08-16T09:56:18.000000Z"
+        }
+      },
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ]
+  },
+  "updated_by": null,
+  "deleted_at": null,
+  "deleted_by": null,
+  "page": {
+    "id": 107,
+    "title": "UNTR: Sektor Batubara & Energy",
+    "slug": "untr-sektor-batubara-&-energy",
+    "type": "analysis",
+    "status": "published",
+    "content_html": "\"\"",
+    "content_json": [
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        UNTR: Sektor Batubara & Energy\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "post-detail",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 flex flex-col md:flex-row justify-center gap-2 mt-1 mb-1 border-t border-b-2 border-black p-1\">\n        <p class=\"my-auto\">\n            <i class=\"fa fa-user-circle my-auto\"></i> \n\tFelix  Haridinata\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-calendar my-auto\"></i> \n\tDesember 18, 2023\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-tags my-auto\"></i> \n\tUNTR\n        </p>\n\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 20,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Cukup banyak yang minta dibahas sektor energi terutama batubara. Setelah memahami bisnis batubara, sebenarnya at the end dapat kita simpulkan bahwa bisnis ini cukup sederhana. Cuma memang ketika awal mempelajarinya tanpa pengetahuan apapun akan cukup challenging.\n<br /><br />\nThat’s why kita memilih saham UNTR untuk dibahas, selain karena request dari member juga. Karena UNTR ini memiliki beberapa divisi bisnis yang langsung bersinggungan dengan seluruh value chain dari bisnis pertambangan.\n<br /><br />\nDalam proses menambang batubara atau apapun itu, pemilik tambang biasanya akan hire kontraktor tambang untuk memetakan, merancang dan mencari dimana titik titik yang optimal untuk dikerjakan. UNTR memiliki kontraktor tambang terbesar di Indonesia, yaitu Pamapersada.\n<br /><br />\nKontraktor setelah memetakan lokasi tambang kemudian akan menyusun rencana dan menghitung berapa banyak alat berat yang dibutuhkan untuk mengerjakan proyek itu. UNTR juga merupakan distributor tunggal alat berat Komatsu yang tentu saja di supply ke Pamapersada.\n<br /><br />\nBukan hanya di kontraktor dan alat berat, UNTR juga terjun langsung memiliki tambang batubara  dan juga tambang emas martabe di Sumatera Utara. \n<br /><br />\nApalagi, valuasi UNTR sekarang cukup menarik bahkan dengan hitungan worst case sekalipun. Nah sebelum ke UNTR, kita bahas dulu tentang batubara.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Why still use Coal?\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Mengapa sih harus pake batubara? Kan ini energi yang kotor.\n<br /><br />\nEmangnya ga ada alternatif lain? \n<br /><br />\nPertama kita harus lihat dulu batubara ini digunakan untuk tujuan apa.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_01.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Ratusan juta ton demand batubara adalah untuk kebutuhan listrik. Kebutuhan untuk metalurgi 11 juta ton. Batubara yang digunakan untuk metalurgi juga memiliki carbon content yang lebih besar dan kalori yang lebih besar, >7000kcal/kg.\n<br /><br />\nJika mostly digunakan untuk listrik, apakah untuk memproduksi listrik paling efisien pakai batubara? atau sumber yang lain?\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_02.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Nah secara konsep, energi listrik dihasilkan dari energi lain dan dalam kasus ini adalah energi kinetik dari turbin yang berputar. Nah untuk membuat si turbin berputar kita menggunakan uap panas. Bayangkan ketika Anda masak air memakai panci, air yang mendidih mendorong tutup panci. Jika Anda membuat sebuah kincir angin kecil di atasnya, maka kincir angin itu akan berputar.\n<br /><br />\nJadi yang kita butuhkan itu adalah uap yang naik dan memutar turbin. Dalam case PLTU, batubara digunakan sebagai bahan bakar untuk memanaskan air tersebut. Nah untuk memanaskan air bisa menggunakan berbagai macam bahan bakar, kan? Bisa pakai gas, nuklir, minyak dan sejenisnya.\n<br /><br />\nLalu dalam case energi terbarukan, memutar turbin tidak menggunakan uap, melainkan tenaga dari air dan angin misalnya. Seperti pada gambar di bawah, dengan membangun bendungan dan membuat aliran air mengalir dari atas ke bawah sudah bisa membuat air mengalir dan  memutar turbin dan menghasilkan listrik.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_03.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Masalah utama energi terbarukan sekarang adalah mereka belum terlalu reliable. Tidak semua tempat memiliki arus air yang deras dan biasanya titik titik yang baik justru ada di pedalaman. Kita belum memperhitungkan logistical nightmare untuk membangun fasilitas bendungan di tempat yang sangat terpencil. \n<br /><br />\nBelum lagi kalau misalnya musim kemarau datang dan membuat level air menjadi surut. Berkurangnya debit air tentu mengurangi jumlah listrik yang mampu dihasilkan dari air kan. China juga dalam beberapa tahun terakhir menghadapi masalah yang sama dimana sungai - sungai mereka kering karena kemarau. \n<br /><br />\nSekarang mari kita lihat breakdown kapasitas pembangkit listrik yang dimiliki oleh PLN kita:\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_04.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Kapasitas per tahun: 394 miliar kwh (45ribu MW x 24h x 265 hari)\n<br /><br />\nKonsumsi: 316 miliar kwh \n<br /><br />\nBagaimana dengan konsumsi bahan bakar yang dibutuhkan oleh PLN? Berikut breakdown nya:\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_05.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Laporan di atas kita ambil dari laporan statistik PLN 2022. Dapat kita lihat bahwa pemakaian bahan bakar batubara ternyata tidak turun, malah terus naik dari tahun ke tahun kan? Yang turun adalah pemakaian bahan bakar minyak dari 7 jutaan kilo liter di 2014 menjadi hanya 3 juta kilo liter. \n<br /><br />\nPemakaian batubara naik 2x lipat dalam 9 tahun terakhir. Pemakaian gas juga turun, akan tetapi pemakaian biomass naik cukup besar juga (maybe bisa jadi next idea untuk kita cari saham yang produksi biomass).\n<br /><br />\nKenapa sih memakai coal? Bagaimana perbandingannya dengan sumber energi yang lain? \n<br /><br />\nNah kita harus memahami the power of incentives. Kenapa seseorang (atau instansi) melakukan sesuatu. Kita melakukan sesuatu biasanya karena mendapatkan reward tertentu, tentu tidak ada yang mau kerja gratis kan?\n<br /><br />\nInsentif dari pemakaian coal menurut saya terletak pada costnya. Coba kita bandingkan beberapa cost dari berbagai jenis pembangkit.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_06.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t PLTU memiliki total cost Rp 737/kwh yang mana komponen terbesar dari cost adalah bahan bakar Rp 558/kwh. Sedangkan komponen penyusutan aset hanya Rp 108/kwh. Insight yang bisa kita ambil adalah PLTU <b>lebih banyak opex ketimbang capex.</b>\n<br /><br />\nBandingkan misalnya dengan PLTA, meskipun bahan bakarnya jauh lebih sedikit, tapi komponen penyusutan asetnya lebih besar dari PLTU. So untuk membangun PLTA, membutuhkan investasi di awal yang lebih besar. Begitu juga PLTS yang komponen penyusutan asetnya sampai Rp 721/kwh. PLTG saja Rp 187/kwh.\n<br /><br />\nEfeknya adalah investasi untuk <b>membangun PLTU sebenarnya lebih cepat balik modal</b> ketimbang pembangkit listrik jenis lain. Karena komponen terbesar cost PLTU adalah bahan bakar yang  merupakan opex, <b>jadi cost nya sambil berjalan, bukan di awal.</b>\n<br /><br />\nPLTS, PLTA membutuhkan investasi yang sangat besar di awal dengan output yang belum bisa se-reliable PLTU. Kalau Anda jadi mereka, mana yang Anda akan lakukan?  \n<br /><br />\nPLTP mungkin masih jauh lebih murah dibanding PLTU, akan tetapi tidak semua site ada potensi geothermalnya kan? So PLTU ini murah dan reliable, memakai batubara itu murah dan reliable dengan payback period yang lebih cepat.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Spesifikasi dan Bisnis Proses Tambang Batubara\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Pertama kita lihat dulu jenis - jenis batubara. Ada banyak sekali istilah - istilah batubara yang sebenarnya memiliki makna yang sama saja. \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_07.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "bullet",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p> <br />\nBerdasarkan fisiknya, batubara dibagi menjadi 4:\n          <ol style=\"list-style-type: circle;padding-left:50px\">\n            <li> \n          Antrachite\n            </li>\n            <li> \n          Bituminous\n            </li>\n            <li> \n          Sub-bituminous\n            </li>\n            <li> \n          Lignite\n            </li>\n          </ol>\n<br />\nIstilah lain (seperti bisa dilihat pada tabel) untuk antrachite adalah coking coal dan antrachite memiliki kalori >7000/kg. Antrachite dan Bituminous digunakan untuk metalurgi (metalurgical coal).\n<br /><br />\nDalam proses pembuatan baja, bijih besi dipanaskan hingga 1700 derajat celcius dan kemudian dicampur dengan coking coal atau metalurgical coal (ya sudah tahu lah ya ini maksudnya antrachite). Pencampuran besi dengan karbon dari batubara menjadi baja yang kuat. \n<br /><br />\nEmiten di BEI yang menghasilkan metalurgical coal atau coking coal contohnya ADMR dan UNTR. \n<br /><br />\nLalu untuk batubara yang kalorinya <7000 disebut juga batubara thermal karena fungsinya digunakan untuk bahan bakar pembangkit listrik. Bituminous, Sub-bituminous dan Lignite masuk di dalam kategori ini. \n<br /><br />\nSemakin rendah kadar kalori batubara, semakin murah juga harganya. Batubara seperti antrachite misalnya memiliki kadar karbon yang jauh lebih besar dan kadar total moisture yang rendah. Bandingkan misalnya dengan batubara lignite yang kadar moisturenya bisa >40%. \n<br /><br />\nUntuk mengecek kadar moisture, biasanya akan ditimbang dulu beratnya lalu dibakar di titik didih air 100 derajat celcius. Dengan begitu air akan menguap, setelahnya baru ditimbang kembali. Misalnya berat sebelumnya 1 kg, setelah dipanaskan di 100 derajat celcius berat jadi susut menjadi 0.6 kg, berarti kadar moisture adalah 40%.\n<br /><br />\nLalu, mengapa kadar karbon dan moisture batubara bisa berbeda - beda?\n<br /><br />\nSemua ini karena proses sedimentasi yang berlangsung. Batubara sebenarnya merupakan fosil dari tumbuh - tumbuhan dari berjuta - juta tahun lalu. Dan biasanya cekungan dengan sumberdaya batubara dibentuk dari tanah gambut dan rawa yang memiliki banyak tumbuhan. \n<br /><br />\nSeiring berjalannya waktu, dengan adanya tekanan dan panas, tumbuhan yang mati itu kemudian memadat dan menjadi brown coal. \n<br /><br />\nApabila diberi waktu lebih lama lagi (mungkin entah berapa juta tahun lagi), brown coal (atau lignite) ini akan menjadi lebih padat, moisturenya berkurang dan menjadi black coal (antrachite, bituminous dan sub-bituminous).\n\t  </p><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_08.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Nah di Indonesia sendiri, beberapa lokasi yang berlimpah batubaranya ada di Kalimantan dan Sumatera Selatan. Sehingga berbagai provinsi - provinsi di Kalimantan juga menjadi top producer untuk batubara di Indonesia. \n<br /><br />\nKarena di Kalimantan Timur, Kalimantan Selatan dan Kalimantan Utara banyak tambang batubara, maka banyak pula terminal - terminal batubara di sana.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_09.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Terminal batubara digunakan untuk aktivitas bongkat muat batubara yang bisa dikirimkan ke luar negeri ataupun pasar domestik untuk PLN di Jawa. \n<br /><br />\nLebih kurang proses dari pit hingga dikirimkan ke terminal batubara adalah sebagai berikut:\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_10.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Di Kalimantan, transportasi batubara banyak memanfaatkan sungai Barito dan sungai Mahakam. Disinilah kapal - kapal tongkang bersandar untuk mengangkut batubara menuju ke terminal atau floating loading facility yang lebih besar. \n<br /><br />\nBatubara kemudian dipindahkan dari terminal ke motor vessel untuk kemudian dikirim ke pelabuhan tujuan. Beberapa emiten yang terlibat dalam proses transportasi batubara bisa Anda lihat pada gambar di atas. \n<br /><br />\nSebenarnya beberapa emiten tambang juga mengoperasikan unit transportasi dan portnya sendiri juga. Jadi tidak menutup kemungkinan bahwa beberapa kode saham di atas bisa lebih banyak ya. \n<br /><br />\n<b>Lalu bagaimana menghitung harga batubara?</b> Lihat indeks apa?\n<br /><br />\nIni juga salah satu pertanyaan yang cukup sering ditanyakan. \n<br /><br />\nBiasanya harga batubara dihitung dengan skema <i>free on board</i> (FOB). Maksudnya harga dihitung dari batubara sampai ke atas kapal. Jadi dalam infografis “coal shipping” di atas, berarti sampai batubara mencapai motor vessel.\n<br /><br />\nJadi segala cost dari tambang - stockpile - tongkang - terminal atau FLF menjadi tanggung jawab pemilik tambang. Makanya tidak heran bahwa beberapa emiten tambang juga memiliki fasilitas pengangkutannya sendiri, tujuannya untuk meminimalisir cost. \n<br /><br />\nDi Indonesia sendiri kita kenal ada namanya Indonesia Coal Index (ICI), ICI ini pun terbagi lagi menjadi 5 sesuai dengan GAR nya. GAR adalah singkatan dari Gross As Received yang artinya menghitung kalori batubara secara gross. ICI ini pun harganya sudah FOB ya.\n<br /><br />\nSeperti yang kita bahas di awal artikel bahwa batubara memiliki kandungan dari berbagai zat lain yang ketika di nett kan kalorinya tidak sebesar awalnya. Kita tidak perlu sampai terlalu teknis menghitungnya karena sudah dihitungkan sesuai spek berikut:\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_11.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Jadi, ketika Anda membeli saham tambang batubara Anda cek dulu batubara yang dimilikinya merupakan GAR berapa? Jadi Anda bisa tahu akan lihat ICI yang mana. Misalnya contoh ABMM memiliki tambang TIA, Mifa dan BEL. Tambang TIA memiliki GAR 4200, maka kita perlu cek ICI 4, sedangkan Mifa dan BEL GAR 3400 kita perlu cek ICI 5. \n<br /><br />\nKita ambil contoh lainnya pada saham ITMG:\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_12.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Nah jadi tidak menutup kemungkinan bahwa satu grup bisa memiliki berbagai tambang yang GAR nya berbeda. Tinggal kita lihat tambangnya masing - masing. \n<br /><br />\nDengan mengtahui jenis batubara berdasarkan GAR nya, kita bisa melihat indeks yang sesuai.\n<br /><br />\nKementerian ESDM melalui surat edaran no 2637/32/DJB/2009 tentang Penetapan Harga Batubara Acuan (HBA) menggunakan rata - rata dari empat indeks, yaitu Indonesia Coal Index (ICI), Platts Benchmark Price, Newcastle Export Index dan Global Coal Newcastle Index.\n<br /><br />\nFormulanya HBA = 25% ICI + 25% Platt’s + 25% NEX + 25% GCNC.\n<br /><br />\nDan berdasarkan regulasi terakhir, HBA disusun 70% dari harga rata - rata minggu ke 2 dan ke 3 dari bulan lalu dan 30% dari rata - rata harga minggu pertama bulan lalu dan minggu keempat 2 bulan sebelumnya.\n<br /><br />\nKira - kira begini, misalnya kita di bulan december 2023 ya, maka HBA nya sebagai berikut perhitungannya.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_13.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 40,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Apakah ini artinya kita harus hitung sendiri semua harganya? Saya pikir tidak, Anda bisa cek saja ICI nya. Intinya, HBA sekarang memiliki weighting yang lebih berat terhadap harga yang terjadi di minggu 2 dan 3 bulan sebelumnya. \n<br /><br />\nJadi kalau tiap bulan Anda lihat bahwa minggu 2 dan 3 harganya drop, maka kemungkinan besar juga ASP bulan depannya akan drop. Anda ga perlu precise, yang penting tahu dikisaran berapa.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Proses Penambangan Batubara\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Lalu dalam proses penambangan ada terdapat 2 metode yaitu penambangan terbuka dan penambangan bawah tanah:\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_14.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Masing - masing tentu memiliki berbagai poin plus minusnya. Penambangan terbuka biasanya dilakukan apabila cadangan batubara masih cukup dekat dengan permukaan tanah. Sehingga penambangan terbuka masih cukup ekonomis untuk dilakukan. \n<br /><br />\nKarena dalam proses penambangan batubara, pemilik tambang akan hire kontraktor tambang untuk menggali. Apabila galian nya banyak tentu cost penambangan yang dibebankan kontraktor ke pemilik tambang juga meningkat. \n<br /><br />\nNamun, apabila cadangan batubara atau mineral berada jauh di dalam permukaan tanah dan untuk mengambilnya membutuhkan pengerukan yang jauh lebih banyak dari biasanya, maka pemilik tambang mungkin akan memilih penambangan bawah tanah. <b>Di Indonesia sendiri, mostly tambangnya adalah tambang terbuka.</b>\n<br /><br />\nPada tambang terbuka pun sebenarnya masih terbagi menjadi beberapa metode lagi. Umumnya dalam penambangan batubara yang depositnya dekat dengan permukaan tanah digunakan metode <b>strip mining.</b>\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_15.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 35,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Supaya artikel ini tidak terlalu panjang, mungkin kita akan bahas lebih detail metode penambangan di artikel analisa saham batubara lainnya ya.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Alat Berat \n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 22,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Tentu alat berat yang digunakan akan beda untuk tambang terbuka dan tambang bawah tanah. Karena kita mostly adalah tambang terbuka, maka beberapa alat berat yang bisa kita jumpai adalah sebagai berikut:\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_16.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Saya mengambil contoh pada Pamapersada dan alat berat apa saja yang mereka gunakan. Tentunya pama membeli alat beratnya dari Komatsu yang mana UNTR menjadi distributor tunggal untuk merk ini di Indonesia.\n<br /><br />\nUntuk mendapatkan alat berat, kontraktor biasanya akan memesan dari distributor alat berat tersebut. Seperti contoh divisi alat berat UNTR dia akan memesan alat berat dari PT Komatsu Marketing & Support Indonesia dan berbagai peralatan dari PT Komatsu Undercarriage Indonesia. \n<br /><br />\nLalu UNTR tinggal menjualnya ke kontraktor tambang tersebut. Jadi peran divisi alat berat UNTR disini seperti middle man dan UNTR merupakan distributor tunggal produk Komatsu di Indonesia.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_17.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Dalam contoh alat berat yang dipakai PAMA, paling banyak adalah dump truck yang berfungsi ngangkut tanah dan batubara. Kontraktor butuh banyak sekali dump truck untuk proses penggalian dan pengiriman. \n<br /><br />\nSelain itu perlu juga excavator, selain excavator biasa, untuk beberapa tambang digunakan juga bucket wheel excavator (setahu saya hanya PTBA yang pakai di Indonesia), tambang - tambang lainnya menggunakan excavator biasa. Fungsinya sama, yaitu mengeruk tanah (overburden) ataupun batubara. \n<br /><br />\nGrader dan Dozer memiliki fungsi yang sama, cuma beda medan saja. Fungsinya adalah untuk meratakan tanah. Tanah diratakan agar dump truck dan alat berat lain bisa lewat.\n<br /><br />\nCrusher untuk menghancurkan batuan dan drilling machine sesuai namanya untuk melakukan pengeboran dan biasanya dipasang dinamit di tempat bor. Pemasangan dinamit untuk meledakkan batuan yang sangat keras.\n<br /><br />\nSecara market share, Komatsu tetap menjadi pemimpin pasar meskipun sejak 2021 ada merk Sany yang mulai masuk ke pasar alat berat.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_18.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Meskipun ditengah gempuran alat berat baru, harusnya Komatsu masih tetap mampu menjaga market share karena peran PAMA yang merupakan kontraktor tambang terbesar #1 di Indonesia. \n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_19.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Jadi selama PAMA masih cukup dominan, seharusnya demand peralatan Komatsu masih tetap bagus. Karena PAMA pasti mengambil alat berat dari sister company nya itu. \n<br /><br />\nBerikut penjualan Komatsu dan kontribusinya pada divisi alat berat UNTR dari tahun ke tahun.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_20.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Dapat kita lihat pada grafik sebelah kanan bahwa demand terbesar alat berat Komatsu adalah untuk mendukung aktivitas pertambangan (mining). Untuk demand dari sektor lain relatif flat dan biasa aja. \n<br /><br />\nLalu kita lihat total volumenya dan ASP\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_21.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t ASP sih cenderung naik, namun secara volume by sector sangat - sangat bergantung dengan aktivitas mining. Tapi worst case menurut saya penjualan Komatsu adalah 3000 unit per tahun on average ya. \n<br /><br />\nMemang ada beberapa tahun penjualan di bawah 3000, tapi mostly selalu di atas itu. Jadi jika kita kalikan 3000 units x Rp 3.4 miliar/unit maka kita dapat estimasi penjualan dari Komatsu adalah <b>Rp 10.2 T per tahun.</b>\n<br /><br />\nUntuk penjualan <b>spareparts kita taroh di angka Rp 8 T setahun</b> saja. Untuk sub segmen ini cukup stabil juga loh di kisaran Rp 7 T - Rp 10 T per tahun. \n<br /><br />\nLalu untuk UD Trucks, Scania dan others ini secara size masih kecil tapi kita asumsi <b>Rp 4T harusnya masih bisa dalam setahun.</b> Segmen ini juga cukup stabil.\n<br /><br />\nJadi sebenarnya untuk semua sub segmen di bawah alat berat ini cukup stabil, hanya saja <b>key drivernya adalah sales Komatsu yang bisa naik banyak saat up cycle dari batubara.</b> Meskipun begitu, hitungan kita tetap di hitungan worst case aja biar kalau ada surprise itu merupakan happy surprise.\n<br /><br />\nSo, total penjualan dari segmen alat berat ini <b>harusnya di kisaran Rp 22.2T per tahun.</b>\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Kontraktor Penambangan\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 22,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Seperti yang kita sudah bahas, pemilik tambang pasti men-hire kontraktor tambang batubara. Nah, memangnya apa aja sih services yang dilakukan oleh kontraktor tambang? Berikut beberapa contohnya:\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_22.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Nah dalam satu tambang, bisa saja tambang itu hire lebih dari satu kontraktor tambang. Ada juga grup yang punya kontraktornya sendiri, tapi juga hire kontraktor lain. \n<br /><br />\nPAMA sebagai kontraktor dengan size terbesar tentu sudah memiliki expertise puluhan tahun plus peralatan yang banyak dan lengkap untuk mengerjakan tambang. \n<br /><br />\nBahkan seingat saya Pama memiliki teknik khusus yang dipatenkan untuk dapat tetap produksi di kondisi tanah berlumpur yang biasanya sulit dilakukan. (saya lupa pernah baca dimana, tapi kalau Anda bisa konfirmasi, lebih baik ya). Jadi proses produksi batubara akan terganggu apabila kondisi cuaca hujan deras. Hujan deras membuat pit menjadi becek, berlumpur dan rawan longsor.\n<br /><br />\nPAMA sendiri handle banyak sekali tambang, contohnya pada breakdown di bawah:\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_23.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Dalam proses penambangan, setelah dipetakan oleh kontraktor, kontraktor kemudian akan berdiskusi dengan pemilik tambang. Nah perlu diketahui misalnya dalam satu konsesi, bisa jadi titik titik cadangannya tidak sama semua kan, ada yang lebih dalam, ada yang lebih dekat ke permukaan, ada yang tidak merata dan sebagainya. \n<br /><br />\nKontraktor akan memperkirakan perlu menggali berapa banyak overburden untuk sampai kepada cadangan batubaranya. \n<br /><br />\nBiasanya kita mengenal <b>stripping ratio,</b> ini adalah rasio jumlah tanah yang digali dibandingkan dengan hasil batubaranya. Misalnya dalam setahun, sebuah tambang batubara memproduksi 10 juta ton batubara dan mereka menggali 100 juta bcm tanah. \n<br /><br />\nArtinya stripping ratio dari tambang itu adalah 10x. \n<br /><br />\nKetika proses mapping, kontraktor akan menginfokan ke pemilik tambang dimana titik titik yang strategis dan mana titik titik yang perlu galian lebih dalam. Ketika harga batubara sedang rendah, pemilik tambang tentu berusaha menekan cost sehingga mereka akan memaksimalkan titik - titik yang memiliki stripping ratio rendah terlebih dulu. Jadi mereka akan fokus menggali titik cadangan yang lebih dekat dengan permukaan tanah. \n<br /><br />\nAkan tetapi ketika harga batubara sedang tinggi, stripping ratio yang tinggi masih akan tetap ekonomis untuk dilakukan. Misalnya, kita ambil contoh pada Pamapersada lagi dengan melihat berapa stripping ratio yang pama kerjakan:\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_24.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Dapat kita lihat pada tahun 2020 dan 2016 ketika harga batubara sedang jelek - jeleknya, galian yang dilakukan pama lebih sedikit dan stripping ratio sekitar 6x (grafik kanan).\n<br /><br />\nAkan tetapi, ketika harga batubara cukup bagus seperti di 2018 dan 2022 - 2023 ini, pemilik tambang menjadi dapat melakukan galian di tempat yang memiliki stripping ratio tinggi karena harga yang bagus dan masih cuan besar untuk digali. Ini terlihat di periode 2018 dan 2022 - 2023 dimana stripping ratio yang pama kerjakan naik menjadi >8 kali. \n<br /><br />\nLalu bagaimana pama dan kontraktor lain melakukan pricing terhadap pekerjaan mereka? Biasanya, Anda akan lihat 2 metriks, yaitu berapa overburden yang mereka gali dan berapa batubara yang didapat. \n<br /><br />\nSaya akan langsung bagi saja antara revenue kontraktor dengan volume overburdennya. Dengan begitu, kita bisa dapat berapa rate pama.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_25.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Satuannya adalah bank cubic meter (bcm) yang melambangkan volume galian. Nah ketika bad time, ternyata ratenya disekitar Rp 30 ribu/bcm sampai Rp 40 ribu/bcm. Ketika good time, ratenya >Rp 40 ribu/bcm. Sekarang di Rp 45 ribu - 50 ribu/bcm.\n<br /><br />\nDengan kondisi worst case, asumsi kita adalah overburden removal di kisaran 200 juta bcm per kuartal dan asp adalah Rp 38 ribu - Rp 40ribu/bcm. Jadi perkiraan revenue setahun adalah Rp 30.4T - Rp 32 T. \n<br /><br />\nBagaimana dengan kondisi best case?\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_26.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Dengan asp Rp 45 ribu/bcm dan ob removal 300 juta bcm per kuartal maka revenue bisa Rp 54 T. \n<br /><br />\nOh ya, dengan kita mempelajari pama ini, kita jadi tahu satu cost yang berhubungan dengan pemilik tambang. Yaitu <b>biaya kontraktor tambang (biaya penambangan).</b>\n<br /><br />\nDari sini kita bisa hitung hitung biaya penambangan per ton, kita lihat contoh pada ADRO dan ITMG berdasarkan LK FY 2022 di bawah:\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_27.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Stripping ratio ITMG 10.7x, lebih tinggi dari ADRO yang 3.7x saja. Efeknya biaya penambangan per ton ITMG pun lebih besar yaitu $28 per ton vs $17.8 per ton ADRO.\n<br /><br />\nKenapa stripping ratio ITMG bisa lebih besar?\n<br /><br />\nKita lihat jenis batubaranya, ADRO memiliki batubara yang kalorinya berada pada ICI 3 dan ICI 4. Sedangkan ITMG lebih banyak di ICI 1 dan ICI 2 serta sedikit di ICI 3 dan ICI 4.\n<br /><br />\nNah kalori yang lebih besar cenderung berada lebih di dalam permukaan tanah ketimbang yang kalori lebih kecil. Akibatnya ITMG harus menggali jauh lebih dalam ketimbang ADRO.\n<br /><br />\nYah sebagai akibatnya, stripping ratio ITMG lebih besar dan beban penambangan per ton menjadi lebih besar. (per analisa ini dibuat, saya blm mendalami lagi ITMG, bisa jadi setelah didalamin ada konklusi yang berubah).\n<br /><br />\nNamun, ITMG memiliki ASP yang lebih besar karena kalori yang lebih besar membuat ASP lebih tinggi kan. Jadi, meskipun beban penambangan per ton ITMG lebih besar dari ADRO, tapi jika kita lihat spread antara ASP dan beban penambangan, ITMG tetap memiliki spread yang lebih besar. \n<br /><br />\nKalo gitu, apakah artinya ITMG selalu akan lebih tebal cuan per ton nya ketimbang ADRO? Ya kalau siklus batubaranya sedang bagus. Namun, di tengah siklus jelek, stripping ratio yang besar membuat beban ITMG juga besar.\n<br /><br />\nDalam kondisi bad time, ADRO mungkin masih bisa menghasilkan keuntungan yang lebih tebal karena cost nya yang lebih murah ketimbang ITMG. Tapi ketika good time, ITMG bisa panen lebih banyak karena harga batubara bisa naik 2-3x lipat sedangkan beban penambangan tidak naik sebanyak itu.\n<br /><br />\nSo masing - masing ada plus minusnya, tinggal kita pintar - pintar mencari entry point yang murah.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Bisnis Tambang UNTR\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Selain menguasai kontraktor tambang dan alat berat #1 di Indonesia, UNTR juga memiliki tambang batubara sendiri. \n<br /><br />\nJika kita lihat capex UNTR dalam 10 tahunan ke belakang, ada banyak sekali akuisisi - akusisi yang dilakukan terhadap tambang batubara, tambang emas dan terakhir UNTR membeli 19.9% saham Nickel Industries Limited seharga Rp 9.37 T. Untuk sektor nikel ini mungkin kita perlu dedikasikan khusus satu ulasan, jadi nanti akan dibuat terpisah untuk membahas industri nikel secara komprehensif. Ditunggu yah.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_28.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Bahkan di tahun 2017, UNTR mengakuisisi tambang batubara kokas yang harga jual batubaranya sangat tinggi. Nah, berkat akuisisi - akuisisi tambang batubara ini, produksi batubara dari tambang UNTR naik terus dari tahun ke tahun seperti yang bisa Anda lihat pada grafik di bawah:\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_29.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Produksi batubara naik setelah akuisisi SMM yang memproduksi batubara kokas. Dengan demikian, UNTR memiliki produksi batubara thermal dan kokas. Efek dari akuisisi ini adalah harga jual rata - rata batubara UNTR menjadi naik karena harga batubara kokas yang lebih tinggi. \n<br /><br />\nSeperti yang bisa Anda lihat pada chart di sebelah kanan, ketika bad time di tahun 2020, ASP batubara UNTR terendah di Rp 940 ribu/ton, jadi tidak serendah seperti di tahun 2016 yang hanya mengandalkan batubara thermal.\n<br /><br />\nBerkat akuisisi - akuisisi UNTR pada tambang batubara pula, UNTR dapat menikmati profit yang sangat besar ketika kemarin harga batubara begitu tinggi.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_30.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Dapat Anda lihat pada grafik di atas, kontribusi terbesar laba sebelum pajak UNTR di tahun 2022 adalah dari tambang batubaranya. Laba dari tambang batubaranya masih tebal meskipun terjadi penurunan di tahun 2023 ini.\n<br /><br />\nTerlihat dari grafik di atas bahwa segmen kontraktor lebih defensif dan stabil di banding segmen - segmen lainnya ya.\n<br /><br />\nSelain tambang batubara, UNTR juga mengakuisisi tambang emas Martabe di Tapanuli Selatan dan so far ini adalah akuisisi dengan nominal terbesar yang dilakukan oleh UNTR, nilainya hingga mencapai Rp 16.7 T.\n<br /><br />\nLalu bagaimana kinerja tambang emas martabe ini?\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_31.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Satu hal yang bisa kita notice adalah produksi tambang martabe ini cenderung menurun dari tahun ke tahun. Akan tetapi ASP dari tambang ini juga terus naik karena harga emas kan memang cenderung naik setiap tahun.\n<br /><br />\nMengapa produksi bisa turun? Manajemen mengatakan bahwa penurunan produksi dan penjualan dari tambang martabe karena perseroan ingin fokus pada rencana jangka panjang dan sustainability dari tambang mereka. Menurut saya ini adalah kata halus dari “di site ada masalah dan lagi akan diselesaikan”.\n<br /><br />\nMeskipun begitu, kita sebagai investor tinggal lihat payback periodnya berapa lama? Setelah mengeluarkan uang Rp 16.7 T di tahun 2018?\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_32.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Tambang martabe dimiliki oleh PTAR 95% dan PTAR dimiliki UNTR 100%. Hitungan di atas adalah hitungan kasar saya berdasarkan pretax profit yang ada di informasi segmen. Setelah saya kurangkan pph sebesar 22% lalu kalikan dengan 95% kepemilikan final UNTR terhadap tambang martabe, kita dapat total perkiraan laba bersih yang dihasilkan adalah Rp 9.5 T.\n<br /><br />\nArtinya tambang ini belum BEP. Dengan estimasi laba bersih nya Rp 2 T per tahun maka seharusnya tambang ini baru akan BEP setelah 8 tahun - 9 tahun. Menurut saya, valuasi ini adalah wajar apabila menggunakan skenario laba Rp 2T (base case).\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Valuasi UNTR berdasarkan Worst Case menurut kita\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 25,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Oke sekarang kita akan hitung hitung berapa sih penjualan dan laba UNTR dengan <b>asumsi worst case.</b> Mengapa worst case? Supaya ada margin of safety dari sisi kinerja, jadi kita akan lihat kinerja di masa terburuk bisa berapa dan valuasi berapa.\n<br /><br />\nDengan demikian, ketika nanti kena good cyclenya, kita tidak akan terlalu ngejar dan FOMO.\n<br /><br />\nMari kita lihat kembali breakdown penjualan dan laba dari tahun ke tahun\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_33.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 10,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_34.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Dari sini kita tahu, Pamapersada sangat defensif. Mau bisnisnya upcycle atau down cycle, labanya tidak terlalu banyak berubah.\n<br /><br />\nBagaimana dengan margin mereka?\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_35.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Jika melihat data diatas, Pama secara majority di kisaran 20% dan alat berat (mesin konstruksi) di kisaran 8%. Untuk penambangan emas memang cukup besar marginnya bisa 20% plus, dulu kita cek di Amman Mineral juga sekitar segitu.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/untr_data_36.webp",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<br /><div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4 px-5\" style=\"background-color:RGB(241, 241, 239)\">\n          <p> <br />\n<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" width=\"35\" height=\"35\" viewBox=\"0 0 256 256\" xml:space=\"preserve\">\n<defs>\n</defs>\n<g style=\"stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;\" transform=\"translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)\" >\n\t<path d=\"M 52.532 82.468 C 52.532 86.628 49.16 90 45 90 s -7.532 -3.372 -7.532 -7.532\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(178,178,178); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 59.69 54.787 v -0.71 c 0 -3.59 1.495 -6.978 4.009 -9.54 c 4.636 -4.725 7.495 -11.199 7.495 -18.342 c 0 -15.082 -12.746 -27.187 -28.054 -26.131 C 30.257 0.953 20.092 10.87 18.918 23.731 c -0.727 7.955 2.107 15.259 7.09 20.503 c 2.715 2.857 4.302 6.6 4.302 10.542 v 0 c 0 2.361 1.913 4.275 4.274 4.277 l 20.827 0.011 C 57.774 59.065 59.69 57.15 59.69 54.787 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,182,55); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 56.769 74.663 H 33.231 c -2.146 0 -3.902 -1.756 -3.902 -3.902 v 0 c 0 -2.146 1.756 -3.902 3.902 -3.902 h 23.539 c 2.146 0 3.902 1.756 3.902 3.902 v 0 C 60.672 72.907 58.916 74.663 56.769 74.663 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(178,178,178); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 53.229 82.468 H 36.771 c -2.146 0 -3.902 -1.756 -3.902 -3.902 v 0 c 0 -2.146 1.756 -3.902 3.902 -3.902 h 16.458 c 2.146 0 3.902 1.756 3.902 3.902 v 0 C 57.131 80.712 55.375 82.468 53.229 82.468 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(204,204,204); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 49.819 61.098 c -1.13 0 -2.045 -0.916 -2.045 -2.045 V 46.691 c 0 -5.949 2.449 -11.737 6.719 -15.88 c 0.81 -0.787 2.104 -0.769 2.892 0.043 c 0.786 0.81 0.767 2.105 -0.044 2.892 c -3.48 3.378 -5.476 8.096 -5.476 12.945 v 12.362 C 51.864 60.182 50.949 61.098 49.819 61.098 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,224,171); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 40.18 61.098 c -1.13 0 -2.045 -0.916 -2.045 -2.045 V 46.691 c 0 -4.85 -1.996 -9.568 -5.476 -12.944 c -0.811 -0.787 -0.83 -2.082 -0.044 -2.892 c 0.786 -0.811 2.081 -0.831 2.892 -0.044 c 4.27 4.143 6.718 9.931 6.718 15.881 v 12.362 C 42.226 60.182 41.31 61.098 40.18 61.098 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,224,171); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n\t<path d=\"M 56.769 66.858 H 33.231 c -2.146 0 -3.902 -1.756 -3.902 -3.902 v 0 c 0 -2.146 1.756 -3.902 3.902 -3.902 h 23.539 c 2.146 0 3.902 1.756 3.902 3.902 v 0 C 60.672 65.102 58.916 66.858 56.769 66.858 z\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(204,204,204); fill-rule: nonzero; opacity: 1;\" transform=\" matrix(1 0 0 1 0 0) \" stroke-linecap=\"round\" />\n</g>\n</svg>\n\t <b>Notes:</b> Perlu diingat, ini <b>bukanlah metode perhitungan kinerja terbaik menurut saya.</b> (Dengan mengalikan ASP dan Volume dengan Pretax Margin). Potensi problemnya menurut saya di pretax margin. Seharusnya, kita membedah lebih dalam cost structure dari bisnisnya agar bisa meraba berapa marginnya dengan ASP dan volume segitu. Namun, karena UNTR bisnisnya sangat banyak, agak sulit untuk memperkirakan cost secara masing - masing divisi.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br />\n\t Dari perhitungan ini, menurut kita seharusnya UNTR dihargai di <b>PE 10x dari kinerja worst case.</b> Dengan demikian, harga wajar di kisaran Rp 29ribu, kalau Anda mau berbaik hati bisa bulatkan ke Rp 30 ribu aja biar lebih mudah dihitung.\n<br /><br />\nLalu belinya dimana? Tergantung Anda mau diskon seberapa besar. Jika anda minta diskon 50%, maka belinya di kisaran Rp 15ribu.\n<br /><br />\nLet say asumsi perhitungan kita benar, dengan EPS sekitar Rp 2900 - Rp 3000 per share dan secara historis UNTR membagikan dividen 40% - 50% dari labanya, maka kita dapat dividen per share sekitar Rp 1500.\n<br /><br />\nKalau beli di Rp 15 ribu, perkiraan dividend yield adalah 10%. Menurut saya ini masih good deal.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Don’t forget about risk\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "bullet",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <ol style=\"list-style-type: circle;padding-left:50px\">\n            <li> \n          Risikonya menurut saya ada di pretax margin, seperti yang saya sampaikan di atas. Seharusnya kita bedah lebih dalam cost structurenya untuk dapat sense berapa kira - kira fixed costnya. Dengan langsung mengalikan dengan pretax margin, ada potensi hitungan bisa meleset meskipun perhitungan revenuenya lebih kurang berada di range.\n            </li><br />\n            <li> \n          Harga batubara yang kembali turun di masa depan akan membuat kinerja keseluruhan bisnis UNTR secara grup turun. Hasil diversifikasi dan investasi di nikel dan emas belum menunjukkan kontribusi yang besar.\n            </li><br />\n            <li> \n          Tambang emas martabe sedang menghadapi masalah sengketa lahan seluas 62.9 hektar. Meskipun angkanya sangat kecil dibandingkan keseluruhan luas tambang, tapi takutnya bisa ada risk tambahan. Beritanya bisa Anda cek di : <a class=\"break-all\" href=\"https://analisadaily.com/berita/baca/2023/09/21/1046255/warga-tuntut-segera-ganti-untung/\" style=\"color:blue;text-decoration:underline\">https://analisadaily.com/berita/baca/2023/09/21/1046255/warga-tuntut-segera-ganti-untung/</a>\n            </li>\n          </ol>\n\t  </p><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Thank you for reading this far!\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> \n\t Terima kasih sudah membaca sampai sejauh ini. Apakah ini sudah mengcover keseluruhan bisnis batubara? Saya rasa belum dan mungkin akan ada contoh - contoh berikutnya seperti perusahaan tambang batubaranya langsung atau supporting yang lain.\n<br /><br />\nIntinya, semoga dari analisa ini Anda sedikit banyak memiliki gambaran bagaimana flow dan apa saja yang perlu dilihat untuk menganalisa saham batubara.\n<br /><br />\nStay tune untuk analisa lainnya!\n<br /><br />\nHave a nice day.\n<br />\n☕\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "disclaimer",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <i><b>Disclaimer: Artikel analisa adalah hasil pengamatan kami atas kinerja bisnis dari emiten yang bersangkutan dan bukan merupakan ajakan untuk beli atau jual emiten tersebut. Segala keputusan investasi merupakan tanggung jawab Anda pribadi.\n</i></b><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      }
+    ],
+    "is_show_header": 1,
+    "header_type": "with_menu",
+    "is_show_footer": 1,
+    "footer_type": "with_menu",
+    "visibility": "membership_and_portofolio;membership;fbjarvis;spesial;",
+    "created_at": "2023-12-18T09:28:50.000000Z",
+    "updated_at": "2023-12-18T09:28:50.000000Z",
+    "deleted_at": null,
+    "created_by": {
+      "id": 2,
+      "fullname": "Midas Super Admin",
+      "email": "admin@midascuan.id",
+      "role": "superadmin",
+      "has_link_product": 0,
+      "ip_address": null,
+      "last_login_ip": null,
+      "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+      "member_active_roles": [
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ],
+      "member_roles": [
+        {
+          "id": 109970,
+          "user_id": 2,
+          "role_id": 1,
+          "expired_date": "2025-02-27 00:45:00",
+          "created_at": "2023-05-25T18:59:06.000000Z",
+          "updated_at": "2025-02-20T15:45:14.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 1,
+            "title": "Portofolio",
+            "role": "portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:07:38.000000Z",
+            "updated_at": "2024-08-16T09:56:18.000000Z"
+          }
+        },
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ]
+    },
+    "updated_by": null,
+    "deleted_by": null
+  },
+  "changes": 0
+}

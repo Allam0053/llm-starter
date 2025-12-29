@@ -1,0 +1,911 @@
+{
+  "id": 81,
+  "page_id": 155,
+  "image_url": "https://api.midascuan.id/storage/resources/logo_smil",
+  "code": "SMIL",
+  "buy_price": 0,
+  "current_price": 0,
+  "valuation": 0,
+  "margin_of_safety": 0,
+  "created_at": "2025-01-13T11:21:18.000000Z",
+  "updated_at": "2025-12-29T07:00:05.000000Z",
+  "status": "published",
+  "created_by": {
+    "id": 2,
+    "fullname": "Midas Super Admin",
+    "email": "admin@midascuan.id",
+    "role": "superadmin",
+    "has_link_product": 0,
+    "ip_address": null,
+    "last_login_ip": null,
+    "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+    "member_active_roles": [
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ],
+    "member_roles": [
+      {
+        "id": 109970,
+        "user_id": 2,
+        "role_id": 1,
+        "expired_date": "2025-02-27 00:45:00",
+        "created_at": "2023-05-25T18:59:06.000000Z",
+        "updated_at": "2025-02-20T15:45:14.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 1,
+          "title": "Portofolio",
+          "role": "portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:07:38.000000Z",
+          "updated_at": "2024-08-16T09:56:18.000000Z"
+        }
+      },
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ]
+  },
+  "updated_by": null,
+  "deleted_at": null,
+  "deleted_by": null,
+  "page": {
+    "id": 155,
+    "title": "Analisa SMIL",
+    "slug": "analisa-smil",
+    "type": "analysis",
+    "status": "published",
+    "content_html": "\"\"",
+    "content_json": [
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Analisa SMIL\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "post-detail",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 flex flex-col md:flex-row justify-center gap-2 mt-1 mb-1 border-t border-b-2 border-black p-1\">\n        <p class=\"my-auto\">\n            <i class=\"fa fa-user-circle my-auto\"></i> \n\tFelix  Haridinata\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-calendar my-auto\"></i> \n\tJan 13, 2025\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-tags my-auto\"></i> \n\tSMIL\n        </p>\n\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 30,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        General Overview Bisnis SMIL\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/smil_data_01",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>PT Sarana Mitra Luas Tbk (SMIL) adalah perusahaan yang bergerak di bidang penyewaan alat berat, perdagangan spare part, dan jasa perawatan alat berat. Berdiri sejak tahun 2006, SMIL telah membangun reputasi sebagai salah satu penyedia layanan material handling equipment yang terpercaya di Indonesia.</p><p><br></p><p>Perusahaan ini fokus pada mendukung kebutuhan industri manufaktur, konstruksi, dan logistik melalui solusi terpadu yang mencakup penyewaan forklift, distribusi spare part, dan layanan perawatan alat berat.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/smil_data_02",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Model bisnis SMIL menawarkan fleksibilitas tinggi bagi pelanggan, memungkinkan mereka untuk menyewa alat berat sesuai kebutuhan tanpa harus menanggung biaya kepemilikan dan perawatan. Selain itu, dengan ketersediaan spare part dan layanan teknis, SMIL mampu memberikan nilai tambah yang signifikan dibandingkan kompetitor.</p><h3><br></h3><h4><strong>Business Model</strong></h4>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/smil_data_03",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><em>source: LK Emiten</em></p><p><br></p><h4><strong>Produk Utama</strong></h4><p>SMIL bergerak di bidang penyewaan forklift (diesel dan listrik), perdagangan spare part alat berat, dan layanan perawatan. Fungsi utama produk ini adalah:</p><ul class=\"ql-li\"><li><strong>Efisiensi Operasional Pelanggan</strong>:</li><li class=\"ql-indent-1\">Forklift dan alat berat lain digunakan untuk mempercepat proses logistik di gudang, pabrik, dan proyek konstruksi.</li><li class=\"ql-indent-1\">Dengan menyewa daripada membeli, perusahaan dapat mengurangi capex (capital expenditure) dan risiko depresiasi aset.</li><li class=\"ql-indent-1\">Penyewaan ini memberikan fleksibilitas kepada pelanggan untuk menyesuaikan kapasitas operasional sesuai kebutuhan.</li></ul>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/smil_data_04",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><em>source: Presentasi perusahaan</em></p><p><br></p><ul class=\"ql-li\"><li><strong>Keberlanjutan Operasional</strong>:</li><li class=\"ql-indent-1\">Dengan layanan perawatan dan reparasi, SMIL memastikan alat berat pelanggan tetap beroperasi maksimal tanpa downtime signifikan, yang dapat mengganggu produktivitas.</li><li><strong>Ketersediaan Spare Part</strong>:</li><li class=\"ql-indent-1\">Penjualan spare part sebagai pendukung alat berat memastikan pelanggan mendapatkan suku cadang berkualitas tanpa harus mencari sumber eksternal, mengurangi lead time.</li></ul><p><br></p><p>Sebagai gambaran, tarif sewa forklift dengan kapasitas 2-3 ton berkisar Rp 120 - 180 juta per tahun tergantung dengan jenisnya (diesel atau listrik)</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/smil_data_05",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><h4><strong>Target Pasar</strong></h4><ul class=\"ql-li\"><li><strong>Sektor Utama Pelanggan</strong>:</li><li class=\"ql-indent-1\"><strong>Manufaktur</strong>: Terutama di industri otomotif, elektronik, dan barang konsumsi (FMCG) yang memerlukan material handling untuk proses produksi dan distribusi.</li><li class=\"ql-indent-1\"><strong>Konstruksi dan Infrastruktur</strong>: Menyediakan alat berat untuk proyek pembangunan jalan, gedung, atau jembatan.</li><li class=\"ql-indent-1\"><strong>Logistik dan Pergudangan</strong>: Pelanggan dari sektor e-commerce dan ritel yang membutuhkan efisiensi pengangkutan barang dalam gudang besar.</li></ul><p><br></p><ul class=\"ql-li\"><li><strong>Ciri-Ciri Pelanggan</strong>:</li><li class=\"ql-indent-1\">Pelanggan korporasi dengan skala menengah hingga besar.</li><li class=\"ql-indent-1\">Fokus pada efisiensi biaya operasional dan waktu.</li><li class=\"ql-indent-1\">Lebih memilih sewa alat berat dibanding membeli untuk menghindari beban perawatan dan depresiasi.</li></ul><p><br></p><ul class=\"ql-li\"><li><strong>Perilaku Konsumen</strong>:</li><li class=\"ql-indent-1\">Konsumen memilih SMIL karena layanan yang terpadu (penyewaan, perawatan, dan spare part).</li><li class=\"ql-indent-1\">Mereka cenderung mencari mitra yang menawarkan alat berkualitas tinggi dengan dukungan teknis yang memadai.</li><li class=\"ql-indent-1\">Faktor utama keputusan pembelian: ketersediaan alat, layanan after-sales, dan biaya sewa yang kompetitif.</li></ul><p><br></p><ul class=\"ql-li\"><li><strong>Suppliers</strong></li></ul><ol style=\"li-style-type:none\"><li class=\"ql-indent-1\"><strong>1. Kemitraan Strategis</strong>:</li></ol><ul class=\"ql-li\"><li class=\"ql-indent-1\">SMIL bekerja sama dengan produsen internasional terkemuka seperti Toyota dan TCM untuk penyediaan forklift.</li><li class=\"ql-indent-1\">Forklift listrik didukung oleh baterai lithium, yang memiliki efisiensi energi lebih baik dan permintaan yang terus meningkat.</li></ul><p><br></p><ol style=\"li-style-type:none\"><li class=\"ql-indent-1\" ><strong>2. Ketergantungan pada Impor</strong>:</li></ol><ul class=\"ql-li\"><li class=\"ql-indent-1\">Sebagian besar alat berat dan spare part diimpor, sehingga perusahaan sangat terpengaruh oleh fluktuasi nilai tukar rupiah terhadap dolar AS.</li></ul><p><br></p><ul class=\"ql-li\"><li><strong>Rencana Ekspansi</strong></li><li class=\"ql-indent-1\">Penambahan armada sebesar 250-300 unit per tahun, dengan fokus utama pada forklift listrik. Langkah ini sejalan dengan tren keberlanjutan dan efisiensi energi.</li><li class=\"ql-indent-1\">Peningkatan kapasitas bertujuan untuk memperluas basis pelanggan di sektor manufaktur, logistik, dan konstruksi.</li></ul>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/smil_data_06",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><em>source: Company prospectus &amp; presentation</em></p><p><br></p><h4><strong>Risiko dan Tantangan di Pasar</strong></h4><ul class=\"ql-li\"><li><strong>Persaingan Ketat</strong>:</li><li class=\"ql-indent-1\">Ada banyak penyedia jasa penyewaan alat berat, baik lokal maupun multinasional, yang menawarkan harga lebih rendah.</li><li class=\"ql-indent-1\">Brand global seperti Toyota Material Handling mungkin memiliki pengaruh kuat pada pelanggan besar yang lebih menyukai layanan langsung dari prinsipal.</li></ul><p><br></p><ul class=\"ql-li\"><li><strong>Ketergantungan pada Sektor Tertentu</strong>:</li><li class=\"ql-indent-1\">Sektor seperti manufaktur dan konstruksi sangat dipengaruhi oleh kondisi ekonomi makro. Jika terjadi perlambatan ekonomi, permintaan dapat turun.</li></ul><p><br></p><ul class=\"ql-li\"><li><strong>Volatilitas Kurs</strong>:</li><li class=\"ql-indent-1\">Sebagian besar alat berat dan spare part diimpor, sehingga biaya pengadaan terpengaruh oleh fluktuasi nilai tukar rupiah terhadap dolar AS.</li></ul><p><br></p><ul class=\"ql-li\"><li><strong>Kompetisi</strong></li></ul><ol style=\"list-style-type:none;\"><li class=\"ql-indent-1\"><strong>1. Low Barrier to Entry</strong>:</li></ol><ul class=\"ql-li\"><li class=\"ql-indent-1\">Industri penyewaan forklift memiliki hambatan masuk yang relatif rendah, sehingga menarik banyak pemain lokal yang menawarkan harga kompetitif.</li><li class=\"ql-indent-1\">Kompetitor utama adalah penyedia lokal dengan layanan spesifik atau perusahaan multinasional dengan teknologi lebih maju.</li></ul><p><br></p><ol style=\"list-style-type:none;\"><li class=\"ql-indent-1\"><strong>2. Keunggulan Kompetitif SMIL</strong>:</li></ol><ul class=\"ql-li\"><li class=\"ql-indent-1\"><strong>Diversifikasi Armada</strong>: Berbagai jenis forklift (diesel, listrik, towing, pallet stacker) memberikan fleksibilitas untuk melayani kebutuhan pelanggan yang berbeda.</li><li class=\"ql-indent-1\"><strong>Layanan Terpadu</strong>: Penyewaan, penjualan spare part, dan perawatan menciptakan ekosistem layanan yang meningkatkan loyalitas pelanggan.</li><li class=\"ql-indent-1\"><strong>Efisiensi Forklift Listrik</strong>: Tingkat pengembalian (yield) per unit forklift listrik 43% lebih tinggi dibandingkan diesel, memberikan margin yang lebih baik bagi SMIL.</li></ul><p><br></p><ol style=\"list-style-type:none;\"><li class=\"ql-indent-1\"><strong>3. Ancaman Kompetisi</strong>:</li></ol><ul class=\"ql-li\"><li class=\"ql-indent-1\">Ketergantungan pada beberapa pelanggan besar seperti Sinarmas Group (~40% pendapatan) dan INKP (24% pendapatan) dapat menjadi risiko konsentrasi.</li><li class=\"ql-indent-1\">Penerimaan piutang dalam waktu lebih dari 4 bulan dapat menimbulkan risiko likuiditas jika tidak dikelola dengan baik.</li></ul><p><br></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/smil_data_07",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><h4><strong>Financials</strong></h4><p>Di bagian ini kita mencoba untuk mengetahui:</p><ul class=\"ql-li\"><li>Apa saja cost untuk menjalankan SMIL (COGS, Opex)</li><li>Capital Allocation</li></ul><p><br></p><h4><strong>COGS &amp; Opex Breakdown</strong></h4><p><br></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/smil_data_08",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>COGS mencakup beberapa komponen biaya yang diurutkan dari yang terbesar hingga terkecil:</p><p><br></p><ul class=\"ql-li\"><li><strong>Gaji THR dan Bonus (19% dari sales)</strong>:</li><li class=\"ql-indent-1\">Kontribusi terbesar terhadap COGS, meningkat dari 15.48% di 9M 2023 menjadi 19.40% di 9M 2024. Hal ini menunjukkan peningkatan biaya tenaga kerja, mungkin terkait dengan ekspansi atau peningkatan layanan.</li></ul><p><br></p><ul class=\"ql-li\"><li><strong>Penyusutan Forklift (19% dari sales)</strong>:</li><li class=\"ql-indent-1\">Penyusutan alat berat seperti forklift menyumbang sekitar 19.40% pada 9M 2024, naik dari 14.29% di 9M 2023. Ini menunjukkan investasi baru pada armada forklift.</li><li class=\"ql-indent-1\">Forklift masa manfaat 8 tahun.</li></ul><p><br></p><ul class=\"ql-li\"><li><strong>Bahan Bakar (dari 13% jadi 6% dari sales)</strong></li><li class=\"ql-indent-1\">Kontribusi bahan bakar menurun dari 13.49% (9M 2023) menjadi 5.97% (9M 2024). Penurunan ini kemungkinan besar karena peralihan ke forklift listrik yang lebih hemat energi.</li></ul><p><br></p><ul class=\"ql-li\"><li><strong>Penyusutan Peralatan Forklift (7-8% dari sales):</strong></li><li class=\"ql-indent-1\">Ini adalah sparepart dan peralatan pendukung forklift.</li><li class=\"ql-indent-1\">Komponen ini stabil di sekitar 7-8% dari sales.</li><li class=\"ql-indent-1\">Peralatan forklift memiliki masa manfaat 4 tahun</li></ul><p><br></p><p><strong>Peralihan ke Forklift Listrik →</strong> Penurunan biaya bahan bakar sejalan dengan strategi perusahaan untuk meningkatkan proporsi forklift listrik dalam armada.</p><p><br></p><p>Berikutnya soal opex (beban operasional).</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/smil_data_09",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><strong>Beban Operasional SMIL</strong> terbagi menjadi dua komponen utama:</p><ul class=\"ql-li\"><li><strong>Beban Penjualan (0.75% dari sales)</strong>:</li><li class=\"ql-indent-1\">Porsi kecil dari total opex, stabil di sekitar 0.23%-0.76% dari total penjualan.</li><li class=\"ql-indent-1\">Elemen utamanya mencakup:</li><li class=\"ml-48\"><strong>Entertainment &amp; Sumbangan</strong>: Di kisaran 0.24%-0.5%.</li><li class=\"ml-48\"><strong>Iklan &amp; Promosi</strong>: Sedikit meningkat, dengan porsi sekitar 0.48%-0.52% pada 9M 2024. Seharusnya dengan klien perusahaan besar (B2B), beban iklan &amp; promosi memang sewajarnya kecil</li><li class=\"ml-48\"><strong>Lain-lain</strong>: Kontribusinya kecil dan konsisten sekitar 0.01%-0.04%.</li></ul><p><br></p><ul class=\"ql-li\"><li><strong>Beban Umum &amp; Administrasi (12% dari sales)</strong>:</li><li class=\"ql-indent-1\">Merupakan mayoritas dari total opex, dengan kontribusi 12% dari penjualan pada 9M 2024.</li><li class=\"ql-indent-1\">Elemen utama meliputi:</li><li class=\"ml-48\"><strong>Gaji THR dan Bonus</strong>: Ini berkisar 4% - 5%. Bedanya dengan gaji, THR dan bonus pada COGS adalah yang ini merupakan staff di kantor. Sedangkan yang di COGS merupakan operator forklift.</li><li class=\"ml-48\"><strong>BPJS</strong>: Stabil di sekitar 2.84% dari total penjualan.</li></ul><p><br></p><p>Jika dilihat baik COGS dan Opex, beban yang cukup dominan ada di beban yang berhubungan dengan pegawai.</p><p><br></p><p>Berikutnya mari kita lihat alokasi cash flow dari SMIL.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/smil_data_10",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Beberapa insight yang bisa kita ambil:</p><ul class=\"ql-li\"><li>Arus kas operasi selalu positif dalam 6 tahun terakhir dan selalu lebih tinggi dari laba bersih.</li><li>Arus kas operasi selalu lebih tinggi dari laba bersih karena terdapat beban non-cash dari depresiasi forklift yang cukup besar. Meskipun istilahnya “non cash”, namun sebenarnya cash tersebut sudah dibayarkan di depan (dalam bentuk pembelian forklift, lalu di depresiasikan sesuai masa manfaat).</li><li>Arus kas operasi dalam setidaknya 6 tahun terakhir cenderung digunakan untuk perolehan aset tetap dengan menambah jumlah armada (sesuai plan management).</li><li>Sebagai hasilnya, laba bersih juga terus bertumbuh seiring capex menandakan capital allocation yang baik.</li><li>Di tahun 2023 melakukan IPO dan mendapatkan dana segar Rp 171 miliar dan digunakan untuk nambah capex lagi.</li><li>Di tahun 2024, SMIL membagikan dividen, walau nilainya masih kecil hanya Rp 17 miliar.</li></ul><p><br></p><h4><strong>Penutup</strong></h4><p>Walaupun saham SMIL ini tidak bisa dibilang murah (PE 24x), namun mempelajari SMIL membuat kita sedikit banyak memahami bisnis forklift. Bisnisnya sebenarnya sederhana dan mereka sejauh ini sebagian besar melayani grup Sinarmas. Terutama anak - anak usaha Asia Pulp &amp; Paper.</p><p><br></p><p>INKP sebenarnya kan sedang melakukan ekspansi pabrik baru yang bilamana nanti sudah selesai tentu akan membutuhkan tambahan jasa forklift dalam operasionalnya.</p><p><br></p><p>Di PE 24x, market berekspektasi bahwa SMIL setidaknya mampu tumbuh 24% (PEG nya Peter Lynch). Yang mana menurut kita masih cukup optimis ya. So, untuk sekarang, kita amati dari jauh dulu saja.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "disclaimer",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <i><b>Disclaimer: Artikel analisa ini bukanlah merupakan sebuah rekomendasi ataupun ajakan untuk jual atau beli saham tertentu. \nArtikel ini hanya untuk kepentingan edukasi dan informasi saja. \nSegala data yang disajikan bersumber dari publikasi yang disampaikan kepada publik melalui Annual Report, \nPublic Expose ataupun Laporan Keuangan emiten.</i></b><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      }
+    ],
+    "is_show_header": 1,
+    "header_type": "with_menu",
+    "is_show_footer": 1,
+    "footer_type": "with_menu",
+    "visibility": "membership;membership_and_portofolio;fbjarvis;spesial;",
+    "created_at": "2025-01-13T11:21:18.000000Z",
+    "updated_at": "2025-01-13T11:21:18.000000Z",
+    "deleted_at": null,
+    "created_by": {
+      "id": 2,
+      "fullname": "Midas Super Admin",
+      "email": "admin@midascuan.id",
+      "role": "superadmin",
+      "has_link_product": 0,
+      "ip_address": null,
+      "last_login_ip": null,
+      "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+      "member_active_roles": [
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ],
+      "member_roles": [
+        {
+          "id": 109970,
+          "user_id": 2,
+          "role_id": 1,
+          "expired_date": "2025-02-27 00:45:00",
+          "created_at": "2023-05-25T18:59:06.000000Z",
+          "updated_at": "2025-02-20T15:45:14.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 1,
+            "title": "Portofolio",
+            "role": "portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:07:38.000000Z",
+            "updated_at": "2024-08-16T09:56:18.000000Z"
+          }
+        },
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ]
+    },
+    "updated_by": null,
+    "deleted_by": null
+  },
+  "changes": 0
+}

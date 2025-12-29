@@ -1,0 +1,1172 @@
+{
+  "id": 97,
+  "page_id": 192,
+  "image_url": "https://api.midascuan.id/storage/resources/essa_logo",
+  "code": "ESSA",
+  "buy_price": 0,
+  "current_price": 0,
+  "valuation": 0,
+  "margin_of_safety": 0,
+  "created_at": "2025-06-30T07:23:32.000000Z",
+  "updated_at": "2025-12-29T07:00:05.000000Z",
+  "status": "published",
+  "created_by": {
+    "id": 2,
+    "fullname": "Midas Super Admin",
+    "email": "admin@midascuan.id",
+    "role": "superadmin",
+    "has_link_product": 0,
+    "ip_address": null,
+    "last_login_ip": null,
+    "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+    "member_active_roles": [
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ],
+    "member_roles": [
+      {
+        "id": 109970,
+        "user_id": 2,
+        "role_id": 1,
+        "expired_date": "2025-02-27 00:45:00",
+        "created_at": "2023-05-25T18:59:06.000000Z",
+        "updated_at": "2025-02-20T15:45:14.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 1,
+          "title": "Portofolio",
+          "role": "portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:07:38.000000Z",
+          "updated_at": "2024-08-16T09:56:18.000000Z"
+        }
+      },
+      {
+        "id": 112520,
+        "user_id": 2,
+        "role_id": 5,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 5,
+          "title": "Membership and Portofolio",
+          "role": "membership_and_portofolio",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-03-12T21:27:19.000000Z",
+          "updated_at": "2024-08-16T09:56:11.000000Z"
+        }
+      },
+      {
+        "id": 112521,
+        "user_id": 2,
+        "role_id": 2,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 2,
+          "title": "Membership",
+          "role": "membership",
+          "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+          "telegram_group": null,
+          "created_at": "2023-02-27T01:08:12.000000Z",
+          "updated_at": "2024-08-16T09:56:24.000000Z"
+        }
+      },
+      {
+        "id": 112522,
+        "user_id": 2,
+        "role_id": 14,
+        "expired_date": "2036-09-01 07:49:09",
+        "created_at": "2024-09-01T07:49:09.000000Z",
+        "updated_at": "2024-09-01T09:14:44.000000Z",
+        "created_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "updated_by": {
+          "id": 1,
+          "fullname": "Midas Automation",
+          "email": "bot@midascuan.id",
+          "role": "superadmin",
+          "has_link_product": 0,
+          "ip_address": null,
+          "last_login_ip": null,
+          "picture_url": null,
+          "member_active_roles": [],
+          "member_roles": []
+        },
+        "role": {
+          "id": 14,
+          "title": "Watchlist",
+          "role": "watchlist",
+          "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+          "telegram_group": null,
+          "created_at": "2024-08-13T04:49:21.000000Z",
+          "updated_at": "2024-08-17T02:28:50.000000Z"
+        }
+      }
+    ]
+  },
+  "updated_by": null,
+  "deleted_at": null,
+  "deleted_by": null,
+  "page": {
+    "id": 192,
+    "title": "Analisa ESSA",
+    "slug": "analisa-essa",
+    "type": "analysis",
+    "status": "published",
+    "content_html": "\"\"",
+    "content_json": [
+      {
+        "type": "header",
+        "text": "<div class=\"flex justify-center mt-4\">\n    <h2 class=\"font-bold w-full md:w-1/2 lg:w-1/2 mx-4 bg-[#020202]\">\n        Analisa ESSA\n    </h2>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#ffdd28",
+          "textSize": 30,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "post-detail",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 flex flex-col md:flex-row justify-center gap-2 mt-1 mb-1 border-t border-b-2 border-black p-1\">\n        <p class=\"my-auto\">\n            <i class=\"fa fa-user-circle my-auto\"></i> \n\tFelix  Haridinata\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-calendar my-auto\"></i> \n\tJuni 11, 2025\n        </p>\n\n        <p class=\"my-auto\">\n            <i class=\"ml-2 fa fa-tags my-auto\"></i> \n\tESSA\n        </p>\n\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "center"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 20,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><h4><strong class=\"ql-size-huge\">Kenapa ESSA Menarik?</strong></h4><p><strong>PT ESSA Industries Indonesia Tbk (ESSA)</strong> telah mengalami transformasi signifikan sejak 2017. Perusahaan yang awalnya berfokus pada pengolahan LPG skala relatif kecil telah beralih menjadi produsen amonia utama melalui anak usahanya, PT Panca Amara Utama (PAU).</p><p><br></p><p>Menurut kita ada beberapa alasan mengapa ESSA menarik untuk dipelajari:</p><ul class=\"ql-li\"><li><strong>Ekspansi</strong> → Saat ini ESSA sedang dalam tahap ekspansi dan akan menjual Blue Ammonia ke Mitsubishi. Mitsubishi sendiri sudah menandatangani Letter of Intent tahun 2021 untuk membeli 2 juta ton blue ammonia dari ESSA. Sebelumnya, tepatnya saat tahun 2015, ESSA yang sedang membangun pabrik ammonia juga lebih dulu menandatangani ammonia offtake agreement untuk menjual ammonia. Sebagai konteks, ESSA sekarang menjual sekitar 750 ribu ton per tahun.</li><li><strong>Harga Gas sedang rendah →</strong> Kita melihat ada korelasi yang sangat signifikan antara harga gas dengan harga ammonia. Hal ini karena gas merupakan bahan baku pembuatan ammonia.</li><li><strong>Pemegang Saham besar terus membeli di open market →</strong> Pak T.P Rachmat (Triputra Group) juga terus menambah kepemilikan saham di ESSA. Begitu juga dengan Pak Garibaldi Thohir.</li></ul><p><br></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/data_essa_01",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p>Lalu, bagaimana dengan bisnis ammonia dan hal - hal apa saja yang perlu kita perhatikan? Mari kita bahas..</p><h3><br></h3><p><br></p><p><br></p><h4><strong class=\"ql-size-huge\">﻿Transformasi Bisnis ESSA (2017–2018)</strong></h4><p>Pada tahun 2017, ESSA masih merupakan perusahaan dengan pendapatan utama dari penjualan LPG. Pendapatan tahun 2017 tercatat sekitar <strong>Rp 451 miliar</strong> (sekitar US$33,7 juta). Namun, situasi berubah drastis pada 2018. ESSA mulai mengoperasikan pabrik amonia baru di Luwuk, Banggai, Sulawesi Tengah pada Juli 2018.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/data_essa_01_01",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Masuknya penjualan amonia dari pabrik ini mendorong <strong>pendapatan ESSA melonjak lebih dari 340%</strong>. Sepanjang 2018, pendapatan mencapai <strong>US$148,04 juta</strong> (sekitar Rp 2,1 triliun), jauh meningkat dibandingkan 2017 yang hanya <strong>US$33,7 juta</strong>.</p><p><br></p><p>Dengan beroperasinya pabrik amonia (kapasitas ~2.000 ton per hari atau ~700 ribu ton per tahun), portofolio bisnis ESSA berevolusi dari semula hanya LPG menjadi dominan amonia.</p><p><br></p><p>Lonjakan pendapatan ini didorong oleh kontribusi penjualan amonia sebesar <strong>US$98,74 juta</strong> pada 2018, sementara LPG masih menyumbang <strong>US$41,14 juta</strong> dan jasa pengolahan <strong>US$8,1 juta</strong>. Sebagai perbandingan, pada 2017 penjualan ESSA hampir seluruhnya berasal dari LPG.</p><p><br></p><p>Dampak transformasi ini terlihat pula pada profitabilitas: <strong>laba bersih 2018 mencapai US$41,41 juta</strong>, melonjak drastis dari hanya ~<strong>$3juta pada 2017</strong> . Jelas bahwa pengoperasian pabrik amonia baru menjadi faktor utama di balik transformasi dan pertumbuhan kinerja ESSA pada periode 2017–2018.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/data_essa_01_02",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><h4><strong class=\"ql-size-huge\">Perkembangan Bisnis dan Kinerja Keuangan (2019–2025)</strong></h4><p>Setelah lompatan di 2018, ESSA memasuki fase operasi penuh pabrik amonia. <strong>Tahun 2019</strong> menjadi tahun pertama dengan produksi amonia setahun penuh, sehingga pendapatan semakin besar meski harga amonia saat itu relatif stabil.</p><p><br></p><p>ESSA membukukan pendapatan sekitar <strong>US$221,9 juta pada 2019</strong> , meningkat dari 2018 seiring volume produksi yang lebih tinggi. Namun, laba bersih 2019 tercatat relatif kecil (~US$2,6 juta) akibat beban penyusutan dan keuangan dari investasi pabrik baru .</p><p><br></p><p>Memasuki <strong>tahun 2020</strong>, kinerja ESSA tertekan oleh pandemi COVID-19. Permintaan dan harga amonia global melemah, ditambah lagi ESSA terpaksa menurunkan produksi karena hambatan operasional selama pandemi. Produksi amonia ESSA tahun 2020 turun ~13,9% menjadi <strong>659.734 ton</strong> (dari <strong>766.988 ton di 2019)</strong>.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/data_essa_02",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Pendapatan 2020 turun <strong>21%</strong> menjadi <strong>US$175,5 juta (Rp 2,54 triliun)</strong> dari US$221,9 juta di 2019 . Penurunan harga dan volume ini membuat ESSA mencatat <strong>rugi bersih US$33,6 juta</strong> (sekitar Rp485,7 miliar) pada 2020 . Manajemen mengidentifikasi bahwa <strong>harga amonia anjlok</strong> dan <strong>produksi berkurang akibat COVID-19</strong>.</p><p><br></p><p>Situasi berbalik pada <strong>tahun 2021</strong> seiring pemulihan bertahap ekonomi dan kenaikan harga komoditas. Harga amonia global mulai bangkit sejak awal 2021. Pendapatan ESSA pun tumbuh <strong>72,9%</strong> dari US$175,5 juta (2020) menjadi sekitar <strong>US$303,4 juta pada 2021</strong> . Segmen amonia kembali dominan dan mendorong perolehan laba. ESSA berhasil bangkit dari kerugian menjadi laba bersih <strong>US$13,97 juta</strong> di 2021. Kenaikan kinerja ini didukung oleh kombinasi pemulihan volume produksi dan kenaikan harga jual rata-rata.</p><p><br></p><p><strong>Tahun 2022 merupakan titik puncak kinerja ESSA</strong> berkat lonjakan harga amonia global. Krisis energi dunia (terkait pasokan gas alam dan konflik geopolitik) membuat harga amonia melonjak tajam. Rata-rata harga amonia pada Jan–Sep 2022 tercatat <strong>US$902 per metrik ton</strong>, lebih dari dua kali lipat periode sama 2021 (US$441/MT).</p><p><br></p><p>Hal ini mendongkrak pendapatan ESSA <strong>141% YoY</strong> menjadi <strong>US$731 juta di 2022</strong>, tertinggi sepanjang sejarah perusahaan. ESSA meraih <strong>laba bersih tembus US$139 juta</strong> pada 2022, melonjak <strong>+894%</strong> dari laba 2021.</p><p><br></p><p>Cash flow melimpah 2022 dimanfaatkan ESSA untuk membayar utang sehingga memperkuat kondisi balance sheet, bahkan perusahaan mampu membagikan dividen pertama kalinya sejak IPO 2012.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/data_essa_03",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Pada awal 2025, manajemen melaporkan bahwa produksi amonia terkena dampak <strong>pemeliharaan di pemasok gas hulu</strong>, yang mengurangi pasokan gas ke pabrik. Kondisi ini sudah terlihat di <strong>Q1 2025</strong>, di mana pendapatan ESSA turun 5,7% YoY menjadi Rp1,15 triliun dan laba bersih turun 20% YoY. Mereka menekankan bahwa secara operasional pabrik tetap solid.</p><p><br></p><p>Secara keseluruhan, Amonia kini menjadi kontributor utama (&gt;90% pendapatan sejak 2021) bagi ESSA. Transformasi ini juga mengubah ESSA dari perusahaan dengan skala ratusan miliar rupiah menjadi triliunan rupiah.</p><h3><br></h3><h4><strong class=\"ql-size-huge\"><span class=\"ql-cursor\">﻿</span>Belanja Modal (Capex) 2015–2025 dan Proyek Utama</strong></h4><p>Transformasi ESSA didukung investasi belanja modal (capital expenditure) besar-besaran pada pertengahan 2010-an untuk pembangunan pabrik amonia PAU. Tabel berikut merangkum data historis capex ESSA dan alokasinya:</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/data_essa_04",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "spacer",
+        "options": {
+          "height": 20,
+          "width": 20,
+          "widthPercentage": 0
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/data_essa_05",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><strong>Catatan:</strong> Pembangunan pabrik amonia PAU merupakan proyek capex terbesar ESSA sepanjang sejarah perusahaan, menelan sekitar <strong>US$830 juta</strong> investasi. Sebagai perbandingan, bisnis awal ESSA (kilang LPG di Palembang, Sumsel) berdana jauh lebih kecil. Setelah 2018, tidak ada belanja modal ekspansi signifikan hingga setidaknya 2023; hal ini tercermin dari pernyataan manajemen yang menahan capex di level minimal pada 2022–2023.</p><p><br></p><p>Namun, <strong>rencana Blue Ammonia</strong> akan menjadi proyek besar berikutnya. ESSA telah menandatangani <em>Memorandum of Understanding</em> (MoU) pada Maret 2021 dengan Japan Oil Gas and Metals National Corporation (JOGMEC), Mitsubishi Corporation, dan Institut Teknologi Bandung untuk pengembangan CCUS di fasilitas amonia mereka.</p><p><br></p><p>Proyek ini bertujuan mengubah produksi “grey ammonia” saat ini menjadi <strong>“blue ammonia” (amonia rendah karbon)</strong> dengan menangkap CO₂. Menurut manajemen, <strong>konversi ini tidak memerlukan pabrik baru melainkan penambahan unit CCUS pada pabrik yang ada</strong>. Rencana ini strategis mengingat permintaan potensial amonia biru dari pasar ekspor (misalnya Jepang) di masa depan.</p><p><br></p><p>Apa sih perbedaan antara grey ammonia dengan blue ammonia? Emang ada berapa banyak jenis ammonia?</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/data_essa_06",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Dari ilustrasi di atas, dapat kita lihat bahwa blue ammonia adalah produksi <strong>gray ammonia yang mengalami carbon capture.</strong> Intinya, CO2 yang dihasilkan dalam proses grey ammonia di tangkap dan disimpan sehingga emisi yang dihasilkan berkurang.</p><p><br></p><p>Sedangkan untuk green ammonia, prosesnya sama sekali tidak menghasilkan CO2.</p><h3><br></h3><h4><strong class=\"ql-size-huge\"><span class=\"ql-cursor\">﻿</span>Industri Amonia: Tren Global &amp; Domestik</strong></h4><p><strong>Permintaan &amp; Penggunaan:</strong> Amonia merupakan salah satu komoditas kimia fundamental terutama bagi sektor pertanian. Secara global, <strong>~80% produksi amonia digunakan sebagai bahan baku pupuk</strong> (terutama pupuk nitrogen seperti urea, amonium nitrat, dll.).</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/data_essa_07",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Amonia mengikat nitrogen udara menjadi bentuk yang dapat digunakan tumbuhan, sehingga menjadi komponen krusial dalam menjamin hasil pertanian dan ketahanan pangan dunia. Sisanya (~20%) digunakan dalam industri non-pupuk, misalnya untuk bahan peledak, serat sintetis (nilon), refrigeran, bahan pembersih, dan berbagai bahan kimia lainnya.</p><p><br></p><p>Kebutuhan amonia global cenderung <strong>bertumbuh sejalan dengan pertumbuhan populasi</strong> dan peningkatan konsumsi makanan (terutama diet berbasis daging yang membutuhkan pupuk lebih banyak untuk pakan ternak). Namun pertumbuhan ini moderat (tidak secepat komoditas energi) karena tingkat pemupukan di banyak negara sudah mendekati optimal.</p><p><br></p><p><strong>Harga &amp; Siklus:</strong> Harga amonia ditentukan oleh supply &amp; demand global serta biaya bahan baku (terutama gas alam). Biaya produksi amonia sangat dipengaruhi harga gas; sekitar 70% produksi amonia dunia menggunakan gas alam sebagai feedstock melalui proses reforming, sementara ~30% (terutama di Tiongkok) menggunakan batu bara.</p><p><br></p><p>Akibatnya, <strong>harga amonia biasanya berkorelasi dengan harga gas</strong>. Namun, gangguan pasokan atau gejolak geopolitik dapat memicu volatilitas tinggi. Contohnya pada 2021–2022: krisis gas di Eropa (karena perang dan pemulihan pasca-pandemi) menyebabkan banyak pabrik amonia di Eropa tutup, sehingga terjadi <strong>kelangkaan amonia global dan harga melonjak dua kali lipat lebih</strong>.</p><p><br></p><p>Harga amonia FOB Timur Tengah sempat mencapai &gt;US$1.000/MT pada 2022, jauh di atas rata-rata jangka panjang (~US$300-500). Setelah pasokan energi membaik, harga amonia turun kembali pada 2023 mendekati level normal (sekitar US$300-400/MT) . Volatilitas harga ini menjadi karakteristik industri amonia yang siklikal, berdampak langsung pada pendapatan produsen seperti ESSA.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/data_essa_08",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><strong>Tantangan Lingkungan:</strong> Produksi amonia secara konvensional (<em>grey ammonia</em>) termasuk industri yang <strong>intensif energi dan emisi karbon</strong>. Menurut International Energy Agency (IEA), proses produksi amonia global mengonsumsi ~2% dari total energi final dunia dan <strong>menyumbang sekitar 450 juta ton CO₂ per tahun</strong> – setara dengan seluruh emisi sektor energi negara seperti Afrika Selatan. Emisi ini timbul dari pembakaran bahan bakar (gas/ batu bara) dan reaksi kimia (reformasi metana menghasilkan CO₂).</p><p><br></p><p>Tekanan global untuk dekarbonisasi menjadi tantangan besar industri amonia ke depan. Berbagai inisiatif muncul, antara lain produksi <strong>“green ammonia”</strong> (menggunakan hidrogen dari elektrolisis bertenaga EBT, sehingga tanpa emisi CO₂) dan <strong>“blue ammonia”</strong> (memproduksi dari gas fosil tetapi dengan menangkap dan menyimpan emisi CO₂). Meskipun saat ini kedua teknologi ini masih tahap awal dan belum ekonomis massal, banyak negara dan perusahaan mulai investasi di bidang ini untuk memenuhi target netral karbon 2050.</p><p><br></p><p><strong>Tren Baru &amp; Peluang:</strong> Selain sebagai pupuk, amonia mulai dilirik sebagai <strong>bahan bakar alternatif</strong> dan media pembawa hidrogen. Amonia dapat dibakar langsung dalam turbin atau mesin kapal sebagai bahan bakar bebas karbon (hanya menghasilkan N₂ dan H₂O jika pembakaran sempurna), atau di-crack kembali menjadi hidrogen di tempat tujuan.</p><p><br></p><p>Jepang, misalnya, memiliki program mencampur amonia ke dalam pembangkit listrik tenaga batubara dan mengembangkan kapal berbahan bakar amonia. Meski aplikasi ini masih dalam tahap uji coba, prospeknya menciptakan potensi <strong>permintaan baru jangka panjang</strong> untuk amonia (terutama yang rendah karbon).</p><p><br></p><p><strong>Industri Amonia di Indonesia:</strong> Di Indonesia, amonia terutama diproduksi oleh pabrik-pabrik pupuk milik BUMN (grup PT Pupuk Indonesia) sebagai bagian dari rantai produksi urea. Contohnya, Pupuk Kaltim, Pupuk Iskandar Muda, Pupuk Kujang, Petrokimia Gresik, dan Pusri Palembang masing-masing memiliki unit produksi amonia yang terintegrasi dengan pabrik urea mereka.</p><p><br></p><p>Total kapasitas terpasang nasional mencapai 6 juta ton per tahun, namun hampir seluruh produksi BUMN tersebut dikonsumsi internal untuk diolah menjadi urea, NPK, dan produk pupuk lainnya. <strong>PT Panca Amara Utama (PAU, 70% dimiliki oleh ESSA)</strong> adalah satu - satunya produsen amonia independen/non-pupuk terbesar di Indonesia dengan kapasitas ~700 ribu ton per tahun . Beroperasinya pabrik PAU pada 2018 menjadikan ESSA pemain swasta signifikan di luar BUMN.</p><p><br></p><p>Dari sisi <strong>permintaan domestik</strong>, amonia digunakan sebagai bahan baku pupuk (oleh pabrik urea BUMN) dan industri kimia (misal untuk bahan peledak pertambangan, industri tekstil, refrigeran, dll)</p><p><br></p><p>ESSA mengekspor ammonia yang dihasilkannya ke pasar Jepang melalui Genesis Corporation.</p><p><br></p><p><strong>Tantangan Lokal:</strong> Industri amonia domestik dihadapkan pada tantangan ketersediaan <strong>gas bumi sebagai bahan baku</strong>. Pemerintah Indonesia memberikan alokasi gas harga tertentu untuk pabrik pupuk BUMN demi menjaga harga pupuk terjangkau. ESSA sebagai entitas swasta harus memastikan pasokan gas jangka panjang secara komersial.</p><p><br></p><p>Pabrik PAU ESSA mendapatkan pasokan gas dari lapangan gas Senoro-Toili (MEDC) di Sulawesi dengan kontrak jangka panjang. Risiko pasokan muncul jika terjadi gangguan atau penurunan produksi di lapangan tersebut (seperti pemeliharaan yang mengurangi pasokan di 2024/2025).</p><p><br></p><h4><strong class=\"ql-size-huge\">Ekspansi Jangka Menengah (hingga 2030)</strong></h4><ul class=\"ql-li\"><li><strong>Transformasi Pabrik Amoniak Menjadi Blue Ammonia:</strong> Pada periode hingga 2030, pabrik amonia ESSA di Banggai akan bertransformasi penuh menjadi fasilitas <strong>amonia rendah karbon</strong>.</li><li class=\"ql-indent-1\">Setelah target <em>commissioning</em> akhir 2027, ESSA mulai mengoperasikan <strong>Blue Ammonia</strong> secara komersial pada 2028 dengan penyerapan ~1 juta ton CO₂ per tahun.</li><li class=\"ql-indent-1\">Ekspansi ini bertujuan mendukung agenda nasional penurunan emisi dan sekaligus menangkap peluang pasar ekspor amonia bersih. Pasar utama yang dibidik adalah <strong>ekspor ke Jepang</strong> dan kawasan Asia Timur serta Eropa. Pemerintah Jepang berkomitmen mengimpor <strong>3 juta ton</strong> amonia rendah karbon per tahun mulai 2030, dan ESSA telah mengantongi <em>Letter of Intent</em> untuk memasok hingga <strong>2 juta ton per tahun ke konsumen Jepang mulai 2027</strong>. Apakah ini artinya ESSA akan langsung menjual 2 juta ton (naik 2-3 kali lipat) di tahun 2027? Sepertinya tidak, perkiraan kita ESSA akan mengekspor blue ammonia yang sudah dihasilkan di kapasitas sekarang dan baru akan menaikkan produksi setelahnya.</li><li class=\"ql-indent-1\">ESSA menggandeng para mitra strategis (JOGMEC, Mitsubishi, Pertamina, ITB) untuk memastikan transfer teknologi CCUS dan standar keselamatan terpenuhi . Pada 2030, ESSA menargetkan posisi sebagai salah satu produsen <strong>blue ammonia</strong> terbesar di Asia Tenggara, memperkuat daya saing melalui inovasi hijau dan efisiensi energi dalam operasional pabrik.</li></ul><p><br></p><ul class=\"ql-li\"><li><strong>Ekspansi Pabrik Sustainable Aviation Fuel (SAF):</strong> Memasuki 2028, diversifikasi ESSA ke bisnis <strong>SAF</strong> akan mulai berbuah. Pabrik SAF greenfield di Jawa Tengah direncanakan beroperasi komersial pada Q1 2028 dengan kapasitas ±<strong>150–200 ribu ton per tahun.</strong></li></ul><p><br></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/data_essa_09",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><ul class=\"ql-li\"><li class=\"ql-indent-1\">Fasilitas ini akan mengolah limbah minyak goreng (<em>used cooking oil</em>) menjadi bahan bakar jet rendah karbon berkualitas tinggi. Dengan skala tersebut, ESSA SAF Makmur berpotensi menjadi produsen SAF terbesar di Indonesia, bahkan Asia Tenggara.</li><li class=\"ql-indent-1\">Produk bioavtur ini ditujukan untuk <strong>pasar domestik dan ekspor</strong>: dapat mensubstitusi impor <em>jet fuel</em> (konvensional) di dalam negeri serta memenuhi permintaan maskapai global yang terikat target emisi (misalnya melalui skema CORSIA ICAO - <strong>Carbon Offsetting and Reduction Scheme for International Aviation</strong>).</li><li class=\"ql-indent-1\">Secara strategis, proyek SAF akan <strong>mengurangi emisi karbon</strong> industri aviasi (~80% lebih rendah daripada avtur fosil) dan meningkatkan nilai tambah sawit/limbah domestik.</li></ul><p><br></p><p><br></p><p><br></p><h4><strong class=\"ql-size-huge\">Financials</strong></h4><p><br></p>\n        </p>\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/data_essa_10",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Pertama - tama kita lihat dari struktur balance sheet terlebih dahulu:</p><ul class=\"ql-li\"><li>Nilai aset meningkat drastis di tahun 2018: Kenaikan aset ini di dorong oleh kenaikan aset tetap karena selesainya pabrik ammonia.</li><li>ESSA banyak menggunakan utang untuk melakukan pembangunan pabrik ammonia: kenaikan bisa dilihat dari total liabilitas jangka panjang (yang mostly adalah utang dari International Finance Corporation (IFC) yang merupakan bagian dari world bank).</li><li>Seiring peningkatan kinerja, terutama di tahun 2022, ESSA melakukan pelunasan utang sehingga liabilitas jangka panjang berkurang drastis dari $404 juta (2021) menjadi $177 juta (2022) dan per 3M 2025 tinggal tersisa $6 jt. Hal ini akan berefek dari berkurang nya beban bunga.</li></ul>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/data_essa_11",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Selain itu, pada tahun 2023 ESSA juga melakukan akuisisi 10% saham PAU sehingga kepemilikan ESSA naik dari 60% menjadi 70%. Dengan demikian, porsi ESSA untuk bisnis amonia di PAU menjadi naik. Ketika nanti harga ammonia meningkat dan laba PAU makin gede, maka laba ESSA juga akan naik karena naiknya persentase kepemilikannya naik.</p><p><br></p><p>ESSA menerbitkan 1.56 miliar lembar saham di harga Rp 1025 per saham atau total sekitar Rp 1.5 T untuk akuisisi PAU. Di tahun 2023 PAU menghasilkan total laba ~$47 jt atau setara Rp 719 miliar (kurs 2023, Rp 15 300). 10% dari itu adalah Rp 71.9 miliar. PE 22x</p><p><br></p><p>Let say PAU mampu menghasilkan laba $100 per ton ammonia (normal earnings), dengan volume penjualan 700ribu ton, maka labanya $70 juta. 10% dari itu adalah $7 juta, dengan kurs Rp 16500 maka labanya Rp 115.5 miliar. PE 15x.</p><p><br></p><p>Meskipun mayoritas kinerja ESSA didorong oleh ammonia, tapi yang jelas 10% ESSA &gt; 10% PAU. Karena ESSA memiliki bisnis LPG yang juga lumayan stabil.</p><p><br></p><p>Next kita bedah kinerja bisnisnya.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/data_essa_13",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p><br></p><p>Seperti kita sudah sama - sama tahu, ~90% penjualan ESSA adalah amonia. Dan seluruh amonia ESSA dijual ke Genesis Corporation (Jepang). Genesis Corporation, sesuai kontrak hingga 3 Dec 2027 <strong>harus membeli seluruh produksi amonia ESSA dengan harga FOB</strong> (free on board).</p><p><br></p><p>Dari sini kita tahu 2 hal:</p><ul class=\"ql-li\"><li>ESSA bakal terus running full capacity dengan menjual &gt;700 ribu ton ammonia per tahun.</li><li>ESSA bakal menikmati/merugi karena kenaikan/penurunan harga ammonia.</li></ul><p><br></p><p>Lalu kita bisa track harga amonia dimana? Kita bisa lihat dari website <a class=\"ql-link\" href=\"https://www.spglobal.com/commodity-insights/en/news-research/latest-news/energy-transition/051023-interactive-ammonia-price-chart-natural-gas-feedstock-europe-usgc-black-sea**\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.spglobal.com/commodity-insights/en/news-research/latest-news/energy-transition/051023-interactive-ammonia-price-chart-natural-gas-feedstock-europe-usgc-black-sea</a></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/data_essa_14",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n          <p> <br /><br />\n\t Atau, kita bisa lihat harga natural gas, karena natural gas adalah feedstock untuk pembuatan amonia.\n\t      </p><br />\n      </div>\n  </div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/data_essa_15",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>So jika harga natural gas naik 10%, maka harga amonia juga kemungkinan akan naik sebesar 10%.</p><p><br></p><p>Selain amonia, ESSA juga memproduksi LPG. Meskipun kinerja LPG tidak sebesar amonia, namun masih menghasilkan profit yang lumayan. Dan penjualan LPG ini pun dijual semua ke Pertamina Patra Niaga (anak usaha ELSA) melalui kontrak. Dari sini pun kita tahu bahwa LPG yang diproduksi oleh ESSA sudah pasti akan dibeli oleh Pertamina Patra Niaga.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/data_essa_16",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Yang mungkin berubah adalah harga realisasi pembelian LPG oleh Patra Niaga saja. Dan umumnya ini terjadi karena fluktuasi harga minyak &amp; gas.</p><p><br></p><p>Berikutnya kita bahas soal COGS yang memakan sekitar <strong>~65% dari penjualan.</strong></p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/data_essa_17",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Roughly, sekitar <strong>40% adalah biaya bahan baku (gas)</strong> yang mana sebagian besar di suplai oleh Medco di blok Senoro - Toili (Sulawesi). Tentu saja ini untuk bahan baku pembuatan amonia di plan Banggai milik PAU yang berada di Sulawesi.</p><p><br></p><p>Sisanya sekitar 21% adalah beban pabrikasi (depresiasi pabrik &amp; peralatan). Harga ammonia yang naik banyak di tahun 2022 ternyata juga berimbang dengan kenaikan bahan bakunya. Terlihat bahan baku yang digunakan tetap di kisaran 40%. Hal ini sejalan dengan pengamatan soal korelasi harga gas dan ammonia.</p><p><br></p><p>Untuk biaya operasional dan biaya keuangan (tabel di bawah), terlihat bahwa beban umum adm hanya di kisaran 9 - 11%. Yang mengalami penurunan drastis adalah beban keuangan.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/data_essa_18",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Hal ini karena langkah ESSA yang terus melunasi utang berbunga dari tahun ke tahun setelah menyelesaikan pabrik ammonia nya.</p><h3><br></h3><h3><br></h3><h4><strong class=\"ql-size-huge\">Valuasi</strong></h4><p>Sekarang kita masuk ke valuasi, pertama - tama kita lihat dulu unit economics (hasil per ton) dari 2 segmen bisnis ESSA yaitu: ammonia dan LPG.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/data_essa_19",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Perlahan tapi pasti, bisnis ammonia ESSA ini mulai menunjukkan transformasi yang nyata. Setelah sempat mengalami rugi per ton di tahun 2019 dan 2020, kini beban keuangan mereka berhasil ditekan secara signifikan seiring dengan pelunasan utang pembangunan pabrik ammonia. Ini bukan hal kecil—karena beban keuangan per ton yang tadinya mencapai $142 di tahun 2021, kini sudah turun drastis menjadi hanya $14 di tahun 2024. Hasilnya? Laba bersih per ton ammonia meningkat tajam, dari hanya $2 di tahun 2021 menjadi $70 per ton di 2024.</p><p><br></p><p>Yang lebih menarik, all-in cost produksi saat ini sudah stabil di kisaran $250–$270 per ton. Dengan volume penjualan tahunan di kisaran 700–750 ribu ton, segmen ammonia kini mulai menjadi mesin laba yang jauh lebih efisien dibanding beberapa tahun lalu. Secara kasar, kita bisa asumsikan bahwa selama harga jual tetap terjaga, segmen ini akan terus menghasilkan margin yang sehat.</p><p><br></p><p>Ekspektasi kita beban keuangan akan terus dipangkas dan beban keuangan per ton akan terus turun. Lalu, kita juga expect harga gas naik karena di level harga sekarang masih cukup rendah dibandingkan beberapa tahun terakhir (karena pertumbuhan ekonomi melambat).</p><p><br></p><p>Keliatannya tidak berlebihan untuk mengharapkan laba $100 per ton dari ammonia.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/data_essa_20",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Berbeda dengan ammonia, segmen LPG justru menunjukkan kinerja yang lebih stabil. Harga jual dan laba per ton tidak banyak berfluktuasi sejak 2021, namun kontribusi totalnya memang terbatas karena volume penjualan LPG hanya sekitar 70 ribu ton per tahun, sekitar 10% dari volume ammonia.</p><p><br></p><p>Bisnis LPG ini harusnya stabil dan realisasi harga juga tidak banyak berubah. Jadi kita tidak expect banyak growth disini, stabil aja. Ekspektasi laba per ton di $90 saja.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "image",
+        "imageUrl": "https://api.midascuan.id/storage/resources/data_essa_21",
+        "altText": "",
+        "options": {
+          "width": null,
+          "widthPercentage": 50,
+          "height": null,
+          "objectFit": "cover"
+        }
+      },
+      {
+        "type": "text",
+        "text": "<div class=\"flex justify-center\">\n      <div class=\"w-full md:w-1/2 mx-4\">\n        <p> \n          <p><br></p><p>Dari sisi valuasi, kami menggunakan asumsi ekspansi blue ammonia sebesar 2 juta ton per tahun dengan asumsi ASP 10% lebih tinggi dari ammonia biasa. Dengan proyeksi laba per ton di kisaran $100 dan asumsi PE 8x, maka nilai wajar perusahaan berada di kisaran Rp 1.140 per saham.</p><p><br></p><p>Tentu, masih ada tantangan yang perlu dicermati, terutama soal eksekusi proyek ekspansi dan potensi keterlambatan commissioning seperti yang pernah terjadi sebelumnya. Dan ini pun dengan asumsi 2 juta ton ini akan tercapai. <strong>Bisa saja ada kemungkinan 2 juta ton telat atau tidak tercapai.</strong> Kalau demikian, valuasi bisa jadi lebih rendah, katakanlah jadi Rp 600.</p><p><br></p><p>Tapi jika proyek berjalan lancar dan harga jual tetap sehat, ekspansi ini berpotensi menjadi titik balik pertumbuhan earnings yang signifikan dalam beberapa tahun ke depan.</p><p><br></p><p>Saya pikir, MOS nya akan lebih nyaman jika harga &lt;Rp 500 dengan mempertimbangkan kemungkinan proyek telat atau tidak jadi.</p>\n        </p><br />\n      </div>\n    </div> ",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      },
+      {
+        "type": "disclaimer",
+        "text": "<div class=\"flex justify-center\">\n    <div class=\"w-full md:w-1/2 mx-4\">\n        <i><b>Disclaimer: Artikel analisa ini bukanlah merupakan sebuah rekomendasi ataupun ajakan untuk jual atau beli saham tertentu. \nArtikel ini hanya untuk kepentingan edukasi dan informasi saja. \nSegala data yang disajikan bersumber dari publikasi yang disampaikan kepada publik melalui Annual Report, \nPublic Expose ataupun Laporan Keuangan emiten.</i></b><br />\n    </div>\n</div>",
+        "options": {
+          "width": 100,
+          "backgroundColorHex": "transparent",
+          "textColorHex": "#000000",
+          "textSize": 20,
+          "textAlign": "left"
+        }
+      }
+    ],
+    "is_show_header": 1,
+    "header_type": "with_menu",
+    "is_show_footer": 1,
+    "footer_type": "with_menu",
+    "visibility": "fbjarvis;membership_and_portofolio;membership;spesial;",
+    "created_at": "2025-06-11T07:23:32.000000Z",
+    "updated_at": "2025-06-11T07:23:32.000000Z",
+    "deleted_at": null,
+    "created_by": {
+      "id": 2,
+      "fullname": "Midas Super Admin",
+      "email": "admin@midascuan.id",
+      "role": "superadmin",
+      "has_link_product": 0,
+      "ip_address": null,
+      "last_login_ip": null,
+      "picture_url": "https://api.midascuan.id/storage/profiles/midas_super_admin.png",
+      "member_active_roles": [
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ],
+      "member_roles": [
+        {
+          "id": 109970,
+          "user_id": 2,
+          "role_id": 1,
+          "expired_date": "2025-02-27 00:45:00",
+          "created_at": "2023-05-25T18:59:06.000000Z",
+          "updated_at": "2025-02-20T15:45:14.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 1,
+            "title": "Portofolio",
+            "role": "portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::analysis;api::analysis::list;frontend::member-area::analysis::portfolio;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:07:38.000000Z",
+            "updated_at": "2024-08-16T09:56:18.000000Z"
+          }
+        },
+        {
+          "id": 112520,
+          "user_id": 2,
+          "role_id": 5,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 5,
+            "title": "Membership and Portofolio",
+            "role": "membership_and_portofolio",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::portfolio;api::portfolios::list;frontend::member-area::records;api::records::list;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-03-12T21:27:19.000000Z",
+            "updated_at": "2024-08-16T09:56:11.000000Z"
+          }
+        },
+        {
+          "id": 112521,
+          "user_id": 2,
+          "role_id": 2,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 2,
+            "title": "Membership",
+            "role": "membership",
+            "access": "frontend::member-area;frontend::member-area::philosophy;frontend::member-area::courses;api::courses::list;api::courses::detail;frontend::member-area::tools;frontend::member-area::jarvis;api::jarvis::list;api::jarvis::detail;frontend::member-area::groups;frontend::member-area::analysis;api::analysis::list;frontend::member-area::records;api::records::list;frontend::member-area::tools::stock-portfolio;frontend::member-area::tools::dividen-discount-model;frontend::member-area::tools::valuasi;frontend::member-area::tools::stock-treasure-web;frontend::member-area::analysis::all;frontend::member-area::tools::stock-treasure;frontend::member-area::tools::stock-treasure-sheet;frontend::member-area::analysis::watchlist;",
+            "telegram_group": null,
+            "created_at": "2023-02-27T01:08:12.000000Z",
+            "updated_at": "2024-08-16T09:56:24.000000Z"
+          }
+        },
+        {
+          "id": 112522,
+          "user_id": 2,
+          "role_id": 14,
+          "expired_date": "2036-09-01 07:49:09",
+          "created_at": "2024-09-01T07:49:09.000000Z",
+          "updated_at": "2024-09-01T09:14:44.000000Z",
+          "created_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "updated_by": {
+            "id": 1,
+            "fullname": "Midas Automation",
+            "email": "bot@midascuan.id",
+            "role": "superadmin",
+            "has_link_product": 0,
+            "ip_address": null,
+            "last_login_ip": null,
+            "picture_url": null,
+            "member_active_roles": [],
+            "member_roles": []
+          },
+          "role": {
+            "id": 14,
+            "title": "Watchlist",
+            "role": "watchlist",
+            "access": "frontend::member-area::analysis;frontend::member-area::analysis::watchlist;api::analysis::watchlist;frontend::member-area;frontend::member-area::philosophy;frontend::member-area::watchlist;api::watchlist::list;\r\n",
+            "telegram_group": null,
+            "created_at": "2024-08-13T04:49:21.000000Z",
+            "updated_at": "2024-08-17T02:28:50.000000Z"
+          }
+        }
+      ]
+    },
+    "updated_by": null,
+    "deleted_by": null
+  },
+  "changes": 0
+}
